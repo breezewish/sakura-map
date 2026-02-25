@@ -1,0 +1,255 @@
+prefecture:
+  id: 36
+  name_ja: 徳島県
+  name_en: Tokushima
+spots:
+  - id: wn-71004
+    name_ja: 於安パーク
+    location:
+      city_ja: つるぎ町
+      address_ja: 徳島県美馬郡つるぎ町半田西久保482
+    geo:
+      lat: 34.0259
+      lng: 134.0249
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ウスズミザクラなど
+    description_ja: つるぎ町にある大型公園で、毎年多くの人でにぎわう県内有数の桜の名所でもあります。ソメイヨシノやシダレザクラなど、約1000本の桜が咲き誇る道を散策できます。桜のほかにも、園内にはたくさんの草花が植えられていたり、遊具が設置されていたり、家族連れでのお花見にもおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82594687.jpg
+        source_url: https://weathernews.jp/sakura/spot/71004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/71004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/71004/
+    collections:
+      - weathernews
+  - id: wn-7105
+    name_ja: 岩脇公園(桜のトンネル)
+    location:
+      city_ja: 阿南市
+      address_ja: 徳島県阿南市羽ノ浦町岩脇
+    geo:
+      lat: 33.9421
+      lng: 134.6076
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - フゲンソウ
+    description_ja: 桜のトンネル妙見山山頂からは紀伊半島が望めます。お花見の場所で火気の使用はご遠慮ください。さくらまつりを開催いたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-07/61833192.jpg
+        source_url: https://weathernews.jp/sakura/spot/7105/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7105/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7105/
+    collections:
+      - weathernews
+  - id: wn-71003
+    name_ja: 吉良のエドヒガン桜
+    location:
+      city_ja: つるぎ町
+      address_ja: 徳島県美馬郡つるぎ町貞光字吉良679
+    geo:
+      lat: 33.9936
+      lng: 134.0762
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢約400年、幹回り4.5ｍ、樹高20ｍの、県内最大規模のエドヒガン桜です。県の天然記念物にも指定されており、山間の集落で大切に守られてきました。周辺では、民家の庭先に植えられたシダレザクラが道を彩っています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-21/62777367.jpg
+        source_url: https://weathernews.jp/sakura/spot/71003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/71003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/71003/
+    collections:
+      - weathernews
+  - id: wn-71007
+    name_ja: 向麻山公園
+    location:
+      city_ja: 吉野川市
+      address_ja: 徳島県吉野川市鴨島町上浦６４３番地２
+    geo:
+      lat: 34.0691
+      lng: 134.3855
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 標高約92メートルの向麻山は、頂上からは市街地が一望でき、桜はソメイヨシノ、しだれ桜、八重桜の３種があり、濃いピンクや薄桃色の花が入り混じった華やかな景観を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/71007/1771908074_s.webp
+        source_url: https://weathernews.jp/sakura/spot/71007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/71007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/71007/
+    collections:
+      - weathernews
+  - id: wn-7106
+    name_ja: 西部公園
+    location:
+      city_ja: 徳島市
+      address_ja: 徳島県徳島市加茂名町庄山の一部外
+    geo:
+      lat: 34.0688
+      lng: 134.5146
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「日本さくら名所100選」に選ばれている徳島のさくらの名所中の名所です。約500本のソメイヨシノが咲き乱れ、毎年大勢の人々で賑わいます。(注意事項)マナーを守って楽しんで下さい。ゴミなどはお持ち帰り下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-29/95524303.jpg
+        source_url: https://weathernews.jp/sakura/spot/7106/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7106/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7106/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-7118
+    name_ja: 津峯公園
+    location:
+      city_ja: 阿南市
+      address_ja: 徳島県阿南市津乃峰町東分
+    geo:
+      lat: 33.8949
+      lng: 134.6441
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 標高284ｍの津峯山一帯が津峯公園になっていて、眼下に広がる橘湾は阿波の松島と呼ばれ、室戸阿南海岸国定公園の一角をなす景勝地です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/7118/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7118/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7118/
+    collections:
+      - weathernews
+  - id: wn-7101
+    name_ja: 徳島中央公園
+    location:
+      city_ja: 徳島市
+      address_ja: 徳島県徳島市徳島町城内1番外
+    geo:
+      lat: 34.0745
+      lng: 134.5546
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 徳島市中心部の人気の花見スポット。徳島城博物館前の広場を中心にソメイヨシノ約250本が咲き誇り、多くの見物客が訪れます。また、シーズン中は桜をライトアップ。夜桜ムードを盛り上げます。(注意事項)マナーを守って楽しんで下さい。ゴミはお持ち帰り下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95816545.jpg
+        source_url: https://weathernews.jp/sakura/spot/7101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7101/
+    collections:
+      - weathernews
+  - id: wn-7104
+    name_ja: 日和佐城
+    location:
+      city_ja: 美波町
+      address_ja: 徳島県海部郡美波町日和佐浦
+    geo:
+      lat: 33.7294
+      lng: 134.5358
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - 八重桜
+    description_ja:
+      城山の山頂、静かな林間にそびえる白亜の天守閣は町のどこからも眺められ、威容を誇っています。
+      また、付近には、テニスコートや遊歩道などがあり、家族連れの憩いの場となっています。また、城山は町内の桜の名所でもあり、毎年、3月下旬〜4月上旬の桜の季節には、大勢の花見客らでにぎわいます。※日和佐城は現在閉館中です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61687085.jpg
+        source_url: https://weathernews.jp/sakura/spot/7104/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7104/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7104/
+    collections:
+      - weathernews
+  - id: wn-406
+    name_ja: 眉山公園
+    location:
+      city_ja: 徳島市
+      address_ja: 徳島県徳島市眉山町、佐古山町諏訪山の1部外
+    geo:
+      lat: 34.067
+      lng: 134.5334
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 眉山公園では約1500本のソメイヨシノが、例年3月下旬から4月上旬にかけて見頃を迎えます。芝生広場や野鳥観察園路のほか、山頂から中心市街地などが望め、咲き誇る桜に彩られた春の眺望が広がります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82627627.jpg
+        source_url: https://weathernews.jp/sakura/spot/406/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/406/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307135/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/406/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307135/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-7109
+    name_ja: 妙見山公園
+    location:
+      city_ja: 鳴門市
+      address_ja: 徳島県鳴門市撫養町林崎北殿町
+    geo:
+      lat: 34.1788
+      lng: 134.6186
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の名所として知られ、満開時には山全体がピンク色に染まります。また、夜にはライトアップされ、夜桜見物も出来ます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7109/1766467254_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7109/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7109/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7109/
+    collections:
+      - weathernews

@@ -1,0 +1,513 @@
+prefecture:
+  id: 41
+  name_ja: 佐賀県
+  name_en: Saga
+spots:
+  - id: wn-8502
+    name_ja: きたがた四季の丘公園
+    location:
+      city_ja: 武雄市
+      address_ja: 佐賀県武雄市北方町大字志久5581番地
+    geo:
+      lat: 33.2209
+      lng: 130.0901
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜が150本あります。そのほか、ツツジ、フジの花、紅葉など四季を通して楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-27/61553154.jpg
+        source_url: https://weathernews.jp/sakura/spot/8502/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8502/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8502/
+    collections:
+      - weathernews
+  - id: wn-8503
+    name_ja: 旭ヶ岡公園
+    location:
+      city_ja: 鹿島市
+      address_ja: 佐賀県鹿島市城内
+    geo:
+      lat: 33.1041
+      lng: 130.0938
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: この公園は、鹿島藩最後の藩主鍋島直彬が松陰神社の一画に桜を植え、毎春鑑賞の宴を楽しんだことを発端としています。夜桜の照明を九州で初めて設置し、一躍有名になりました。一目5000本といわれる桜は県内三大桜の名所の1つにもなっています。花のトンネルと夜桜もオススメです。公園は、日本の歴史公園100選に選定されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8503/1766621198_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8503/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8503/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8503/
+    collections:
+      - weathernews
+  - id: wn-85013
+    name_ja: 横竹ダム
+    location:
+      city_ja: 鹿島市
+      address_ja: 佐賀県嬉野市嬉野町大字吉田乙４９９７
+    geo:
+      lat: 33.0766
+      lng: 130.0461
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - 御衣黄
+      - 枝垂れ八重桜
+      - ギョイコウ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85013/1771913883_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85013/
+    collections:
+      - weathernews
+  - id: wn-8504
+    name_ja: 鏡山
+    location:
+      city_ja: 唐津市
+      address_ja: 佐賀県唐津市鏡・浜玉町
+    geo:
+      lat: 33.4294
+      lng: 130.024
+    trees: 5000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 玄界灘の美しい景色を見渡せる人気のスポットであり、春には開花した桜やツツジなどが来場者をもてなしてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8504/1769563594_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8504/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8504/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8504/
+    collections:
+      - weathernews
+  - id: wn-8501
+    name_ja: 金立公園
+    location:
+      city_ja: 佐賀市
+      address_ja: 佐賀県佐賀市金立町大字金立1197-331
+    geo:
+      lat: 33.3307
+      lng: 130.3103
+    trees: 5000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 5000本の桜が金立山の山肌をピンクに染める景色は壮観です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95647749.jpg
+        source_url: https://weathernews.jp/sakura/spot/8501/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8501/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8501/
+    collections:
+      - weathernews
+  - id: wn-8507
+    name_ja: 御船山楽園
+    location:
+      city_ja: 武雄市
+      address_ja: 佐賀県武雄市武雄町大字武雄4100
+    geo:
+      lat: 33.1813
+      lng: 130.0171
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ヤエザクラ
+    description_ja: 桜は、入門ゲート周辺に広がる池の周辺と御船山の断崖下「つつじ谷」の左側に群生しています。桜と池の水鏡が作り出す幻想的なアシンメトリーや、仄かにライトアップされる御船山の岩肌を背景に、その裾野に広がる桜の園とのコントラストが見ものです。昼間とは趣が違う夜桜散策をお愉しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-08/31696485.jpg
+        source_url: https://weathernews.jp/sakura/spot/8507/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8507/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8507/
+    collections:
+      - weathernews
+  - id: wn-85009
+    name_ja: 佐賀城公園
+    location:
+      city_ja: 佐賀市
+      address_ja: 佐賀県佐賀市城内一丁目、二丁目
+    geo:
+      lat: 33.2451
+      lng: 130.3025
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウザクラ
+      - オオシマザクラなど
+    description_ja: 日本の歴史公園100選にも選ばれている桜の名所。佐賀城跡を取り囲む四方４kmの周遊園路も整備され、お花見や散歩・ウォーキングをゆっくりと楽しむことができます。また佐賀市の文化財に指定されている「佐賀城址の楠群」は、500本の桜並木や多布施川の豊かな水を湛えたお濠と共に、「水と緑の公園」の象徴として県民の皆さまに親しまれています。さらに園内の数々の史跡・遺構の他、佐賀城本丸歴史館、佐賀県立美術館・博物館など文化施設も内包され、お花見と合わせて歴史や文化に触れてみるのはいかがでしょうか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-31/95601685.jpg
+        source_url: https://weathernews.jp/sakura/spot/85009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85009/
+    collections:
+      - weathernews
+  - id: wn-85012
+    name_ja: 徐福サイクルロード
+    location:
+      city_ja: 佐賀市
+      address_ja: 佐賀市諸富町諸富鉄橋展望公園
+    geo:
+      lat: 33.217
+      lng: 130.3587
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: サイクルロードは、旧国鉄・佐賀線の跡地に、総延長約５キロの歩行者、自転車専用道路として整備されました。春には桜並木がとても美しいコースです｡
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85012/1767589651_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85012/
+    collections:
+      - weathernews
+  - id: wn-470
+    name_ja: 小城公園
+    location:
+      city_ja: 小城市
+      address_ja: 佐賀県小城市小城町185-1
+    geo:
+      lat: 33.2882
+      lng: 130.1959
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 小城藩初代藩主の鍋島元茂から二代藩主直能によって造られた名庭園です。さくら名所百選及び日本の歴史公園百選に選ばれています。開花期間中は、ボンボリで夜桜をライトアップします(予定）。※公園内にはゴミ箱はありませんので、各自お持ち帰り下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82488653.jpg
+        source_url: https://weathernews.jp/sakura/spot/470/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/470/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307060/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/470/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307060/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-85007
+    name_ja: 仁比山公園
+    location:
+      city_ja: 神埼市
+      address_ja: 佐賀県神埼市神埼町城原
+    geo:
+      lat: 33.3553
+      lng: 130.3624
+    trees: 70
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 脊振渓谷から下りてきた城原川がダイナミックに流れる公園です。対岸の木製トラス橋の愛逢橋から眺める桜群が美しく公園全体の桜が一望できる撮影スポットです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95552009.jpg
+        source_url: https://weathernews.jp/sakura/spot/85007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85007/
+    collections:
+      - weathernews
+  - id: wn-8506
+    name_ja: 西渓公園
+    location:
+      city_ja: 多久市
+      address_ja: 佐賀県多久市多久町1975-1
+    geo:
+      lat: 33.2573
+      lng: 130.0889
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然と人工美が調和した西渓公園は江戸時代、多久邑女山多久家(家老職)の屋敷跡でした。多久出身の炭鉱王・高取伊好の号を「西渓」と称したためこの名をとり西渓公園と名付けられました。園内にある寒鷺亭や歴史民俗博物館(レンガ造りの書庫)も同じころ高取氏が寄贈したものです。春の梅に始まり、300本の桜、つつじ、秋にはもえるような紅葉が公園をつつみ、1年中自然の変化が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8506/1770970095_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8506/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8506/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307077/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8506/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307077/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-85004
+    name_ja: 脊振桜街道
+    location:
+      city_ja: 神埼市
+      address_ja: 佐賀県神埼市脊振町広滝(県道21号線城原川眼鏡橋付近)
+    geo:
+      lat: 33.3645
+      lng: 130.3383
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 神埼市にある城原川眼鏡橋付近の県道21号線(三瀬神埼線)沿い約1キロの区間に、約50本の桜が植樹されている。標高差があるため、下流から咲き始めて上流付近が咲き終わるまで約半月にわたり桜のトンネルが楽しめる。眼鏡橋そばの駐車場まで路上駐車は不可。明治時代に造られた眼鏡橋と桜をあわせて見るのがお薦めです。注意…県道21号は川沿いの護岸工事等で一方通行の箇所があります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85004/1766710105_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85004/
+    collections:
+      - weathernews
+  - id: wn-85010
+    name_ja: 川副さくらロード
+    location:
+      city_ja: 佐賀市
+      address_ja: 佐賀県佐賀市川副町大字犬井道
+    geo:
+      lat: 33.1534
+      lng: 130.3071
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: "佐賀の空の玄関口・九州佐賀国際空港近隣の桜スポット。1.7Kmも続く道路わきに、400本のソメイヨシノが咲き誇ります。 "
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95795168.jpg
+        source_url: https://weathernews.jp/sakura/spot/85010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85010/
+    collections:
+      - weathernews
+  - id: wn-85014
+    name_ja: 庭木ダム
+    location:
+      city_ja: 武雄市
+      address_ja: 佐賀県武雄市西川登町神六２１５５７
+    geo:
+      lat: 33.126
+      lng: 129.9598
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 一周約2kmある庭木ダム周りにある約800本の桜がダム全体を囲むように咲き、その桜並木を車で観て周るも、徒歩で観るなど桜に囲まれたダムを散策できます。特に、朝早くに行くと湖面に桜が映り幻想的な桜も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85014/1770174045_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85014/
+    collections:
+      - weathernews
+  - id: wn-468
+    name_ja: 田代公園
+    location:
+      city_ja: 鳥栖市
+      address_ja: 佐賀県鳥栖市柚比町328-1
+    geo:
+      lat: 33.4008
+      lng: 130.51
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ、カワヅザクラ及びヤマザクラが美しい花をつけます。令和2年12月にロープウェイ、コンビネーション遊具、クライム遊具及びすべり台を新たに設置し、子ども達が存分に遊ぶことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-03/82559296.jpg
+        source_url: https://weathernews.jp/sakura/spot/468/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/468/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/468/
+    collections:
+      - weathernews
+  - id: wn-466
+    name_ja: 唐津城(舞鶴公園)
+    location:
+      city_ja: 唐津市
+      address_ja: 佐賀県唐津市東城内8-1
+    geo:
+      lat: 33.4542
+      lng: 129.9783
+    trees: 220
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 上段約100本、中段約80本、そのほか約40本の合計約220本の桜があります。樹齢100年を超す藤もあり、4月中旬頃から開花します。※施設内のエレベーター(有料)の利用時間は、午前9時〜午後5時です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/466/1766458970_s.webp
+        source_url: https://weathernews.jp/sakura/spot/466/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/466/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/466/
+    collections:
+      - weathernews
+  - id: wn-85001
+    name_ja: 陶山神社
+    location:
+      city_ja: 有田町
+      address_ja: 佐賀県西松浦郡有田町大樽2-5-1
+    geo:
+      lat: 33.189
+      lng: 129.8993
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 有田焼の守護神として創建された陶山神社には、国の登録文化財に指定された磁器製の大鳥居や狛犬がある。周囲には約200本の桜が咲き乱れる。参道を走るJRの電車と桜が同時に見られるのもおもしろい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85001/1770085752_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307120/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307120/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-85006
+    name_ja: 日の隈公園
+    location:
+      city_ja: 神埼市
+      address_ja: 佐賀県神埼市神埼町尾崎1353-2
+    geo:
+      lat: 33.3283
+      lng: 130.3525
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 古代、通信伝達の山だった日の隈山周辺に広がる自然を活用した公園です。春はその昔から桜の名所で、今でもたくさんの花見客で賑わいます。園内にはキッズパークや運動公園があり、多くの家族連れで賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95644366.jpg
+        source_url: https://weathernews.jp/sakura/spot/85006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85006/
+    collections:
+      - weathernews
+  - id: wn-85003
+    name_ja: 馬場の山桜
+    location:
+      city_ja: 武雄市
+      address_ja: 佐賀県武雄市武内町真手野21316番地
+    geo:
+      lat: 33.2259
+      lng: 129.9784
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: なだらかな小高い山の上にそびえる一本桜は武雄市指定天然記念物となっています。春には菜の花が一面に咲き、桜色と見事に調和した景観を楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82493360.jpg
+        source_url: https://weathernews.jp/sakura/spot/85003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85003/
+    collections:
+      - weathernews
+  - id: wn-85005
+    name_ja: 宝珠寺
+    location:
+      city_ja: 神埼市
+      address_ja: 佐賀県神埼市神埼町的908
+    geo:
+      lat: 33.3497
+      lng: 130.3705
+    trees: 1
+    species_ja:
+      - ヒメシダレザクラ
+    description_ja: 山里にひっそりと佇む小さなお寺に樹齢、約１００年のヒメシダレザクラ（一本桜）があり、3月中旬を過ぎると小さなツボミがふくらみ、淡い桜色が一勢に広がっていきます。樹の高さは約８ｍ、枝張り１５ｍの古木で佐賀県の名木古木１００選に認定されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85005/1766708830_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85005/
+    collections:
+      - weathernews
+  - id: wn-85002
+    name_ja: 名護屋城跡
+    location:
+      city_ja: 唐津市
+      address_ja: 佐賀県唐津市鎮西町名護屋
+    geo:
+      lat: 33.5296
+      lng: 129.8697
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 城跡の入口にあたる大手口から登城坂にかけて桜並木が続く。登城坂下には芝生広場が広がり絶好のお花見スポットとなっている。また本丸跡は周囲を桜が取り囲んでおり、天守台跡からは眼下に広がる二の丸広場等の桜を一望できる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/85002/1766647721_s.webp
+        source_url: https://weathernews.jp/sakura/spot/85002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/85002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/85002/
+    collections:
+      - weathernews

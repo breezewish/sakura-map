@@ -1,0 +1,495 @@
+prefecture:
+  id: 18
+  name_ja: 福井県
+  name_en: Fukui
+spots:
+  - id: wn-57008
+    name_ja: あらた坂(山室の桜並木)
+    location:
+      city_ja: あわら市
+      address_ja: 福井県あわら市山室36-18-1
+    geo:
+      lat: 36.2164
+      lng: 136.2402
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 競技かるたを題材にした有名な漫画に登場する桜並木です。作品にちなんで「あらた坂」と名付けられ、坂の上にはかるた札と登場人物のトレードマークであるめがねがデザインされた記念碑が立っています。漫画の中で描かれる満開の桜の下での主人公たちの再会シーンに思いを馳せてみるのも一興です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/57008/1770878177_s.webp
+        source_url: https://weathernews.jp/sakura/spot/57008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57008/
+    collections:
+      - weathernews
+  - id: wn-273
+    name_ja: 芦山公園
+    location:
+      city_ja: 越前市
+      address_ja: 福井県越前市村国町
+    geo:
+      lat: 35.9015
+      lng: 136.1815
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市街地に近く、眼下に日野川の清流を見渡せる公園として整備され、市民の憩いの場所となっています。ソメイヨシノ2000本が咲き誇り、散策道がめぐらされており、中腹にある展望台からは、日野川沿いの桜並木や市街地を一望することができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-07/31673865.jpg
+        source_url: https://weathernews.jp/sakura/spot/273/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/273/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/273/
+    collections:
+      - weathernews
+  - id: wn-57001
+    name_ja: 越前陶芸村
+    location:
+      city_ja: 越前町
+      address_ja: 福井県丹生郡越前町小曽原120-61
+    geo:
+      lat: 35.9333
+      lng: 136.0594
+    trees: 630
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 美しい芝生が広がる公園内の遊歩道はソメイヨシノの並木道となっており、桜を眺めながら散策を楽しめます。公園奥のこども広場にはしだれ桜が群生しており、お花見ピクニックを楽しむ家族連れで賑わいます。また公園には岡本太郎やイサム・ノグチなど芸術家のアート作品が点在し、桜とアートのコラボレーションを楽しめます。2026年4月11日(土)12日(日)には「第14回越前陶芸村しだれ桜まつり」が開催され、桜の咲き誇る公園内にクラフト作家が集まります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/57001/1769754698_s.webp
+        source_url: https://weathernews.jp/sakura/spot/57001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57001/
+    collections:
+      - weathernews
+  - id: wn-274
+    name_ja: 花筐公園
+    location:
+      city_ja: 越前市
+      address_ja: 福井県越前市粟田部町17-20
+    geo:
+      lat: 35.9187
+      lng: 136.2382
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1000本の桜が咲き誇ります。継体天皇、世阿弥、松平春嶽にもゆかりがある歴史ロマンの公園です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71189184.jpg
+        source_url: https://weathernews.jp/sakura/spot/274/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/274/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/274/
+    collections:
+      - weathernews
+  - id: wn-277
+    name_ja: 丸岡城(霞ヶ城公園)
+    location:
+      city_ja: 坂井市
+      address_ja: 福井県坂井市丸岡町霞町1-59
+    geo:
+      lat: 36.1524
+      lng: 136.2721
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 丸岡城は北陸地方に唯一残る、現存12天守の一つで国の重要文化財に指定されています。天守を取り囲むようにソメイヨシノが植えられている霞ヶ城公園は「日本さくら名所100選」にも選ばれていて、桜が満開の頃、花の霞に浮立つ古城の眺めはひときわ美しく感じられます。丸岡城桜まつり期間中は、ボンボリによる桜のライトアップが行われ、夜桜も見ごたえ十分です。この季節だけの幻想的な世界をぜひご覧下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82830436.jpg
+        source_url: https://weathernews.jp/sakura/spot/277/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/277/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/277/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%9F%8E
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-279
+    name_ja: 亀山公園
+    location:
+      city_ja: 大野市
+      address_ja: 福井県大野市城町3
+    geo:
+      lat: 35.9864
+      lng: 136.4826
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 例年4月上旬には約300本のソメイヨシノが咲き乱れ、多くの花見客で賑わいます。公園の頂上からは、越前おおのの城下町が一望できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-09/31701296.jpg
+        source_url: https://weathernews.jp/sakura/spot/279/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/279/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/279/
+    collections:
+      - weathernews
+  - id: wn-272
+    name_ja: 金崎宮
+    location:
+      city_ja: 敦賀市
+      address_ja: 福井県敦賀市金ケ崎町1-4
+    geo:
+      lat: 35.6645
+      lng: 136.0741
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 小高い山にあるため、眺めもよく、桜の名所としても知られている金崎宮。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82481577.jpg
+        source_url: https://weathernews.jp/sakura/spot/272/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/272/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/272/
+    collections:
+      - weathernews
+  - id: wn-57003
+    name_ja: 九頭竜湖
+    location:
+      city_ja: 大野市
+      address_ja: 福井県大野市箱ヶ瀬
+    geo:
+      lat: 35.8751
+      lng: 136.7529
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 例年4月中旬から下旬ごろ、九頭竜湖沿岸の国道158号沿いにソメイヨシノを中心に約2000本のサクラが咲き誇ります。華やかな薄紅色が湖面の青に映え、見応えのあるスポットです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71455041.jpg
+        source_url: https://weathernews.jp/sakura/spot/57003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57003/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307030/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57003/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307030/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-57004
+    name_ja: 若狭駒ヶ岳桜並木
+    location:
+      city_ja: 若狭町
+      address_ja: 福井県三方上中郡若狭町河内
+    geo:
+      lat: 35.413
+      lng: 135.8651
+    species_ja:
+      - ヤエザクラ
+    description_ja: 全国に数ある駒ヶ岳のうち最西端の山である若狭駒ヶ岳。標高約780m。トレイルコース上にある桜はアーチのようになり、思わず足を止めてしまう、美しい景色となっています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/57004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57004/
+    collections:
+      - weathernews
+  - id: wn-278
+    name_ja: 勝山弁天桜
+    location:
+      city_ja: 勝山市
+      address_ja: 福井県勝山市九頭竜川右岸
+    geo:
+      lat: 36.0583
+      lng: 136.4956
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 残雪輝く山々とのコンビネーションはまさに絶景!九頭竜川に架かる勝山橋をはさんで伸びる堤防(弁天堤防)に約450本の桜が植えられています。九頭竜川右岸、勝山橋の上流と下流にかけて1.5kmにおよぶ弁天桜は、県下に名の知れた桜の名所です。満開を迎える４月上旬から中旬頃には桜のトンネルが出現し多くの花見客で賑わいます。また、4月上旬より九頭竜川を横断して掲げられる鯉のぼりとの共演も見どころです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-09/31703776.jpg
+        source_url: https://weathernews.jp/sakura/spot/278/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/278/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/278/
+    collections:
+      - weathernews
+  - id: wn-271
+    name_ja: 小浜公園
+    location:
+      city_ja: 小浜市
+      address_ja: 福井県小浜市小浜香取81-1
+    geo:
+      lat: 35.4924
+      lng: 135.7338
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 絶景の小浜湾のすぐ横にあり、約150本の桜があなたを迎えてくれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61903267.jpg
+        source_url: https://weathernews.jp/sakura/spot/271/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/271/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/271/
+    collections:
+      - weathernews
+  - id: wn-5701
+    name_ja: 城山公園
+    location:
+      city_ja: 高浜町
+      address_ja: 福井県大飯郡高浜町事代
+    geo:
+      lat: 35.4947
+      lng: 135.553
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 若狭湾に向かって小さく突き出た半島全体が公園となっていて、日本海などの広大な自然が眺められます。桜回廊を上がっていくと、若狭富士の絶景にあえますよ！
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/5701/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5701/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5701/
+    collections:
+      - weathernews
+  - id: wn-57002
+    name_ja: 神子の山桜
+    location:
+      city_ja: 若狭町
+      address_ja: 福井県三方上中郡若狭町神子
+    geo:
+      lat: 35.6151
+      lng: 135.8389
+    species_ja:
+      - ヤマザクラ
+    description_ja: 1742年開畑の境に植えた桜と伝えられている。見頃の時期には常神半島が薄紅色に染まり、海の青とのコントラストが絶景。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/57002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57002/
+    collections:
+      - weathernews
+  - id: wn-275
+    name_ja: 西山公園
+    location:
+      city_ja: 鯖江市
+      address_ja: 福井県鯖江市桜町3-7-20
+    geo:
+      lat: 35.9507
+      lng: 136.1809
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 古くから花の名所として知られ約1000本の桜が咲き誇ります。桜の後に咲くツツジは日本海側随一の規模を誇り、つつじ祭りも行われます。日本庭園や芝生広場、西山動物園など見所もたくさんあり、公園には道の駅が併設され鯖江のお土産も揃えております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/275/1768790910_s.webp
+        source_url: https://weathernews.jp/sakura/spot/275/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/275/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307080/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/275/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307080/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-276
+    name_ja: 足羽山公園
+    location:
+      city_ja: 福井市
+      address_ja: 福井県福井市足羽上町、山奥町
+    geo:
+      lat: 36.054
+      lng: 136.2048
+    trees: 3500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 足羽山全体に約3500本の桜が咲き、日本さくら名所100選に選ばれています。足羽神社の樹齢約380年のしだれ桜や、登山道のひとつである愛宕坂のライトアップ(4月1日〜4月5日)も楽しむことができます。また、ミニ動物園「ハピジャン」や、足羽山名物「木の芽田楽」「こんにゃくおでん」などが有名な約10軒の茶屋もあり、食事や見所の多い場所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61899492.jpg
+        source_url: https://weathernews.jp/sakura/spot/276/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/276/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307093/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/276/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307093/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-5703
+    name_ja: 足羽川桜並木
+    location:
+      city_ja: 福井市
+      address_ja: 福井県福井市つくもほか
+    geo:
+      lat: 36.0619
+      lng: 136.2123
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日本さくら名所100選にも選ばれている桜並木です。福井市中心部を流れる足羽川の堤防上約2.2kmにわたり約600本の桜の木があり、桜のトンネルやライトアップが訪問者を優しく包みこみます。期間中は桜のライトアップを楽しむことができ、昼夜を問わず多くの観光客でにぎわいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82678887.jpg
+        source_url: https://weathernews.jp/sakura/spot/5703/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5703/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307094/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%BE%BD%E5%B7%9D%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5703/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307094/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%BE%BD%E5%B7%9D%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-57012
+    name_ja: 竹田の里しだれ桜
+    location:
+      city_ja: 坂井市
+      address_ja: 福井県坂井市丸岡町山竹田９４−１０
+    geo:
+      lat: 36.1735
+      lng: 136.3302
+    trees: 700
+    species_ja:
+      - シダレザクラ
+    description_ja: ベニヤエシダレザクラ、濃いピンク色が特徴的。時期によっては、ソメイヨシノとしだれ桜の共演。しだれ桜の花が、降り注ぐ散策道。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/57012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57012/
+    collections:
+      - weathernews
+  - id: wn-57010
+    name_ja: 福井城址
+    location:
+      city_ja: 福井市
+      address_ja: 福井県福井市大手3丁目17-1
+    geo:
+      lat: 36.0656
+      lng: 136.2209
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 福井駅から徒歩５分に位置する福井城址は、400年以上たった今も本丸のお堀と石垣が現存しています。山里口御門や御廊下橋が復元されており、現在では坤櫓(ひつじさるやぐら)や土塀の復元工事が進められています。開花時期には、天守台や石垣上のソメイヨシノと青みがかった笏谷石の石垣が織りなす情景が楽しめます。桜が散り始めると、お堀に舞い降りた花びらが水面に浮かぶ花筏(はないかだ)の光景が広がります。石垣は毎日ライトアップされており、桜の開花時期は石垣が桜色に染まります。表情豊かな福井城址の桜をお楽しみください！
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/57010/1771988425_s.webp
+        source_url: https://weathernews.jp/sakura/spot/57010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57010/
+    collections:
+      - weathernews
+  - id: wn-57006
+    name_ja: 万葉の里 味真野苑
+    location:
+      city_ja: 越前市
+      address_ja: 福井県越前市余川町
+    geo:
+      lat: 35.8855
+      lng: 136.2376
+    trees: 100
+    species_ja:
+      - ヒガンザクラ
+      - ヤマザクラ
+      - ヤエベニシダレ
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/57006/1766464928_s.webp
+        source_url: https://weathernews.jp/sakura/spot/57006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57006/
+    collections:
+      - weathernews
+  - id: wn-57005
+    name_ja: 妙祐寺
+    location:
+      city_ja: 小浜市
+      address_ja: 福井県小浜市中井13-60
+    geo:
+      lat: 35.4533
+      lng: 135.7063
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 静かな地域に佇む樹齢約150年の一本桜です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82473875.jpg
+        source_url: https://weathernews.jp/sakura/spot/57005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57005/
+    collections:
+      - weathernews

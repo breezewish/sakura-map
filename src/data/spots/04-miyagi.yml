@@ -1,0 +1,456 @@
+prefecture:
+  id: 4
+  name_ja: 宮城県
+  name_en: Miyagi
+spots:
+  - id: wn-34017
+    name_ja: みちのく杜の湖畔公園
+    location:
+      city_ja: 川崎町
+      address_ja: 宮城県柴田郡川崎町大字小野字二本松５３−９
+    geo:
+      lat: 38.1812
+      lng: 140.6674
+    trees: 1400
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - サトザクラ
+      - シダレザクラなど
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/34017/1767772887_s.webp
+        source_url: https://weathernews.jp/sakura/spot/34017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34017/
+    collections:
+      - weathernews
+  - id: wn-34010
+    name_ja: みなみかた千本桜
+    location:
+      city_ja: 登米市
+      address_ja: 宮城県登米市南方町山成前737（市道高石梶沼線）
+    geo:
+      lat: 38.6584
+      lng: 141.1479
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/34010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34010/
+    collections:
+      - weathernews
+  - id: wn-34009
+    name_ja: 加護坊山の二千本桜
+    location:
+      city_ja: 大崎市
+      address_ja: 宮城県大崎市田尻大沢字加護峯山
+    geo:
+      lat: 38.5902
+      lng: 141.1054
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ベニヤマザクラ
+    description_ja: 大崎市田尻の加護坊山は、東北本線田尻駅の東側になだらかな山容を見せ、宮城県内でも非常に人気の高い桜の名所となっています。　山頂に向かう道路は、美しい桜並木が続き、満開の際には約2000本もの桜が咲き誇ります。　桜の種類も多く、ソメイヨシノをはじめヤエザクラ、シダレザクラ、エドヒガンザクラ、ベニシダレザクラなど、ピンクの花々が山を染める様子はまさに絶景。　標高224ｍの山頂に登ると遮るものがなく、360度の大パノラマが広がり、晴れた日には栗駒山，船形山、蔵王、石巻や仙台の街から遠く太平洋まで見渡せます。「加護坊桜まつり」の期間中はライトアップによる夜空に浮かぶ桜の姿はまさに幻想的、ぜひご覧ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/34009/1767594935_s.webp
+        source_url: https://weathernews.jp/sakura/spot/34009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34009/
+    collections:
+      - weathernews
+  - id: wn-3407
+    name_ja: 三神峯公園
+    location:
+      city_ja: 仙台市太白区
+      address_ja: 宮城県仙台市太白区三神峯1丁目1外
+    geo:
+      lat: 38.2248
+      lng: 140.8574
+    species_ja:
+      - ソメイヨシノ他多品種
+      - ソメイヨシノ
+    description_ja: 西に蔵王の山なみ、東に太平洋を望む公園の桜。仙台市街地を望むゆるやかな丘陵地にある公園で芝生の公園にバリエーション豊かな桜が咲き誇る。桜の種類が多いので見頃が4月中旬から5月初旬と長い期間楽しむことができる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82997398.jpg
+        source_url: https://weathernews.jp/sakura/spot/3407/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3407/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3407/
+    collections:
+      - weathernews
+  - id: wn-34002
+    name_ja: 七ヶ宿公園
+    location:
+      city_ja: 七ヶ宿町
+      address_ja: 宮城県刈田郡七ヶ宿町字上野
+    geo:
+      lat: 37.9809
+      lng: 140.4728
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 七ヶ宿ダムの湖畔にある28haの広大な公園でグラウンドゴルフ等が楽しめる他、春には2000本の桜が咲き誇ります。隣接して道の駅と歴史資料館があり、家族でのんびり過ごせるお花見スポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/34002/1768382526_s.webp
+        source_url: https://weathernews.jp/sakura/spot/34002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34002/
+    collections:
+      - weathernews
+  - id: wn-53
+    name_ja: 西公園
+    location:
+      city_ja: 仙台市青葉区
+      address_ja: 宮城県仙台市青葉区桜ヶ岡公園1-3
+    geo:
+      lat: 38.2597
+      lng: 140.8626
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市街地のメインストリート定禅寺通、広瀬通、青葉通の突きあたりにある西公園は、桜の名所として名高く、公園内には、蒸気機関車、こけし塔、芭蕉句碑、著名作家の彫刻、伊達政宗が朝鮮から持ち帰ったとされる臥竜梅など見所の多いところです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/53/1766461867_s.webp
+        source_url: https://weathernews.jp/sakura/spot/53/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53/
+    collections:
+      - weathernews
+  - id: wn-34001
+    name_ja: 西行戻しの松公園
+    location:
+      city_ja: 松島町
+      address_ja: 宮城県宮城郡松島町松島犬田地内
+    geo:
+      lat: 38.3673
+      lng: 141.0527
+    trees: 260
+    species_ja:
+      - ソメイヨシノ
+      - オオヤマザクラ
+    description_ja: 西行法師が諸国行脚の折、松の大木の下で出会った童子と禅問答をして敗れ、松島行きをあきらめたという由来の地。この公園の一帯は260本余の桜の名所で、展望台からは桜と松島湾の景色が一体となった、他に類をみない花見が味わえます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82955347.jpg
+        source_url: https://weathernews.jp/sakura/spot/34001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34001/
+    collections:
+      - weathernews
+  - id: wn-49
+    name_ja: 船岡城址公園
+    location:
+      city_ja: 柴田町
+      address_ja: 宮城県柴田郡柴田町大字船岡字舘山95-1
+    geo:
+      lat: 38.0552
+      lng: 140.759
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内には1300本以上の桜があり、白石川堤一目千本桜と共に宮城県内で唯一「さくら名所100選」の地に選ばれています。山頂まで登ると、船岡平和観音像の立つ山頂からは桜と白石川、雪を頂く蔵王連峰が一度に見渡せます。2017年に完成した白石川千桜公園には、桜のほかにも様々な花が植えられ、あらたな花見スポットとなっています。そのほかにも「樅ノ木は残った展望デッキ」や「しばた千桜橋」など、沢山の絶景スポットから桜をお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82911228.jpg
+        source_url: https://weathernews.jp/sakura/spot/49/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307091/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%88%B9%E5%B2%A1%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307091/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%88%B9%E5%B2%A1%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-34003
+    name_ja: 台山公園
+    location:
+      city_ja: 角田市
+      address_ja: 宮城県角田市角田字寺前51
+    geo:
+      lat: 37.9723
+      lng: 140.7759
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 自然と市民のふれあい広場とされている都市公園。噴水広場、多目的広場、ゲートボールコートが整備され、老若男女を問わず市民の憩いの場となっています。公園東の丘陵には角田市スペースタワー・コスモハウスのほか、角田の基礎を築いた石川家の御廟「石川廟」があります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/34003/1766534036_s.webp
+        source_url: https://weathernews.jp/sakura/spot/34003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34003/
+    collections:
+      - weathernews
+  - id: wn-51
+    name_ja: 日和山公園
+    location:
+      city_ja: 石巻市
+      address_ja: 宮城県石巻市日和が丘2丁目地内
+    geo:
+      lat: 38.4231
+      lng: 141.3072
+    trees: 400
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 日和山公園には約400本の桜のほか、芭蕉と曽良の像、そして多くの文人の歌碑などが建てられ、春の桜、初夏はツツジが咲き競う花の名所として、多くの市民に親しまれています。太平洋をバックに桜を見ることができる絶景ポイントです!また、市街中心部の高台にあるため、近年は慰霊や祈りの場として知られています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/51/1768371696_s.webp
+        source_url: https://weathernews.jp/sakura/spot/51/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/51/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300230/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/51/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300230/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-52
+    name_ja: 白石城本丸広場
+    location:
+      city_ja: 白石市
+      address_ja: 宮城県白石市益岡町1-16
+    geo:
+      lat: 38.0027
+      lng: 140.6155
+    trees: 230
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 白石城がある白石城本丸広場では、200本を超える桜が県内のトップを切って4月上旬から咲き始めます。白石城もライトアップされますので、夜桜見物も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-04/71281867.jpg
+        source_url: https://weathernews.jp/sakura/spot/52/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52/
+    collections:
+      - weathernews
+  - id: wn-3403
+    name_ja: 白石川堤一目千本桜
+    location:
+      city_ja: 大河原町
+      address_ja: 宮城県柴田郡大河原町大谷(白石川堤)
+    geo:
+      lat: 38.0486
+      lng: 140.7377
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の開花時期には、残雪戴く蔵王連峰と絢爛に咲き誇る1200本の「桜のトンネル」が清流の白石川に映り、絶妙な調和を見せています。読売新聞社より「新・日本街路樹100景」・「遊歩百選」に認定され、現在では全国各地・世界各国からの観桜を楽しむ人々で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-21/96380343.jpg
+        source_url: https://weathernews.jp/sakura/spot/3403/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3403/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3403/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307126
+    name_ja: 白石川堤一目千本桜
+    location:
+      address_ja: 宮城県柴田郡大河原町大谷
+    geo:
+      lat: 38.055539
+      lng: 140.746895
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+      - シロヤマザクラ
+      - ヤエザクラ
+      - センダイヨシノ
+    description_ja: 大正12年に、高山開治郎氏の寄贈により、約1,200本もの桜が植樹された桜の名所。白石川の清涼な流れや蔵王連峰の雄大な山々、見事に咲き誇る桜の花とが織り成す景観がすばらしく、例年多くの花見客で賑わう。開花時期に合わせて桜まつりが開催され、夜桜ライトアップやお花見屋形船の運航、出店、お花見弁当の販売等が行われる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307126_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307126_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307126_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
+    collections:
+      - navitime
+  - id: wn-34007
+    name_ja: 八木山ベニーランド
+    location:
+      city_ja: 仙台市太白区
+      address_ja: 宮城県仙台市太白区長町越路19-1
+    geo:
+      lat: 38.2463
+      lng: 140.8483
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 園内各所に植樹されており、いろんな所で楽しめます。スカイジェットでの桜トンネル、コークスクリュー付近の通り抜けも、オススメです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/34007/1768349186_s.webp
+        source_url: https://weathernews.jp/sakura/spot/34007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34007/
+    collections:
+      - weathernews
+  - id: wn-34004
+    name_ja: 平筒沼ふれあい公園
+    location:
+      city_ja: 登米市
+      address_ja: "宮城県登米市米山町桜岡貝待井５８２−１ "
+    geo:
+      lat: 38.6174
+      lng: 141.2358
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然林に囲まれた平筒沼一帯は公園として整備され、春には遊歩道の沿道に800本の桜が花開く。低木の桜が並ぶ高台からは、市内の眺望を楽しみながら、ゆったりと桜並木を散策。名所の1つ沼に架かる浮き桟橋から見る景色は絶景。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96421265.jpg
+        source_url: https://weathernews.jp/sakura/spot/34004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34004/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307157
+    name_ja: 薬莱山
+    location:
+      address_ja: 宮城県加美郡加美町味ヶ袋薬莱原
+    geo:
+      lat: 38.575508
+      lng: 140.705323
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 地元では「加美富士」と呼ばれている標高553mの山で、宮城県加美郡加美町の中央部に位置する。山頂までの登山道は約1.5kmあり、片道約45分。道路沿いに500mほど植えられた約300本の桜並木が美しく、4月中旬から5月上旬の開花シーズンには多くの花見客が訪れる。麓から山の上へと徐々に開花してくため、長く桜が楽しめるスポット。駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307157_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307157/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307157_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307157/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307157_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307157/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307157/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307157/
+    collections:
+      - navitime
+  - id: wn-47
+    name_ja: 涌谷城址・城山公園
+    location:
+      city_ja: 涌谷町
+      address_ja: 宮城県遠田郡涌谷町涌谷字下町1-2
+    geo:
+      lat: 38.5459
+      lng: 141.131
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラなど
+    description_ja: 公園内に約250本のソメイヨシノ、ヤマザクラが咲くほか、堤防沿いにも桜の道があります。JR涌谷駅から徒歩15分です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82882037.jpg
+        source_url: https://weathernews.jp/sakura/spot/47/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/47/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/47/
+    collections:
+      - weathernews
+  - id: wn-55
+    name_ja: 榴岡公園
+    location:
+      city_ja: 仙台市宮城野区
+      address_ja: 宮城県仙台市宮城野区五輪1丁目301-3外
+    geo:
+      lat: 38.2601
+      lng: 140.8967
+    trees: 350
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノなど
+    description_ja: 14種類約350本の桜を有し、夜桜も楽しめます。灯りがついた提灯と露店等が並び多くの人で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82908545.jpg
+        source_url: https://weathernews.jp/sakura/spot/55/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55/
+    collections:
+      - weathernews

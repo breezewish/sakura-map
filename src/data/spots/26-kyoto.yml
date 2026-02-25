@@ -1,0 +1,1713 @@
+prefecture:
+  id: 26
+  name_ja: 京都府
+  name_en: Kyoto
+spots:
+  - id: wn-61022
+    name_ja: けいはんな記念公園
+    location:
+      city_ja: 精華町
+      address_ja: 京都府相楽郡精華町精華台6-1
+    geo:
+      lat: 34.7472
+      lng: 135.7758
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ他
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61022/1766533741_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61022/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700517/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61022/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700517/
+    collections:
+      - weathernews
+      - navitime
+    trees: 370
+    description_ja: 京都府相楽郡精華町にある総合公園で、園内は棚田状の広場や谷あいの自然が楽しめる無料区域と、日本庭園や里山の森がある有料区域に分かれている。芝生広場にはソメイヨシノをはじめ約300本もの桜が植えられ、3月下旬から4月中旬が見ごろ。ファミリーを中心に毎年大勢の花見客で賑っている。有料区域の「水景園」でも数十本の桜が花を咲かせ、趣深い日本庭園を華やかに彩る。
+  - id: wn-61024
+    name_ja: わち山野草の森
+    location:
+      city_ja: 京丹波町
+      address_ja: 京都府船井郡京丹波町坂原シヨガキ5
+    geo:
+      lat: 35.2655
+      lng: 135.3979
+    trees: 40
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+      - ウコンザクラ
+    description_ja: 園内をJR山陰線の鉄橋が通っており、ソメイヨシノのシーズンには電車と合わせて写真撮影等ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61024/1766622353_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61024/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61024/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61024/
+    collections:
+      - weathernews
+  - id: wn-61018
+    name_ja: 引揚記念公園(ソメイヨシノ)
+    location:
+      city_ja: 舞鶴市
+      address_ja: 京都府舞鶴市字平1584番地
+    geo:
+      lat: 35.5095
+      lng: 135.3966
+    trees: 170
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+    description_ja: 頂上広場へと続く園路沿いには第二次大戦後、舞鶴へ引き揚げてこられた方々をはじめ、その親族・関係者などによりヤエザクラが植樹されています。恒久平和を願って植えられた桜の数は100本を超えています。本数が少なめのソメイヨシノは、ヤエザクラよりも早い3月中旬頃から咲き始めます。桜の本数が多いヤエザクラは、毎年4月中旬から下旬にかけて咲き誇る並木道がピンク色に染まります。桜の成長と共に平和な時が刻まれています。※トイレは駐車場にあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61018/
+    collections:
+      - weathernews
+  - id: wn-61037
+    name_ja: 引揚記念公園(ヤエザクラ)
+    location:
+      city_ja: 舞鶴市
+      address_ja: 京都府舞鶴市字平1584番地
+    geo:
+      lat: 35.5095
+      lng: 135.3959
+    trees: 170
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+    description_ja: 頂上広場へと続く園路沿いには第二次大戦後、舞鶴へ引き揚げてこられた方々をはじめ、その親族・関係者などによりヤエザクラが植樹されています。恒久平和を願って植えられた桜の数は100本を超えています。毎年4月中旬から下旬にかけて咲き誇るヤエザクラの並木道。桜の成長と共に平和な時が刻まれています。※トイレは駐車場にあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61037/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61037/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61037/
+    collections:
+      - weathernews
+  - id: wn-337
+    name_ja: 宇治橋上流
+    location:
+      city_ja: 宇治市
+      address_ja: 京都府宇治市宇治塔川
+    geo:
+      lat: 34.8896
+      lng: 135.8092
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ボタンザクラ
+      - シダレザクラ
+    description_ja: 宇治橋上流の川沿いで、約2000本の桜が咲き誇ります。周辺には世界遺産の平等院、宇治上神社ほか観光スポットも多くあります。宇治の歴史に思いをはせながら、ゆっくりと散策をお楽しみ下さい。※桜は、宇治橋上流の川沿い一帯でご覧いただくことが出来ます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/337/1766646239_s.webp
+        source_url: https://weathernews.jp/sakura/spot/337/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/337/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/337/
+    collections:
+      - weathernews
+  - id: wn-61015
+    name_ja: 宇治市植物公園(シダレザクラ）
+    location:
+      city_ja: 宇治市
+      address_ja: 京都府宇治市広野町八軒屋谷25-1
+    geo:
+      lat: 34.8713
+      lng: 135.795
+    trees: 190
+    species_ja:
+      - シダレザクラ
+      - ヤエザクラ（関山）
+    description_ja: 樹齢約80年のシダレザクラが見頃の時期はライトアップを行い、夜間のみ無料で開放します（昼間は有料）。ソメイヨシノより早くに花が咲く、河津桜や修善寺寒桜、コシノヒガンなどもあわせて見ることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61015/1767483833_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61015/
+    collections:
+      - weathernews
+  - id: wn-61036
+    name_ja: 宇治市植物公園(ヤエザクラ)
+    location:
+      city_ja: 宇治市
+      address_ja: 京都府宇治市広野町八軒屋谷25-1
+    geo:
+      lat: 34.8713
+      lng: 135.795
+    trees: 190
+    species_ja:
+      - シダレザクラ
+      - ヤエザクラ（関山）
+      - ヤエザクラ
+    description_ja: ソメイヨシノが終わる頃から約20品種130本のヤエザクラが咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61036/1767483455_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61036/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61036/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61036/
+    collections:
+      - weathernews
+  - id: wn-305
+    name_ja: 円山公園
+    location:
+      city_ja: 京都市東山区
+      address_ja: 京都府京都市東山区円山町他
+    geo:
+      lat: 35.0039
+      lng: 135.7809
+    trees: 450
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+    description_ja: 京都市における最も古い公園で、園内に約450本の桜が咲きます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/305/1766463504_s.webp
+        source_url: https://weathernews.jp/sakura/spot/305/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/305/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301286/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/305/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301286/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61002
+    name_ja: 岡崎さくら回廊十石舟めぐり
+    location:
+      city_ja: 京都市左京区
+      address_ja: "京都府京都市左京区南禅寺草川町付近(期間限定の乗船場) "
+    geo:
+      lat: 35.012
+      lng: 135.7869
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラなど
+    description_ja: 京都随一の文化・交流ゾーン岡崎地区を流れる琵琶湖疏水をゆく「岡崎さくら回廊十石舟めぐり」。南禅寺船溜り乗船場〜夷川ダムまで往復3kmを約25分間で運航しています。両岸にせり出した桜を舟の上から優雅にお楽み頂けます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82871203.jpg
+        source_url: https://weathernews.jp/sakura/spot/61002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61002/
+    collections:
+      - weathernews
+  - id: wn-61049
+    name_ja: 賀茂川堤・半木の道
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区賀茂今井町（半木の道）
+    geo:
+      lat: 35.0476
+      lng: 135.7606
+    trees: 470
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 鴨川の北山大橋から北大路橋まで、左岸の堤防上には八重紅枝垂桜が植えられ、満開になると桜のトンネルのようになります。対岸には、主にソメイヨシノが植えられ、ケヤキ、クロマツ、エノキなど多様な木々とともに左岸とは異なる趣を楽しめます。また、河川敷は鴨川公園として整備されており、水量が少ないときは、飛び石を利用して対岸に渡ることもできます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-09/83864317.jpg
+        source_url: https://weathernews.jp/sakura/spot/61049/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61049/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61049/
+    collections:
+      - weathernews
+  - id: wn-61029
+    name_ja: 賀茂別雷神社（上賀茂神社）
+    location:
+      city_ja: 京都市北区
+      address_ja: 京都府京都市北区上賀茂本山339
+    geo:
+      lat: 35.0593
+      lng: 135.7525
+    trees: 1
+    species_ja:
+      - ベニシダレザクラ(斎王桜)
+      - ベニシダレザクラ
+    description_ja: 紅枝垂れ桜の斎王桜をはじめ、御所桜、風流桜など様々な種類の桜を3月中旬から4月中旬にかけて楽しめる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-30/71100483.jpg
+        source_url: https://weathernews.jp/sakura/spot/61029/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61029/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301283/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61029/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301283/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-340
+    name_ja: 笠置キャンプ場
+    location:
+      city_ja: 笠置町
+      address_ja: 京都府相楽郡笠置町大字笠置
+    geo:
+      lat: 34.7591
+      lng: 135.9362
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 木津川畔は「日本桜名所百選」に選ばれています。駅周辺でも多くの桜を見ることができ、電車の中からは桜のトンネルを見ることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61758555.jpg
+        source_url: https://weathernews.jp/sakura/spot/340/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/340/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/340/
+    collections:
+      - weathernews
+  - id: wn-61034
+    name_ja: 勧修寺
+    location:
+      city_ja: 京都市山科区
+      address_ja: 京都府京都市山科区勧修寺仁王堂町27-6
+    geo:
+      lat: 34.9618
+      lng: 135.8076
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ボタンザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82619965.jpg
+        source_url: https://weathernews.jp/sakura/spot/61034/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61034/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301409/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61034/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301409/
+    collections:
+      - weathernews
+      - navitime
+    description_ja: 京都市営地下鉄・小野駅から徒歩約6分の立地にある寺で、真言宗山階派の大本山。皇室や藤原氏とのゆかりが深い門跡寺院であり、格式ある佇まいと平安時代の面影を残す池泉回遊式庭園、水戸光圀より寄進されたという「勧修寺型灯篭」で知られている。春になると、ソメイヨシノやシダレザクラ、ボタンザクラが咲く桜の名所。参道に植えられた約40本の桜並木が3月下旬から4月上旬に見ごろを迎え、花見スポットとして賑わう。
+  - id: wn-61004
+    name_ja: 旧嵯峨御所　大本山大覚寺
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区嵯峨大沢町4
+    geo:
+      lat: 35.028
+      lng: 135.6791
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ等
+    description_ja: 例年3月下旬から4月上旬に見頃を迎えます。嵯峨天皇が、嵯峨院を造営した際に作庭した、現存する日本最古の庭池とされる大沢池の水面に桜が映り、より一層の美しさを湛えます。飲食禁止、ドローン使用不可、ペット入場禁止(介助犬除く)。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61004/1766475247_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61004/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301345/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61004/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301345/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-6113
+    name_ja: 京都御苑(シダレザクラ)
+    location:
+      city_ja: 京都市上京区
+      address_ja: 京都府京都市上京区京都御苑3
+    geo:
+      lat: 35.0198
+      lng: 135.761
+    trees: 1000
+    species_ja:
+      - シダレザクラ
+      - ヤマザクラ
+      - サトザクラ他
+    description_ja: 3月中旬からは北西部「近衞邸跡」や南西部「出水の小川」のシダレザクラ、ヤマザクラ､4月には「出水の小川」で「御衣黄」、「関山」など約10種のサトザクラが咲きます。東部「学習院発祥の地」には、マツの幹に生えたサクラ、通称「桜松」が、マツの木が倒れた現在も咲き続けています。※花(桜)を観賞する場であり、宴会等はできません。ご来苑の皆様が快適にお花見を楽しめるよう節度を持ってご利用下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/6113/1736148856_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6113/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6113/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6113/
+    collections:
+      - weathernews
+  - id: wn-61040
+    name_ja: 京都御苑(ヤエベニシダレ)
+    location:
+      city_ja: 京都市上京区
+      address_ja: 京都府京都市上京区京都御苑3
+    geo:
+      lat: 35.0283
+      lng: 135.7617
+    trees: 1000
+    species_ja:
+      - シダレザクラ
+      - ヤマザクラ
+      - サトザクラ他
+      - ヤエベニシダレ
+    description_ja: 3月中旬からは北西部「近衞邸跡」のシダレザクラ、ヤマザクラ､4月には南西部「出水の小川」で「御衣黄」、「関山」など約10種のサトザクラが咲きます。東部「学習院発祥の地」には、マツの幹に生えたサクラ、通称「桜松」が、マツの木が倒れた現在も咲き続けています。※花(桜)を観賞する場であり、宴会等はできません。ご来苑の皆様が快適にお花見を楽しめるよう節度を持ってご利用下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/61040/1736148933_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61040/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61040/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61040/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307020
+    name_ja: 京都府立笠置自然公園(笠置キャンプ場)
+    location:
+      address_ja: 京都府相楽郡笠置町笠置佃
+    geo:
+      lat: 34.754901
+      lng: 135.942659
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: アラカシやクヌギ、アオキなどの広葉樹に覆われた標高289mの山で、京都・木津川の南側に位置している。山中には古くからの修験道場として知られる笠置寺や花崗岩の奇岩・怪石、後醍醐天皇の行在所跡などが点在し、歴史と自然を肌で感じられる行楽スポット。麓の河原や公園内にはソメイヨシノや山桜など多くの桜が植えられ、3月下旬から4月上旬の見ごろには花見客でにぎわう。4月上旬には、特産品などの販売を行う「笠置さくらまつり」を開催。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307020_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307020_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307020_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%AC%A0%E7%BD%AE%E5%B1%B1_(%E4%BA%AC%E9%83%BD%E5%BA%9C)
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%AC%A0%E7%BD%AE%E5%B1%B1_(%E4%BA%AC%E9%83%BD%E5%BA%9C)
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-296
+    name_ja: 京都府立植物園
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区下鴨半木町
+    geo:
+      lat: 35.0489
+      lng: 135.7645
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエベニシダレ
+      - カンヒザクラ
+      - キクザクラなど180品種
+    description_ja: 染井吉野と八重紅枝垂は言うに及ばず3月上旬のカンヒザクラから4月下旬の菊桜まで180品種約500本の桜が1カ月以上にわたり楽しめます。また園内の観覧温室には約4500種類の植物があり国内最大級の規模です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61803475.jpg
+        source_url: https://weathernews.jp/sakura/spot/296/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/296/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301282/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/296/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301282/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61033
+    name_ja: 京都府緑化センター
+    location:
+      city_ja: 福知山市
+      address_ja: 京都府福知山市夜久野町平野1906
+    geo:
+      lat: 35.3393
+      lng: 134.9211
+    trees: 132
+    species_ja:
+      - ヤエベニシダレをはじめ73品種
+      - ヤエベニシダレ
+    description_ja: 京都府緑化センターの施設内にはヤエベニシダレをはじめ73品種の桜が植えられ、京都市の円山公園の桜を接ぎ木して育てたしだれ桜もある。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-06/71352307.jpg
+        source_url: https://weathernews.jp/sakura/spot/61033/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61033/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61033/
+    collections:
+      - weathernews
+  - id: wn-6101
+    name_ja: 共楽公園
+    location:
+      city_ja: 舞鶴市
+      address_ja: 京都府舞鶴市余部下、余部上地内
+    geo:
+      lat: 35.4757
+      lng: 135.3647
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 舞鶴の桜の名所、小山全体を約450本の桜が埋めつくします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61707761.jpg
+        source_url: https://weathernews.jp/sakura/spot/6101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6101/
+    collections:
+      - weathernews
+  - id: wn-61020
+    name_ja: 玉川
+    location:
+      city_ja: 井手町
+      address_ja: 京都府綴喜郡井手町井手
+    geo:
+      lat: 34.7988
+      lng: 135.8084
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 井手町の玉川は日本六玉川の１つに数えられ、「平成の名水百選」にも選ばれています。その玉川堤両岸1500mにわたって、約500本の桜が咲き乱れます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61020/1767754637_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61020/
+    collections:
+      - weathernews
+  - id: wn-6109
+    name_ja: 元離宮二条城
+    location:
+      city_ja: 京都市中京区
+      address_ja: 京都府京都市中京区二条通堀川西入二条城町541
+    geo:
+      lat: 35.0143
+      lng: 135.7477
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエベニシダレザクラ
+      - サトザクラ
+    description_ja: 城内には、50品種・約300本もの桜があり、ソメイヨシノはもちろん、清流園のシダレザクラ、ヤマザクラ、桜の園のサトザクラなど、3月下旬から次々と開花し、約1ヶ月もの間、桜を楽しめます。ライトアップでは、重要文化財の唐門等、歴史的建造物や桜をライトアップし、お越しいただいた方を幻想的な世界へ誘います。※種類ごとの開花状況の詳細は公式HP「お知らせ」からご覧いただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71426061.jpg
+        source_url: https://weathernews.jp/sakura/spot/6109/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6109/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6109/
+    collections:
+      - weathernews
+  - id: wn-298
+    name_ja: 高雄
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区梅ヶ畑高雄
+    geo:
+      lat: 35.0554
+      lng: 135.6746
+    trees: 500
+    species_ja:
+      - ヤマザクラ
+    description_ja: ヤマザクラを中心に約500本あります。高雄地域は広範囲となっております。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95920619.jpg
+        source_url: https://weathernews.jp/sakura/spot/298/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/298/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/298/
+    collections:
+      - weathernews
+  - id: wn-6103
+    name_ja: 三千院
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区大原来迎院町540
+    geo:
+      lat: 35.1196
+      lng: 135.8344
+    trees: 300
+    species_ja:
+      - シダレザクラ
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: シダレザクラ、ヤマザクラ等、苔の緑とピンクの色彩りがきれいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95953226.jpg
+        source_url: https://weathernews.jp/sakura/spot/6103/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6103/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700034/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6103/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700034/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61016
+    name_ja: 山城総合運動公園
+    location:
+      city_ja: 宇治市
+      address_ja: 京都府宇治市広野町八軒屋谷１
+    geo:
+      lat: 34.8696
+      lng: 135.804
+    trees: 230
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然に囲まれた遊びの森でレジャーシートを敷いてお花見ができます。ふれあいの森では上皇后陛下が植樹されたシダレザクラをみることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61016/
+    collections:
+      - weathernews
+  - id: wn-6102
+    name_ja: 勝持寺(花の寺)
+    location:
+      city_ja: 京都市西京区
+      address_ja: 京都府京都市西京区大原野南春日町1194
+    geo:
+      lat: 34.9607
+      lng: 135.6517
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: サイギョウザクラをはじめ、境内には約100本の桜が見事に咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71198047.jpg
+        source_url: https://weathernews.jp/sakura/spot/6102/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6102/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6102/
+    collections:
+      - weathernews
+  - id: wn-61027
+    name_ja: 城南宮　神苑「楽水苑」
+    location:
+      city_ja: 京都市伏見区
+      address_ja: 京都府京都市伏見区中島鳥羽離宮町7
+    geo:
+      lat: 34.9505
+      lng: 135.7467
+    trees: 4
+    species_ja:
+      - ベニシダレザクラ
+    description_ja: 緑の芝生に色の濃いベニシダレザクラが映えて美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61027/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61027/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301375/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61027/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301375/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61011
+    name_ja: 常寂光寺
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区嵯峨小倉山小倉町3
+    geo:
+      lat: 35.0196
+      lng: 135.6687
+    trees: 30
+    species_ja:
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 山内にはヤマザクラの老木の他、ヒガンシダレザクラの大木が3月下旬から4月上旬に開花します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61011/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301300/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61011/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301300/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-299
+    name_ja: 仁和寺(御室桜)
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区御室大内33
+    geo:
+      lat: 35.0298
+      lng: 135.7134
+    trees: 200
+    species_ja:
+      - アリアケ
+    description_ja: 江戸時代からの桜の名所。品種は主にオムロアリアケをはじめ10種類ほどが混在しています。樹高が3mほどと低く、目線で楽しめる桜として知られています。桜の海の上に五重塔が浮かぶ風景を見ていただくこともできます。また、御室桜のほかにも多数の桜やミツバツツジなどが境内を彩り、長く春の景色を楽しんでいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/299/1766472595_s.webp
+        source_url: https://weathernews.jp/sakura/spot/299/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/299/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700010/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%BB%81%E5%92%8C%E5%AF%BA
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/299/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700010/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%BB%81%E5%92%8C%E5%AF%BA
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-304
+    name_ja: 清水寺
+    location:
+      city_ja: 京都市東山区
+      address_ja: 京都府京都市東山区清水1-294
+    geo:
+      lat: 34.9949
+      lng: 135.7851
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 約1000本の桜が咲き誇ります。夜間特別拝観中はライトアップされて、幻想的な光景が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61749415.jpg
+        source_url: https://weathernews.jp/sakura/spot/304/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/304/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301284/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/304/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301284/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-311
+    name_ja: 石清水八幡宮
+    location:
+      city_ja: 八幡市
+      address_ja: 京都府八幡市八幡高坊30
+    geo:
+      lat: 34.8793
+      lng: 135.7002
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 石清水八幡宮のある男山は、京都府歴史的自然環境保全地域にも指定されており、3月下旬〜4月中旬には雪洞が立ち並ぶ中鮮やかな新緑と桜色に境内が覆われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/311/1766656194_s.webp
+        source_url: https://weathernews.jp/sakura/spot/311/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/311/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700257/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/311/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700257/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61047
+    name_ja: 善峯寺
+    location:
+      city_ja: 京都市西京区
+      address_ja: 京都府京都市西京区大原野小塩町1372
+    geo:
+      lat: 34.9381
+      lng: 135.6445
+    trees: 100
+    species_ja:
+      - シダレザクラ
+      - ヒガンザクラ
+      - ヤマザクラ
+      - ボタンザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61047/1766478013_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61047/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61047/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301362/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61047/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301362/
+    collections:
+      - weathernews
+      - navitime
+    description_ja: 京都府京都市西京区の山中に多くの堂宇をもつ寺院で、境内から京都市街や比叡山を一望できる絶景スポット。春には全山が薄紅色に染まる桜の名所としても知られ、ヒガンザクラや枝垂れ桜、ヤマザクラ、ボタンザクラ、ソメイヨシノなど様々な種類の桜を見ることができる。境内には100本を超える桜が植えられ、4月上旬から中旬が見ごろ。五代将軍・徳川綱吉の生母である桂昌院が手植えしたという「桂昌院桜」が有名である。
+  - id: wn-61013
+    name_ja: 退蔵院
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区花園妙心寺町35
+    geo:
+      lat: 35.0219
+      lng: 135.7194
+    trees: 4
+    species_ja:
+      - ベニシダレザクラ
+    description_ja: 境内の余香苑に入ると、目の前で優雅に枝を伸ばすベニシダレザクラが。おすすめビュースポットは、お庭の西側にある藤棚の下から眺め。手前の池、美しい刈り込みと流れる滝。その奥にパッと鮮やかな桜が庭全体に花を添えてくれます。ベニシダレザクラは、市内のソメイヨシノの見ごろを終える頃、見ごろを迎えております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61013/1766457653_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61013/
+    collections:
+      - weathernews
+  - id: wn-61031
+    name_ja: 大内峠一字観公園
+    location:
+      city_ja: 与謝野町
+      address_ja: 京都府与謝郡与謝野町字弓木3211
+    geo:
+      lat: 35.5653
+      lng: 135.1362
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 天橋立眺望四大観の一つ。標高166mの高台から天橋立が横一文字に眺められる。海と松並木とのコントラストが美しく、「大内峠の一字観」と文人らも絶賛し、その歌碑も見られる。春は、天橋立の眺めが桜で彩られ、より一層美しい。2007(平成19)年に丹後天橋立大江山国定公園に指定された。また、「京都の自然200選」にも選定されている。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82902618.jpg
+        source_url: https://weathernews.jp/sakura/spot/61031/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61031/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61031/
+    collections:
+      - weathernews
+  - id: wn-307
+    name_ja: 醍醐寺
+    location:
+      city_ja: 京都市伏見区
+      address_ja: 京都府京都市伏見区醍醐東大路町22
+    geo:
+      lat: 34.9514
+      lng: 135.8201
+    trees: 700
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ハクサンオオテマリ
+    description_ja: 874年創建の世界文化遺産で、豊臣秀吉が「醍醐の花見」を行ったことでも知られる桜の名所。国宝の五重塔などが立ち並ぶ境内に、しだれ桜、ソメイヨシノ、山桜、八重桜など、約700本に及ぶ桜が咲き誇る。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/307/1767851424_s.webp
+        source_url: https://weathernews.jp/sakura/spot/307/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/307/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301306/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%86%8D%E9%86%90%E5%AF%BA
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/307/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301306/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%86%8D%E9%86%90%E5%AF%BA
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-61014
+    name_ja: 知恩院
+    location:
+      city_ja: 京都市東山区
+      address_ja: 京都府京都市東山区林下町400
+    geo:
+      lat: 35.0054
+      lng: 135.7824
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤマザクラ
+    description_ja: 三門周辺の桜や友禅苑・方丈庭園のシダレザクラが見事です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95782149.jpg
+        source_url: https://weathernews.jp/sakura/spot/61014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61014/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301287/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61014/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301287/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61021
+    name_ja: 地蔵禅院
+    location:
+      city_ja: 井手町
+      address_ja: 京都府綴喜郡井手町大字井手東垣内16
+    geo:
+      lat: 34.8039
+      lng: 135.8192
+    trees: 30
+    species_ja:
+      - シダレザクラ
+    description_ja: 玉津岡神社の南隣、井手の里を一望できる高台に建っています。境内に咲くシダレザクラは京都府の天然記念物に指定されており、京都・円山公園の先代シダレザクラの兄弟木にあたります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61021/1767828422_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61021/
+    collections:
+      - weathernews
+  - id: wn-61023
+    name_ja: 長岡天満宮八条ヶ池
+    location:
+      city_ja: 長岡京市
+      address_ja: 京都府長岡京市天神2丁目15-13
+    geo:
+      lat: 34.9251
+      lng: 135.6886
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 八条ヶ池東堤の桜並木を散策しながら、ライトアップを楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82725242.jpg
+        source_url: https://weathernews.jp/sakura/spot/61023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61023/
+    collections:
+      - weathernews
+  - id: wn-61005
+    name_ja: 哲学の道
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区王子橋から浄土寺橋
+    geo:
+      lat: 35.0269
+      lng: 135.7954
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-10/95990445.jpg
+        source_url: https://weathernews.jp/sakura/spot/61005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61005/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1700017
+    name_ja: 哲学の道
+    location:
+      address_ja: 京都府京都市左京区若王子橋-浄土寺橋
+    geo:
+      lat: 35.019955
+      lng: 135.793881
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ヤマザクラ
+      - ヤエザクラ
+      - シダレザクラ
+    description_ja: 京都府京都市左京区の若王子神社から銀閣寺参道まで続く約2kmの散策道で、かつて哲学者の西田幾多郎らに愛されたことが名前の由来。毎年4月上旬ごろには疏水沿いに植えられたソメイヨシノなど数百本もの桜が美しいトンネルをつくり、情緒豊かな風景が楽しめる。中でも、開花とともに若葉が芽吹く日本画家・橋本関雪ゆかりの桜「関雪桜」が有名。近隣に駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1700017_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
+    collections:
+      - navitime
+  - id: wn-61028
+    name_ja: 天橋立傘松公園
+    location:
+      city_ja: 宮津市
+      address_ja: 京都府宮津市字大垣75
+    geo:
+      lat: 35.5865
+      lng: 135.1961
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 股のぞき発祥の地「天橋立傘松公園」から桜とともに天橋立をご覧いただけます。また、期間限定で夜間はリフト沿線も鮮やかにライトアップし、空中散歩や夜桜をお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61028/1766707883_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61028/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61028/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61028/
+    collections:
+      - weathernews
+  - id: wn-61025
+    name_ja: 天龍寺
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区嵯峨天龍寺芒ノ馬場町68
+    geo:
+      lat: 35.0158
+      lng: 135.6737
+    trees: 200
+    species_ja:
+      - ベニシダレザクラ
+      - ヤマザクラ
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 後醍醐天皇をお祀りしている多宝殿の周りを桜が取り囲んでいます。吉野で崩御された後醍醐天皇がいつでも桜が目愛れるように。また、多宝殿西側の望京の丘からは京の町を一望でき、多宝殿の桜を見下ろすことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61025/1768034268_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61025/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61025/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61025/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700008/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61041
+    name_ja: 東寺
+    location:
+      city_ja: 京都市南区
+      address_ja: 京都府京都市南区九条町１
+    geo:
+      lat: 34.9806
+      lng: 135.7478
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - 枝垂れ桜
+      - 河津桜
+      - 八重桜
+    description_ja: 京都のランドマークの国宝五重塔を借景に境内の桜が咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61041/1766541292_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61041/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61041/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61041/
+    collections:
+      - weathernews
+  - id: wn-6107
+    name_ja: 南禅寺
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区南禅寺福地町86
+    geo:
+      lat: 35.0114
+      lng: 135.7945
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国指定重要文化財となっている三門からの景色はまさに絶景です。境内の飲食は不可です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82652572.jpg
+        source_url: https://weathernews.jp/sakura/spot/6107/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6107/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6107/
+    collections:
+      - weathernews
+  - id: wn-61009
+    name_ja: 二尊院
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区嵯峨二尊院門前長神町27
+    geo:
+      lat: 35.0211
+      lng: 135.6681
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ（二尊院普賢象桜）
+      - シダレザクラ
+    description_ja: 平安初期の承和年間(834～848年)に嵯峨天皇の勅願により慈覚大師円仁が建立したことに始まる天台宗寺院。秋の紅葉で有名な寺院だが、春桜も美しいです。「紅葉の馬場」と呼ばれる参道には、カエデとサクラが植えられており、秋には絶景の紅葉、春には品のある桜と、四季折々の姿で訪れる人を魅了します。また、八重桜の「二尊院普賢象桜」があり、4月中旬から咲き、その花弁数約200枚を数え、気品のある淡紅色の花顔を見せてくれます。また、春季に咲く花を用いた花手水もあわせて行う予定でございます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71186477.jpg
+        source_url: https://weathernews.jp/sakura/spot/61009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61009/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301302/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61009/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301302/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61038
+    name_ja: 馬坂川
+    location:
+      city_ja: 京田辺市
+      address_ja: 京都府京田辺市河原北口
+    geo:
+      lat: 34.821
+      lng: 135.7761
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 馬坂川の桜並木は、約200本の桜が川沿いに咲き誇り、ウォーキングや散歩コースとしても市民に愛されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71050276.jpg
+        source_url: https://weathernews.jp/sakura/spot/61038/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61038/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61038/
+    collections:
+      - weathernews
+  - id: wn-61010
+    name_ja: 梅宮大社
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区梅津フケノ川町30
+    geo:
+      lat: 35.0042
+      lng: 135.6949
+    trees: 100
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - オオテマリ
+      - ショウゲツ
+      - フゲンゾウ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61010/
+    collections:
+      - weathernews
+  - id: wn-61001
+    name_ja: 八瀬周辺の桜（八瀬比叡山口駅～ケーブルカー沿い）
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都市左京区上高野東山
+    geo:
+      lat: 35.0662
+      lng: 135.8085
+    trees: 40
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 当社のケーブル八瀬駅周辺、またケーブルからの車窓から見る桜が見所です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61001/1766463648_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307130/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307130/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61019
+    name_ja: 板列公園
+    location:
+      city_ja: 与謝野町
+      address_ja: 京都府与謝郡与謝野町岩滝580
+    geo:
+      lat: 35.5716
+      lng: 135.1518
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 板列稲荷神社に隣接する公園で古くから桜の名所として知られています。美しい桜は地域住民にも親しまれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61019/
+    collections:
+      - weathernews
+  - id: wn-294
+    name_ja: 毘沙門堂門跡
+    location:
+      city_ja: 京都市山科区
+      address_ja: 京都府京都市山科区安朱稲荷山町18
+    geo:
+      lat: 35.0017
+      lng: 135.8185
+    trees: 50
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+      - 紅シダレ
+      - 牡丹桜
+      - 御衣黄桜
+    description_ja: 樹齢150年以上、枝幅30mのシダレザクラを中心に、境内を埋めつくすソメイヨシノ。紅シダレや牡丹桜、そして緑色の御衣黄桜も咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82721706.jpg
+        source_url: https://weathernews.jp/sakura/spot/294/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/294/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301384/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/294/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301384/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-61007
+    name_ja: 福知山城（福知山城公園）
+    location:
+      city_ja: 福知山市
+      address_ja: 京都府福知山市字内記5番地
+    geo:
+      lat: 35.2969
+      lng: 135.1296
+    trees: 34
+    species_ja:
+      - ソメイヨシノ　他
+      - ソメイヨシノ
+    description_ja: 登城坂沿に桜が咲いており、城東側からの眺めが良いです。夜間にはライトアップされます。福知山城の天守閣の開館時間は9時から17時までとなっております。（入館は16時30分まで）
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61007/1770101862_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61007/
+    collections:
+      - weathernews
+  - id: wn-295
+    name_ja: 平安神宮
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区岡崎西天王町
+    geo:
+      lat: 35.0165
+      lng: 135.7825
+    trees: 300
+    species_ja:
+      - ヤエベニシダレザクラ
+      - ソメイヨシノ
+      - ヤマザクラなど約20種類
+    description_ja: 春の神苑で競い合うように咲き誇る約20種類300本の桜のうち、半数は紅しだれ桜です。八重咲きなので、見頃を迎えるのは3月下旬からですが、開花期間は長く、2週間も見頃が続きます。文豪、谷崎潤一郎も「細雪」の中で「夕空にひろがっている紅の雲」と情緒豊かに表現されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61755070.jpg
+        source_url: https://weathernews.jp/sakura/spot/295/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/295/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/295/
+    collections:
+      - weathernews
+  - id: wn-61017
+    name_ja: 平等院
+    location:
+      city_ja: 宇治市
+      address_ja: 京都府宇治市宇治蓮華116
+    geo:
+      lat: 34.8893
+      lng: 135.8077
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 平等院鳳凰堂は10円玉のデザインに採用されていることで広く知られています。ミュージアム鳳翔館では多数の国宝を間近でご覧いただけます。庭園の阿字池の前にサクラがあり、鳳凰堂とサクラを一緒に楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61017/1766470899_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61017/
+    collections:
+      - weathernews
+  - id: wn-61035
+    name_ja: 平野神社
+    location:
+      city_ja: 京都市北区
+      address_ja: 京都府京都市北区平野宮本町1
+    geo:
+      lat: 35.0325
+      lng: 135.7327
+    trees: 400
+    species_ja:
+      - 魁桜
+      - 寝覚桜
+      - 平野妹背桜
+      - 手弱女桜
+      - 突羽根桜など約60種類
+    description_ja: 早咲きから遅咲きまで約60種類の桜があるので、長い期間楽しめる。また、平野神社原種の桜も多くあり、珍しい桜が鑑賞できる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82420330.jpg
+        source_url: https://weathernews.jp/sakura/spot/61035/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61035/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61035/
+    collections:
+      - weathernews
+  - id: wn-61008
+    name_ja: 保津峡
+    location:
+      city_ja: 亀岡市
+      address_ja: 京都府亀岡市保津町下中島2
+    geo:
+      lat: 35.0227
+      lng: 135.6398
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 亀岡から嵐山まで16kmの保津峡の区間にソメイヨシノ、ヤマザクラなど比較的長い期間楽しむことができます。急流の水しぶきを浴びながら、お花見ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61008/1771205839_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61008/
+    collections:
+      - weathernews
+  - id: wn-61003
+    name_ja: 法金剛院
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区花園扇野町49
+    geo:
+      lat: 35.0194
+      lng: 135.7161
+    trees: 13
+    species_ja:
+      - 待賢門院桜
+    description_ja: 待賢門院桜はヒガンザクラ系のベニシダレザクラ変種で待賢門院のゆかりの品種といわれる。毎月15日と季節ごとに期間限定で開門しています。詳細はHPにてご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71180326.jpg
+        source_url: https://weathernews.jp/sakura/spot/61003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61003/
+    collections:
+      - weathernews
+  - id: wn-61052
+    name_ja: 本願寺北山別院
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区一乗寺薬師堂町29
+    geo:
+      lat: 35.0427
+      lng: 135.7955
+    trees: 4
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 隣接する保育園の送迎があるため、来院の際は10～14時でお願い致します。また、土・日はお寺でお参りや行事を行っている場合があるため、一度ご連絡ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61052/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61052/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61052/
+    collections:
+      - weathernews
+  - id: wn-61043
+    name_ja: 妙満寺
+    location:
+      city_ja: 京都市左京区
+      address_ja: 京都府京都市左京区岩倉幡枝町91
+    geo:
+      lat: 35.0675
+      lng: 135.7743
+    species_ja:
+      - シダレザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61043/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61043/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61043/
+    collections:
+      - weathernews
+  - id: wn-61050
+    name_ja: 淀水路
+    location:
+      city_ja: 京都市伏見区
+      address_ja: 京都府京都市伏見区淀新町～下津町周辺 淀水路
+    geo:
+      lat: 34.9002
+      lng: 135.7174
+    species_ja:
+      - カワヅザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61050/1766635545_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61050/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61050/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61050/
+    collections:
+      - weathernews
+  - id: wn-61030
+    name_ja: 淀川河川公園背割堤地区
+    location:
+      city_ja: 八幡市
+      address_ja: 京都府八幡市八幡在応寺地先
+    geo:
+      lat: 34.8907
+      lng: 135.6972
+    trees: 220
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 宇治川と木津川の合流地点にある淀川河川公園背割堤地区。約1.4㎞にわたり、約220本のソメイヨシノが立ち並ぶ桜のトンネルが圧巻。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61030/1767850406_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61030/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61030/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61030/
+    collections:
+      - weathernews
+  - id: wn-301
+    name_ja: 嵐山
+    location:
+      city_ja: 京都市西京区
+      address_ja: 京都府京都市右京区嵯峨、西京区嵐山
+    geo:
+      lat: 35.0101
+      lng: 135.6749
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 右京区と西京区にまたがり、渡月橋の西にそびえる山。古くから嵐山は歌枕として多くの歌に詠まれているように、春は桜、秋は紅葉の名所として有名です。桂川両岸一帯を含めて嵐山と呼ばれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/301/1766539006_s.webp
+        source_url: https://weathernews.jp/sakura/spot/301/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/301/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B5%90%E5%B1%B1
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/301/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B5%90%E5%B1%B1
+    collections:
+      - weathernews
+      - sakura100
+  - id: nt-90011-sak1307159
+    name_ja: 嵐山公園
+    location:
+      address_ja: 京都府京都市右京区嵯峨・西京区嵐山
+    geo:
+      lat: 35.009501
+      lng: 135.666638
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ等
+    description_ja: 桜と紅葉の名所として有名な京都府京都市の観光地で、標高381.5mの「嵐山」と渡月橋を中心にした地域。平安時代から景勝地として親しまれ、春の桜の時期には国内外から多くの観光客が集まる。見ごろは品種によって異なり、3月中旬から4月下旬にかけて咲き継ぐ。花見の定番のソメイヨシノだけでなく、広沢池や大沢池周辺のヤマザクラや二尊院のフゲンゾウなど、嵐山の至るところで名桜が楽しめる。トイレ・売店・駐車場あり。最寄は嵐山駅。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307159_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307159/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307159_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307159/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307159_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307159/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307159/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307159/
+    collections:
+      - navitime
+  - id: wn-61012
+    name_ja: 龍安寺
+    location:
+      city_ja: 京都市右京区
+      address_ja: 京都府京都市右京区龍安寺御陵ノ下町13
+    geo:
+      lat: 35.0346
+      lng: 135.7184
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 3月末～4月初旬は境内には約2500坪の鏡容池があり、その周りにソメイヨシノ、ヤマザクラが、他には雪柳、ボケの花々が咲き乱れます。4月10日～4月20日頃には「石庭」南側のシダレザクラが咲き、境内シャクナゲも美しく、後半はヤエザクラが見頃になります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61012/1766550720_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61012/
+    collections:
+      - weathernews
+  - id: wn-61046
+    name_ja: 六角堂(紫雲山頂法寺)
+    location:
+      city_ja: 京都市中京区
+      address_ja: 京都府京都市中京区六角通東洞院西入堂之前町248
+    geo:
+      lat: 35.0077
+      lng: 135.7603
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 境内にはソメイヨシノと早咲きのシダレ桜「御幸桜（みゆきざくら）」があります。御幸桜は、咲き始めの花の色は白っぽく、段々と紅色に変化していきます。山門を入ってすぐの地ずり柳の新緑とのコントラストも美しいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95550846.jpg
+        source_url: https://weathernews.jp/sakura/spot/61046/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61046/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61046/
+    collections:
+      - weathernews
+  - id: wn-6112
+    name_ja: 和らぎの道(さくら公園)
+    location:
+      city_ja: 亀岡市
+      address_ja: 京都府亀岡市千歳町国分後田
+    geo:
+      lat: 35.045
+      lng: 135.5826
+    trees: 1500
+    species_ja:
+      - ヨシノザクラ
+    description_ja: 七谷川沿い(和らぎの道)約1kｍにわたる1500本余りの桜並木は、丹波随一の桜の名所として連日多くの花見客が訪れます。さくらウィーク期間中の夜はライトアップがおこなわれ、幻想的な夜桜が堪能できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6112/1767746716_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6112/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6112/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6112/
+    collections:
+      - weathernews
+  - id: wn-61051
+    name_ja: 鷲峰山 高台寺
+    location:
+      city_ja: 京都市東山区
+      address_ja: 京都府京都市東山区高台寺下河原町526番地
+    geo:
+      lat: 35.0008
+      lng: 135.7813
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 方丈のシダレサクラ臥龍池に映る石楠花境内の竹林
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/61051/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61051/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301285/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61051/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301285/
+    collections:
+      - weathernews
+      - navitime
+    trees: 50

@@ -1,0 +1,486 @@
+prefecture:
+  id: 32
+  name_ja: 島根県
+  name_en: Shimane
+spots:
+  - id: wn-68004
+    name_ja: チェリーロード
+    location:
+      city_ja: 松江市
+      address_ja: 島根県松江市島根町加賀・野波
+    geo:
+      lat: 35.576
+      lng: 133.0821
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 新日本街路樹百景に選ばれたチェリーロードは、約5キロの桜並木に、700本のソメイヨシノが美しい海岸線や遠く隠岐の島を背景に咲き誇り、すばらしいコントラストを描き出しています。桜と海のその見事なまでの調和は圧巻で、開花時期には大勢の花見客で賑わい、絶景のドライブコースです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-02/71232290.jpg
+        source_url: https://weathernews.jp/sakura/spot/68004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68004/
+    collections:
+      - weathernews
+  - id: wn-68001
+    name_ja: 愛宕山公園
+    location:
+      city_ja: 出雲市
+      address_ja: 島根県出雲市平田町6123-1
+    geo:
+      lat: 35.4397
+      lng: 132.8172
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: シカやヤギなどの動物達とのふれあいと、桜が一緒に楽しめます。すもう場やファミリー広場などの桜がきれいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/68001/1766727051_s.webp
+        source_url: https://weathernews.jp/sakura/spot/68001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68001/
+    collections:
+      - weathernews
+  - id: wn-396
+    name_ja: 安来公園
+    location:
+      city_ja: 安来市
+      address_ja: 島根県安来市安来町
+    geo:
+      lat: 35.4247
+      lng: 133.2507
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 丘の上の公園一帯に約450本のソメイヨシノが開花する桜の名所。開花期間中は「安来公園桜まつり」が開催され、夜にはぼんぼりが灯り夜桜も楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/396/1768790897_s.webp
+        source_url: https://weathernews.jp/sakura/spot/396/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/396/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/396/
+    collections:
+      - weathernews
+  - id: wn-68003
+    name_ja: 安来清水寺
+    location:
+      city_ja: 安来市
+      address_ja: 島根県安来市清水町528
+    geo:
+      lat: 35.4034
+      lng: 133.2816
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 天台宗の古刹である清水寺を中心とした清水公園。特に三重塔周辺は桜で彩られ、絢爛華麗な景色を目の当たりにできる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/68003/1770823641_s.webp
+        source_url: https://weathernews.jp/sakura/spot/68003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68003/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307075/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68003/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307075/
+    collections:
+      - weathernews
+      - navitime
+    trees: 1000
+  - id: wn-68013
+    name_ja: 井川の一本桜
+    location:
+      city_ja: 浜田市
+      address_ja: 島根県浜田市三隅町下古和
+    geo:
+      lat: 34.7467
+      lng: 132.0033
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: 田園風景のなかにひっそりと立つ推定樹齢250年の山桜です。田んぼや小川、菜の花など周囲の環境も含めて一枚の絵画のような景色を楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/68013/1766470510_s.webp
+        source_url: https://weathernews.jp/sakura/spot/68013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68013/
+    collections:
+      - weathernews
+  - id: wn-394
+    name_ja: 一の谷公園
+    location:
+      city_ja: 出雲市
+      address_ja: 島根県出雲市今市町
+    geo:
+      lat: 35.3599
+      lng: 132.7725
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 出雲随一の桜の名所。展望台からは出雲市街や島根半島の北山連山が眺望できます。ソメイヨシノを中心に多数の桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-31/71140055.jpg
+        source_url: https://weathernews.jp/sakura/spot/394/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/394/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/394/
+    collections:
+      - weathernews
+  - id: wn-68014
+    name_ja: 因原堤防
+    location:
+      city_ja: 川本町
+      address_ja: 島根県邑智郡川本町大字因原
+    geo:
+      lat: 34.9673
+      lng: 132.47
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 因原地区の堤防沿いに約100本もの桜並木が続きます。場所取りに追われることなく、贅沢にお花見を楽しむことができるのは田舎ならではの醍醐味。期間中はライトアップが行われ、多くの家族連れで賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/68014/1767770684_s.webp
+        source_url: https://weathernews.jp/sakura/spot/68014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68014/
+    collections:
+      - weathernews
+  - id: wn-6809
+    name_ja: 玉造温泉夜桜ライトアップ
+    location:
+      city_ja: 松江市
+      address_ja: 島根県松江市玉湯町玉造
+    geo:
+      lat: 35.4236
+      lng: 133.0093
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国道9号線から玉造温泉街までの玉湯川沿い約2kmの桜並木です。夜は夜桜を楽しめるようにライトアップされます。桜と温泉どちらも楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6809/1766710710_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6809/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6809/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6809/
+    collections:
+      - weathernews
+  - id: wn-68010
+    name_ja: 金谷城山桜
+    location:
+      city_ja: 益田市
+      address_ja: 島根県益田市美都町山本金谷
+    geo:
+      lat: 34.6459
+      lng: 131.9839
+    species_ja:
+      - エドヒガン
+    description_ja: 島根県の天然記念物に指定されているエドヒガンの一本桜。応永30年（1423年）頃に築かれた入船山の出丸（本城から張り出した形に築かれた小城）部分にあたるところに、築城時に植えられたと伝えられる。幹回りは7ｍ以上あり、大人が5人で手をつないでやっと届くほどの太さ。毎年、春になると市外・県外からも多くの観光客や写真家たちが訪れる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95668594.jpg
+        source_url: https://weathernews.jp/sakura/spot/68010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68010/
+    collections:
+      - weathernews
+  - id: wn-6802
+    name_ja: 三隅大平桜
+    location:
+      city_ja: 浜田市
+      address_ja: 島根県浜田市三隅町矢原1257番地外
+    geo:
+      lat: 34.7364
+      lng: 131.9688
+    trees: 1
+    species_ja:
+      - オオヒラサクラ
+    description_ja: 三隅大平桜(ミスミオオビラザクラ)は、彼岸桜、山桜両方の性格を併せ持った大変貴重な品種「ミスミオオヒラザクラ」として分類されており、昭和10年に国の天然記念物に指定されました。推定年齢は約660年、樹高約17m、枝張約30m、大平桜の日本一の巨木です。3月下旬から4月上旬頃に白い花を咲かせ、満開の時には枝張りの雄大さから、あたかも雪の小山を見るような景観を呈します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-13/61199998.jpg
+        source_url: https://weathernews.jp/sakura/spot/6802/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6802/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6802/
+    collections:
+      - weathernews
+  - id: wn-6803
+    name_ja: 三刀屋川河川敷(ソメイヨシノ)
+    location:
+      city_ja: 雲南市
+      address_ja: 島根県雲南市三刀屋町三刀屋
+    geo:
+      lat: 35.2934
+      lng: 132.879
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 三刀屋川堤防両岸を中心に、2kmに渡って約800本の桜、また中旬以降には緑の桜「ギョイコウ」が咲き誇り、雲南市内で2回の花見が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71063820.jpg
+        source_url: https://weathernews.jp/sakura/spot/6803/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6803/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6803/
+    collections:
+      - weathernews
+  - id: wn-6810
+    name_ja: 三刀屋川河川敷(御衣黄)
+    location:
+      city_ja: 雲南市
+      address_ja: 島根県雲南市三刀屋町三刀屋
+    geo:
+      lat: 35.2934
+      lng: 132.879
+    trees: 800
+    species_ja:
+      - ギョイコウ
+    description_ja: 三刀屋川堤防両岸を中心に、ソメイヨシノに遅れること約2週間、緑の桜「ギョイコウ」が咲き誇り、雲南市内で2回目の花見が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71439813.jpg
+        source_url: https://weathernews.jp/sakura/spot/6810/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6810/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6810/
+    collections:
+      - weathernews
+  - id: wn-395
+    name_ja: 松江城山公園
+    location:
+      city_ja: 松江市
+      address_ja: 島根県松江市殿町1ー5
+    geo:
+      lat: 35.4753
+      lng: 133.0502
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 2015年7月に国宝指定された現存天守の松江城一帯が公園となっており、3月25日〜4月8日(桜の開花状況で変更あり)はお城まつりが開催され、昼は家族連れ、夜は桜、城、ボンボリの灯りで夜桜を楽しむ人で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95770111.jpg
+        source_url: https://weathernews.jp/sakura/spot/395/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/395/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300358/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/395/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300358/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-68011
+    name_ja: 太鼓壇公園及び飯梨川周辺
+    location:
+      city_ja: 安来市
+      address_ja: 島根県安来市広瀬町町帳752
+    geo:
+      lat: 35.3675
+      lng: 133.1808
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 月山富田城跡内にある太鼓壇公園から飯梨川周辺で2kmにわたり約1000本のソメイヨシノが咲き誇ります。そぞろ歩きしながら花見が楽しめます。見頃に合わせライトアップで夜桜も観賞できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/68011/1767924286_s.webp
+        source_url: https://weathernews.jp/sakura/spot/68011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68011/
+    collections:
+      - weathernews
+  - id: wn-6801
+    name_ja: 斐伊川堤防桜並木
+    location:
+      city_ja: 雲南市
+      address_ja: 島根県雲南市木次町木次
+    geo:
+      lat: 35.2951
+      lng: 132.9006
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日本さくら名所100選にも選ばれている名所。花の見頃には、桜のトンネルとなり、中国地方随一の桜の名所としてその名を馳せています。桜の本数はおよそ800本です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95818931.jpg
+        source_url: https://weathernews.jp/sakura/spot/6801/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6801/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307132/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%96%90%E4%BC%8A%E5%B7%9D%E5%A0%A4%E9%98%B2%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6801/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307132/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%96%90%E4%BC%8A%E5%B7%9D%E5%A0%A4%E9%98%B2%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-397
+    name_ja: 浜田城山公園
+    location:
+      city_ja: 浜田市
+      address_ja: 島根県浜田市殿町
+    geo:
+      lat: 34.9018
+      lng: 132.0745
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 浜田城跡、石垣が現存する国道沿いの静かなたたずまいの公園にソメイヨシノが約300本あります。また、頂上の本丸跡からは日本海を一望できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/397/1766635638_s.webp
+        source_url: https://weathernews.jp/sakura/spot/397/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/397/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/397/
+    collections:
+      - weathernews
+  - id: wn-68009
+    name_ja: 妙用寺
+    location:
+      city_ja: 美郷町
+      address_ja: 島根県邑智郡美郷町浜原460
+    geo:
+      lat: 35.0637
+      lng: 132.6033
+    trees: 1
+    species_ja:
+      - ミョウヨウジザクラ
+    description_ja: ヤマザクラとエドヒガンザクラの雑種で県の天然記念物にも登録されている「ミョウヨウジザクラ」。推定樹齢500年以上で、美郷町にしかない桜です。また、妙用寺下道路を挟んで向かい側の参道には、枝垂れ桜や花桃が彩やかでより妙用寺を引き立てています。2025年からこの参道もライトアップを開始され、多くの方が足を止め、写真撮影を楽しんでおられました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71198096.jpg
+        source_url: https://weathernews.jp/sakura/spot/68009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68009/
+    collections:
+      - weathernews
+  - id: wn-68005
+    name_ja: 野坂桜並木
+    location:
+      city_ja: 浜田市
+      address_ja: 島根県浜田市弥栄町野坂
+    geo:
+      lat: 34.79
+      lng: 132.0716
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82513114.jpg
+        source_url: https://weathernews.jp/sakura/spot/68005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68005/
+    collections:
+      - weathernews
+  - id: wn-680010
+    name_ja: 養賀地区赤川左岸
+    location:
+      city_ja: 雲南市
+      address_ja: 島根県雲南市大東町養賀
+    geo:
+      lat: 35.3328
+      lng: 132.9425
+    trees: 252
+    species_ja:
+      - カワヅザクラ
+    description_ja: 赤川沿いの1kmにわたって河津桜が植栽され、見事な桜並木を形成しています。河津桜はソメイヨシノよりも早く開花し、濃いピンク色の花びらが特徴です。運が良ければ養賀原(ようかばら)の田んぼに飛来した白鳥とさくらを一緒に見ることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/680010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/680010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/680010/
+    collections:
+      - weathernews
+  - id: wn-68002
+    name_ja: 鷲原公園
+    location:
+      city_ja: 津和野町
+      address_ja: 島根県鹿足郡津和野町鷲原
+    geo:
+      lat: 34.4534
+      lng: 131.7568
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鷲原公園は日本で初めて「公園」とつけられた場所で全国で唯一原形を残す流鏑馬の馬場としても知られています。例年3月下旬〜4月上旬頃ソメイヨシノを中心とした桜が見頃を迎えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61668967.jpg
+        source_url: https://weathernews.jp/sakura/spot/68002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68002/
+    collections:
+      - weathernews

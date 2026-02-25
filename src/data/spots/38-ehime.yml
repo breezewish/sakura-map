@@ -1,0 +1,612 @@
+prefecture:
+  id: 38
+  name_ja: 愛媛県
+  name_en: Ehime
+spots:
+  - id: wn-422
+    name_ja: おしどり湖(鹿野川湖)・鹿野川園地
+    location:
+      city_ja: 大洲市
+      address_ja: 愛媛県大洲市肱川町山鳥坂
+    geo:
+      lat: 33.453
+      lng: 132.6826
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: おしどり湖(鹿野川湖）・鹿野川園地で3000本の桜が綺麗に咲きます。是非肱川で自然を満喫して下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61729502.jpg
+        source_url: https://weathernews.jp/sakura/spot/422/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/422/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/422/
+    collections:
+      - weathernews
+  - id: wn-73003
+    name_ja: すすきヶ原入野公園
+    location:
+      city_ja: 四国中央市
+      address_ja: 愛媛県四国中央市土居町入野174-9
+    geo:
+      lat: 33.9495
+      lng: 133.4175
+    trees: 210
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約210本の桜が咲き誇る公園では、春まつり期間中の夜間は21時までライトアップされた夜桜を楽しむことができます。※火気使用禁止。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-03/95703144.jpg
+        source_url: https://weathernews.jp/sakura/spot/73003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73003/
+    collections:
+      - weathernews
+  - id: wn-7307
+    name_ja: 開山公園
+    location:
+      city_ja: 今治市
+      address_ja: 愛媛県今治市伯方町伊方乙108番地38
+    geo:
+      lat: 34.2292
+      lng: 133.0652
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 本州と四国を結ぶ「瀬戸内しまなみ海道」が通る伯方島の北西部、標高149mの開山山頂にある公園。展望台からは、伯方・大島大橋、大三島橋、多々羅大橋が一望でき、春にはソメイヨシノなど約1000本の桜が咲き乱れ、夜桜用に提灯も灯される。少し遅れて群生するツツジも見頃となる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95831220.jpg
+        source_url: https://weathernews.jp/sakura/spot/7307/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7307/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7307/
+    collections:
+      - weathernews
+  - id: wn-73001
+    name_ja: 祇園公園
+    location:
+      city_ja: 大洲市
+      address_ja: 愛媛県大洲市八多喜町
+    geo:
+      lat: 33.5611
+      lng: 132.541
+    trees: 700
+    species_ja:
+      - ヤエザクラ
+    description_ja: 出店があり夜桜見物も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-04/71304086.jpg
+        source_url: https://weathernews.jp/sakura/spot/73001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73001/
+    collections:
+      - weathernews
+  - id: wn-7303
+    name_ja: 玉川ダム(玉川湖)
+    location:
+      city_ja: 今治市
+      address_ja: 愛媛県今治市玉川町龍岡
+    geo:
+      lat: 33.9927
+      lng: 132.9144
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 玉川湖の湖面に美しく映える桜並木は絶景です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7303/1766534094_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7303/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7303/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7303/
+    collections:
+      - weathernews
+  - id: wn-73012
+    name_ja: 広瀬公園
+    location:
+      city_ja: 新居浜市
+      address_ja: 愛媛県新居浜市上原2-10-42
+    geo:
+      lat: 33.9196
+      lng: 133.2855
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国の名勝に指定されている範囲を含む広瀬公園は、桜の名所として知られ、亀池の水面に映る景色や桜園は見所。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/73012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73012/
+    collections:
+      - weathernews
+  - id: wn-73004
+    name_ja: 三島公園
+    location:
+      city_ja: 四国中央市
+      address_ja: 愛媛県四国中央市中曽根町乙53-17
+    geo:
+      lat: 33.9725
+      lng: 133.5593
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 春になると園内に植樹された約500本の桜が咲き誇ります。展望台からは四国中央市の工場群や瀬戸内海が一望でき、「子供広場」の恐竜像やタコの滑り台は三島公園のシンボルで、市民に親しまれています。※園内火気使用禁止。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73004/1766549071_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73004/
+    collections:
+      - weathernews
+  - id: wn-418
+    name_ja: 松山城山公園
+    location:
+      city_ja: 松山市
+      address_ja: 愛媛県松山市丸之内
+    geo:
+      lat: 33.8445
+      lng: 132.7663
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「日本さくら名所100選」の1つ。城山山頂の本丸周辺にはツバキカンザクラやソメイヨシノなど約200本が咲き乱れます。江戸期に再建された天守と桜の景観をお楽しみ下さい。※火気厳禁
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-14/84034826.jpg
+        source_url: https://weathernews.jp/sakura/spot/418/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/418/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307068/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1%E5%85%AC%E5%9C%92_(%E6%9D%BE%E5%B1%B1%E5%B8%82)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/418/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307068/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1%E5%85%AC%E5%9C%92_(%E6%9D%BE%E5%B1%B1%E5%B8%82)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-73002
+    name_ja: 翠波高原
+    location:
+      city_ja: 四国中央市
+      address_ja: 愛媛県四国中央市金砂町平野山乙306-1
+    geo:
+      lat: 33.9402
+      lng: 133.5368
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 標高892mの翠波峰を中心とした約100haの高原は、美しい翠が波のようにたなびき、遠く石鎚の尾根へと連なります。4月中旬から4月下旬にはワシントン桜の園のソメイヨシノや山桜、八重桜も楽しめる人気のスポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/73002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73002/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307079
+    name_ja: 西山興隆寺
+    location:
+      address_ja: 愛媛県西条市丹原町古田1657
+    geo:
+      lat: 33.905653
+      lng: 133.025321
+    species_ja:
+      - シダレザクラ他
+    description_ja: 奈良時代からの歴史をもつ真言宗醍醐派の別格本山で、愛媛県西条市にある。本堂や銅鐘など多くの重要文化財を有し、紅葉の名所として有名。春は西条市の指定天然記念物「古田のシダレザクラ」とソメイヨシノの競演が楽しめる桜の名所であり、3月中旬から4月中旬には多くの参拝者で賑わう。見どころは、約1kmに桜が並ぶ参道や樹高約7mの枝垂れ桜など。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307079_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307079/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307079_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307079/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307079_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307079/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307079/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307079/
+    collections:
+      - navitime
+  - id: wn-73005
+    name_ja: 石畳東のシダレサクラ
+    location:
+      city_ja: 内子町
+      address_ja: 愛媛県喜多郡内子町石畳東地区
+    geo:
+      lat: 33.6305
+      lng: 132.6454
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 日本の原風景が広がる石畳地区。その中でも東地区にあるシダレザクラは樹齢350年を超える一本桜。満開となる時期の日曜日にはお祭りも開催されます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82484845.jpg
+        source_url: https://weathernews.jp/sakura/spot/73005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73005/
+    collections:
+      - weathernews
+  - id: wn-73009
+    name_ja: 積善山三千本桜
+    location:
+      city_ja: 上島町
+      address_ja: 愛媛県越智郡上島町岩城
+    geo:
+      lat: 34.2564
+      lng: 133.1473
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+      - シダレザクラ
+      - 神代曙
+      - 陽春
+      - 八重桜
+    description_ja: 積善山山頂までの登山道約4kmの道路沿いに、約3千本の桜が立ち並ぶ、瀬戸内海有数の桜の名所として知られています。山頂の展望台からは360度の瀬戸内海の絶景をご覧いただけます。＜注意事項＞・桜開花中、混雑解消のため登山道は車両交通規制があります。・桜の老朽化に伴い山頂付近の桜は2025年から順次植え替えが予定されております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73009/1766536955_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73009/
+    collections:
+      - weathernews
+  - id: wn-73011
+    name_ja: 赤坂泉公園
+    location:
+      city_ja: 砥部町
+      address_ja: 愛媛県伊予郡砥部町重光135
+    geo:
+      lat: 33.787
+      lng: 132.7839
+    trees: 160
+    species_ja:
+      - ソメイヨシノ
+      - 陽光桜
+    description_ja: 重信川の堤防沿いにある公園内には、ソメイヨシノのほか、陽光桜もあり、3月中旬から下旬にかけて、大ぶりで色鮮やかなピンクの花が園内を彩ります。また、堤防にはサイクリングロードが整備されています。休日などは駐車場の混雑が予想されますので、自転車や徒歩でお越しになることをお勧めします。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73011/1766463975_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73011/
+    collections:
+      - weathernews
+  - id: wn-73006
+    name_ja: 滝の宮公園
+    location:
+      city_ja: 新居浜市
+      address_ja: 愛媛県新居浜市滝の宮町8
+    geo:
+      lat: 33.9454
+      lng: 133.2799
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウ
+      - ヤマザクラ
+    description_ja: 広大な園内には、大型複合遊具をはじめ、動物広場や日本庭園、池などがあり、様々な楽しみ方ができます。※火気厳禁。ごみは各自でお持ち帰り下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61758706.jpg
+        source_url: https://weathernews.jp/sakura/spot/73006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73006/
+    collections:
+      - weathernews
+  - id: wn-73016
+    name_ja: 谷上山公園
+    location:
+      city_ja: 伊予市
+      address_ja: 愛媛県伊予市上吾川
+    geo:
+      lat: 33.745
+      lng: 132.7284
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 皿ヶ峰連峰県立自然公園内にある谷上山内に設立されている公園です。展望台までの道は整備されおり、伊予市が一望できるスポットとしても有名です。「花と緑でつつまれた、親しみのある公園」としてお花見シーズンには多くの人で賑わいます。公園内は火気使用禁止です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/73016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73016/
+    collections:
+      - weathernews
+  - id: wn-73013
+    name_ja: 茶堂公園
+    location:
+      city_ja: 東温市
+      address_ja: 愛媛県東温市南方２２０２
+    geo:
+      lat: 33.8024
+      lng: 132.8897
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/73013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73013/
+    collections:
+      - weathernews
+  - id: wn-416
+    name_ja: 道後公園(湯築城跡)
+    location:
+      city_ja: 松山市
+      address_ja: 愛媛県松山市道後公園1-4
+    geo:
+      lat: 33.8482
+      lng: 132.7868
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ツバキカンザクラ(約20本)が3月上旬から咲き始め、桜の期間を長く楽しめます。桜見物のほか、復元された湯築城跡の散策もオススメです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82789056.jpg
+        source_url: https://weathernews.jp/sakura/spot/416/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/416/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/416/
+    collections:
+      - weathernews
+  - id: wn-73019
+    name_ja: 頓田川河川敷
+    location:
+      city_ja: 今治市
+      address_ja: 愛媛県今治市東村
+    geo:
+      lat: 34.0375
+      lng: 133.0273
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73019/1771566098_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73019/
+    collections:
+      - weathernews
+  - id: wn-73008
+    name_ja: 南楽園(外堀)
+    location:
+      city_ja: 宇和島市
+      address_ja: 愛媛県宇和島市津島町近家甲1813
+    geo:
+      lat: 33.1332
+      lng: 132.5052
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 南楽園外堀沿いに広がるソメイヨシノや大島さくらなど約80本の桜並木の下でお花見が楽しめます。夜間は桜のライトアップやぼんぼりなどで園路沿いを幻想的に演出し昼間とは違った雰囲気が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73008/1766799614_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73008/
+    collections:
+      - weathernews
+  - id: wn-73010
+    name_ja: 尾首の池
+    location:
+      city_ja: 内子町
+      address_ja: 愛媛県喜多郡内子町立石
+    geo:
+      lat: 33.5653
+      lng: 132.7605
+    trees: 15
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 池を囲むような形で桜が咲き誇り、のどかな田舎風景を彩ります。桜が見頃となる週末には、地元の出店が並び温かく迎えてくれます。尾首地区までの道路は大変狭いため、コンパクトな車がおすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/73010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73010/
+    collections:
+      - weathernews
+  - id: wn-73007
+    name_ja: 冨士山公園
+    location:
+      city_ja: 大洲市
+      address_ja: 愛媛県大洲市柚木
+    geo:
+      lat: 33.5091
+      lng: 132.5604
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 冨士山登山道沿いに約3000本のソメイヨシノが咲き誇り薄紅色の風景が広がります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82413960.jpg
+        source_url: https://weathernews.jp/sakura/spot/73007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73007/
+    collections:
+      - weathernews
+  - id: wn-419
+    name_ja: 武丈公園
+    location:
+      city_ja: 西条市
+      address_ja: 愛媛県西条市福武甲2128-1
+    geo:
+      lat: 33.8994
+      lng: 133.1932
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 八堂山から武丈公園まで1500本の桜並木があります。「四国の小嵐山」とも呼ばれ、桜の名所として知られている武丈公園。桜が加茂川堤に美しく咲き乱れ花のトンネルをつくります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61702278.jpg
+        source_url: https://weathernews.jp/sakura/spot/419/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/419/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307140/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/419/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307140/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-421
+    name_ja: 野福峠
+    location:
+      city_ja: 西予市
+      address_ja: 愛媛県西予市明浜町俵津
+    geo:
+      lat: 33.3298
+      lng: 132.4983
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 野福峠はリアス海岸の美しい風景を望むドライブコースで、約7kmのつづら折りの沿道にソメイヨシノが咲く。春には、宇和海と桜が調和して更に美しい。また、約400本の桜並木と全面に広がる宇和海とみかん畑の調和が絶景です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/421/1766461162_s.webp
+        source_url: https://weathernews.jp/sakura/spot/421/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/421/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/421/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307155
+    name_ja: 野福峠
+    location:
+      address_ja: 愛媛県西予市明浜町
+    geo:
+      lat: 33.334711
+      lng: 132.511356
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 愛媛県西予市明浜町と宇和町をつなぐ海抜230m上の峠で、変化に富んだリアス式海岸の絶景が楽しめるスポット。つづら折りの道路沿いには約400本のソメイヨシノが植えられ、毎年3月下旬から4月上旬ごろに見事な花を咲かせる。ドライブコースとして人気があるほか、見ごろの日曜日には「野福峠さくら祭り」を開催。文楽の公演や各種イベント、特産品の販売などが行われ、多数の花見客で賑わう。駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307155_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307155_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307155_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
+    collections:
+      - navitime
+  - id: wn-423
+    name_ja: 和霊神社
+    location:
+      city_ja: 宇和島市
+      address_ja: 愛媛県宇和島市和霊町1451
+    geo:
+      lat: 33.23
+      lng: 132.5653
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 須賀川沿いの太鼓橋と神門と桜の景観の美しさが自慢です。ソメイヨシノは3月下旬が見頃です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/423/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/423/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/423/
+    collections:
+      - weathernews

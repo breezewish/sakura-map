@@ -1,0 +1,797 @@
+prefecture:
+  id: 35
+  name_ja: 山口県
+  name_en: Yamaguchi
+spots:
+  - id: wn-8103
+    name_ja: TOSOH PARK 永源山
+    location:
+      city_ja: 周南市
+      address_ja: 山口県周南市大字富田2355-2
+    geo:
+      lat: 34.0774
+      lng: 131.7675
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 350本の桜の主な種類はソメイヨシノで、その多くは記念植樹として植えられたものです。園内には芝生の広場やアスレチック遊具もあります。山頂にはオランダ製風車「ゆめ風車」もあり、同時期に咲くチューリップとあわせてお楽しみいただけます。お花見での火気の使用はガス器具のみとなります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8103/1768882687_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8103/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8103/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8103/
+    collections:
+      - weathernews
+  - id: wn-81009
+    name_ja: アデリーホシパーク
+    location:
+      city_ja: 柳井市
+      address_ja: 山口県柳井市新庄1326-1
+    geo:
+      lat: 33.9826
+      lng: 132.0855
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 人工芝スキー場付近の駐車場(第4駐車場)は「散歩するも良し」「車中から眺めるも良し」とする駐車場目の前に咲いています。高台からは柳井市も一望できる「隠れポイント」です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61797814.jpg
+        source_url: https://weathernews.jp/sakura/spot/81009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81009/
+    collections:
+      - weathernews
+  - id: wn-432
+    name_ja: ときわ公園
+    location:
+      city_ja: 宇部市
+      address_ja: 山口県宇部市大字沖宇部254番地
+    geo:
+      lat: 33.9484
+      lng: 131.2894
+    trees: 3500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ、カンヒザクラ、御衣黄など様々な種類の桜約3500本が咲き誇るときわ公園は、「さくら名所100選」に選ばれています。ときわ湖水ホール横の桜山は、多くのお花見客で賑わいます。3月中旬から4月上旬まで、夜桜ライトアップも開催予定です。中止になる場合もありますので、ホームページでご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95910194.jpg
+        source_url: https://weathernews.jp/sakura/spot/432/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/432/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307003/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E5%85%AC%E5%9C%92_(%E5%AE%87%E9%83%A8%E5%B8%82)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/432/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307003/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E5%85%AC%E5%9C%92_(%E5%AE%87%E9%83%A8%E5%B8%82)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-8104
+    name_ja: 一の坂川周辺
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市後河原
+    geo:
+      lat: 34.184
+      lng: 131.4766
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 古い町並みが残る市街地を穏やかに流れる川。大内弘世が京都を模して山口の街づくりを行った際、鴨川に見立てたといわれています。川の両岸には、ソメイヨシノが約200本並び、3月下旬から4月上旬の開花の時期にはライトアップを実施します。周辺には、古い町家を改装したお店が点在し、まちあるきが楽しめます。お花見をしながら、ゆっくり散策してみてはいかがでしょうか。周辺おさんぽマップ「大路ロビー　おさんぽMAP」で検索してください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82638818.jpg
+        source_url: https://weathernews.jp/sakura/spot/8104/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8104/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8104/
+    collections:
+      - weathernews
+  - id: wn-81007
+    name_ja: 王子山公園
+    location:
+      city_ja: 長門市
+      address_ja: 山口県長門市仙崎大泊
+    geo:
+      lat: 34.3988
+      lng: 131.1983
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 王子山公園から仙崎砂州を一望する事ができます。公園内には童謡詩人・金子みすゞの詩碑があり、「王子山」という詩のなかで「わたしの町はそのなかに、龍宮みたいに浮かんでる」と詠まれています。景色を一望しながら、詩の情景を味わうことが出来ます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81007/1768288236_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81007/
+    collections:
+      - weathernews
+  - id: wn-431
+    name_ja: 火の山公園
+    location:
+      city_ja: 下関市
+      address_ja: 山口県下関市みもすそ川町
+    geo:
+      lat: 33.9744
+      lng: 130.9606
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ヤマザクラ
+    description_ja: 園内の桜と、関門海峡の眺めが楽しめます。お子様連れには、昨年オープンしたアスレチックもおすすめです。※工事のため、山麓のトルコチューリップ園は休園中です。※山頂へはお車でのみ登ることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-03/71233051.jpg
+        source_url: https://weathernews.jp/sakura/spot/431/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/431/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/431/
+    collections:
+      - weathernews
+  - id: wn-81003
+    name_ja: 花岡八幡宮
+    location:
+      city_ja: 下松市
+      address_ja: 山口県下松市大字末武上400
+    geo:
+      lat: 34.0389
+      lng: 131.872
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 注意事項、「火気厳禁、宴会禁止」
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/81003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81003/
+    collections:
+      - weathernews
+  - id: wn-81012
+    name_ja: 笠山
+    location:
+      city_ja: 萩市
+      address_ja: 山口県萩市大字椿東1190
+    geo:
+      lat: 34.4495
+      lng: 131.4018
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 笠山山頂の公園でソメイヨシノが開花します。山頂展望台からは、一面の桜とその向こうに広がる日本海を眺めることができます。笠山のふもとにある「笠山椿群生林」の入口にある広場では、ソメイヨシノとともに遅咲きの椿を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81012/1767762987_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81012/
+    collections:
+      - weathernews
+  - id: wn-384
+    name_ja: 錦帯橋・吉香公園
+    location:
+      city_ja: 岩国市
+      address_ja: 山口県岩国市横山2丁目
+    geo:
+      lat: 34.1701
+      lng: 132.1757
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国の名勝、錦帯橋と約1500本の桜のコラボレーションは見事です。日没から午後10時まではぼんぼりが点灯し、夜桜を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82796931.jpg
+        source_url: https://weathernews.jp/sakura/spot/384/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/384/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300275/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%A6%99%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/384/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300275/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%A6%99%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-8112
+    name_ja: 五条千本桜
+    location:
+      city_ja: 周防大島町
+      address_ja: 山口県大島郡周防大島町大字西方(字五条)
+    geo:
+      lat: 33.8717
+      lng: 132.3678
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 片添ヶ浜海浜公園から沖家室島までの県道60号線沿いに続く桜並木です。咲き誇る満開の桜がアーケードのように出迎えてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8112/1767951402_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8112/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8112/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8112/
+    collections:
+      - weathernews
+  - id: wn-8105
+    name_ja: 功山寺
+    location:
+      city_ja: 下関市
+      address_ja: 山口県下関市長府川端 1-2-3
+    geo:
+      lat: 33.9961
+      lng: 130.982
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 境内に樹齢100〜150年の吉野桜がありますが、なかでも鎌倉末期創建の仏殿(国宝)を背景にして咲く様は特別の風情を感じます。高杉晋作にゆかりの寺で、慰霊祭や海峡ウォークには欠かせない場所です。また御衣黄桜とウコン桜という品種があり、それらは若草色の花が咲きます。※コロナが収まるまで、境内での飲食はお断りしております。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61708257.jpg
+        source_url: https://weathernews.jp/sakura/spot/8105/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8105/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307041/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8105/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307041/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-8118
+    name_ja: 厚狭川河畔
+    location:
+      city_ja: 美祢市
+      address_ja: 山口県美祢市大嶺町東分326-1
+    geo:
+      lat: 34.166
+      lng: 131.2051
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市役所の近くにあり、満開の時期になると多くの人で賑わいます。開花の時期には桜並木に沿って提灯が設置されます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82609654.jpg
+        source_url: https://weathernews.jp/sakura/spot/8118/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8118/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8118/
+    collections:
+      - weathernews
+  - id: wn-434
+    name_ja: 香山公園
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市香山町7番1号
+    geo:
+      lat: 34.1895
+      lng: 131.4729
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国宝瑠璃光寺五重塔は、桧皮葺屋根の伸びやかな反りが美しく、日本三名塔の一つに数えられています。日没から22時まで毎日ライトアップが行われます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61726713.jpg
+        source_url: https://weathernews.jp/sakura/spot/434/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/434/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/434/
+    collections:
+      - weathernews
+  - id: wn-81008
+    name_ja: 今富ダム公園
+    location:
+      city_ja: 宇部市
+      address_ja: 山口県宇部市大字今富822
+    geo:
+      lat: 34.0904
+      lng: 131.2527
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 今富ダムの湖畔に広がり、地形を自然のまま利用している公園です。遊歩道が整備され、約500本のソメイヨシノ等が咲きほころぶ春には、ウォーキングを楽しむ人々でにぎわいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81008/1768363318_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81008/
+    collections:
+      - weathernews
+  - id: wn-81010
+    name_ja: 若山公園
+    location:
+      city_ja: 山陽小野田市
+      address_ja: 山口県山陽小野田市大字小野田字三の若山2055-1
+    geo:
+      lat: 33.9778
+      lng: 131.1829
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市街地に近いお花見スポットで、夜桜が幻想的です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81010/1768455551_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81010/
+    collections:
+      - weathernews
+  - id: wn-81006
+    name_ja: 秋吉台家族旅行村
+    location:
+      city_ja: 美祢市
+      address_ja: 山口県美祢市秋芳町秋吉秋吉台1237-553
+    geo:
+      lat: 34.2319
+      lng: 131.294
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ヤマザクラ
+    description_ja: 敷地内にある「桜の園」では、ソメイヨシノ、ヤエザクラ、ヤマザクラが植えてあり、開花時期が違うので長く楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81006/1766469109_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81006/
+    collections:
+      - weathernews
+  - id: wn-8121
+    name_ja: 重源の郷
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市徳地深谷1137
+    geo:
+      lat: 34.2157
+      lng: 131.7022
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 昭和初期の山村集落を再現した施設です、茅葺屋根との風景はどこか懐かしさがあり、都会の桜とは異なった風情があります。またカタクリの花、ミツマタも咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2013-04-01/11102229.jpg
+        source_url: https://weathernews.jp/sakura/spot/8121/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8121/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8121/
+    collections:
+      - weathernews
+  - id: wn-8117
+    name_ja: 切戸川周辺
+    location:
+      city_ja: 下松市
+      address_ja: 山口県下松市西柳
+    geo:
+      lat: 34.0152
+      lng: 131.8684
+    trees: 130
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 切戸川両岸に沿って続く桜並木は、約130本のソメイヨシノで彩られます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2010-04-05/2258639.jpg
+        source_url: https://weathernews.jp/sakura/spot/8117/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8117/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8117/
+    collections:
+      - weathernews
+  - id: wn-81011
+    name_ja: 川島堤
+    location:
+      city_ja: 萩市
+      address_ja: 山口県萩市川島（土手沿い）
+    geo:
+      lat: 34.4012
+      lng: 131.4062
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 橋本川の土手沿いに、約250本のソメイヨシノの並木が続きます。遊歩道を散策しながら、水辺の風景と美しい桜並木を観賞できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81011/1767763254_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81011/
+    collections:
+      - weathernews
+  - id: wn-8120
+    name_ja: 戦場ヶ原公園
+    location:
+      city_ja: 下関市
+      address_ja: 山口県下関市後田町五丁目
+    geo:
+      lat: 33.9765
+      lng: 130.9325
+    trees: 320
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 下関で一番のサクラの名所です。季節になると公園全体がサクラで包まれたようになり、花見客で賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8120/1767939493_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8120/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8120/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8120/
+    collections:
+      - weathernews
+  - id: wn-8124
+    name_ja: 草山公園
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市秋穂東10716-1
+    geo:
+      lat: 33.9841
+      lng: 131.4386
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 半島の先にある高台からは、桜と周防灘、晴れた日には国東半島を見ることができます。近くには「海眺の宿あいお荘」があり、瀬戸内海を見渡せる絶好のロケーションで温泉や食事を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/8124/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8124/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8124/
+    collections:
+      - weathernews
+  - id: wn-8126
+    name_ja: 大原湖
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市徳地野谷605番地
+    geo:
+      lat: 34.2977
+      lng: 131.6836
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 湖畔を走る県道489号沿いに約600本のさくらが咲き、ドライブやウォーキングで美しいさくらを満喫できます。同湖畔の「大原湖キャンプ場」では、カヌー体験やフィッシング、マウンテンバイク、キャンプ、バーベキュー等も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82775338.jpg
+        source_url: https://weathernews.jp/sakura/spot/8126/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8126/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8126/
+    collections:
+      - weathernews
+  - id: wn-8119
+    name_ja: 大寧寺
+    location:
+      city_ja: 長門市
+      address_ja: 山口県長門市深川湯本1074-1
+    geo:
+      lat: 34.3282
+      lng: 131.1628
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シダレザクラなど
+    description_ja: 曹洞宗屈指の名刹。かつては西の高野とも言われ、大内氏終焉の地としても知られています。※夜のライトアップについては未定です。※ゴミはお持ち帰り下さいます様、お願いします。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8119/1766707540_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8119/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8119/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307103/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8119/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307103/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-8125
+    name_ja: 田布施川周辺
+    location:
+      city_ja: 田布施町
+      address_ja: 山口県熊毛郡田布施町下田布施
+    geo:
+      lat: 33.9553
+      lng: 132.0417
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 石城山を源として、まちの中央部を流れる田布施川沿の約1.5kmの桜並木。近くの公園の頂上から眺める桜も最高です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82715863.jpg
+        source_url: https://weathernews.jp/sakura/spot/8125/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8125/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307116/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8125/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307116/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-8101
+    name_ja: 徳佐八幡宮
+    location:
+      city_ja: 山口市
+      address_ja: 山口県山口市阿東徳佐中3673
+    geo:
+      lat: 34.3962
+      lng: 131.7264
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 見所は参道に咲く桜のトンネルです。ソメイヨシノやシダレザクラが計300本あります。桜のトンネルの下でのんびりしてみませんか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-09/61887559.jpg
+        source_url: https://weathernews.jp/sakura/spot/8101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8101/
+    collections:
+      - weathernews
+  - id: wn-429
+    name_ja: 日和山公園
+    location:
+      city_ja: 下関市
+      address_ja: 山口県下関市丸山町5丁目
+    geo:
+      lat: 33.9548
+      lng: 130.9313
+    trees: 220
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 繁華街からすぐ!下関の街が見渡せる古き良き公園です。園内にはソメイヨシノが多数あり、他にも、ヤエザクラ、ヤマザクラ、オオシマザクラがあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/429/1767939737_s.webp
+        source_url: https://weathernews.jp/sakura/spot/429/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/429/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/429/
+    collections:
+      - weathernews
+  - id: wn-435
+    name_ja: 萩城跡指月公園
+    location:
+      city_ja: 萩市
+      address_ja: 山口県萩市堀内1-1
+    geo:
+      lat: 34.4176
+      lng: 131.3835
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約600本のソメイヨシノのほか、日本では萩市でしか見ることができない県指定天然記念物ミドリヨシノが1本あります。ミドリヨシノは、純白の花に緑色のガクが特徴で、遠目に見ると淡い緑色に見える珍しい桜です。ソメイヨシノより開花が早く3月中旬〜下旬が見頃です。また、萩城跡指月公園そばの萩八景遊覧船では、桜の開花時期に合わせ、桜並木を船上から楽しむことができる桜観賞コースを特別運航します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/435/1767659143_s.webp
+        source_url: https://weathernews.jp/sakura/spot/435/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/435/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/435/
+    collections:
+      - weathernews
+  - id: wn-81004
+    name_ja: 防府天満宮
+    location:
+      city_ja: 防府市
+      address_ja: 山口県防府市松崎町14-1
+    geo:
+      lat: 34.0634
+      lng: 131.5741
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+      - カンザクラ
+      - ヤエザクラ
+      - カワヅザクラ
+    description_ja: 学問の神様として崇敬される菅原道真公を祀った日本最初の天満宮。境内の社殿の隣にある登録有形文化財「春風楼」から見える桜が一番の見所で、防府市を一望できます。天満宮裏の天神山公園付近では450本のソメイヨシノが咲き乱れ、多くの参拝者で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82740629.jpg
+        source_url: https://weathernews.jp/sakura/spot/81004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81004/
+    collections:
+      - weathernews
+  - id: wn-81005
+    name_ja: 毛利氏庭園
+    location:
+      city_ja: 防府市
+      address_ja: 山口県防府市多々良1-15-1
+    geo:
+      lat: 34.0627
+      lng: 131.5878
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - サトザクラ
+    description_ja: 国指定名勝毛利氏庭園は起伏に富んだ25000坪の近代日本庭園で風光明媚な瀬戸内を借景に四季折々の桜、サツキ、紅葉などの鮮やかさは来訪者を飽きさせません。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/81005/1767228400_s.webp
+        source_url: https://weathernews.jp/sakura/spot/81005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81005/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307154/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81005/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307154/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-430
+    name_ja: 竜王山公園
+    location:
+      city_ja: 山陽小野田市
+      address_ja: 山口県山陽小野田市大字小野田字番屋岳1261番
+    geo:
+      lat: 33.9566
+      lng: 131.1678
+    trees: 10000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノがほとんどで、ヤエザクラ、ヤマザクラと合わせて約1万本の桜があります。竜王山公園からの眺めは「日本の夕陽百選」にも選ばれており、約1万本の桜が山全体をピンク色に染め、すばらしい景観が望めます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/430/1768541502_s.webp
+        source_url: https://weathernews.jp/sakura/spot/430/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/430/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/430/
+    collections:
+      - weathernews
+  - id: wn-8122
+    name_ja: 緑と文化のプロムナード
+    location:
+      city_ja: 周南市
+      address_ja: 山口県周南市児玉町～花畠町
+    geo:
+      lat: 34.058
+      lng: 131.8114
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 徳山小学校前から周南市美術博物館までの約650ｍを結ぶ「緑と文化のプロムナード」。その道の両脇にずらりと並ぶ桜の木は、満開になると「桜のトンネル」を作り出し、見る者を魅了します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8122/1766624019_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8122/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8122/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8122/
+    collections:
+      - weathernews
+  - id: wn-81002
+    name_ja: 老の山公園
+    location:
+      city_ja: 下関市
+      address_ja: 山口県下関市彦島老の山公園
+    geo:
+      lat: 33.9474
+      lng: 130.9038
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 園内には、ソメイヨシノを中心にヤマザクラ、オオシマザクラなどがあります。響灘をはじめ対岸の北九州市を一望でき、芝生広場やコンビネーション遊具なども整備され、家族づれで賑わう公園です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/81002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/81002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/81002/
+    collections:
+      - weathernews

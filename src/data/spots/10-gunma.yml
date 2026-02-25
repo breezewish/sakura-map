@@ -1,0 +1,509 @@
+prefecture:
+  id: 10
+  name_ja: 群馬県
+  name_en: Gunma
+spots:
+  - id: wn-42007
+    name_ja: 伊香保グリーン牧場
+    location:
+      city_ja: 渋川市
+      address_ja: 群馬県渋川市金井2844-1
+    geo:
+      lat: 36.4987
+      lng: 138.9451
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 19品種1500本の桜が牧場内を彩ります。4月中旬にソメイヨシノなど（700本）、5月上旬に八重桜（600本）が見ごろを迎えます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/42007/1767235613_s.webp
+        source_url: https://weathernews.jp/sakura/spot/42007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42007/
+    collections:
+      - weathernews
+  - id: wn-4203
+    name_ja: 伊勢崎市華蔵寺公園
+    location:
+      city_ja: 伊勢崎市
+      address_ja: 群馬県伊勢崎市華蔵寺町1番地
+    geo:
+      lat: 36.3422
+      lng: 139.199
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 3月下旬〜4月上旬にはソメイヨシノが約600本、4月中旬〜5月上旬には霧島ツツジを中心に約5000本のツツジが咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83051397.jpg
+        source_url: https://weathernews.jp/sakura/spot/4203/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4203/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4203/
+    collections:
+      - weathernews
+  - id: wn-88
+    name_ja: 楽歩堂前橋公園
+    location:
+      city_ja: 前橋市
+      address_ja: 群馬県前橋市大手町3丁目16-1
+    geo:
+      lat: 36.3955
+      lng: 139.0597
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: みどりの散策エリアや｢さちの池｣周辺等、約350本のソメイヨシノが美しく咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82952618.jpg
+        source_url: https://weathernews.jp/sakura/spot/88/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88/
+    collections:
+      - weathernews
+  - id: wn-87
+    name_ja: 観音山
+    location:
+      city_ja: 高崎市
+      address_ja: 群馬県高崎市石原町
+    geo:
+      lat: 36.3081
+      lng: 138.9854
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: ソメイヨシノやヤマザクラなど約3000本が咲く中、参道にはみやげ店が軒を連ね、桜見物の人々で賑わいます。夜は市営観音山駐車場内の桜がライトアップされ、夜桜見物が出来ます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61778363.jpg
+        source_url: https://weathernews.jp/sakura/spot/87/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87/
+    collections:
+      - weathernews
+  - id: wn-42009
+    name_ja: 岩井親水公園
+    location:
+      city_ja: 東吾妻町
+      address_ja: 群馬県吾妻郡東吾妻町植栗
+    geo:
+      lat: 36.5789
+      lng: 138.8536
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約30万本のラッパ水仙と、1kmにも及ぶ桜並木が続いています。花の時期には多くの観光客でにぎわいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-17/96256017.jpg
+        source_url: https://weathernews.jp/sakura/spot/42009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42009/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307037
+    name_ja: 県立森林公園さくらの里
+    location:
+      address_ja: 群馬県甘楽郡下仁田町上小坂1258
+    geo:
+      lat: 36.286181
+      lng: 138.745771
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - カンザン
+      - フゲンソウ等40品種
+    description_ja: 群馬県甘楽郡下仁田町にある自然公園で、約47万平米もの敷地内にソメイヨシノやオオヤマザクラ、カンザン、フゲンソウなど約40品種4,000本もの桜が植えられている。妙義山麓を彩る薄ピンクの桜風景は、まさに圧巻。園内には散策路や広場、休憩所が整備され、花見とともにウォーキングも楽しめる。見ごろは4月中旬から5月上旬がピーク。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307037_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307037_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307037_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307037_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307037_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307037/
+    collections:
+      - navitime
+  - id: wn-42010
+    name_ja: 御嶽山白龍神社
+    location:
+      city_ja: 伊勢崎市
+      address_ja: 群馬県伊勢崎市東小保方町2944
+    geo:
+      lat: 36.3362
+      lng: 139.2409
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 境内の池の水面に映る桜が逆さ富士のような感じで見ごたえ抜群です｡
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95917686.jpg
+        source_url: https://weathernews.jp/sakura/spot/42010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42010/
+    collections:
+      - weathernews
+  - id: wn-42003
+    name_ja: 高崎城址公園
+    location:
+      city_ja: 高崎市
+      address_ja: 群馬県高崎市高松町
+    geo:
+      lat: 36.3217
+      lng: 139.0044
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 徳川家康の命を受けた井伊直政によって築城された高崎城。市内中心部に位置し、現在は三の丸外囲の土居と堀、乾櫓、東門が残っており、城址公園堀の内側にある約300本のソメイヨシノが高崎の街中を彩ります。水面に映る桜やライトアップで幻想的になる夜桜など、様々な角度から花見を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82884741.jpg
+        source_url: https://weathernews.jp/sakura/spot/42003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42003/
+    collections:
+      - weathernews
+  - id: wn-91
+    name_ja: 桜山公園
+    location:
+      city_ja: 藤岡市
+      address_ja: 群馬県藤岡市三波川2166-1(管理棟)
+    geo:
+      lat: 36.1653
+      lng: 139.0213
+    species_ja:
+      - ソメイヨシノ
+      - フユザクラ
+    description_ja: 約3000本のソメイヨシノと約7000本の冬桜が咲き誇り、山全体をサクラ色に染めます。冬桜は二度咲きの珍しい桜で11月〜12月にも咲き、紅葉と一緒に楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83037196.jpg
+        source_url: https://weathernews.jp/sakura/spot/91/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/91/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307050/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B1%B1_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/91/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307050/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B1%B1_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    trees: 10000
+  - id: wn-42006
+    name_ja: 七輿山古墳
+    location:
+      city_ja: 藤岡市
+      address_ja: " 群馬県藤岡市上落合"
+    geo:
+      lat: 36.2616
+      lng: 139.0397
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 七輿山古墳は6世紀前半につくられた三段築成の前方後円墳です。6世紀代の古墳としては東日本最大級のもので、全長150メートル、前方部幅115メートル、後円部径85メートル、高さは前方部・後円部ともに16メートルの大きさです。古墳の墳丘は緑地で松・桜等の疎林で覆われています。地元の協力により美観が保たれ、藤岡八景のひとつになっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82997639.jpg
+        source_url: https://weathernews.jp/sakura/spot/42006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42006/
+    collections:
+      - weathernews
+  - id: wn-4209
+    name_ja: 沼田公園(沼田城址)
+    location:
+      city_ja: 沼田市
+      address_ja: 群馬県沼田市西倉内町594
+    geo:
+      lat: 36.6481
+      lng: 139.0391
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヒガンサクラ
+    description_ja: 公園は、一周約800mで、ソメイヨシノ約200本、シダレザクラ1本、ヒガンザクラ2本があり、残雪の谷川連峰と桜の美しい光景を楽しむことができます。園内には鐘楼が建ち、日が暮れると提灯の灯りに照らされた夜桜と、鐘楼の魅力的な写真を撮影することもできます。また、園内に移築されている「旧生方家住宅」は、東日本で最も古い町家造りの建築物で、国の重要文化財に指定されています。沼田城は、戦国武将真田氏の居城であったことから、園内には真田氏時代の石垣の遺構が残り、発掘調査により出土した遺物は、「沼田市歴史資料館」で確認することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4209/1768289914_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4209/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4209/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4209/
+    collections:
+      - weathernews
+  - id: wn-42005
+    name_ja: 城之内公園
+    location:
+      city_ja: 大泉町
+      address_ja: 群馬県邑楽郡大泉町城之内2
+    geo:
+      lat: 36.2622
+      lng: 139.414
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 1489年に築城された「小泉城」の本丸と二の丸の一部を整備した公園です。桜の名所として花見の時期には多くの花見客が訪れます。また、公園内には、遊具施設があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82717672.jpg
+        source_url: https://weathernews.jp/sakura/spot/42005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42005/
+    collections:
+      - weathernews
+  - id: wn-42001
+    name_ja: 水上温泉(諏訪峡)
+    location:
+      city_ja: みなかみ町
+      address_ja: 群馬県利根郡みなかみ町湯原(小日向)
+    geo:
+      lat: 36.7633
+      lng: 138.97
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラなど
+    description_ja: 利根川の清冽な流れが造り出した渓谷です。渓谷沿いの遊歩道の散策が楽しめます。おすすめスポットは、高さ20ｍのつり橋「笹笛橋」。ソメイヨシノを初めとした桜と共に美しい新緑を満喫できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-06/71351350.jpg
+        source_url: https://weathernews.jp/sakura/spot/42001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42001/
+    collections:
+      - weathernews
+  - id: wn-90
+    name_ja: 赤城南面千本桜
+    location:
+      city_ja: 前橋市
+      address_ja: 群馬県前橋市苗ヶ島町2511-2
+    geo:
+      lat: 36.4693
+      lng: 139.1915
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「さくら名所100選の地」に選ばれ、毎年多くの観光客が訪れる群馬県を代表する桜の名所です。「赤城南面千本桜」と呼ばれる並木には、隣接する「みやぎ千本桜の森公園」を含めて、1000本を超える桜が咲き誇り、満開時には見事な桜のトンネルが見られます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/90/1766551906_s.webp
+        source_url: https://weathernews.jp/sakura/spot/90/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/90/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307085/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9F%8E%E5%8D%97%E9%9D%A2%E5%8D%83%E6%9C%AC%E6%A1%9C
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/90/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307085/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9F%8E%E5%8D%97%E9%9D%A2%E5%8D%83%E6%9C%AC%E6%A1%9C
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-42004
+    name_ja: 白井宿
+    location:
+      city_ja: 渋川市
+      address_ja: 群馬県渋川市白井
+    geo:
+      lat: 36.5147
+      lng: 139.0158
+    trees: 100
+    species_ja:
+      - カンザン
+      - イチヨウ
+    description_ja: 白井宿通り約950メートル区間の桜並木は例年4月下旬頃に見頃を迎えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-21/96404464.jpg
+        source_url: https://weathernews.jp/sakura/spot/42004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42004/
+    collections:
+      - weathernews
+  - id: wn-4202
+    name_ja: 八瀬川
+    location:
+      city_ja: 太田市
+      address_ja: 群馬県太田市本町、八幡町
+    geo:
+      lat: 36.2993
+      lng: 139.3698
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 住宅地を流れる八瀬川の両岸を、およそ150本もの桜が彩ります。川に沿って敷き詰められた赤煉瓦の遊歩道は「さくらプロムナード」と呼ばれ、桜を眺めながら散策するには最適です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82787812.jpg
+        source_url: https://weathernews.jp/sakura/spot/4202/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4202/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4202/
+    collections:
+      - weathernews
+  - id: wn-4206
+    name_ja: 敷島公園
+    location:
+      city_ja: 前橋市
+      address_ja: 群馬県前橋市敷島262
+    geo:
+      lat: 36.415
+      lng: 139.0514
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 約2700本の松林と枝垂れ桜のコントラストが美しいです。周辺にはカフェや雑貨屋などが点在しているので散策するのも楽しいです。また近接する利根川敷島河畔には約150本の桜並木がつらなる。平成6年に京都桜守・佐野藤右衛門氏が植えた「孫の代の桜」は公園の新しいシンボルです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82753335.jpg
+        source_url: https://weathernews.jp/sakura/spot/4206/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4206/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4206/
+    collections:
+      - weathernews
+  - id: wn-89
+    name_ja: 未来へはばたけ　山田製作所 桐生が岡動物園
+    location:
+      city_ja: 桐生市
+      address_ja: 群馬県桐生市宮本町3丁目8-13
+    geo:
+      lat: 36.4211
+      lng: 139.3403
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: レッサーパンダ、キリン、ライオン、カンガルー、カピパラ、ペンギン、フラミンゴ、クジャクなど人気の動物が花見と一緒に楽しめます。レッサーパンダ舎は、レッサーパンダが近くで見られる獣舎になっております。隣接する「桐生が岡遊園地」と併せて利用できます。バーベキュー等の火気使用は禁止です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71047878.jpg
+        source_url: https://weathernews.jp/sakura/spot/89/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/89/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/89/
+    collections:
+      - weathernews
+  - id: wn-4201
+    name_ja: 妙義山さくらの里
+    location:
+      city_ja: 下仁田町
+      address_ja: 群馬県下仁田町大字上小坂1258(管理事務所)
+    geo:
+      lat: 36.2827
+      lng: 138.7438
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 妙義山の南麓にある47ヘクタールの広大な公園。4月中旬から5月上旬にかけて、45種4000本の桜が咲き誇る。雄大な妙義山と桜の競演は見ごたえ間違いなし。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-13/61983619.jpg
+        source_url: https://weathernews.jp/sakura/spot/4201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4201/
+    collections:
+      - weathernews
+  - id: wn-42002
+    name_ja: 老神温泉
+    location:
+      city_ja: 沼田市
+      address_ja: 群馬県沼田市利根町老神361
+    geo:
+      lat: 36.6748
+      lng: 139.2096
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 遊歩道に沿って等間隔に植樹されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-20/83225695.jpg
+        source_url: https://weathernews.jp/sakura/spot/42002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42002/
+    collections:
+      - weathernews

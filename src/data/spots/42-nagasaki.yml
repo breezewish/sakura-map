@@ -1,0 +1,585 @@
+prefecture:
+  id: 42
+  name_ja: 長崎県
+  name_en: Nagasaki
+spots:
+  - id: wn-84013
+    name_ja: あぐりの丘
+    location:
+      city_ja: 長崎市
+      address_ja: 長崎県長崎市四杖町2671-1
+    geo:
+      lat: 32.8051
+      lng: 129.7976
+    trees: 100
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84013/
+    collections:
+      - weathernews
+  - id: wn-84014
+    name_ja: しまばら火張山花公園
+    location:
+      city_ja: 島原市
+      address_ja: 長崎県島原市上折橋町1465-2
+    geo:
+      lat: 32.79
+      lng: 130.3378
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 期間中は10ヘクタールの園内に桜200本、シダレ桜30本と春の花が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84014/
+    collections:
+      - weathernews
+  - id: wn-84003
+    name_ja: とけん山公園
+    location:
+      city_ja: 雲仙市
+      address_ja: 長崎県雲仙小浜町北本町
+    geo:
+      lat: 32.7257
+      lng: 130.2118
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 小高い山の公園で斜面に沿うように開花するため、折り重なるように咲く一面の桜を楽しめます。角度を変えると、小浜温泉街と橘湾を眼下に望み、桜、温泉街、海を一望できる県内でも珍しい公園です。ぜひご家族やご友人との思い出作りに利用されてはいかがでしょうか。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84003/
+    collections:
+      - weathernews
+  - id: wn-463
+    name_ja: 亀岡公園
+    location:
+      city_ja: 平戸市
+      address_ja: 長崎県平戸市岩の上町1517
+    geo:
+      lat: 33.3673
+      lng: 129.5563
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 亀岡公園は、平戸城周辺一帯にあり、隣接する亀岡神社境内では二度咲桜も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2019-04-03/45609613.jpg
+        source_url: https://weathernews.jp/sakura/spot/463/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/463/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/463/
+    collections:
+      - weathernews
+  - id: wn-464
+    name_ja: 橘公園
+    location:
+      city_ja: 雲仙市
+      address_ja: 長崎県雲仙市千々石町己529
+    geo:
+      lat: 32.7865
+      lng: 130.2066
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - オオチョウチン
+    description_ja: ソメイヨシノ、オウジョウチンなど約800本の桜があります。軍神橋より千々石川を望む眺望は抜群です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/464/1768799178_s.webp
+        source_url: https://weathernews.jp/sakura/spot/464/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/464/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/464/
+    collections:
+      - weathernews
+  - id: wn-84012
+    name_ja: 郡川の桜並木
+    location:
+      city_ja: 大村市
+      address_ja: 長崎県大村市鬼橋付近
+    geo:
+      lat: 32.9461
+      lng: 129.9555
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84012/
+    collections:
+      - weathernews
+  - id: wn-84005
+    name_ja: 権現山展望公園
+    location:
+      city_ja: 長崎市
+      address_ja: 長崎県長崎市野母町3290
+    geo:
+      lat: 32.5799
+      lng: 129.7406
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 展望所周辺で、約60本の桜（ソメイヨシノ、ヤマザクラ）の開花を鑑賞できます。天気が良ければ、世界文化遺産にも登録されている端島（軍艦島）、遠くには五島列島、天草なども見ることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84005/
+    collections:
+      - weathernews
+  - id: wn-84002
+    name_ja: 原城跡
+    location:
+      city_ja: 南島原市
+      address_ja: 長崎県南島原市南有馬町乙
+    geo:
+      lat: 32.6319
+      lng: 130.2554
+    trees: 70
+    species_ja:
+      - ソメイヨシノ
+    description_ja: キリシタン大名・有馬氏によって築城され「島原・天草一揆」終焉の地として有名な原城は、国の史跡に指定されています。本丸跡はさくらの名所として知られ、春には多くの見物客で賑わいます。原城跡は平成30年7月に「長崎と天草地方の潜伏キリシタン関連遺産」として世界文化遺産に登録されました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/84002/1769586719_s.webp
+        source_url: https://weathernews.jp/sakura/spot/84002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84002/
+    collections:
+      - weathernews
+  - id: wn-84011
+    name_ja: 香焼総合公園
+    location:
+      city_ja: 長崎市
+      address_ja: 長崎県長崎市香焼町2582
+    geo:
+      lat: 32.6901
+      lng: 129.7983
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84011/
+    collections:
+      - weathernews
+  - id: wn-84009
+    name_ja: 佐々川桜づつみ遊歩道
+    location:
+      city_ja: 佐々町
+      address_ja: 長崎県北松浦郡佐々町本田原免
+    geo:
+      lat: 33.2324
+      lng: 129.642
+    trees: 260
+    species_ja:
+      - カワヅザクラ
+    description_ja: 佐々川遊歩道沿いに約260本植栽されています。同時期には、菜の花も咲き、天気がいい日にはたくさんの人で賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84009/
+    collections:
+      - weathernews
+  - id: wn-84007
+    name_ja: 佐世保公園
+    location:
+      city_ja: 佐世保市
+      address_ja: 長崎県佐世保市平瀬町、湊町
+    geo:
+      lat: 33.1709
+      lng: 129.7176
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 佐世保公園は、佐世保川に隣接し、樹齢100年を超えるクスノキの巨木群からなる、水と緑の豊かな公園です。桜の他に大型遊具もあり、多くの方々に親しまれているスポットです。※公園内での火器の使用、バーベキューは禁止です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/84007/1771306891_s.webp
+        source_url: https://weathernews.jp/sakura/spot/84007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84007/
+    collections:
+      - weathernews
+  - id: wn-84008
+    name_ja: 真竹谷のしだれ桜群
+    location:
+      city_ja: 佐々町
+      address_ja: 長崎県北松浦郡佐々町古川免
+    geo:
+      lat: 33.2503
+      lng: 129.6435
+    trees: 60
+    species_ja:
+      - シダレザクラ
+    description_ja: 11種目約60本の「しだれ桜群」が咲き誇る佐々町の真竹谷。これだけの本数が1ヵ所にあるのは珍しく、穴場中の穴場と言われています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84008/
+    collections:
+      - weathernews
+  - id: wn-84010
+    name_ja: 千本公園
+    location:
+      city_ja: 佐々町
+      address_ja: 長崎県北松浦郡佐々町羽須和免208番
+    geo:
+      lat: 33.2343
+      lng: 129.6545
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内に約200本の「ソメイヨシノ」が植栽されており、公園裏手の階段沿いには、美しい桜が立ち並びます。また、公園には遊具もあり、子供連れでも楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84010/
+    collections:
+      - weathernews
+  - id: wn-84004
+    name_ja: 大山公園
+    location:
+      city_ja: 松浦市
+      address_ja: 長崎県松浦市福島町端免1517-1
+    geo:
+      lat: 33.3822
+      lng: 129.8292
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 約800本のソメイヨシノ、ヤマザクラなどが植えられ、桜の名所として有名です。　大山公園からは、多数の無人島からなる「イロハ島」の絶景が望めます。　満開の桜の奥にイロハ島を望む景色は、撮影スポットとしても格別です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-31/71121958.jpg
+        source_url: https://weathernews.jp/sakura/spot/84004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84004/
+    collections:
+      - weathernews
+  - id: wn-8406
+    name_ja: 大村公園(オオムラザクラ)
+    location:
+      city_ja: 大村市
+      address_ja: 長崎県大村市玖島1丁目43
+    geo:
+      lat: 32.8992
+      lng: 129.9591
+    trees: 2000
+    species_ja:
+      - オオムラザクラ
+      - ソメイヨシノ
+      - クシマザクラを含むヤエザクラ
+    description_ja: 「日本さくら名所100選」の地、大村公園は3月下旬から4月中旬にかけて、20種類以上のさまざまな桜が順次開花し、公園一帯をピンク色に染めます。中でもオオムラザクラは八重桜が2つ重なったように咲く「二段咲き」が特徴で花弁が60枚から200枚になるものもあり、優美で気高くサトザクラ系の名桜と言われます。園内にある「大村神社のオオムラザクラ」は国指定天然記念物にもなっています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8406/1766725995_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8406/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8406/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8406/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-460
+    name_ja: 大村公園(ソメイヨシノ)
+    location:
+      city_ja: 大村市
+      address_ja: 長崎県大村市玖島1丁目43
+    geo:
+      lat: 32.8992
+      lng: 129.959
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - オオムラザクラ
+      - クシマザクラを含むヤエザクラ
+    description_ja: 「日本さくら名所100選」の地、大村公園は3月下旬から4月中旬にかけて、20種類以上のさまざまな桜が順次開花し、公園一帯をピンク色に染めます。また「日本の歴史公園100選」の地にも選定されている大村公園は、大村藩主の居城であった玖島城跡にあります。城の南堀に面した美しい石垣の勾配とソメイヨシノが織りなす景色は、桜の季節ならではの城下町の風情が漂います。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/460/1766726069_s.webp
+        source_url: https://weathernews.jp/sakura/spot/460/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/460/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/460/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - sakura100
+  - id: nt-90011-sak1307102
+    name_ja: 大村公園(大村神社)
+    location:
+      address_ja: 長崎県大村市玖島1-43
+    geo:
+      lat: 32.897635
+      lng: 129.956667
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - オオムラザクラ
+      - クシマザクラ
+      - ヤエザクラ
+    description_ja: 長崎県大村市玖島の「玖島城」跡を利用して整備された総合公園で、「日本のさくら名所100選」に選ばれた花見の名所。園内には約2000本の桜が植栽され、60枚から200枚もの花びらをもつ国指定天然記念物「オオムラザクラ」や県指定天然記念物「クシマザクラ」も見ることができる。ソメイヨシノは3月下旬から、オオムラザクラとクシマザクラは4月上旬からが見ごろ。開花シーズン中は夜桜のライトアップが行われるほか、4月上旬に桜まつりが開催される。トイレ・売店・駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307102_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307102_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307102_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307102_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-84015
+    name_ja: 長崎県立西海橋公園(カワヅザクラ)
+    location:
+      city_ja: 西海市
+      address_ja: 長崎県佐世保市針尾東町2678
+    geo:
+      lat: 33.0518
+      lng: 129.754
+    trees: 35
+    species_ja:
+      - カワヅザクラ
+      - ソメイヨシノ
+      - オオシマザクラ
+    description_ja: ソメイヨシノより濃く、華やかな桃色の桜の開花と橋の下を流れるうず潮の見頃が重なった時は、美しいコントラストを描く。※火気の使用はできません。ソリゲレンデなど多数の遊具有り。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84015/
+    collections:
+      - weathernews
+  - id: wn-461
+    name_ja: 長崎県立西海橋公園(ソメイヨシノ)
+    location:
+      city_ja: 佐世保市
+      address_ja: 長崎県佐世保市針尾東町2678
+    geo:
+      lat: 33.0551
+      lng: 129.7579
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+    description_ja: うす桃色の桜の開花と橋の下を流れるうず潮の見頃が重なり、美しいコントラストを描く。※火気の使用はできません。ソリゲレンデなど多数の遊具有り。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61681192.jpg
+        source_url: https://weathernews.jp/sakura/spot/461/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/461/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/461/
+    collections:
+      - weathernews
+  - id: wn-465
+    name_ja: 島原城
+    location:
+      city_ja: 島原市
+      address_ja: 長崎県島原市城内1丁目1183-1
+    geo:
+      lat: 32.7892
+      lng: 130.3671
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 250本の桜が花霞を創り出します。島原城を取り囲んで壕端に250本の桜が満開。桜並木を散策するもよし、登城して眺めるもよし、春爛漫の島原城をお楽しみ下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2019-04-01/45585019.jpg
+        source_url: https://weathernews.jp/sakura/spot/465/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/465/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/465/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307136
+    name_ja: 眉山治山祈念公苑
+    location:
+      address_ja: 長崎県島原市上の原3-5643-7
+    geo:
+      lat: 32.775609
+      lng: 130.35817
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 眉山山麓の一角に位置する、寛政の大変災での遭難者供養と郷土の安泰繁栄を願って作られた公園。園内には約450本の桜が植えられており、島原市内有数の桜の名所として知られている。毎年桜の開花期間には桟敷席も設置され、ぼんぼりでライトアップされた夜桜見物を楽しむことができる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307136_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307136_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307136_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307136_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307136_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307136/
+    collections:
+      - navitime
+  - id: wn-84006
+    name_ja: 風頭公園
+    location:
+      city_ja: 長崎市
+      address_ja: 長崎県長崎市伊良林3-510-6 他
+    geo:
+      lat: 32.7461
+      lng: 129.8859
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 坂本龍馬銅像が見られ、眺望が素晴らしい公園。例年、350本のソメイヨシノにボンボリが灯り、「風頭公園桜まつり」が開催されます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/84006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/84006/
+    collections:
+      - weathernews
+  - id: wn-462
+    name_ja: 立山公園
+    location:
+      city_ja: 長崎市
+      address_ja: 長崎県長崎市立山5丁目175外
+    geo:
+      lat: 32.7598
+      lng: 129.8799
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 園内にはソメイヨシノをはじめ、数種類の桜が約700本植えられています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-02/31576651.jpg
+        source_url: https://weathernews.jp/sakura/spot/462/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/462/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/462/
+    collections:
+      - weathernews

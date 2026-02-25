@@ -1,0 +1,484 @@
+prefecture:
+  id: 2
+  name_ja: 青森県
+  name_en: Aomori
+spots:
+  - id: wn-3101
+    name_ja: 愛宕公園
+    location:
+      city_ja: 野辺地町
+      address_ja: 青森県上北郡野辺地町字寺ノ沢地内
+    geo:
+      lat: 40.8619
+      lng: 141.1337
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ中心に約700本の桜があります。愛宕山頂の展望台からは、鳥帽子岳、野辺地湾の絶景が見えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-22/83298741.jpg
+        source_url: https://weathernews.jp/sakura/spot/3101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3101/
+    collections:
+      - weathernews
+  - id: wn-13
+    name_ja: 芦野公園
+    location:
+      city_ja: 五所川原市
+      address_ja: 青森県五所川原市金木町芦野
+    geo:
+      lat: 40.9136
+      lng: 140.4517
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 津軽半島随一の桜の名所。ソメイヨシノやシダレザクラがあります。さくらの名所100選に選ばれています。芦野湖をぐるっと一周できる散策コース（約40分）は、心地よい湖畔の風と桜のほのかな香り・優しい色彩で、日常を忘れてしまうような体験が出来る場所です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/13/1767674396_s.webp
+        source_url: https://weathernews.jp/sakura/spot/13/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/13/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307007/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9E%9D%E3%81%9F%E3%82%81%E6%B1%A0
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/13/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307007/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9E%9D%E3%81%9F%E3%82%81%E6%B1%A0
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-31002
+    name_ja: 猿賀公園
+    location:
+      city_ja: 平川市
+      address_ja: 青森県平川市猿賀石林
+    geo:
+      lat: 40.6161
+      lng: 140.5647
+    trees: 330
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シダレザクラ
+    description_ja: 6.3haの公園に約330本のソメイヨシノや八重桜が咲き誇ります。鏡ヶ池を覆うように咲く桜と紅い橋が水面に映る光景は必見です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/31002/1766464269_s.webp
+        source_url: https://weathernews.jp/sakura/spot/31002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31002/
+    collections:
+      - weathernews
+  - id: wn-31011
+    name_ja: 館鼻公園
+    location:
+      city_ja: 八戸市
+      address_ja: 青森県八戸市大字湊町字館鼻78－16
+    geo:
+      lat: 40.5278
+      lng: 141.5215
+    trees: 29
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 川や海の近くで桜を楽しめる
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/31011/1766629529_s.webp
+        source_url: https://weathernews.jp/sakura/spot/31011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31011/
+    collections:
+      - weathernews
+  - id: wn-31001
+    name_ja: 舘野公園
+    location:
+      city_ja: 六戸町
+      address_ja: 青森県上北郡六戸町大字犬落瀬字柴山174-1235
+    geo:
+      lat: 40.6151
+      lng: 141.3309
+    trees: 700
+    species_ja:
+      - ヤマザクラ
+    description_ja: 可憐なピンク色の花びらが特徴の山桜で有名な館野公園。春には700本余りの山桜が咲き誇り、ゆったり散策しながら美しい桜を愛でられる人気のお花見スポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/31001/1769490032_s.webp
+        source_url: https://weathernews.jp/sakura/spot/31001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307021/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-31005
+    name_ja: 岩木山の桜並木
+    location:
+      city_ja: 弘前市
+      address_ja: 青森県弘前市百沢字裾野
+    geo:
+      lat: 40.6108
+      lng: 140.3036
+    trees: 6500
+    species_ja:
+      - オオヤマザクラ
+    description_ja: 岩木山の桜並木は通称「世界一の桜並木」とも呼ばれます。旧岩木町(現在は弘前市と合併)の時代、1985年(昭和60年)から10年をかけて「世界一の桜並木を！」をキャッチフレーズに、全長約20km・約6500本のオオヤマザクラが植樹されました。今では春の岩木山の名物として、毎年多くの人が訪れています。途中にある岩木山総合公園や津軽岩木スカイラインの付近では、桜のトンネルを見ることができます。また、桜並木からほど近い場所にありソメイヨシノが咲き渡る「桜林公園」や、湯段温泉の近くにある「ミズバショウ沼公園」も人気です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/31005/1769486303_s.webp
+        source_url: https://weathernews.jp/sakura/spot/31005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31005/
+    collections:
+      - weathernews
+  - id: wn-17
+    name_ja: 弘前公園
+    location:
+      city_ja: 弘前市
+      address_ja: 青森県弘前市下白銀町1-1
+    geo:
+      lat: 40.6077
+      lng: 140.4642
+    trees: 2600
+    species_ja:
+      - ソメイヨシノ
+      - 枝垂桜
+      - 八重桜
+    description_ja: 弘前城跡が公園になったもので、日本最古級のソメイヨシノ(青森県指定天然記念物・樹齢145年)や幹回りが日本一太いソメイヨシノ(環境省巨樹・巨木林データベース登録：582㎝)があります。また、弘前発祥の八重桜『弘前雪明かり』などソメイヨシノに続いて咲きはじめる桜が40品種約700本あり、その桜の中から厳選７品種の八重桜を『弘前七桜』と名付け、ソメイヨシノから始まる桜の見頃のリレーを楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/17/1768274793_s.webp
+        source_url: https://weathernews.jp/sakura/spot/17/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/17/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300201/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/17/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300201/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-15
+    name_ja: 合浦公園
+    location:
+      city_ja: 青森市
+      address_ja: 青森県青森市合浦2丁目86外26筆
+    geo:
+      lat: 40.8296
+      lng: 140.7799
+    trees: 630
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - サトザクラ
+      - オオヤマザクラ
+    description_ja: 海に面した公園です。野木和公園と合わせて、春まつり(4月中旬〜下旬予定。3月頃決定)が行われます。ソメイヨシノは555本、ヤエベニシダレザクラは25本、カンザン5本、オオシマザクラ8本、カンヒザクラ5本、ウコン4本、ジュウガツザクラ3本、イトシダレ2本、ベニユタカ3本、フゲンゾウ12本、コウカ7本、イチョウ1本、オオヤマザクラ3本あります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-23/96462646.jpg
+        source_url: https://weathernews.jp/sakura/spot/15/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/15/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/15/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307117
+    name_ja: 黒石市東公園
+    location:
+      address_ja: 青森県黒石市柵ノ木2(黒石さくらまつり会場/東公園さくら山)
+    geo:
+      lat: 40.636101
+      lng: 140.610381
+    trees: 675
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ他
+    description_ja: 青森県黒石市の高台に位置する公園で、田園を見渡す眺望と春の桜が美しいことで知られている。園内の遊歩道沿いの桜並木は頭上を覆うほどに枝を広げ、例年の見ごろは4月下旬から5月頭。ソメイヨシノを中心に多種の桜が楽しめる人気の花見スポットである。開花シーズンに開催される「黒石さくらまつり」では夜間ライトアップやステージイベントなどが行われ、多くの人で賑わう。トイレ・無料駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307117_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307117_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307117_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+    collections:
+      - navitime
+  - id: wn-12
+    name_ja: 三戸城跡　城山公園
+    location:
+      city_ja: 三戸町
+      address_ja: 青森県三戸郡三戸町梅内城ノ下
+    geo:
+      lat: 40.3819
+      lng: 141.2653
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 戦国時代に南部家の居城があった三戸城跡に整備された三戸城跡城山公園は、青森県南随一の桜の名所として知られています。春になると、ソメイヨシノ、ヤエザクラ、ヤエベニシダレなど、定番の桜に加え、黄色の花が特徴のギョイコウが楽しめます。2022年3月に国史跡の指定を受けています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/12/1768456878_s.webp
+        source_url: https://weathernews.jp/sakura/spot/12/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/12/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/12/
+    collections:
+      - weathernews
+  - id: wn-3103
+    name_ja: 十和田市官庁街通り
+    location:
+      city_ja: 十和田市
+      address_ja: 青森県十和田市西二番町、西三番町、西十二番町、西十三番町
+    geo:
+      lat: 40.6124
+      lng: 141.2064
+    trees: 156
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「日本の道・100選」にも選ばれた、桜の名所です。桜の本数は156本、隣接する中央公園と合わせると300本以上になります。見頃時期にあわせて「十和田市春まつり」も開催されます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3103/1766537035_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3103/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3103/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3103/
+    collections:
+      - weathernews
+  - id: wn-31006
+    name_ja: 小川原湖公園
+    location:
+      city_ja: 東北町
+      address_ja: 青森県上北郡東北町南谷地
+    geo:
+      lat: 40.7297
+      lng: 141.2817
+    trees: 910
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 4月下旬から5月上旬にかけて毎年行われる「東北町春まつり」メイン会場、小川原湖公園の千本桜は是非一度見に来てほしい観光スポットのひとつです。夜にはライトアップされるので、日中とはまた違った幻想的な桜のトンネルを歩くのもおすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/31006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31006/
+    collections:
+      - weathernews
+  - id: wn-3104
+    name_ja: 水源池公園
+    location:
+      city_ja: むつ市
+      address_ja: 青森県むつ市宇田町368
+    geo:
+      lat: 41.2579
+      lng: 141.1399
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 国の重要文化財に指定された「旧大湊水源地水道施設」や下北随一の釜臥山を背に、ソメイヨシノなど約200本の桜が美しく咲き誇ります。夜桜を楽しんでいただくため、桜のライトアップもおこなっています。バリアフリー園路が整備され、車椅子で訪れる人も安心して楽しめます。大型滑り台などの遊具もご利用頂けるほか、海望館からは八甲田山系や陸奥湾、自然の造形が美しい芦崎(砂嘴)、海上自衛隊の艦艇なども一望できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-26/96555092.jpg
+        source_url: https://weathernews.jp/sakura/spot/3104/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3104/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3104/
+    collections:
+      - weathernews
+  - id: wn-31004
+    name_ja: 石川大仏公園
+    location:
+      city_ja: 弘前市
+      address_ja: 青森県弘前市大字石川字大仏1
+    geo:
+      lat: 40.5483
+      lng: 140.5443
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-21/83241148.jpg
+        source_url: https://weathernews.jp/sakura/spot/31004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31004/
+    collections:
+      - weathernews
+  - id: wn-19
+    name_ja: 早掛沼公園
+    location:
+      city_ja: むつ市
+      address_ja: 青森県むつ市大字田名部字小平舘の内尻釜35-36
+    geo:
+      lat: 41.3143
+      lng: 141.2232
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ギョイコウ
+    description_ja: ソメイヨシノなど約400本の桜が美しく咲き誇り、訪れる人の目を楽しませます。珍しい緑色の花が咲く御衣黄(ギョイコウ)桜にも注目。こちらはソメイヨシノより1週間遅れて開花します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/19/1766467150_s.webp
+        source_url: https://weathernews.jp/sakura/spot/19/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/19/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/19/
+    collections:
+      - weathernews
+  - id: wn-18
+    name_ja: 長者山
+    location:
+      city_ja: 八戸市
+      address_ja: 青森県八戸市長者1丁目6-10
+    geo:
+      lat: 40.5034
+      lng: 141.4915
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - エドヒガン
+    description_ja: 樹齢200年以上の一本桜・エドヒガンは「おとぎの桜」の愛称で親しまれています。その他約100本の桜を有し、歴史を感じさせる神社と桜の景観美が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2013-05-06/11774234.jpg
+        source_url: https://weathernews.jp/sakura/spot/18/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/18/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/18/
+    collections:
+      - weathernews
+  - id: wn-31003
+    name_ja: 八戸公園
+    location:
+      city_ja: 八戸市
+      address_ja: 青森県八戸市大字十日市字天摩33-2
+    geo:
+      lat: 40.4743
+      lng: 141.5144
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 「八戸公園」は八戸市を代表する総合公園です。遊園地ゾーン、サル山など9つのゾーンで構成されており、家族みんなで楽しめる公園です。公園のシンボルの観覧車は本州最北端の観覧車。園内の桜の雲海を一望できるほか、八戸市中心街や太平洋の眺望も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96430806.jpg
+        source_url: https://weathernews.jp/sakura/spot/31003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31003/
+    collections:
+      - weathernews
+  - id: wn-31008
+    name_ja: 富士見湖パーク
+    location:
+      city_ja: 鶴田町
+      address_ja: 青森県北津軽郡鶴田町廻堰大沢81-150
+    geo:
+      lat: 40.7502
+      lng: 140.3738
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 風光明媚な津軽富士見湖畔にある富士見湖パークは、12.4ヘクタールもの広々とした敷地を誇っています。春になるとステージイベントなどが開催される春まつりが開催されます。四季折々の景色が楽しめる憩いの場として親しまれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/31008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31008/
+    collections:
+      - weathernews
+  - id: wn-16
+    name_ja: 野木和公園
+    location:
+      city_ja: 青森市
+      address_ja: 青森県青森市羽白字野木和58-3
+    geo:
+      lat: 40.8511
+      lng: 140.6762
+    trees: 890
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 合浦公園と合わせて、春まつり(4月中旬より下旬予定。3月頃決定)が行われます。ソメイヨシノが576本あります。まつりが終了しても違う桜を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-22/83298825.jpg
+        source_url: https://weathernews.jp/sakura/spot/16/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/16/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/16/
+    collections:
+      - weathernews

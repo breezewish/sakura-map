@@ -1,0 +1,1038 @@
+prefecture:
+  id: 20
+  name_ja: 長野県
+  name_en: Nagano
+spots:
+  - id: wn-48002
+    name_ja: さくラさく小径
+    location:
+      city_ja: 佐久市
+      address_ja: 長野県佐久市中込
+    geo:
+      lat: 36.2383
+      lng: 138.4652
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+    description_ja: さくラさく小径は、120本余りのソメイヨシノをはじめ、シバザクラなどの様々な花が公園の四季を彩ります。園内は清冽な千曲川が流れる佐久平を表現した「水」・春には桜の花が満開の「花」・佐久平を取り囲む山々を表現した「遊」の3つのゾーンで構成され、千曲川の瀬音を楽しみながらのジョギングや散歩には最適な場所となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-23/96459287.jpg
+        source_url: https://weathernews.jp/sakura/spot/48002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48002/
+    collections:
+      - weathernews
+  - id: wn-4809
+    name_ja: 伊那公園
+    location:
+      city_ja: 伊那市
+      address_ja: 長野県伊那市中央区5528-1
+    geo:
+      lat: 35.8407
+      lng: 137.9718
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - コヒガンザクラ
+    description_ja: 市街地東方の段丘上にある都市公園で、桜の老樹が一円に植えられており、桜の名所として知られています。園内から残雪の中央アルプスを望むことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4809/1766477400_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4809/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4809/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4809/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307010
+    name_ja: 稲荷山公園
+    location:
+      address_ja: 長野県佐久市臼田城山・勝間字城山
+    geo:
+      lat: 36.192349
+      lng: 138.481858
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 宇宙ロケットの形をした高さ35mの展望台「コスモタワー」を中心に、芝生広場やこども広場、遊歩道などが整備された公園。4月中旬から下旬頃にはソメイヨシノが開花し、花見スポットとして多くの人々で賑う。コスモタワーから眺める桜の景色も素晴らしく、佐久平や八ケ岳連峰を一望する絶景とともに花見が楽しめる。「信州サンセットポイント100選」に選出されており、夕暮れの景色も格別。トイレ・無料駐車場あり。最寄はJR臼田駅。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307010_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307010/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307010_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307010/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307010/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307010/
+    collections:
+      - navitime
+  - id: wn-48013
+    name_ja: 鵜山の桜並木
+    location:
+      city_ja: 池田町
+      address_ja: 長野県北安曇郡池田町中鵜
+    geo:
+      lat: 36.3758
+      lng: 137.8962
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の並木道のバックには、常念岳や信濃富士とも呼ばれる有明山を眺望することができます。残雪の北アルプスと共に、ソメイヨシノの桜道をお楽しみください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48013/1766538317_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48013/
+    collections:
+      - weathernews
+  - id: wn-4806
+    name_ja: 雲上殿
+    location:
+      city_ja: 長野市
+      address_ja: 長野県長野市箱清水3-1775
+    geo:
+      lat: 36.6704
+      lng: 138.1889
+    trees: 650
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 善光寺裏手から雲上殿につづく桜坂や展望道路を含め、約650本の桜が楽しめます。見晴らしも良いので、桜と長野市内が一望できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-05/71329150.jpg
+        source_url: https://weathernews.jp/sakura/spot/4806/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4806/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4806/
+    collections:
+      - weathernews
+  - id: wn-48004
+    name_ja: 家畜改良センター茨城牧場長野支場
+    location:
+      city_ja: 佐久市
+      address_ja: 長野県佐久市新子田
+    geo:
+      lat: 36.2551
+      lng: 138.4906
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 家畜改良センター茨城牧場長野支場は、明治39年（1906年）に「長野種馬所」として誕生し、馬の改良・増殖を行っていましたが、第二次世界大戦中は牧場の一部を海軍飛行場として利用されることもありました。終戦後は「長野種畜牧場」として、乳牛や山羊、ウサギの繁殖や飼料作物の改良が行われ、近年では、飼料用作物種子と山羊の研究が中心に行われています。桜の季節になると、ソメイヨシノの老木約50本が咲き、市内外から多くのお花見客で賑わっています。桜の季節が終わっても、自然を感じさせる憩いの場として親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83035277.jpg
+        source_url: https://weathernews.jp/sakura/spot/48004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48004/
+    collections:
+      - weathernews
+  - id: wn-4803
+    name_ja: 臥竜公園
+    location:
+      city_ja: 須坂市
+      address_ja: 長野県須坂市臥竜2-4-8
+    geo:
+      lat: 36.6432
+      lng: 138.3142
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「さくら名所100選」に選ばれている臥竜公園は、池の周りに160本、公園周辺全体で全体で約600本の桜が楽しめます。池に映る桜の回廊、水面に映る夜桜も幻想的。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83039691.jpg
+        source_url: https://weathernews.jp/sakura/spot/4803/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4803/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307018/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%87%A5%E7%AB%9C%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4803/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307018/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%87%A5%E7%AB%9C%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: nt-90011-sak1307033
+    name_ja: 軽井沢プリンスホテル
+    location:
+      address_ja: 長野県北佐久郡軽井沢町軽井沢
+    geo:
+      lat: 36.336687
+      lng: 138.633825
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 軽井沢駅前に広がる「プリンスグランドリゾート軽井沢」の敷地内には約300本の桜が植えられており、毎年4月下旬から5月上旬に満開を迎える。まだ雪の残る浅間山の眺望とともにソメイヨシノや枝垂れ桜などの桜を楽しむことができ、GWの花見スポットとして人気。敷地内の散策は自由で、ショッピングプラザでの買い物や食事、ゴルフ、レンタサイクルなど、リゾートならではの休日を堪能できる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307033_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307033/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307033_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307033/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307033_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307033/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307033/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307033/
+    collections:
+      - navitime
+  - id: wn-48009
+    name_ja: 光城山
+    location:
+      city_ja: 安曇野市
+      address_ja: 長野県安曇野市豊科光
+    geo:
+      lat: 36.3184
+      lng: 137.9425
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - ジンダイアケボノ
+    description_ja: 4月中旬、登山道沿いに植樹された1500本余の桜は、麓から1週間ほどかけて山頂まで咲き上がり、その様子は「昇り龍」と例えられています。桜花とセットで残雪の北アルプスを望める絶景は、安曇野の春の風物詩です。光城山の桜は、大正天皇の即位を記念して地元青年団により植樹されたのが始まりであったと言われています。光城山は地域の身近な里山として、また桜の名所として、多くの方から愛され、親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96433653.jpg
+        source_url: https://weathernews.jp/sakura/spot/48009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48009/
+    collections:
+      - weathernews
+  - id: wn-48008
+    name_ja: 光前寺
+    location:
+      city_ja: 駒ヶ根市
+      address_ja: 長野県駒ヶ根市赤穂29
+    geo:
+      lat: 35.7349
+      lng: 137.8954
+    trees: 70
+    species_ja:
+      - シダレザクラ
+    description_ja: 仁王門から大講堂付近を中心に、約70本のしだれ桜が植えられており、満開の時期を迎えますと境内が桜色に彩られます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-20/96373117.jpg
+        source_url: https://weathernews.jp/sakura/spot/48008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48008/
+    collections:
+      - weathernews
+  - id: wn-48029
+    name_ja: 荒神山公園
+    location:
+      city_ja: 辰野町
+      address_ja: 長野県上伊那郡辰野町樋口
+    geo:
+      lat: 35.9653
+      lng: 137.9923
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヒガンザクラ他
+    description_ja: ため池100選のたつの海の周囲を約800本のヒガンザクラやソメイヨシノが咲き誇り、公園全体が美しい桜色に染まります。園内には遊歩道が整備されており、散策しながら桜と山々の絶景を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48029/1769038964_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48029/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48029/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48029/
+    collections:
+      - weathernews
+  - id: wn-165
+    name_ja: 高遠城址公園
+    location:
+      city_ja: 伊那市
+      address_ja: 長野県伊那市高遠町東高遠
+    geo:
+      lat: 35.8338
+      lng: 138.0625
+    trees: 1500
+    species_ja:
+      - タカトオコヒガンザクラ(固有種)
+      - タカトオコヒガンザクラ
+    description_ja: タカトオコヒガンザクラという固有種の桜が約1500本植えられています。花形はやや小ぶりで赤みを帯びているのが特徴。その可憐さと規模の大きさは「天下第一の桜」と称されており、樹林は県の天然記念物の指定を受けています。また「日本さくら名所百選」、「桜の日本三大名所」に選ばれています。(平成2年日本さくらの会より)＊社会情勢により開催内容が変動する場合があります。最新情報を確認ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/165/1766476727_s.webp
+        source_url: https://weathernews.jp/sakura/spot/165/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/165/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000099/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%AB%98%E9%81%A0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/165/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000099/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E9%81%A0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-4805
+    name_ja: 国宝松本城
+    location:
+      city_ja: 松本市
+      address_ja: 長野県松本市丸の内4-1
+    geo:
+      lat: 36.2386
+      lng: 137.9689
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ他
+    description_ja: 昼間は、雪を冠した北アルプスを背景にした国宝松本城天守を、夜は白と黒のコントラストが美しい天守と桜のライトアップをご堪能いただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82939945.jpg
+        source_url: https://weathernews.jp/sakura/spot/4805/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4805/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4805/
+    collections:
+      - weathernews
+  - id: wn-4820
+    name_ja: 春日公園
+    location:
+      city_ja: 伊那市
+      address_ja: 長野県伊那市西町5949-1
+    geo:
+      lat: 35.8374
+      lng: 137.9482
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - コヒガンザクラ
+    description_ja: 満開の桜の下に広がる伊那の街と、残雪が輝く南アルプスの眺めが格別です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-05/71317437.jpg
+        source_url: https://weathernews.jp/sakura/spot/4820/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4820/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4820/
+    collections:
+      - weathernews
+  - id: wn-162
+    name_ja: 小諸城址懐古園
+    location:
+      city_ja: 小諸市
+      address_ja: 長野県小諸市丁311
+    geo:
+      lat: 36.3271
+      lng: 138.4176
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノを中心に約500本の桜が咲き、さくら名所100選の地にも選ばれています。小諸固有の桜「小諸八重紅枝垂」があり、花の色が濃く、流れるようなしなやかな枝から気品が漂います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83051631.jpg
+        source_url: https://weathernews.jp/sakura/spot/162/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/162/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000108/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%AB%B8%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/162/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000108/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%AB%B8%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-4802
+    name_ja: 松代城跡
+    location:
+      city_ja: 長野市
+      address_ja: 長野県長野市松代町松代44
+    geo:
+      lat: 36.5659
+      lng: 138.1961
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 真田十万石の城下町、長野市松代にある松代城跡。城内に約100本の桜が咲き、往時の風情が堪能できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/83004269.jpg
+        source_url: https://weathernews.jp/sakura/spot/4802/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4802/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4802/
+    collections:
+      - weathernews
+  - id: wn-4807
+    name_ja: 松本弘法山古墳
+    location:
+      city_ja: 松本市
+      address_ja: 長野県松本市並柳2-1000
+    geo:
+      lat: 36.213
+      lng: 137.9828
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ等
+    description_ja: 全長約66mの前方後方墳で3世紀末頃の墓と推定され、東日本最古級の前方後方墳。山全体にはソメイヨシノやヤマザクラなど約4000本が植樹される。山頂に登れば、桜と一緒に北アルプスや松本市街も一望できる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4807/1767748902_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4807/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4807/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4807/
+    collections:
+      - weathernews
+  - id: wn-163
+    name_ja: 松本城山公園
+    location:
+      city_ja: 松本市
+      address_ja: 長野県松本市蟻ヶ崎1219
+    geo:
+      lat: 36.2457
+      lng: 137.9543
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 北アルプスの展望台ともいえる城山公園は、明治8年に県内で最初の太政官布告公園の一つになりました。園内では、約500本のソメイヨシノが楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/163/1767750034_s.webp
+        source_url: https://weathernews.jp/sakura/spot/163/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/163/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/163/
+    collections:
+      - weathernews
+  - id: wn-48020
+    name_ja: 松本平広域公園 信州スカイパーク
+    location:
+      city_ja: 塩尻市
+      address_ja: 長野県松本市神林5300 松本平広域公園 信州スカイパーク
+    geo:
+      lat: 36.1626
+      lng: 137.9263
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: ・花のプロムナードゾーン、陸橋の南は緩やかな坂道になっており、左右に桜並木がある。桜のアーチになっている。・桜並木の北にある陸橋からそのまま道に沿っていくとターミナルゾーンに「アイネットやまびこドーム」がある。その北側にも大きい桜が立っており、その桜が咲いた後に並木道の桜も咲きはじめる。・また、競技スポーツゾーンのピクニック広場にも、広場の半周分くらいの桜が立ち並んでいる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/48020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48020/
+    collections:
+      - weathernews
+  - id: wn-168
+    name_ja: 上田城跡公園
+    location:
+      city_ja: 上田市
+      address_ja: 長野県上田市二の丸
+    geo:
+      lat: 36.4039
+      lng: 138.2446
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ロトウザクラ
+      - ウコンザクラ
+    description_ja: 名城と名高い上田城に約千本の桜が咲き誇り、園内が鮮やかなピンク色に彩られます。「上田城千本桜まつり」の期間中は、上田のグルメが楽しめる物産展の開催など、来場者をおもてなしする催しが目白押しです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/168/1766730722_s.webp
+        source_url: https://weathernews.jp/sakura/spot/168/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/168/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000233/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/168/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000233/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-4804
+    name_ja: 寝覚の床
+    location:
+      city_ja: 上松町
+      address_ja: 長野県木曽郡上松町寝覚
+    geo:
+      lat: 35.7727
+      lng: 137.6997
+    trees: 15
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 町営駐車場から寝覚の床美術公園にかけて約30本程の桜が植えられており、木曽川と花崗岩のコントラストが美しい寝覚の床に柔らかなピンクの彩りは一見の価値があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-13/61978932.jpg
+        source_url: https://weathernews.jp/sakura/spot/4804/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4804/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4804/
+    collections:
+      - weathernews
+  - id: wn-167
+    name_ja: 諏訪市高島公園
+    location:
+      city_ja: 諏訪市
+      address_ja: 長野県諏訪市高島1丁目20番
+    geo:
+      lat: 36.039
+      lng: 138.1123
+    trees: 90
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高島公園の敷地内にあります。ソメイヨシノが約70本、その他八重桜、シダレザクラが約20本植えられています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/167/1768543905_s.webp
+        source_url: https://weathernews.jp/sakura/spot/167/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/167/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/167/
+    collections:
+      - weathernews
+  - id: wn-166
+    name_ja: 水月公園
+    location:
+      city_ja: 下諏訪町
+      address_ja: 長野県諏訪郡下諏訪町東町中645番地
+    geo:
+      lat: 36.0846
+      lng: 138.0861
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - コヒガンザクラ
+    description_ja: 標高800mの高台にあり、約600本のソメイヨシノ、コヒガンザクラなどが咲き乱れる諏訪地方随一の桜の名所です。周囲には、松尾芭蕉、小林一茶、正岡子規をはじめ50碑を超える句碑がある。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-19/83191542.jpg
+        source_url: https://weathernews.jp/sakura/spot/166/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/166/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/166/
+    collections:
+      - weathernews
+  - id: wn-4817
+    name_ja: 西大滝ダム
+    location:
+      city_ja: 飯山市
+      address_ja: 長野県飯山市大字照岡天ノ久保3072-1
+    geo:
+      lat: 36.9778
+      lng: 138.4846
+    trees: 140
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約140本のソメイヨシノの桜がダム沿いに咲き誇ります。ダムの水面に映る桜も見所。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-01/96746892.jpg
+        source_url: https://weathernews.jp/sakura/spot/4817/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4817/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4817/
+    collections:
+      - weathernews
+  - id: wn-4819
+    name_ja: 千曲川桜堤(飯山市)
+    location:
+      city_ja: 飯山市
+      address_ja: 長野県飯山市大字常盤
+    geo:
+      lat: 36.8768
+      lng: 138.389
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - オオヤマサクラ
+      - エドヒガン
+    description_ja: ソメイヨシノ、オオヤマサクラの両方を見る事ができます。桜の木のバックに千曲川が流れている美しい景色です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-19/62109224.jpg
+        source_url: https://weathernews.jp/sakura/spot/4819/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4819/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4819/
+    collections:
+      - weathernews
+  - id: wn-4801
+    name_ja: 千人塚公園
+    location:
+      city_ja: 飯島町
+      address_ja: 長野県上伊那郡飯島町七久保千人塚
+    geo:
+      lat: 35.6694
+      lng: 137.8949
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ジンダイアケボノ
+    description_ja: 公園の中心にある城ヶ池の周りを囲むようにソメイヨシノなど約700本の桜が植えられており、湖面に映る中央アルプスと桜の絶景を見ることができます。標高830mに位置するため、平地より１週間程遅れて開花します。また、公園の一角には、桜の開花と同じ時期にミツバツツジの花も見頃を迎え、白いソメイヨシノとピンクのミツバツツジのコントラストが楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4801/1769135360_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4801/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4801/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307088/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4801/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307088/
+    collections:
+      - weathernews
+      - navitime
+  - id: nt-90011-sak1307101
+    name_ja: 大西公園
+    location:
+      address_ja: 長野県下伊那郡大鹿村大河原4340
+    geo:
+      lat: 35.560432
+      lng: 138.03542
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+      - ヤマザクラ
+    description_ja: 昭和36年(1961)の「大西山」崩落跡地に造られた長野県下伊那郡大鹿村の公園で、ソメイヨシノや枝垂れ桜、八重桜、山桜など約3000本の桜が咲く県内有数の花見スポット。桜は崩落犠牲者の慰霊のために植樹されたものであり、春には残雪の赤石岳を背景に一面が桜色に染まる。例年の見ごろは4月中旬から下旬で、ライトアップされた夜桜も格別の美しさ。4月中旬の日曜に「大鹿桜祭り」を開催。トイレ・売店・駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307101_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307101_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307101_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307101_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307101_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307101/
+    collections:
+      - navitime
+  - id: wn-48005
+    name_ja: 大草城址公園
+    location:
+      city_ja: 中川村
+      address_ja: 長野県上伊那郡中川村大草5033
+    geo:
+      lat: 35.6283
+      lng: 137.9456
+    trees: 200
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+      - ヤエザクラシダレ
+      - ウコン
+    description_ja: ソメイヨシノやエドヒガンなど10種類以上の桜が200本以上植えられており、長い期間、桜を楽しむことができます。また、中央アルプスの残雪を背景とした桜とアルプスの風景はカメラマンに人気のスポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48005/1769039514_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48005/
+    collections:
+      - weathernews
+  - id: wn-48022
+    name_ja: 大町観光道路
+    location:
+      city_ja: 大町市
+      address_ja: 長野県大町市大町上仲町４０９２
+    geo:
+      lat: 36.514
+      lng: 137.866
+    trees: 64
+    species_ja:
+      - ソメイヨシノ
+      - オオヤマザクラなど
+    description_ja: 春は満開の桜並木。ドライブコースや、ウォーキング、サイクリングコースとしてもおすすめのロケーションです。北アルプスの東側に位置しているので、桜と北アルプスの風景が楽しめるスポットとしても人気です。道中にはお花見のできる「市民の森」もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48022/1771483755_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48022/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48022/
+    collections:
+      - weathernews
+  - id: wn-171
+    name_ja: 大町公園
+    location:
+      city_ja: 大町市
+      address_ja: 長野県大町市大町8056-1
+    geo:
+      lat: 36.5046
+      lng: 137.8698
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大町市街を見おろせる東山の中腹に位置しており、残雪の北アルプスを背景に見る桜はとても美しいです。他の名所と開花時期が異なることから穴場と言えます。ソメイヨシノ20本、オオヤマザクラ10本が美しい花を咲かせます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/171/1766471114_s.webp
+        source_url: https://weathernews.jp/sakura/spot/171/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/171/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/171/
+    collections:
+      - weathernews
+  - id: wn-48023
+    name_ja: 中綱湖
+    location:
+      city_ja: 大町市
+      address_ja: 長野県大町市平２０２２２ 1
+    geo:
+      lat: 36.6003
+      lng: 137.8455
+    trees: 300
+    species_ja:
+      - オオヤマザクラ
+    description_ja: 湖面に映り込むオオヤマザクラは幻想的で人気があります。風の無い夜明け前後の時間帯がシャッターチャンスです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48023/1771478760_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48023/
+    collections:
+      - weathernews
+  - id: wn-48031
+    name_ja: 中曽根の権現桜
+    location:
+      city_ja: 箕輪町
+      address_ja: 長野県上伊那郡箕輪町中曽根293
+    geo:
+      lat: 35.9069
+      lng: 137.9465
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 伊那地方を代表する桜の巨木、推定樹齢1000年と言われるエドヒガンザクラの巨木。根元には権現様が祀られ、権現桜と呼ばれ、古くから地元で親しまれています。（長野県指定天然記念物）樹勢が良く整い、やや小さめの花をいっぱいに咲かせます。東西の枝で、花の色味が若干違い、訪れる人を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48031/1769996000_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48031/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48031/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48031/
+    collections:
+      - weathernews
+  - id: wn-4818
+    name_ja: 長峰スポーツ公園
+    location:
+      city_ja: 飯山市
+      address_ja: 長野県飯山市大字旭4722番地
+    geo:
+      lat: 36.8832
+      lng: 138.3674
+    trees: 550
+    species_ja:
+      - オオヤマサクラ
+    description_ja: 長峰スポーツ公園の針湖池沿いに桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-17/31834677.jpg
+        source_url: https://weathernews.jp/sakura/spot/4818/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4818/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4818/
+    collections:
+      - weathernews
+  - id: wn-172
+    name_ja: 長野市城山公園
+    location:
+      city_ja: 長野市
+      address_ja: 長野県長野市箱清水1丁目7-1
+    geo:
+      lat: 36.6635
+      lng: 138.192
+    trees: 470
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の間に善光寺が見えるロケーション！善光寺の東に位置するお花見の名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-16/83055083.jpg
+        source_url: https://weathernews.jp/sakura/spot/172/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/172/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/172/
+    collections:
+      - weathernews
+  - id: wn-4821
+    name_ja: 薄川堤防
+    location:
+      city_ja: 松本市
+      address_ja: 長野県松本市里山辺4294-44
+    geo:
+      lat: 36.2286
+      lng: 137.9909
+    trees: 360
+    species_ja:
+      - ソメイヨシノ
+      - 他
+    description_ja: 薄川は上流には美ケ原、下流には北アルプスの眺望を楽しむことができます。金華橋から逢初橋にかけて約360本の桜並木があります。桜の季節には家族連れなどで賑わい、アルプスの雪山を背景にピンク色に咲く花の美しさは見事です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4821/1767749292_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4821/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4821/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4821/
+    collections:
+      - weathernews
+  - id: wn-48012
+    name_ja: 飯綱山公園
+    location:
+      city_ja: 小諸市
+      address_ja: 長野県小諸市諸東房151-1
+    geo:
+      lat: 36.3429
+      lng: 138.4197
+    trees: 1500
+    species_ja:
+      - 小諸八重紅枝垂など20種類の桜
+      - 小諸八重紅枝垂
+    description_ja: 約23ヘクタールの広々とした飯綱山公園には、小諸市固有のシダレザクラ「小諸八重紅枝垂（こもろやえべにしだれ）」などの桜約20種類、約1500本が植えられています。飯綱山公園を桜の名所にしようと住民有志でつくる小諸八重紅枝垂保存会や市内外の団体・個人による「桜里親」が2003年から徐々に増やしてきました。小高い山の上にあるため、小諸城址懐古園より1週間ほど遅れて咲きます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/48012/1768369663_s.webp
+        source_url: https://weathernews.jp/sakura/spot/48012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48012/
+    collections:
+      - weathernews
+  - id: wn-173
+    name_ja: 飯山城址
+    location:
+      city_ja: 飯山市
+      address_ja: 長野県飯山市飯山2749番地
+    geo:
+      lat: 36.8564
+      lng: 138.3656
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+      - オオヤマザクラ
+      - シダレザクラ
+    description_ja: 飯山の桜の名所。ソメイヨシノが咲き誇ります。開花にあわせてぼんぼりも設置され、淡い明かりの中の桜も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-20/83237661.jpg
+        source_url: https://weathernews.jp/sakura/spot/173/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/173/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/173/
+    collections:
+      - weathernews
+  - id: wn-48007
+    name_ja: 飯田市大宮通り桜並木
+    location:
+      city_ja: 飯田市
+      address_ja: 長野県飯田市東新町1丁目 並木通り
+    geo:
+      lat: 35.5204
+      lng: 137.8278
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+      - ヒガンザクラ
+      - セイガンザクラ
+      - ギョイコウなど
+    description_ja: 大火後の大宮通り700ｍに、ソメイヨシノを中心に植えられた150本余りの桜群。満開時の桜のトンネルは見事。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95773574.jpg
+        source_url: https://weathernews.jp/sakura/spot/48007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48007/
+    collections:
+      - weathernews
+  - id: wn-170
+    name_ja: 名勝天龍峡
+    location:
+      city_ja: 飯田市
+      address_ja: 長野県飯田市川路4756-21付近
+    geo:
+      lat: 35.4397
+      lng: 137.8204
+    trees: 260
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 天龍峡は川下り、遊歩道散策の水陸両方で桜を楽しめます。3月末の春めき桜から4月中旬からの八重桜まで1ヶ月近くさまざまな桜に出会えます。また紅紫色のミツバツツジと桜のハーモニーも見所。2019年に開通した天龍峡大橋の展望用歩道「そらさんぽ天龍峡」から地上80mの風景もお楽しみ下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95913306.jpg
+        source_url: https://weathernews.jp/sakura/spot/170/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/170/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/170/
+    collections:
+      - weathernews
+  - id: wn-48001
+    name_ja: 与田切公園
+    location:
+      city_ja: 飯島町
+      address_ja: 長野県上伊那郡飯島町飯島4-1
+    geo:
+      lat: 35.6713
+      lng: 137.9118
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 与田切公園は飯島町内、与田切川沿いにある自然公園です。中央アルプスの山々に様々な雪形が現れるころ、公園入口から公園内に続く桜のトンネルができ、立体的に桜に囲まれた雰囲気を味わうことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82900228.jpg
+        source_url: https://weathernews.jp/sakura/spot/48001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48001/
+    collections:
+      - weathernews
+  - id: wn-48003
+    name_ja: 龍岡城五稜郭
+    location:
+      city_ja: 佐久市
+      address_ja: 長野県佐久市田口
+    geo:
+      lat: 36.196
+      lng: 138.5014
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 龍岡城五稜郭は、慶応3年(1867年)に田野口藩主松平乗謨(まつだいらのりかた)によって造られ、函館の五稜郭とともに日本に2つしかない星形稜堡をもつ洋式城郭です。昭和9年(1934年)5月1日に国史跡として登録もされています。城内は、ソメイヨシノだけでなく紅山桜や高遠城址公園からいただいた小彼岸桜もあり、長期間お花見を楽しむことができます。また、お堀に水面を花びらが埋めつくす花筏も美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/48003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/48003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/48003/
+    collections:
+      - weathernews

@@ -1,0 +1,655 @@
+prefecture:
+  id: 25
+  name_ja: 滋賀県
+  name_en: Shiga
+spots:
+  - id: nt-90011-sak1307001
+    name_ja: 「国史跡」釈迦山 百済寺(湖東三山)
+    location:
+      address_ja: 滋賀県東近江市百済寺町323
+    geo:
+      lat: 35.126876
+      lng: 136.288781
+    trees: 1350
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - シダレザクラ
+      - シキザクラ
+      - ユキヤナギ
+      - ミツマタ
+    description_ja: 滋賀県東近江市百済寺町の「鈴鹿山脈」西山腹にある近江最古級の寺院で、聖徳太子により創建された。境内は国史跡に指定されており、春には山桜やソメイヨシノ、枝垂れ桜などの競演が楽しめる。古寺と石垣を背景にした桜が見事で、さらに池泉回遊式庭園の遠望台から望む桜も素晴らしい。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307001_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307001/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307001_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307001/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307001_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307001/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307001/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307001/
+    collections:
+      - navitime
+  - id: wn-60019
+    name_ja: MIHO MUSEUM
+    location:
+      city_ja: 甲賀市
+      address_ja: 滋賀県甲賀市信楽町田代桃谷300
+    geo:
+      lat: 34.915
+      lng: 136.0161
+    trees: 100
+    species_ja:
+      - シダレザクラ
+    description_ja: レセプション棟から美術館棟に向かい、桜並木を通り抜け途中にあるトンネルの中から振り返るとの壁面に桜のピンク色が映り込んだ景色がご覧いただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/60019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60019/
+    collections:
+      - weathernews
+  - id: wn-60011
+    name_ja: にごり池自然公園
+    location:
+      city_ja: 湖南市
+      address_ja: 滋賀県湖南市大池町
+    geo:
+      lat: 35.0039
+      lng: 136.1229
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 湖南工業団地横にある古くからのため池「にごり池」周辺を整備した公園。桜の名所として知られていましたが、年々木が老いており、ボリュームが少なくなってきています。公園近くの茶釜川や思川沿いの桜をあわせると約1000本の桜があり、千本桜とも呼ばています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60011/1766463500_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60011/
+    collections:
+      - weathernews
+  - id: wn-60017
+    name_ja: 鮎河の千本桜
+    location:
+      city_ja: 甲賀市
+      address_ja: 滋賀県賀県甲賀市土山町鮎河うぐい川～青土ダム
+    geo:
+      lat: 34.9555
+      lng: 136.3392
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鈴鹿山系の麓、四季折々に彩られる深い山々に抱かれた静かな里、鮎河（あゆかわ）。その深き谷間を縫い湧き出す清水が集まり、清らかなうぐい川の流れとなります。その川辺の両側にある200本の桜（ソメイヨシノ）をはじめ、青土ダム(おおづちだむ）など周囲には千本以上の桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82705134.jpg
+        source_url: https://weathernews.jp/sakura/spot/60017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60017/
+    collections:
+      - weathernews
+  - id: wn-60012
+    name_ja: 雨山文化運動公園
+    location:
+      city_ja: 湖南市
+      address_ja: 滋賀県湖南市雨山2-1-1
+    geo:
+      lat: 35.0035
+      lng: 136.0454
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然豊かな雨山文化運動公園では、例年4月上旬から中旬にかけて1000本以上のソメイヨシノが咲き誇り、一山をピンク色に染め上げます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60012/1769482047_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60012/
+    collections:
+      - weathernews
+  - id: wn-60010
+    name_ja: 奥比叡ドライブウェイ
+    location:
+      city_ja: 大津市
+      address_ja: 滋賀県大津市坂本本町4220番地
+    geo:
+      lat: 35.0703
+      lng: 135.8393
+    trees: 1000
+    species_ja:
+      - ヤエザクラ
+    description_ja: 延暦寺総本堂根本中堂のある東塔から西塔・横川を経て比叡山麓の仰木まで続く、約12kmの奥比叡ドライブウェイ沿線の桜は、ほとんどがヤエザクラで約40種植えられている。例年、4月下旬から5月上旬のゴールデンウィークが見頃となる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-21/83253409.jpg
+        source_url: https://weathernews.jp/sakura/spot/60010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60010/
+    collections:
+      - weathernews
+  - id: wn-6006
+    name_ja: 奥琵琶湖パークウェイ
+    location:
+      city_ja: 長浜市
+      address_ja: 滋賀県長浜市西浅井町菅浦
+    geo:
+      lat: 35.4531
+      lng: 136.1477
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約18.8kmのドライブウェイに約3000本の桜が咲きます。湖岸の桜並木を通り、菅浦からは、つづら尾半島の尾根を縫うように伸びるドライブウェイで、桜のトンネルや遠い山々、びわ湖を眺める絶景コースです。平成５年９月１日から8:00〜18:00と変更になりました。※菅浦からのみ入場可
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82741110.jpg
+        source_url: https://weathernews.jp/sakura/spot/6006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6006/
+    collections:
+      - weathernews
+  - id: wn-288
+    name_ja: 海津大崎
+    location:
+      city_ja: 高島市
+      address_ja: 滋賀県高島市マキノ町海津
+    geo:
+      lat: 35.4492
+      lng: 136.0875
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 琵琶湖八景「暁霧・海津大崎の岩礁」として有名な景勝地で、湖岸に屹立する珍しい奇岩岩礁が神秘的で猛々しい雰囲気。湖岸沿い約4kmにわたって樹齢80年を超える老桜や次世代に引き継ぐ若木も含め約800本の桜並木が続き、近畿で最も遅い桜の名所として知られています。奥琵琶湖に春の訪れを告げる風物詩になっており「日本のさくら名所100選」にも選ばれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82872158.jpg
+        source_url: https://weathernews.jp/sakura/spot/288/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/288/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307019/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%A5%E5%A4%A7%E5%B4%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/288/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307019/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%A5%E5%A4%A7%E5%B4%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6002
+    name_ja: 近江富士花緑公園
+    location:
+      city_ja: 野洲市
+      address_ja: 滋賀県野洲市三上519
+    geo:
+      lat: 35.0537
+      lng: 136.0439
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - カンヒザクラ
+      - サトザクラ
+      - カワヅザクラ
+    description_ja: 早咲き品種のカンヒザクラ、カワヅザクラから、遅咲き品種のサトザクラまで、色々な品種の桜を植えておりますので、長い期間お花見を楽しんでいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6002/1768349784_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6002/
+    collections:
+      - weathernews
+  - id: wn-60002
+    name_ja: 湖東三山　金剛輪寺
+    location:
+      city_ja: 愛荘町
+      address_ja: 滋賀県愛知郡愛荘町松尾寺874
+    geo:
+      lat: 35.1613
+      lng: 136.283
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - カスミザクラなど
+    description_ja: 参道沿いや明寿院玄関前の桜が趣があって美しいです。名勝庭園奥の樹齢100年以上の古木のヤマザクラは圧巻。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60002/1766471199_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60002/
+    collections:
+      - weathernews
+  - id: wn-60003
+    name_ja: 湖東三山西明寺(ソメイヨシノ)
+    location:
+      city_ja: 甲良町
+      address_ja: 滋賀県犬上郡甲良町池寺26
+    geo:
+      lat: 35.1839
+      lng: 136.2843
+    trees: 60
+    species_ja:
+      - フダンザクラ
+      - シダレザクラ
+      - ソメイヨシノヤマザクラ
+      - オカメフジザクラ
+      - カンヒザクラ
+      - ソメイヨシノ
+    description_ja: 西明寺は平安時代834年に仁明天皇の勅願により開かれた天台宗の寺院で、湖東三山のひとつです。本堂は鎌倉時代の代表的建築物で国宝第1号に指定されています。また三重塔も国宝指定で、初層内部に極彩色の壁画が画かれ、鎌倉時代の壁画としては国内唯一のものです。樹齢約280年のものもある滋賀県唯一の天然記念物に指定される「不断桜(フダンザクラ)」や樹齢約230年の枝垂れ桜などといった花々が境内を彩ります。『近江の苔寺』としても有名で、苔と桜のコントラストも美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60003/1771033773_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60003/
+    collections:
+      - weathernews
+  - id: wn-60020
+    name_ja: 湖東三山西明寺(フダンザクラ)
+    location:
+      city_ja: 甲良町
+      address_ja: 滋賀県犬上郡甲良町池寺26
+    geo:
+      lat: 35.1839
+      lng: 136.2843
+    trees: 60
+    species_ja:
+      - フダンザクラ
+      - シダレザクラ
+      - ソメイヨシノヤマザクラ
+      - オカメフジザクラ
+      - カンヒザクラ
+    description_ja: 西明寺は平安時代834年に仁明天皇の勅願により開かれた天台宗の寺院で、湖東三山のひとつです。本堂は鎌倉時代の代表的建築物で国宝第1号に指定されています。また三重塔も国宝指定で、初層内部に極彩色の壁画が画かれ、鎌倉時代の壁画としては国内唯一のものです。樹齢約280年のものもある滋賀県唯一の天然記念物に指定される「不断桜(フダンザクラ)」や樹齢約230年の枝垂れ桜などといった花々が境内を彩ります。『近江の苔寺』としても有名で、苔と桜のコントラストも美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60020/1771033633_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60020/
+    collections:
+      - weathernews
+  - id: wn-60005
+    name_ja: 虎御前山
+    location:
+      city_ja: 長浜市
+      address_ja: 滋賀県長浜市中野町・湖北町山脇
+    geo:
+      lat: 35.4449
+      lng: 136.2631
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 虎御前山は織田信長が小谷山の浅井長政を攻めたときに陣を構えた歴史ロマンの山。信長、秀吉も愛でたであろう桜は、湖北の隠れた名所として地元の方に愛されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/60005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60005/
+    collections:
+      - weathernews
+  - id: wn-290
+    name_ja: 三井寺
+    location:
+      city_ja: 大津市
+      address_ja: 滋賀県大津市園城寺町246
+    geo:
+      lat: 35.0134
+      lng: 135.8528
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: およそ1300本のソメイヨシノやヤマザクラが咲きます。また、三井寺は近江八景「三井の晩鐘」で有名な景勝地で、多くの文化財も残り、見どころがつきません。※火気厳禁、飲酒厳禁
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/290/1770280527_s.webp
+        source_url: https://weathernews.jp/sakura/spot/290/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/290/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301135/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/290/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301135/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-60006
+    name_ja: 滋賀県醒井養鱒場
+    location:
+      city_ja: 米原市
+      address_ja: 滋賀県米原市上丹生1570
+    geo:
+      lat: 35.3
+      lng: 136.3392
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然の中で気軽に釣りが楽しめます。自分で釣った魚を塩焼きで食べることもでき、焼きたてのお味は最高です。春は池の周りを満開のソメイヨシノが彩り、見る人を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/60006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60006/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307081/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60006/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307081/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-60015
+    name_ja: 鹿深夢の森
+    location:
+      city_ja: 甲賀市
+      address_ja: 滋賀県甲賀市甲賀町大久保５０７−２
+    geo:
+      lat: 34.9011
+      lng: 136.2307
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鹿深夢の森は、屋外イベントに利用される「夢の庭」(芝生広場)、子どもたちが楽しめる大型遊具「忍者の砦」があります。丘の上には、甲賀創健館・図書館・生涯学習館・がある公園です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-12/96064349.jpg
+        source_url: https://weathernews.jp/sakura/spot/60015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60015/
+    collections:
+      - weathernews
+  - id: wn-60016
+    name_ja: 水口城跡
+    location:
+      city_ja: 甲賀市
+      address_ja: 甲賀市水口町本丸
+    geo:
+      lat: 34.9701
+      lng: 136.1656
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 水口城址の堀に沿って桜並木があります。資料館前には枝垂れ桜もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82909771.jpg
+        source_url: https://weathernews.jp/sakura/spot/60016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60016/
+    collections:
+      - weathernews
+  - id: wn-60014
+    name_ja: 清水の桜
+    location:
+      city_ja: 高島市
+      address_ja: 高島市マキノ町海津
+    geo:
+      lat: 35.4729
+      lng: 136.0794
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 海津大崎並木口から北へ約1km、海津の墓地の中に1本の老樹「清水（しょうず）の桜」があります。樹種はアズマヒガンザクラ。樹齢300年以上といわれ、水上勉の小説｢桜守｣の中でも賞賛されています。加賀藩前田候が上洛の折、何度もこの桜を愛でたことから｢見返りの桜｣とも呼ばれています。海津大崎の桜より少し早く満開見頃を迎えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82712177.jpg
+        source_url: https://weathernews.jp/sakura/spot/60014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60014/
+    collections:
+      - weathernews
+  - id: wn-287
+    name_ja: 石山寺
+    location:
+      city_ja: 大津市
+      address_ja: 滋賀県大津市石山寺1-1-1
+    geo:
+      lat: 34.9605
+      lng: 135.9056
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノを中心に約600本の桜があります。3月中旬ごろからカンザクラが咲きはじめ、4月中旬ごろまで、様々な種類の桜が楽しめます。※シートを敷いての飲食は不可です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71161498.jpg
+        source_url: https://weathernews.jp/sakura/spot/287/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/287/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301136/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/287/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301136/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-6001
+    name_ja: 八幡公園・八幡堀
+    location:
+      city_ja: 近江八幡市
+      address_ja: 滋賀県近江八幡市宮内町
+    geo:
+      lat: 35.1414
+      lng: 136.0848
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 豊臣秀吉の甥の秀次は八幡山に城を築き、楽市楽座の施行や、湖上交通の要衝である八幡堀の整備など、商都としての発展に尽力しました。現在、八幡公園には秀次の銅像が立ち、今も情緒あるたたずまいが残る八幡堀には遊歩道が設けられ、桜並木の美しい近江八幡の名所となっています。先人たちが生きた往時に想いを馳せながら、春の散歩を楽しんでみませんか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82960724.jpg
+        source_url: https://weathernews.jp/sakura/spot/6001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6001/
+    collections:
+      - weathernews
+  - id: wn-60001
+    name_ja: 比叡山延暦寺
+    location:
+      city_ja: 大津市
+      address_ja: 滋賀県大津市坂本本町4220
+    geo:
+      lat: 35.0729
+      lng: 135.8338
+    trees: 1000
+    species_ja:
+      - ショウケツ
+      - カンザン
+      - ヤエザクラ
+      - フゲンゾウ
+      - ギジョ
+      - キブネ
+      - シラユキ
+      - アズマニシキ
+      - フクロクジュ
+      - ヨウキヒ
+      - ギョイコウ
+    description_ja: 延暦寺総本堂の根本中堂(国宝)は現在大改修をしています。（平成二十八年～)修学ステージからは貴重な改修現場を間近で見学することができます。※根本中堂には最澄の教元を象徴する灯り「不滅の法灯」が創建以来、絶えることなく灯り続けています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60001/1766813894_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700422/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700422/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-60004
+    name_ja: 琵琶湖疏水
+    location:
+      city_ja: 大津市
+      address_ja: 滋賀県大津市三井寺町
+    geo:
+      lat: 35.0121
+      lng: 135.8575
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 琵琶湖から京都へ湖水を運ぶため、明治時代に造られた水路。その両岸には山桜やソメイヨシノなどの桜が咲き誇り、大津市内の桜の名所となっています。夜間はライトアップされ、幻想的な夜桜が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60004/1769403469_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60004/
+    collections:
+      - weathernews
+  - id: wn-285
+    name_ja: 彦根城
+    location:
+      city_ja: 彦根市
+      address_ja: 滋賀県彦根市金亀町1-1
+    geo:
+      lat: 35.2767
+      lng: 136.2518
+    trees: 1100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 彦根城周辺に約1100本の桜が咲きほこります。「屋形船」を使ってうららかな春の一日、内堀から堀端をゆったりと満開の桜を楽しんで下さい。※混雑、渋滞が予想されますので、できるだけ公共交通機関をご利用下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/285/1767764360_s.webp
+        source_url: https://weathernews.jp/sakura/spot/285/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/285/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301138/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/285/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301138/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-284
+    name_ja: 豊公園
+    location:
+      city_ja: 長浜市
+      address_ja: 滋賀県長浜市公園町
+    geo:
+      lat: 35.3763
+      lng: 136.2619
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - ジンダイアケボノ
+    description_ja: 琵琶湖畔に広がる長浜城跡の豊公園には約600本のソメイヨシノが植えられており、｢日本さくら名所100選｣にも選ばれています。復元された長浜城の天守閣や琵琶湖畔が満開の桜で埋め尽くされる様は絶景です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82885565.jpg
+        source_url: https://weathernews.jp/sakura/spot/284/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/284/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307146/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E5%9F%8E_(%E8%BF%91%E6%B1%9F%E5%9B%BD)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/284/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307146/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E5%9F%8E_(%E8%BF%91%E6%B1%9F%E5%9B%BD)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-60018
+    name_ja: 余呉湖
+    location:
+      city_ja: 長浜市
+      address_ja: 滋賀県長浜市余呉町余呉湖
+    geo:
+      lat: 35.5292
+      lng: 136.2017
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ヤエザクラ
+    description_ja: 余呉湖への導水路沿いにソメイヨシノと菜の花が咲きます。余呉湖の南東湖岸のおのろ浜周辺にも、桜がありますので、湖畔をゆっくり散策するのもおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82946450.jpg
+        source_url: https://weathernews.jp/sakura/spot/60018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60018/
+    collections:
+      - weathernews

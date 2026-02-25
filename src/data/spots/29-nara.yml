@@ -1,0 +1,596 @@
+prefecture:
+  id: 29
+  name_ja: 奈良県
+  name_en: Nara
+spots:
+  - id: wn-64005
+    name_ja: 安倍文殊院
+    location:
+      city_ja: 桜井市
+      address_ja: 奈良県桜井市阿部645
+    geo:
+      lat: 34.5036
+      lng: 135.8419
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 金閣浮御堂を囲むように咲く桜の情景は印象的です。晴明堂から境内を見渡すと桜の雲海が広がります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82699770.jpg
+        source_url: https://weathernews.jp/sakura/spot/64005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64005/
+    collections:
+      - weathernews
+  - id: wn-64020
+    name_ja: 下北山スポーツ公園
+    location:
+      city_ja: 下北山村
+      address_ja: 奈良県吉野郡下北山村上池原1026
+    geo:
+      lat: 34.0575
+      lng: 135.9579
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/64020/1770092005_s.webp
+        source_url: https://weathernews.jp/sakura/spot/64020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64020/
+    collections:
+      - weathernews
+  - id: wn-64007
+    name_ja: 葛城山麓公園
+    location:
+      city_ja: 葛城市
+      address_ja: 奈良県葛城市寺口1563
+    geo:
+      lat: 34.4766
+      lng: 135.7063
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 四季折々の花々が咲き、自然とふれあえる公園で、園内の子供広場にはアスレチックやすべり台があり、芝生広場もあるので、思いっきり遊ぶことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/64007/1766472696_s.webp
+        source_url: https://weathernews.jp/sakura/spot/64007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64007/
+    collections:
+      - weathernews
+  - id: wn-6408
+    name_ja: 吉野山(奥千本)
+    location:
+      city_ja: 吉野町
+      address_ja: 奈良県吉野郡吉野町吉野山
+    geo:
+      lat: 34.3383
+      lng: 135.8815
+    species_ja:
+      - シロヤマザクラ
+    description_ja: 吉野山の谷から尾根を埋める桜はおよそ3万本です。標高の低い下千本(吉野駅付近)から中千本(如意輪寺付近)、上千本(吉野水分神社付近)、奥千本(西行庵付近)へと花期をずらして咲きのぼる様子は壮観です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6408/1766464238_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6408/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6408/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6408/
+    collections:
+      - weathernews
+  - id: wn-346
+    name_ja: 吉野山(下千本)
+    location:
+      city_ja: 吉野町
+      address_ja: 奈良県吉野郡吉野町吉野山
+    geo:
+      lat: 34.3734
+      lng: 135.8542
+    species_ja:
+      - シロヤマザクラ
+    description_ja: 吉野山の谷から尾根を埋める桜はおよそ3万本です。標高の低い下千本(吉野駅付近)から中千本(如意輪寺付近)、上千本(吉野水分神社付近)、奥千本(西行庵付近)へと花期をずらして咲きのぼる様子は壮観です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/346/1766458669_s.webp
+        source_url: https://weathernews.jp/sakura/spot/346/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/346/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307162/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/346/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307162/
+    collections:
+      - weathernews
+      - navitime
+    trees: 30000
+  - id: wn-344
+    name_ja: 吉野山(上千本)
+    location:
+      city_ja: 吉野町
+      address_ja: 奈良県吉野郡吉野町吉野山
+    geo:
+      lat: 34.3563
+      lng: 135.8717
+    species_ja:
+      - シロヤマザクラ
+    description_ja: 吉野山の谷から尾根を埋める桜はおよそ3万本です。標高の低い下千本(吉野駅付近)から中千本(如意輪寺付近)、上千本(吉野水分神社付近)、奥千本(西行庵付近)へと花期をずらして咲きのぼる様子は壮観です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/344/1766462674_s.webp
+        source_url: https://weathernews.jp/sakura/spot/344/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/344/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307163/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/344/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307163/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    trees: 30000
+  - id: wn-345
+    name_ja: 吉野山(中千本)
+    location:
+      city_ja: 吉野町
+      address_ja: 奈良県吉野郡吉野町吉野山
+    geo:
+      lat: 34.3635
+      lng: 135.865
+    species_ja:
+      - シロヤマザクラ
+    description_ja: 吉野山の谷から尾根を埋める桜はおよそ3万本です。標高の低い下千本(吉野駅付近)から中千本(如意輪寺付近)、上千本(吉野水分神社付近)、奥千本(西行庵付近)へと花期をずらして咲きのぼる様子は壮観です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/345/1766462763_s.webp
+        source_url: https://weathernews.jp/sakura/spot/345/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/345/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307164/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/345/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307164/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    trees: 30000
+  - id: wn-64012
+    name_ja: 月ヶ瀬湖畔
+    location:
+      city_ja: 京都府南山城村
+      address_ja: 奈良県奈良市月ヶ瀬
+    geo:
+      lat: 34.7152
+      lng: 136.0275
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82818175.jpg
+        source_url: https://weathernews.jp/sakura/spot/64012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64012/
+    collections:
+      - weathernews
+  - id: wn-64015
+    name_ja: 高見の郷
+    location:
+      city_ja: 東吉野村
+      address_ja: 奈良県吉野郡東吉野村杉谷298-1
+    geo:
+      lat: 34.4147
+      lng: 136.0668
+    trees: 1000
+    species_ja:
+      - シダレザクラ
+    description_ja: 桜並木の中を歩いたり、展望台からの景色を見たりして楽しんでください。桜ソフトや桜ロールもオススメです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/64015/1766725616_s.webp
+        source_url: https://weathernews.jp/sakura/spot/64015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64015/
+    collections:
+      - weathernews
+  - id: wn-64008
+    name_ja: 三室山（県立竜田公園内）
+    location:
+      city_ja: 斑鳩町
+      address_ja: 奈良県斑鳩町稲葉車瀬2-553（竜田公園）
+    geo:
+      lat: 34.6005
+      lng: 135.7156
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 竜田公園は法隆寺で有名な斑鳩町の南西部、竜田川沿いにあります。百人一首に「ちはやぶる　神代も聞かず　竜田川　からくれなゐに　水くくるとは（在原業平）」「嵐ふく　三室の山の　もみぢ葉は　竜田の川の　錦なりけり（能因法師）」と2首も詠われ、古くからもみじの名所として知られ、現在では桜の名所として、川沿いの桜並木や、三室山に咲いた桜が川面に映りこむ様子を楽しめます。三室山の山頂には能因法師の歌碑があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82792510.jpg
+        source_url: https://weathernews.jp/sakura/spot/64008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64008/
+    collections:
+      - weathernews
+  - id: wn-341
+    name_ja: 史跡郡山城跡
+    location:
+      city_ja: 大和郡山市
+      address_ja: 奈良県大和郡山市城内町
+    geo:
+      lat: 34.6514
+      lng: 135.7791
+    trees: 600
+    species_ja:
+      - ソメイヨシノ等
+      - ソメイヨシノ
+    description_ja: 約600本あまりの桜の木々があります。天守台展望施設からながめる城跡一帯の桜や天守台ライトアップ、ぼんぼりの灯りによる夜桜もお楽しみください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-22/70855717.jpg
+        source_url: https://weathernews.jp/sakura/spot/341/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/341/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400061/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E5%9F%8E_(%E5%A4%A7%E5%92%8C%E5%9B%BD)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/341/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400061/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E5%9F%8E_(%E5%A4%A7%E5%92%8C%E5%9B%BD)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-342
+    name_ja: 信貴山
+    location:
+      city_ja: 平群町
+      address_ja: 奈良県生駒郡平群町信貴山
+    geo:
+      lat: 34.6128
+      lng: 135.6682
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: およそ2000本の桜があります。日没と共に山内2000基の石灯篭に灯が入り、所々に水銀灯があり、夜桜も風情が有ります。又、本堂舞台から眺める奈良盆地の夜景も大変きれいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61751856.jpg
+        source_url: https://weathernews.jp/sakura/spot/342/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/342/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400287/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/342/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400287/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-64006
+    name_ja: 大神神社
+    location:
+      city_ja: 桜井市
+      address_ja: 奈良県桜井市三輪1422
+    geo:
+      lat: 34.5288
+      lng: 135.8528
+    trees: 100
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+      - ジンダイアケボノ
+    description_ja: 当神社の「大美和の杜」展望台周辺には、シダレザクラ、ソメイヨシノ、ジンダイアケボノといった花種豊かな桜が100本ほど植えられており、毎年綺麗な花を咲かせます。なかでも「大美和の杜　展望台」からは桜越しに大和平野を一望することができ、見頃には人気のお花見スポットとして賑わいます。花見の宴会は厳禁。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/64006/1766549651_s.webp
+        source_url: https://weathernews.jp/sakura/spot/64006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64006/
+    collections:
+      - weathernews
+  - id: wn-6401
+    name_ja: 大中公園
+    location:
+      city_ja: 大和高田市
+      address_ja: 奈良県大和高田市大字大中183
+    geo:
+      lat: 34.5113
+      lng: 135.7372
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高田川畔には千本桜が咲き誇り、毎年大勢の桜見客が訪れます。※平成29年3月1日より公園内でのバーベキュー、花火、焚き火等の使用はできません。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82660480.jpg
+        source_url: https://weathernews.jp/sakura/spot/6401/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6401/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6401/
+    collections:
+      - weathernews
+  - id: wn-64009
+    name_ja: 大野寺
+    location:
+      city_ja: 宇陀市
+      address_ja: 奈良県宇陀市室生大野1680
+    geo:
+      lat: 34.5626
+      lng: 136.0157
+    trees: 2
+    species_ja:
+      - コイトシダレザクラ
+    description_ja: コイトシダレ(現在、養生中）、ベニシダレ、ソメイヨシノが楽しめます。境内より宇陀川を挟んで、国内最大の線刻弥勒磨崖仏(史跡)があります。桜の時期は花々は磨崖仏へのお供となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-03/82565359.jpg
+        source_url: https://weathernews.jp/sakura/spot/64009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64009/
+    collections:
+      - weathernews
+  - id: wn-64001
+    name_ja: 談山神社
+    location:
+      city_ja: 桜井市
+      address_ja: 奈良県桜井市大字多武峰319
+    geo:
+      lat: 34.466
+      lng: 135.8617
+    trees: 500
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - シダレザクラ
+      - ウスズミザクラ
+    description_ja: けまりの庭から十三重塔を見上げた時の建造物と自然の融和が美しい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82704654.jpg
+        source_url: https://weathernews.jp/sakura/spot/64001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301165/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301165/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-343
+    name_ja: 長谷寺
+    location:
+      city_ja: 桜井市
+      address_ja: 奈良県桜井市初瀬731-1
+    geo:
+      lat: 34.5354
+      lng: 135.9065
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ400株、シダレザクラ100株、ヤマザクラ200株、寒緋桜50本、御衣黄5本、紅しだれ桜80本、ナラヤエザクラ80株があります。満開の時の舞台からの眺めは壮観です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-27/70982076.jpg
+        source_url: https://weathernews.jp/sakura/spot/343/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/343/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301166/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/343/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301166/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-64014
+    name_ja: 壷阪寺
+    location:
+      city_ja: 高取町
+      address_ja: 奈良県高市郡高取町壷阪3番地
+    geo:
+      lat: 34.4265
+      lng: 135.8098
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 境内堂塔伽藍や石像仏を包み込むように桜が咲き誇ります。特に全長10mの壷阪大仏が桜の衣をまとった様にみえるお姿は「桜大仏」として有名です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82740719.jpg
+        source_url: https://weathernews.jp/sakura/spot/64014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64014/
+    collections:
+      - weathernews
+  - id: wn-338
+    name_ja: 奈良公園(ナラココノエザクラ)
+    location:
+      city_ja: 奈良市
+      address_ja: 奈良県奈良市雑司町、春日野町、高畑町、登大路町一帯
+    geo:
+      lat: 34.6851
+      lng: 135.843
+    trees: 1500
+    species_ja:
+      - ナラココノエザクラ
+    description_ja: 広大な敷地に平坦部約1500本の桜が咲き誇ります。ソメイヨシノ、ナラココノエザクラ、ナラノヤエザクラへと順に咲き、開花期間が長いことが特徴です。おすすめ場所は、東塔跡園地、春日野園地、茶山園地、浮見堂周辺です。※ライトアップはしませんが街灯の明かりで22:00頃までは見られます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82803369.jpg
+        source_url: https://weathernews.jp/sakura/spot/338/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/338/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301228/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/338/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301228/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-64013
+    name_ja: 平城宮跡資料館
+    location:
+      city_ja: 奈良市
+      address_ja: 奈良県奈良市佐紀町
+    geo:
+      lat: 34.6923
+      lng: 135.7896
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 平城宮跡資料館（1970年開館）は、奈良文化財研究所の長年にわたる発掘調査や、文化財研究の様々な成果を発信している施設です。役所と宮殿内部の実物大再現、考古科学の紹介のほか、年数回の特別展をおこなっています。ミュージアムショップや古代ボードゲーム「かりうち」が対戦できる休憩室も併設しています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82711260.jpg
+        source_url: https://weathernews.jp/sakura/spot/64013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64013/
+    collections:
+      - weathernews
+  - id: wn-6412
+    name_ja: 又兵衛桜(本郷の瀧桜)
+    location:
+      city_ja: 宇陀市
+      address_ja: 奈良県宇陀市大宇陀本郷
+    geo:
+      lat: 34.4739
+      lng: 135.9178
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 樹齢300年ともいわれる県の保護樹、戦国武将後藤又兵衛の伝説と、後藤家の屋敷があったとされる場所にあることから、この名がつけられた。周辺には桃の木も植えられている。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95949038.jpg
+        source_url: https://weathernews.jp/sakura/spot/6412/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6412/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6412/
+    collections:
+      - weathernews
+  - id: wn-64010
+    name_ja: 柳生芳徳禅寺
+    location:
+      city_ja: 奈良市
+      address_ja: 奈良県奈良市柳生下町４４５
+    geo:
+      lat: 34.7314
+      lng: 135.9536
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 芳徳寺への参道に桜並木があります。一方、旧柳生藩陣屋跡では夜間提灯を点灯します。また、4月の第1週の土日には毎年「柳生さくら祭」が開催されています。特設ステージが旧柳生藩陣屋跡(柳生の里陣屋跡)に設けられ、そこでは武術や民謡、舞踊、音楽ライブなどが行われるほか、会場では物販や出店もあり、大人から子どもまで楽しめます。暖かい季節のお出かけにぜひ行ってみてはいかが？※コロナ感染症拡大により中止の場合がございます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/64010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64010/
+    collections:
+      - weathernews
+  - id: wn-64011
+    name_ja: 佛隆寺千年桜
+    location:
+      city_ja: 宇陀市
+      address_ja: 奈良県宇陀市榛原赤埴1684
+    geo:
+      lat: 34.5143
+      lng: 136.0098
+    trees: 1
+    species_ja:
+      - モチヅキザクラ
+    description_ja: 参道の石段に威勢良く枝をはった桜の巨樹で、幹周り7.7m、高さ16m。樹齢900年をこえた県下最大最古級の桜(県天然記念物、樹種はモチヅキサクラ)です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82932337.jpg
+        source_url: https://weathernews.jp/sakura/spot/64011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64011/
+    collections:
+      - weathernews

@@ -1,0 +1,801 @@
+prefecture:
+  id: 7
+  name_ja: 福島県
+  name_en: Fukushima
+spots:
+  - id: wn-3604
+    name_ja: やながわ希望の森公園
+    location:
+      city_ja: 伊達市
+      address_ja: 福島県伊達市梁川町字内山1-1
+    geo:
+      lat: 37.8544
+      lng: 140.6239
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内には約2000本の桜が植えられていて、姉妹都市の北海道松前町より贈られた黄緑色の花(八重桜の一種「御衣黄」)や4月と10月に二度咲く四季桜などめずらしい桜もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61898399.jpg
+        source_url: https://weathernews.jp/sakura/spot/3604/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3604/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3604/
+    collections:
+      - weathernews
+  - id: wn-3607
+    name_ja: 夏井千本桜
+    location:
+      city_ja: 小野町
+      address_ja: 福島県田村郡小野町大字夏井
+    geo:
+      lat: 37.2571
+      lng: 140.6536
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 夏井川の両岸5kmにわたって咲く、1000本の桜並木。遊歩道をのんびりと歩きながら春を満喫できるスポット。毎年県内外から多くの方が訪れます。ライトアップの実施やイベントの実施を行います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-19/83188603.jpg
+        source_url: https://weathernews.jp/sakura/spot/3607/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3607/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3607/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307014
+    name_ja: 花と歴史の郷 蛇の鼻
+    location:
+      address_ja: 福島県本宮市本宮蛇ノ鼻38
+    geo:
+      lat: 37.513781
+      lng: 140.375457
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤマザクラ
+    description_ja: 明治時代の豪農の別荘として建てられた国の指定登録有形文化財「蛇の鼻御殿」を有する庭園で、福島県本宮市にある。春から秋にかけて季節の花々が鑑賞でき、4月中旬には御殿前のシダレザクラをはじめ、ソメイヨシノや山桜などが見ごろを迎える。同時期にスイセンやチューリップも開花を迎え、多くの花見客が訪れる。4月中旬から下旬にはライトアップも実施。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307014_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307014_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307014_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307014_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307014_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307014/
+    collections:
+      - navitime
+  - id: wn-3634
+    name_ja: 花見山公園
+    location:
+      city_ja: 福島市
+      address_ja: 福島県福島市渡利
+    geo:
+      lat: 37.7382
+      lng: 140.4959
+    species_ja:
+      - トウカイザクラ
+      - ヒガンザクラ
+      - ソメイヨシノ
+    description_ja: 花木栽培農家が善意で開放している公園で、福島に桃源郷ありと言われる花の名所。ウメ、トウカイザクラ、ヒガンザクラ、レンギョウ、ボケ、ソメイヨシノ、ハナモモなど約70種類もの花々が、まさに百花繚乱のごとく次々と咲き競う様は圧巻そのもの。頂上での吾妻連峰と花々のコントラストは必見です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82502576.jpg
+        source_url: https://weathernews.jp/sakura/spot/3634/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3634/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3634/
+    collections:
+      - weathernews
+  - id: wn-3603
+    name_ja: 霞ヶ城公園
+    location:
+      city_ja: 二本松市
+      address_ja: 福島県二本松市郭内3丁目
+    geo:
+      lat: 37.6001
+      lng: 140.4293
+    trees: 2500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノをはじめ、2500本の桜が公園全体に咲き誇り、その名のとおり霞がかかったような美しさです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-15/96192346.jpg
+        source_url: https://weathernews.jp/sakura/spot/3603/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3603/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307016/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3603/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307016/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-69
+    name_ja: 開成山公園
+    location:
+      city_ja: 郡山市
+      address_ja: 福島県郡山市開成1丁目5
+    geo:
+      lat: 37.3985
+      lng: 140.3588
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 郡山市発展の礎となった安積開拓当時（明治11年）に植樹された日本最古級のソメイヨシノをはじめ、約1300本の桜が咲き誇ります。「開成山公園の桜」は県内有数の桜の名所であり、日本遺産に認定された「未来を開いた『一本の水路』」のストーリーの構成文化財にもなっています。令和６年４月に「開成山公園等Ｐａｒｋ－ＰＦＩ事業」により、新たに飲食店を設置するなど、リニューアルオープンしました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-09/31708277.jpg
+        source_url: https://weathernews.jp/sakura/spot/69/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69/
+    collections:
+      - weathernews
+  - id: wn-3614
+    name_ja: 観音寺川の桜
+    location:
+      city_ja: 猪苗代町
+      address_ja: 福島県耶麻郡猪苗代町川桁
+    geo:
+      lat: 37.5386
+      lng: 140.1411
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 観音寺川両岸約1kmにわたり続く桜並木。夜は七色ライトアップもあり夜桜を楽しめます。また桜まつり期間は、屋台などの出店があります。東北桜の札所第11番に登録されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-25/96529229.jpg
+        source_url: https://weathernews.jp/sakura/spot/3614/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3614/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3614/
+    collections:
+      - weathernews
+  - id: wn-3605
+    name_ja: 亀ヶ城公園
+    location:
+      city_ja: 猪苗代町
+      address_ja: 福島県耶麻郡猪苗代町古城跡
+    geo:
+      lat: 37.5614
+      lng: 140.1025
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 城跡が公園として整備されており、散策いただけます
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-19/71727356.jpg
+        source_url: https://weathernews.jp/sakura/spot/3605/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3605/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3605/
+    collections:
+      - weathernews
+  - id: wn-36003
+    name_ja: 戸津辺の桜
+    location:
+      city_ja: 矢祭町
+      address_ja: 福島県東白川郡矢祭町大字中石井字戸津辺88
+    geo:
+      lat: 36.9183
+      lng: 140.4189
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 高さ18m、周囲6.5mの樹齢600年を超える県指定天然記念物のエドヒガンザクラ。福島県では一番に花をつける早咲きの一本桜。昔農家の人々は桜の開花時期を農作業の目安としていました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-30/96676979.jpg
+        source_url: https://weathernews.jp/sakura/spot/36003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36003/
+    collections:
+      - weathernews
+  - id: wn-3606
+    name_ja: 五百淵公園
+    location:
+      city_ja: 郡山市
+      address_ja: 福島県郡山市山崎1-1
+    geo:
+      lat: 37.3797
+      lng: 140.3615
+    trees: 160
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約160本の桜が咲きます。池を周遊しながらの花見ができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83039408.jpg
+        source_url: https://weathernews.jp/sakura/spot/3606/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3606/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3606/
+    collections:
+      - weathernews
+  - id: wn-36004
+    name_ja: 紅屋峠千本桜森林公園
+    location:
+      city_ja: 伊達市
+      address_ja: 福島県伊達市保原町所沢東畑100
+    geo:
+      lat: 37.7982
+      lng: 140.5695
+    trees: 1080
+    species_ja:
+      - ソメイヨシノ
+      - カワヅザクラ
+      - オオシマザクラ他
+    description_ja: 伊達地方北部や蔵王が一望できる小高い峠に位置する紅屋峠千本桜森林公園。その峠いっぱいに1000本以上の桜が咲き誇る美しさは圧巻の一言。是非紅屋峠千本桜をご堪能ください。​
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/36004/1766539536_s.webp
+        source_url: https://weathernews.jp/sakura/spot/36004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36004/
+    collections:
+      - weathernews
+  - id: wn-3638
+    name_ja: 荒川桜づつみ河川公園
+    location:
+      city_ja: 福島市
+      address_ja: 福島県福島市八木田字井戸上他内
+    geo:
+      lat: 37.7541
+      lng: 140.4414
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1kmに続く桜並木が美しく咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-04/71282778.jpg
+        source_url: https://weathernews.jp/sakura/spot/3638/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3638/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3638/
+    collections:
+      - weathernews
+  - id: wn-71
+    name_ja: 三春滝桜
+    location:
+      city_ja: 三春町
+      address_ja: 福島県田村郡三春町大字滝字桜久保地内
+    geo:
+      lat: 37.4077
+      lng: 140.5001
+    trees: 1
+    species_ja:
+      - ベニシダレザクラ
+    description_ja: 日本三大桜の1つで、推定樹齢1000年以上のベニシダレザクラ(エドヒガン系)です。大正11年10月12日に桜の木として初めて国の天然記念物に指定されました。四方に伸びた枝から無数の花が咲く様は、まさに滝が流れ落ちるかのように見えます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/71/1770259197_s.webp
+        source_url: https://weathernews.jp/sakura/spot/71/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/71/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2600092/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%B8%89%E6%98%A5%E6%BB%9D%E6%A1%9C
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/71/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2600092/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%89%E6%98%A5%E6%BB%9D%E6%A1%9C
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-3601
+    name_ja: 釈迦堂川ふれあいロード
+    location:
+      city_ja: 須賀川市
+      address_ja: 福島県須賀川市午袋町周辺
+    geo:
+      lat: 37.2906
+      lng: 140.3566
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 釈迦堂川河川敷の両岸約2kmにわたり多くの桜が立ち並びます。桜の開花後18時から21時までライトアップも実施され、夜桜見物を楽しめます。（桜の開花状況によりライトアップ期間が変更になる場合があります）
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82967170.jpg
+        source_url: https://weathernews.jp/sakura/spot/3601/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3601/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3601/
+    collections:
+      - weathernews
+  - id: wn-72
+    name_ja: 松ヶ岡公園
+    location:
+      city_ja: いわき市
+      address_ja: 福島県いわき市平字薬王寺台3番地
+    geo:
+      lat: 37.0549
+      lng: 140.8828
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 当公園では、いわき市で初めて整備された公園で、同市のシンボル的公園のひとつです。旧平城下に位置し、平藩主安藤対馬守の銅像や天田愚庵邸、忠魂碑などの歴史的に価値の高い建造物や、子供たちが楽しめる複合遊具があり、さらに市内でも有数の桜やツツジの名所として知られ、市民に愛され親しまれている公園です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95957293.jpg
+        source_url: https://weathernews.jp/sakura/spot/72/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/72/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/72/
+    collections:
+      - weathernews
+  - id: wn-68
+    name_ja: 信夫山公園
+    location:
+      city_ja: 福島市
+      address_ja: 福島県福島市太子堂地内
+    geo:
+      lat: 37.772
+      lng: 140.467
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - サトザクラ
+    description_ja: 約2000本の桜が美しく咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71033017.jpg
+        source_url: https://weathernews.jp/sakura/spot/68/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/68/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/68/
+    collections:
+      - weathernews
+  - id: wn-3602
+    name_ja: 翠ヶ丘公園
+    location:
+      city_ja: 須賀川市
+      address_ja: 福島県須賀川市愛宕山周辺
+    geo:
+      lat: 37.2905
+      lng: 140.38
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラなど
+    description_ja: 下の川両岸に多くの桜が立ち並び、多くの花見客で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-16/62038855.jpg
+        source_url: https://weathernews.jp/sakura/spot/3602/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3602/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3602/
+    collections:
+      - weathernews
+  - id: wn-3612
+    name_ja: 杉の糸桜
+    location:
+      city_ja: 会津坂下町
+      address_ja: 福島県河沼郡会津坂下町船杉字北杉大道乙1170
+    geo:
+      lat: 37.5617
+      lng: 139.7991
+    trees: 3
+    species_ja:
+      - エドヒガン
+    description_ja: 会津五桜の1つで、杉地区の薬王寺境内に咲く枝垂れ桜です。種類はエドヒガンザクラで、白い糸が垂れるように微紅色の花が咲きます。天正年間(1573年〜1592年)に植えられて、現在のものは二代目と言われ、町指定天然記念物になっており、両側の木はその子孫です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/3612/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3612/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3612/
+    collections:
+      - weathernews
+  - id: wn-3611
+    name_ja: 石部桜
+    location:
+      city_ja: 会津若松市
+      address_ja: 福島県会津若松市一箕町八幡石部
+    geo:
+      lat: 37.5101
+      lng: 139.9543
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢約650年と言われ、中世会津の領主、芦名氏の重臣石部治部大輔の館の庭にあった名木です。会津風土記にも記されています。大河ドラマ「八重の桜」のオープニングにも使われた枝張約20mの雄大な姿に魅了されます。市指定天然記念物、県緑の文化財です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3611/1766470507_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3611/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3611/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3611/
+    collections:
+      - weathernews
+  - id: wn-3613
+    name_ja: 大鹿桜
+    location:
+      city_ja: 猪苗代町
+      address_ja: 福島県耶麻郡猪苗代町西峯
+    geo:
+      lat: 37.5707
+      lng: 140.1052
+    trees: 1
+    species_ja:
+      - サトザクラ
+    description_ja: 磐椅神社境内にあり、樹齢1000年と言われ、会津五桜の1つに数えられています。遅咲きのサトザクラで、花色が鹿の毛彩に似ていることが名前の由来です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-06/96924023.jpg
+        source_url: https://weathernews.jp/sakura/spot/3613/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3613/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3613/
+    collections:
+      - weathernews
+  - id: wn-3609
+    name_ja: 大森城山公園
+    location:
+      city_ja: 福島市
+      address_ja: 福島県福島市大森字本丸地内
+    geo:
+      lat: 37.7252
+      lng: 140.433
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 約700本の桜が美しく咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83019342.jpg
+        source_url: https://weathernews.jp/sakura/spot/3609/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3609/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3609/
+    collections:
+      - weathernews
+  - id: wn-3635
+    name_ja: 長沼城址
+    location:
+      city_ja: 須賀川市
+      address_ja: 福島県須賀川市長沼字日高見山
+    geo:
+      lat: 37.2945
+      lng: 140.2123
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: お城山に植えられた種類の異なるおよそ200本の桜は、満開時ともなると競い合うかのように山全体を淡いピンク色に染め、訪れる人たちの目を楽しませてくれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-04-04/54849957.jpg
+        source_url: https://weathernews.jp/sakura/spot/3635/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3635/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3635/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307109
+    name_ja: 鳥見山公園
+    location:
+      address_ja: 福島県岩瀬郡鏡石町緑町199
+    geo:
+      lat: 34.544591
+      lng: 135.942911
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 福島県岩瀬郡鏡石町にある総合公園で、園内には温水プールや陸上競技場、テニスコート、野球場など多数のスポーツ施設を完備。夏のあやめと春の桜の名所として知られている。4月上旬から中旬にはソメイヨシノが見事に咲き誇り、約2km続く桜並木や自由広場に咲く枝垂れ桜など見どころが多い。毎年4月の見ごろに合わせて「さくらウォーク」などのイベントも開催。駐車場・トイレあり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307109_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307109/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307109_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307109/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307109/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307109/
+    collections:
+      - navitime
+  - id: wn-70
+    name_ja: 鶴ケ城公園
+    location:
+      city_ja: 会津若松市
+      address_ja: 福島県会津若松市追手町1-1
+    geo:
+      lat: 37.487
+      lng: 139.9301
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1000本の桜が花をつける会津随一の花見の名所で日本桜の名所100選のひとつ。ソメイヨシノを中心に、エドヒガン、タカトウコヒガン、シダレサクラなど多種の桜が時期をずらしながら咲きほこります。夜桜も美しく、ライトにうかび上がる桜がお堀の水面に白く映る様は幻想的です。また鶴ヶ城は日本でも稀な赤瓦の天守閣となっており、白虎隊士もみた幕末当時の姿をお楽しみ頂けます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/70/1766470663_s.webp
+        source_url: https://weathernews.jp/sakura/spot/70/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/70/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307112/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9D%BE%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/70/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307112/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9D%BE%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-73
+    name_ja: 南湖公園
+    location:
+      city_ja: 白河市
+      address_ja: 福島県白河市南湖
+    geo:
+      lat: 37.1103
+      lng: 140.2165
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1300本の桜があり、特に南湖神社にある樹齢約200年の楽翁桜が有名です。湖の眺めのいいポイントに「南湖17景勝地」の石歌碑があります。日本庭園「翠楽苑」では、美しい庭園を眺めながら、美味しい抹茶と和菓子が楽しめます。ぜひお立ち寄り下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/73/1766567436_s.webp
+        source_url: https://weathernews.jp/sakura/spot/73/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/73/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/73/
+    collections:
+      - weathernews
+  - id: wn-36002
+    name_ja: 日中線しだれ桜並木
+    location:
+      city_ja: 喜多方市
+      address_ja: 福島県喜多方市字押切東二丁目
+    geo:
+      lat: 37.6551
+      lng: 139.8661
+    trees: 1000
+    species_ja:
+      - ベニシダレ
+      - ヤエベニシダレ
+    description_ja: 旧日中線の跡を「自転車歩行車道」として整備し、約3kmに渡り約1000本のしだれ桜が立ち並びます。通りには、桜のトンネルのようになっている壮観な場所や、かつて日中線を走っていたSLが展示されている人気のスポットもあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82989330.jpg
+        source_url: https://weathernews.jp/sakura/spot/36002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36002/
+    collections:
+      - weathernews
+  - id: wn-67
+    name_ja: 馬陵公園(中村城跡)
+    location:
+      city_ja: 相馬市
+      address_ja: 福島県相馬市中村字北町
+    geo:
+      lat: 37.7991
+      lng: 140.9146
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 中村城跡一帯には藩政時代をしのばせる桜の古木が無数にあり、数百本の桜が一斉に咲き乱れる姿は圧巻です。城跡を囲む堀沿いの桜が見事で、桜まつり期間中はぼんぼりに照らされた夜桜を楽しむことができます。福島県浜通りを代表する桜の名所として毎年多くの行楽客で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-12/61953630.jpg
+        source_url: https://weathernews.jp/sakura/spot/67/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67/
+    collections:
+      - weathernews
+  - id: wn-3608
+    name_ja: 飯盛山(太夫桜)
+    location:
+      city_ja: 会津若松市
+      address_ja: 福島県会津若松市一箕町大字八幡字弁天下
+    geo:
+      lat: 37.5049
+      lng: 139.9527
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 寛永3年(1626)、いつき太夫という名妓が、花見の頃この辺りで殺害され、弟の南秀という法師が姉を弔うために植えられたといわれています。現在は二代目と伝えられるエドヒガンで、石部桜とともに会津二大老桜のひとつです。市指定天然記念物で、福島県緑の文化財に指定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-16/31814376.jpg
+        source_url: https://weathernews.jp/sakura/spot/3608/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3608/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3608/
+    collections:
+      - weathernews
+  - id: wn-75
+    name_ja: 福満虚空藏菩薩圓藏寺
+    location:
+      city_ja: 柳津町
+      address_ja: 福島県河沼郡柳津町大字柳津寺家町甲176
+    geo:
+      lat: 37.533
+      lng: 139.7247
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 1200年の歴史を誇る福満虚空藏菩薩圓藏寺や周辺の只見川沿いでは毎年4月初旬からソメイヨシノが見頃を迎えます。赤い橋や歴史ある建造物に淡い紅色が映え、とても風情のある景色を楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-19/62104468.jpg
+        source_url: https://weathernews.jp/sakura/spot/75/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/75/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/75/
+    collections:
+      - weathernews
+  - id: wn-36001
+    name_ja: 夜の森の桜並木
+    location:
+      city_ja: 富岡町
+      address_ja: 福島県双葉郡富岡町字夜の森北2丁目付近
+    geo:
+      lat: 37.3676
+      lng: 140.9957
+    trees: 420
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「富岡町の誇り」として親しまれる『夜の森桜並木』。国道６号から夜の森公園に続く道に、樹齢約100年のソメイヨシノが並び、約2.2キロの道に約420本の桜が並び、見事な桜のトンネルになっています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/36001/1766461950_s.webp
+        source_url: https://weathernews.jp/sakura/spot/36001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36001/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307156
+    name_ja: 矢祭山公園
+    location:
+      address_ja: 福島県東白川郡矢祭町内川字矢祭地内
+    geo:
+      lat: 36.851838
+      lng: 140.393157
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ボタンザクラ
+      - シダレザクラ
+    description_ja: 奇岩怪石に富んだ景勝地として知られる「矢祭山」南側一帯に広がる公園で、桜や紅葉の名所。約90種類の動物たちが生息する鳥獣保護区でもあり、園内では多くの野鳥も見られる。4月にはソメイヨシノや山桜、ボタンザクラ、枝垂れ桜など約100本の桜が開花。ファミリーで気軽にハイキングと花見が楽しめる。最寄は矢祭山駅。トイレ・売店・駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307156_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307156/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307156_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307156/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307156/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307156/
+    collections:
+      - navitime
+  - id: wn-36008
+    name_ja: 矢吹大池公園
+    location:
+      city_ja: 矢吹町
+      address_ja: 福島県西白河郡矢吹町大池64
+    geo:
+      lat: 37.2192
+      lng: 140.3348
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 季節に応じて桜や紫陽花などが咲き誇り、年間を通して町の木である「赤松」が水面に映える自然豊かな公園です。遊歩道、遊具、日本庭園、茶室、キャンプ場や芸術村等様々な施設もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/36008/1767764896_s.webp
+        source_url: https://weathernews.jp/sakura/spot/36008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36008/
+    collections:
+      - weathernews

@@ -1,0 +1,1962 @@
+prefecture:
+  id: 13
+  name_ja: 東京都
+  name_en: Tokyo
+spots:
+  - id: wn-4487
+    name_ja: Wonderful Nature Village(東京サマーランド)
+    location:
+      city_ja: あきる野市
+      address_ja: 東京都あきる野市上代継600
+    geo:
+      lat: 35.7174
+      lng: 139.2619
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 「わんダフルネイチャーヴィレッジ」では、ソメイヨシノ、シダレザクラをはじめ約1000本の桜が吹き替わりでお楽しみ頂けます。秋川丘陵の自然の中で楽しいひと時をお過ごしください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4487/1767685212_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4487/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4487/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4487/
+    collections:
+      - weathernews
+  - id: wn-44025
+    name_ja: アークヒルズ周辺の桜並木
+    location:
+      city_ja: 港区
+      address_ja: 東京都港区赤坂1-12-32、他
+    geo:
+      lat: 35.6663
+      lng: 139.74
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: アークヒルズの外周通り沿いには、150本のソメイヨシノが並んでいる。開花の時期には、通りを挟んで空を覆うように広がる桜のトンネルの幻想的な雰囲気に浸りながら、大都会東京の春を満喫することができる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95760471.jpg
+        source_url: https://weathernews.jp/sakura/spot/44025/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44025/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44025/
+    collections:
+      - weathernews
+  - id: wn-44041
+    name_ja: かむろ坂
+    location:
+      city_ja: 品川区
+      address_ja: 東京都品川区西五反田4-9
+    geo:
+      lat: 35.6253
+      lng: 139.7115
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44041/1771021199_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44041/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44041/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44041/
+    collections:
+      - weathernews
+  - id: wn-44001
+    name_ja: サンシャインシティの桜
+    location:
+      city_ja: 豊島区
+      address_ja: 東京都豊島区東池袋3-1専門店街アルパ屋上
+    geo:
+      lat: 35.7292
+      lng: 139.7191
+    trees: 8
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - オオシマザクラ
+    description_ja: 開花時期が少しずつ異なるソメイヨシノ・エドヒガン・オオシマザクラの3種類の桜をご覧いただけます。隣接する「サンシャインガーデン」「サンシャインビレッジ」には、同時期にチューリップなど春の花々も咲く予定ですので、ぜひ桜と一緒にお楽しみください。なお、「サンシャインビレッジ」はミニチュアハウスの周りを囲むように季節に合わせた花々を植えているので、一年を通して撮影スポットとしても大変おすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71042651.jpg
+        source_url: https://weathernews.jp/sakura/spot/44001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44001/
+    collections:
+      - weathernews
+  - id: wn-44024
+    name_ja: ホテルニューオータニ(東京)
+    location:
+      city_ja: 千代田区
+      address_ja: 東京都千代田区紀尾井町4-1
+    geo:
+      lat: 35.6802
+      lng: 139.7343
+    trees: 58
+    species_ja:
+      - ヤマザクラ
+      - シダレザクラ
+      - ソメイヨシノ
+      - ヤエザクラベニシダレ
+      - ケイオウザクラなど全19種類
+    description_ja: 大名屋敷より受け継ぎ400年の歴史を誇る1万坪の日本庭園では、開花時期の異なる19種58本の桜が咲き誇り、より長い期間、お花見を愉しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44024/1768961746_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44024/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44024/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44024/
+    collections:
+      - weathernews
+  - id: wn-4488
+    name_ja: ホテル椿山荘東京
+    location:
+      city_ja: 文京区
+      address_ja: 東京都文京区関口2-10-8
+    geo:
+      lat: 35.7125
+      lng: 139.7254
+    trees: 100
+    species_ja:
+      - ソメイヨシノなど
+      - ソメイヨシノ
+    description_ja: ホテル椿山荘東京の桜シーズンは、ひと足早い2月から始まります。早咲きの河津桜から始まり、修繕寺寒桜、おかめ桜、ソメイヨシノなど、開花時期の異なる約20種約100本の桜が順に咲き、4月中旬頃までお楽しみいただけます。ホテル付近に流れる神田川沿いには桜並木があり、庭園と併せて都内有数のお花見スポットにもなっています。※安全のため、庭園を含む施設ご入館は、営業施設をご利用のお客様に限らせていただきます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4488/1768959733_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4488/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4488/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4488/
+    collections:
+      - weathernews
+  - id: wn-44010
+    name_ja: よみうりランド
+    location:
+      city_ja: 川崎市多摩区
+      address_ja: 東京都稲城市矢野口4015-1
+    geo:
+      lat: 35.625
+      lng: 139.5177
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラなど9種類
+    description_ja: よみうりランド人気NO.1コースター「バンデット」からの史上最速!?「絶叫花見」や「Sky-Go-LAND」からの「空中花見」、全長180mの桜並木のライトアップなど昼も夜も楽しめる遊園地ならではのお花見が見どころです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44010/1766724004_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44010/
+    collections:
+      - weathernews
+  - id: wn-108
+    name_ja: 井の頭恩賜公園
+    location:
+      city_ja: 武蔵野市
+      address_ja: 東京都武蔵野市御殿山1-18-31
+    geo:
+      lat: 35.7004
+      lng: 139.5743
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+      - カワヅザクラ
+      - カンヒザクラ
+    description_ja: 公園全体で約400本、そのうち井の頭池周辺に約200本の桜があります。池にせり出した満開の桜が咲き誇るさまは見事です。また散り際の桜吹雪も風情があります。西園では早咲きの桜が3月の始め頃から咲き始め、多品種の桜が次々に4月の半ば頃までご観賞いただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82841323.jpg
+        source_url: https://weathernews.jp/sakura/spot/108/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/108/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1400077/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%BA%95%E3%81%AE%E9%A0%AD%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/108/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1400077/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%95%E3%81%AE%E9%A0%AD%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-111
+    name_ja: 羽村の堰
+    location:
+      city_ja: 羽村市
+      address_ja: 東京都羽村市玉川1丁目
+    geo:
+      lat: 35.7546
+      lng: 139.3108
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 羽村堰周辺には玉川上水沿いに約150本の桜が咲き乱れ、上流へ向け10分ほど歩くと、市内唯一の水田「根がらみ前水田」があります。今年は4月5日(日)よりチューリップまつりが開催されます。約35万本のチューリップを楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71166838.jpg
+        source_url: https://weathernews.jp/sakura/spot/111/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/111/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/111/
+    collections:
+      - weathernews
+  - id: wn-44034
+    name_ja: 猿江恩賜公園
+    location:
+      city_ja: 江東区
+      address_ja: 東京都江東区毛利2丁目13-7
+    geo:
+      lat: 35.6901
+      lng: 139.8185
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 北園中央広場周辺は、時計塔、スカイツリーをバックに満開の桜とともに写真を撮ることができます。北園東側横十間川沿いは桜を見ながら散歩ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44034/1768437510_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44034/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44034/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44034/
+    collections:
+      - weathernews
+  - id: wn-44012
+    name_ja: 塩田耕地堤
+    location:
+      city_ja: 日の出町
+      address_ja: 東京都西多摩郡日の出町平井2759付近
+    geo:
+      lat: 35.7393
+      lng: 139.2597
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ひので桜ライトアップ事業（開催予定）18本の桜と対岸にある竹林の一部にライトアップを行うことで、桜の淡いピンク色と竹の鮮やかな緑色が効果的に美しく融合し幻想的な空間を演出。さらに豊かな自然環境と調和した「環境にやさしく、美しい景観」を演出する。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61898297.jpg
+        source_url: https://weathernews.jp/sakura/spot/44012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44012/
+    collections:
+      - weathernews
+  - id: wn-112
+    name_ja: 奥多摩湖
+    location:
+      city_ja: 奥多摩町
+      address_ja: 東京都奥多摩町原
+    geo:
+      lat: 35.7873
+      lng: 139.0447
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 東京の奥座敷で桜三昧！ソメイヨシノやヤマザクラなどがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71172837.jpg
+        source_url: https://weathernews.jp/sakura/spot/112/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/112/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404087/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/112/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404087/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44026
+    name_ja: 恩田川
+    location:
+      city_ja: 町田市
+      address_ja: 東京都町田市成瀬7-11
+    geo:
+      lat: 35.5388
+      lng: 139.4776
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 恩田川沿いに約2kmにわたってソメイヨシノが咲く町田市の桜の名所です。川に沿ってしだれる桜や散り際の花筏は圧巻です。撮影スポットとしてもおすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44026/1766460731_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44026/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44026/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44026/
+    collections:
+      - weathernews
+  - id: wn-44020
+    name_ja: 葛西臨海公園
+    location:
+      city_ja: 江戸川区
+      address_ja: 東京都江戸川区臨海町6
+    geo:
+      lat: 35.6423
+      lng: 139.8603
+    trees: 730
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - サトザクラ
+    description_ja: サクラ並木のソメイヨシノと、鳥類園ウォッチングセンター周辺のオオシマザクラがおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82760792.jpg
+        source_url: https://weathernews.jp/sakura/spot/44020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44020/
+    collections:
+      - weathernews
+  - id: wn-44011
+    name_ja: 釜の淵公園
+    location:
+      city_ja: 青梅市
+      address_ja: 東京都青梅市大柳町1392
+    geo:
+      lat: 35.7855
+      lng: 139.2558
+    trees: 35
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 多摩川の堤防に咲く桜を遊歩道、川原、および対岸など様々な角度から眺めることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95566838.jpg
+        source_url: https://weathernews.jp/sakura/spot/44011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44011/
+    collections:
+      - weathernews
+  - id: wn-4411
+    name_ja: 砧公園
+    location:
+      city_ja: 世田谷区
+      address_ja: 東京都世田谷区砧公園1番1号
+    geo:
+      lat: 35.6308
+      lng: 139.6186
+    trees: 840
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 桜が特に多いのはファミリーパーク内の谷戸川沿い、また目線の高さで花見ができるのは砧ならではです。※カラオケや火気等、また周囲に迷惑をかけることは禁止です。ゴミ箱はありませんのですべてお持ち帰り下さい。ファミリーパーク内は、ペット、自転車持込禁止。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4411/1766893848_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4411/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4411/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307027/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4411/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307027/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-4420
+    name_ja: 旧古河庭園
+    location:
+      city_ja: 北区
+      address_ja: 東京都北区西ヶ原1-27-39
+    geo:
+      lat: 35.7427
+      lng: 139.7463
+    trees: 11
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: ソメイヨシノとヤマザクラの大木が白と淡いピンクの花を見事に咲かせます。数はさほど多くないですが、特にシダレザクラは花の下に入り近くでご覧いただくことができます。洋館と桜という当園独特の景観も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2018-03-25/41345062.jpg
+        source_url: https://weathernews.jp/sakura/spot/4420/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4420/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401251/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4420/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401251/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44019
+    name_ja: 旧芝離宮恩賜庭園
+    location:
+      city_ja: 港区
+      address_ja: 東京都港区海岸1-4-1
+    geo:
+      lat: 35.6546
+      lng: 139.7586
+    trees: 28
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR浜松町駅北口１分の旧芝離宮恩賜庭園は、東京に残る江戸初期の大名庭園のひとつです。園内はソメイヨシノを中心に２８本の桜があり、３月下旬から４月上旬にかけて見頃を迎えます。歴史ある大名庭園の中で風靡な桜の景をお楽しみください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44019/1767688093_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44019/
+    collections:
+      - weathernews
+  - id: wn-44047
+    name_ja: 旧中川沿い
+    location:
+      city_ja: 江戸川区
+      address_ja: 東京都江戸川区平井、墨田区東墨田
+    geo:
+      lat: 35.7016
+      lng: 139.8395
+    trees: 275
+    species_ja:
+      - カワヅザクラ
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44047/1767838206_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44047/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44047/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44047/
+    collections:
+      - weathernews
+  - id: wn-44004
+    name_ja: 駒沢オリンピック公園
+    location:
+      city_ja: 世田谷区
+      address_ja: 東京都世田谷区駒沢公園1-1
+    geo:
+      lat: 35.6263
+      lng: 139.66
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 北周回園路沿い
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61653834.jpg
+        source_url: https://weathernews.jp/sakura/spot/44004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44004/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404131/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44004/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404131/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-118
+    name_ja: 隅田公園
+    location:
+      city_ja: 台東区
+      address_ja: 東京都台東区浅草7-1ほか
+    geo:
+      lat: 35.7161
+      lng: 139.8033
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95966306.jpg
+        source_url: https://weathernews.jp/sakura/spot/118/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/118/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307031/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/118/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307031/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    description_ja: 隅田川の両岸約1kmにわたって桜並木が続き、「日本さくら名所100選」にも選ばれた都内有数の花見スポット。3月下旬から4月上旬を中心に、ソメイヨシノやヤエベニシダレ約42種もの桜が見ごろを迎える。東京スカイツリー(R)の足元に桜が咲き乱れる風景は必見。屋形船や水上バスからの風景も美しく、開花にあわせてライトアップイベントや屋台の出店が行われる。トイレ、駐車場あり。最寄は浅草駅。
+  - id: wn-44021
+    name_ja: 御殿山庭園
+    location:
+      city_ja: 品川区
+      address_ja: 東京都品川区北品川4-7-36
+    geo:
+      lat: 35.6213
+      lng: 139.7358
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 御殿山は、葛飾北斎の『富嶽三十六景』や歌川広重の『江戸百景』にも描かれ、江戸時代より花見の名所として愛されてきました。「東京マリオットホテル」の南側に位置する「御殿山庭園」は、江戸時代の桜の名所である御殿山の、昔ながらの面影を今に伝える日本庭園。約2000坪の広々とした敷地には、建築家・磯崎新氏が設計した茶室「有時庵（うじあん）」や東京マリオットホテルのチャペル「ザ・フォレスト」があり、御殿山の四季のイベントを彩ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44021/1766473692_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44021/
+    collections:
+      - weathernews
+  - id: wn-4412
+    name_ja: 光が丘公園
+    location:
+      city_ja: 練馬区
+      address_ja: 東京都練馬区光が丘2、4丁目、旭町2丁目、板橋区赤塚新町3丁目
+    geo:
+      lat: 35.7674
+      lng: 139.6285
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ヤマザクラ
+    description_ja: ソメイヨシノ、オオシマザクラ、ヤマザクラなど、約1000本が園内に点在しています。「芝生広場」でのお花見が人気です。　※お花見の際にはマナーを守り、ゴミの不法投棄は決して行わないでください。ゴミの持ち帰りにご協力お願いします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2017-04-07/36973376.jpg
+        source_url: https://weathernews.jp/sakura/spot/4412/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4412/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4412/
+    collections:
+      - weathernews
+  - id: wn-44015
+    name_ja: 向島百花園
+    location:
+      city_ja: 墨田区
+      address_ja: 東京都墨田区東向島3-18-3
+    geo:
+      lat: 35.7242
+      lng: 139.815
+    trees: 23
+    species_ja:
+      - ソメイヨシノ
+      - カンヒザクラ他
+    description_ja: サクラの種類が多く、2月下旬のカンヒザクラから４月下旬のフゲンゾウまで長期間お花見が楽しめます。それぞれの花の特徴を確かめに何度も足を運べる楽しみがあります。また、向島百花園はウメの名所でもあり、2月下旬頃にはカンヒザクラとウメの花の両方を観賞することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44015/1766716394_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44015/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307042/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44015/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307042/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-4460
+    name_ja: 高尾山一丁平の桜
+    location:
+      city_ja: 八王子市
+      address_ja: 東京都八王子市高尾町
+    geo:
+      lat: 35.6264
+      lng: 139.2287
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: 高尾山頂から小仏城山に向かうハイキングコース(一丁平)沿いに咲き、千本桜と言われています。ミツバツツジと一緒に楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-09/61875472.jpg
+        source_url: https://weathernews.jp/sakura/spot/4460/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4460/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4460/
+    collections:
+      - weathernews
+  - id: wn-4404
+    name_ja: 国営昭和記念公園
+    location:
+      city_ja: 昭島市
+      address_ja: 東京都立川市緑町3173
+    geo:
+      lat: 35.7117
+      lng: 139.3954
+    trees: 735
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 豊かな自然を有する国営昭和記念公園は、春になるとソメイヨシノをはじめ約1500本30品種の桜が咲き誇ります。渓流広場には絵画のように美しく植栽されたチューリップガーデン、花の丘ではネモフィラが登場します。東京ドーム約2倍の面積を持つ「みんなの原っぱ」や「こどもの森」には、ドーム型のトランポリンや日本一のハンモックなどの大型遊具のほか工作も楽しめます。一日たっぷり堪能できる公園です。サクラは八重桜を含め3月中旬〜4月中旬頃まで楽しむことができます。※開花情報は、公園公式ホームページをご確認ください。豊かな自然を有する国営昭和記念公園は、春になるとソメイヨシノをはじめ、約1500本30品種の桜をご覧いただけます。また、渓流広場には絵画のように美しく植栽されたチューリップガーデン、一番広い花畑の花の丘一面に広がる真っ赤なシャーレーポピー。そして東京ドーム約2倍の面積を持つみんなの原っぱにある花畑では、ネモフィラ、ハーブの丘にはブーケガーデンの花畑など、園内全体を春色に彩ります。子どもに人気のエリア「こどもの森」には、ドーム型のトランポリンや日本一のハンモックなどの大型遊具のほか、工作も楽しめ、一日たっぷり堪能できる公園です。※開花情報は、公園公式ホームページをご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96425067.jpg
+        source_url: https://weathernews.jp/sakura/spot/4404/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4404/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300597/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4404/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300597/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44037
+    name_ja: 国立市大学通り・さくら通りの桜
+    location:
+      city_ja: 国立市
+      address_ja: 東京都国立市東1丁目、2丁目、4丁目、富士見台1丁目～4丁目
+    geo:
+      lat: 35.6896
+      lng: 139.447
+    trees: 360
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - オオシマザクラ
+      - エドヒガンザクラ
+      - ジンダイアケボノ
+      - カンザン
+      - メイゲツ
+      - マイヒメ
+      - ウコン
+      - オオカンザクラ
+    description_ja: JR中央線「国立駅」から南にまっすぐに伸びる「大学通り」を歩き、その途中に東西に伸びる「さくら通り」、「矢川通り」を桜を眺めながらJR南武線「矢川駅」まで、お散歩するのがおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95838224.jpg
+        source_url: https://weathernews.jp/sakura/spot/44037/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44037/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44037/
+    collections:
+      - weathernews
+  - id: wn-119
+    name_ja: 芝公園
+    location:
+      city_ja: 港区
+      address_ja: 東京都港区一、二、三、四丁目
+    geo:
+      lat: 35.6556
+      lng: 139.7491
+    trees: 140
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 全体で約140本の桜があります。公園自体がドーナツ型で、サクラの見どころは芝丸山古墳(改修工事に伴い一部立入禁止)や弁天池付近です。ライトアップは行いませんが夜桜も楽しめます。※歴史ある公園であり、古木・老木が数多くあります。職員が日々巡回確認しておりますが、強風や突風の際は樹木にお近づきにならないようご協力ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82679545.jpg
+        source_url: https://weathernews.jp/sakura/spot/119/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/119/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300651/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/119/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300651/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44017
+    name_ja: 舎人公園
+    location:
+      city_ja: 足立区
+      address_ja: 東京都足立区舎人公園1-1
+    geo:
+      lat: 35.7969
+      lng: 139.7686
+    trees: 1000
+    species_ja:
+      - カワヅザクラ
+      - カンヒザクラ
+      - ソメイヨシノ
+      - ヤエベニザクラ
+      - カンザン
+    description_ja: 「レーガン桜」日本からアメリカに寄贈したソメイヨシノが、レーガン元大統領夫人によって里帰りした、歴史ある桜です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82725750.jpg
+        source_url: https://weathernews.jp/sakura/spot/44017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44017/
+    collections:
+      - weathernews
+  - id: wn-109
+    name_ja: 小金井公園
+    location:
+      city_ja: 小金井市
+      address_ja: 東京都小金井市関野町1-13-1
+    geo:
+      lat: 35.7171
+      lng: 139.5178
+    trees: 1400
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - サトザクラ
+      - オオシマザクラなど
+    description_ja: 園内にはヤマザクラ、サトザクラ、オオシマザクラなど約50種類、約1400本の桜がみられ、隣接する名勝「小金井桜」とともに桜の名所となっています。「桜の園」では多彩な桜が春を彩ります。公園をより快適にご利用いただくために、以下のご協力をお願いいたします。・繁忙期は近隣道路が渋滞し、駐車場が大変混雑いたしますので、ご来園の際は公共交通機関のご利用をお願いいたします。・ゴミはお持ち帰りいただきますようお願いいたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82742120.jpg
+        source_url: https://weathernews.jp/sakura/spot/109/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/109/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404406/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E4%BA%95%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/109/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1404406/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E4%BA%95%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-44028
+    name_ja: 小松川千本桜
+    location:
+      city_ja: 江戸川区
+      address_ja: 東京都江戸川区小松川3-13〜小松川1-1
+    geo:
+      lat: 35.696
+      lng: 139.8538
+    trees: 1000
+    species_ja:
+      - 河津桜
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヒガンザクラ
+      - カンヒザクラ
+      - オオシマザクラ
+      - エドヒガンザクラなど
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44028/1767838137_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44028/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44028/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44028/
+    collections:
+      - weathernews
+  - id: wn-4485
+    name_ja: 小石川後楽園(シダレザクラ)
+    location:
+      city_ja: 文京区
+      address_ja: 東京都文京区後楽1丁目6-6
+    geo:
+      lat: 35.7051
+      lng: 139.7486
+    trees: 5
+    species_ja:
+      - シダレザクラ
+    description_ja: 水戸徳川家ゆかりの小石川後楽園の春を彩るシダレザクラは、ソメイヨシノより1週間程早く薄紅色の花を咲かせます。シダレザクラは、西門から入ってすぐの場所にあります。酒類の持込み、敷物を敷くことはできません。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4485/1768199163_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4485/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4485/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300521/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4485/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300521/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-4415
+    name_ja: 小石川後楽園(ソメイヨシノ)
+    location:
+      city_ja: 文京区
+      address_ja: 東京都文京区後楽1丁目6-6
+    geo:
+      lat: 35.7051
+      lng: 139.7486
+    trees: 11
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 水戸徳川家ゆかりの小石川後楽園では、シダレザクラの開花より1週間遅れてソメイヨシノが開花します。園内に表現されている「海・山・川・田園」の内、大泉水を中心とした「海の景」でソメイヨシノを楽しむことができます。酒類の持込み、敷物を敷くことはできません。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4415/1768199158_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4415/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4415/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4415/
+    collections:
+      - weathernews
+  - id: wn-4484
+    name_ja: 小峰ふれあい自然郷(都立小峰公園)(ソメイヨシノ)
+    location:
+      city_ja: あきる野市
+      address_ja: 東京都あきる野市留原284-1
+    geo:
+      lat: 35.7194
+      lng: 139.2309
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: ソメイヨシノ、ヤマザクラが約400本。昭和3年、地元留原地区の青年団が主体となって桜苗木代の寄付を募り勤労奉仕にて現公園のメインになっている桜尾根に植え付けました。ソメイヨシノの寿命は80年位、当時の樹が痛んできたため、平成22年春に植樹しました。4月上旬には、尾根に咲く桜や春の草花を愛でながら、ハイキングを楽しむことができます。公園内の利用の可否等、変更となる可能性がございます。最新情報は公式HP・X(Twitter)でご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61803287.jpg
+        source_url: https://weathernews.jp/sakura/spot/4484/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4484/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4484/
+    collections:
+      - weathernews
+  - id: wn-113
+    name_ja: 小峰ふれあい自然郷(都立小峰公園)(ヤマザクラ)
+    location:
+      city_ja: あきる野市
+      address_ja: 東京都あきる野市留原284-1
+    geo:
+      lat: 35.7194
+      lng: 139.2309
+    trees: 400
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ、ヤマザクラが約400本。昭和3年、地元留原地区の青年団が主体となって桜苗木代の寄付を募り勤労奉仕にて現公園のメインになっている桜尾根に植え付けました。ソメイヨシノの寿命は80年位、当時の樹が痛んできたため、平成22年春に植樹しました。4月上旬には、尾根に咲く桜や春の草花を愛でながら、ハイキングを楽しむことができます。公園内の利用の可否等、変更となる可能性がございます。最新情報は公式HP・X(Twitter)でご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61802959.jpg
+        source_url: https://weathernews.jp/sakura/spot/113/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/113/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/113/
+    collections:
+      - weathernews
+  - id: wn-106
+    name_ja: 上野恩賜公園
+    location:
+      city_ja: 台東区
+      address_ja: 東京都台東区上野公園5-20
+    geo:
+      lat: 35.7148
+      lng: 139.7731
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - カンザン
+      - カンヒザクラ
+    description_ja: 桜の本数約800本。江戸初期からの桜の名所です。「秋色桜」とよばれる清水観音堂内のシダレザクラが有名です。【禁止事項】火気使用不可、テーブル・イス・調理器具持込不可、楽器・カラオケ使用不可。ゴミは持ち帰りましょう。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82748630.jpg
+        source_url: https://weathernews.jp/sakura/spot/106/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/106/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300529/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/106/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300529/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-44062
+    name_ja: 城北中央公園
+    location:
+      city_ja: 板橋区
+      address_ja: 東京都練馬区氷川台練馬区氷川台1-3-1
+    geo:
+      lat: 35.756
+      lng: 139.6739
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44062/1768374693_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44062/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44062/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44062/
+    collections:
+      - weathernews
+  - id: wn-107
+    name_ja: 新宿御苑
+    location:
+      city_ja: 新宿区
+      address_ja: 東京都新宿区内藤町11番地
+    geo:
+      lat: 35.6852
+      lng: 139.71
+    trees: 900
+    species_ja:
+      - タカトオコヒガン
+      - シダレザクラ
+      - ソメイヨシノ
+      - オオシマザクラ
+      - イチヨウ
+      - カンザン
+      - フゲンゾウ
+      - フクロクジュ
+      - ヨウコウ
+      - ヤエベニシダレ
+      - ウコン
+      - ギョイコウ
+      - ケンロクエンキクザクラ
+    description_ja: 約70品種約900本のサクラがあり、2月～4月中旬まで、長期にわたって園内を鮮やかに彩ります。艶やかに咲き競う個性豊かな桜をご観賞ください。※3～4月は混雑緩和のため、事前予約制を実施予定です。詳細は公式HPを確認ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/107/1766736435_s.webp
+        source_url: https://weathernews.jp/sakura/spot/107/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/107/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/107/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-4429
+    name_ja: 新宿中央公園
+    location:
+      city_ja: 新宿区
+      address_ja: 東京都新宿区西新宿2丁目11
+    geo:
+      lat: 35.6899
+      lng: 139.6897
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - タカトオコヒガンザクラ
+    description_ja: 大都会のオアシスである新宿中央公園には、ソメイヨシノはもちろん、新宿区と友好提携を結んでいる長野県高遠町(現在は長野県伊那市)から寄贈されたタカトオコヒガンザクラは濃いピンク色で非常にきれいに咲きます。例年3月下旬～4月上旬頃までご観賞いただけます。※天候によって開花時期が前後いたします。【お願い】火気使用、芝生広場内ブルーシート等通気性の悪いシート類の使用、テント使用はできません。詳しくは公園HPをご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-20/61366156.jpg
+        source_url: https://weathernews.jp/sakura/spot/4429/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4429/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4429/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307071
+    name_ja: 森林総合研究所 多摩森林科学園
+    location:
+      address_ja: 東京都八王子市廿里町1833-81
+    geo:
+      lat: 35.646304
+      lng: 139.278938
+    trees: 1300
+    species_ja:
+      - ヤマザクラ
+      - マメザクラ
+      - カンヒザクラ
+      - ヒガンザクラ
+      - シダレザクラ等多数
+    description_ja: 森林の動植物に関する研究施設で、敷地内には展示館「森の科学館」や樹木園、サクラ保存林などがある。約8haのサクラ保存林には、日本全国の主要な品種や名木のクローン、江戸時代から伝わる品種など約1400本もの桜を植樹。2月から3月に咲き始めるカンザクラや河津桜を皮切りに、ソメイヨシノ、山桜、枝垂れ桜など様々な桜が咲き継いでいく。開花のピークは3月後半から4月下旬ごろ。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307071_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307071/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307071/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307071/
+    collections:
+      - navitime
+  - id: wn-4409
+    name_ja: 神代植物公園
+    location:
+      city_ja: 調布市
+      address_ja: 東京都調布市深大寺元町5-31-10
+    geo:
+      lat: 35.6714
+      lng: 139.5458
+    trees: 750
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ジンダイアケボノ
+    description_ja: さくら園をはじめとする園内各所では、早咲きの大寒桜から遅咲きのサトザクラ類まで、約60種類、750本のサクラをご覧いただけます。園内を彩るサクラをご鑑賞ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61803176.jpg
+        source_url: https://weathernews.jp/sakura/spot/4409/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4409/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403990/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4409/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403990/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44018
+    name_ja: 水元公園
+    location:
+      city_ja: 葛飾区
+      address_ja: 東京都葛飾区水元公園・東金町5丁目・8丁目
+    geo:
+      lat: 35.7937
+      lng: 139.8696
+    trees: 918
+    species_ja:
+      - ソメイヨシノなど
+      - ソメイヨシノ
+    description_ja: 園内に点在するサクラと共に、広大な中央広場、水辺の景色など様々な風景を楽しむことが出来ます。また、水元公園西側の葛飾区遊歩道（通称さくら堤）には約3.5㎞にわたって約530本のソメイヨシノを主としたサクラが咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82940182.jpg
+        source_url: https://weathernews.jp/sakura/spot/44018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44018/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1401479
+    name_ja: 水元公園
+    location:
+      address_ja: 東京都葛飾区水元公園3-2
+    geo:
+      lat: 35.786403
+      lng: 139.869247
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - サトザクラ
+    description_ja: 東京都葛飾区にある都立の水郷公園で、オニバスや絶滅危惧種のアサザが自生する場所としても知られている。広大な園内は、大小の水路が走り、ポプラ並木やメタセコイアの森、ハンノキなどが茂る水郷の景観。3月下旬から4月上旬にはソメイヨシノや山桜、サトザクラなど約1300本の桜が咲き誇り、ファミリーをはじめ多くの花見客で賑わう。公園外側にある約3.5kmの「水元さくら堤」、滝と桜が一体となった「水元桜大滝」の景観も見どころ。トイレ・売店・有料駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1401479_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401479/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1401479_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401479/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1401479_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401479/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401479/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1401479/
+    collections:
+      - navitime
+  - id: wn-44016
+    name_ja: 清澄庭園(サトザクラ)
+    location:
+      city_ja: 江東区
+      address_ja: 東京都江東区清澄3-3-9
+    geo:
+      lat: 35.68
+      lng: 139.7976
+    trees: 8
+    species_ja:
+      - カンヒザクラ
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 清澄庭園では、2月の下旬にカンヒザクラ、4月に入る頃にソメイヨシノが咲き、一番最後に八重のサクラであるサトザクラが開花。少しづつ時期をずらせて種類の異なるサクラが楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44016/1766539864_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44016/
+    collections:
+      - weathernews
+  - id: wn-44002
+    name_ja: 清澄庭園(ソメイヨシノ)
+    location:
+      city_ja: 江東区
+      address_ja: 東京都江東区清澄3-3-9
+    geo:
+      lat: 35.6804
+      lng: 139.7977
+    trees: 8
+    species_ja:
+      - カンヒザクラ
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 岩崎家3代が築いた名石の庭に、サクラによる春の彩りが添えられます。カンヒザクラ（2月下旬～）、ソメイヨシノ（3月下旬）、サトザクラ（4月上旬～）、と3種類のサクラが順に開花していきます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44002/1766540631_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44002/
+    collections:
+      - weathernews
+  - id: wn-44059
+    name_ja: 青山霊園
+    location:
+      city_ja: 港区
+      address_ja: 東京都港区南青山２丁目３２−２
+    geo:
+      lat: 35.6685
+      lng: 139.7207
+    trees: 320
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - サトザクラ
+      - シダレザクラなど
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44059/1768361616_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44059/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44059/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44059/
+    collections:
+      - weathernews
+  - id: wn-44029
+    name_ja: 石神井公園
+    location:
+      city_ja: 練馬区
+      address_ja: 東京都練馬区石神井台1-26-1
+    geo:
+      lat: 35.738
+      lng: 139.599
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+      - カンザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-31/95570121.jpg
+        source_url: https://weathernews.jp/sakura/spot/44029/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44029/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307083/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44029/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307083/
+    collections:
+      - weathernews
+      - navitime
+    trees: 240
+    description_ja: 樹林に囲まれた三宝寺池とボート遊びで賑う石神井池を中心に、武蔵野の自然が堪能できる公園。園内では四季の花木や水鳥たちの観察が楽しめるほか、テニスコートや野球場、アスレチック広場なども点在している。春は花見スポットとしても人気で、3月下旬から4月上旬には約220本のソメイヨシノ、4月中旬には約20本のヤマザクラが見事に開花。池の周囲だけでなく、サービスセンター横の桜並木も必見である。トイレ・売店・駐車場あり。最寄は石神井公園駅。
+  - id: wn-44030
+    name_ja: 石神井川
+    location:
+      city_ja: 板橋区
+      address_ja: 東京都板橋区中板橋19～板橋4丁目
+    geo:
+      lat: 35.7568
+      lng: 139.6989
+    trees: 900
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 花見の頃になると、中板橋付近から加賀付近まであわせて約900本の桜が咲き誇り、区内を代表する桜の名所となっている。ソメイヨシノを中心に、ヤマザクラ、オオシマザクラなどを楽しむことができる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44030/1766724416_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44030/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44030/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44030/
+    collections:
+      - weathernews
+  - id: wn-44036
+    name_ja: 赤塚公園
+    location:
+      city_ja: 板橋区
+      address_ja: 東京都板橋区高島平3丁目1
+    geo:
+      lat: 35.7849
+      lng: 139.657
+    trees: 300
+    species_ja:
+      - ソメイヨシノなど
+      - ソメイヨシノ
+    description_ja: ニリンソウ月間も開催中です（令和8年3月26日～4月12日）大門地区は都内最大のニリンソウ自生地であり、可憐な白い花が200ｍにも渡って咲く姿は圧巻！！サクラのお花見とご一緒に、ニリンソウの花もご覧ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/44036/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44036/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44036/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1403609
+    name_ja: 千鳥ヶ淵公園
+    location:
+      address_ja: 東京都千代田区麹町1-2-一番町2
+    geo:
+      lat: 35.686003
+      lng: 139.744954
+    trees: 105
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ他
+    description_ja: 皇居西側の千鳥ヶ淵と英国大使館の間にある公園で、濠に沿って続く「千鳥ヶ淵緑道」とともに都内有数の桜の名所として知られている。園内にはソメイヨシノや山桜など約170本の桜が植えられ、例年3月下旬から4月上旬が見ごろ。カップルや観光客、仕事帰りのオフィスワーカーなど多くの人々が花見を楽しむ。満開の頃には周辺で「千代田のさくらまつり」が開催され、千鳥ヶ淵緑道での夜桜ライトアップや千鳥ヶ淵ボート場の夜間特別営業も行われる。トイレあり。駐車場なし。最寄は半蔵門駅。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1403609_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1403609_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1403609_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1403609_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+    collections:
+      - navitime
+  - id: wn-4410
+    name_ja: 千鳥ヶ淵緑道
+    location:
+      city_ja: 千代田区
+      address_ja: 東京都千代田区九段南二丁目〜三番町2先
+    geo:
+      lat: 35.6898
+      lng: 139.7481
+    trees: 230
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約700mの遊歩道に約230本(対岸を含む)のソメイヨシノをはじめとする桜が見事に咲きます。近くには区営ボート場があり、濠から見上げる桜は格別です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-04/95750865.jpg
+        source_url: https://weathernews.jp/sakura/spot/4410/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4410/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307165/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4410/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307165/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-4401
+    name_ja: 洗足池公園
+    location:
+      city_ja: 大田区
+      address_ja: 東京都大田区南千束2丁目14番5号
+    geo:
+      lat: 35.6023
+      lng: 139.6918
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 江戸時代から景勝地として名高く、公園内では歴史遺産から豊かな自然まで、さまざまな魅力に触れられます。園内には約200本の桜があり、池を見下ろす北側の小高い丘には「桜山」「松山」が、西側には通称「しだれ桜山」があり、春には城南の花見名所として多くの人で賑わいます。2025年には、洗足池公園地区が都市景観大賞特別賞を受賞しました。※桜山では、お花見を目的とした宴会行為は禁止されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4401/1768354795_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4401/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4401/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4401/
+    collections:
+      - weathernews
+  - id: wn-44022
+    name_ja: 善福寺川緑地
+    location:
+      city_ja: 杉並区
+      address_ja: 杉並区成田東二・三・四丁目、成田西一・三・四丁目、荻窪一丁目
+    geo:
+      lat: 35.6912
+      lng: 139.6327
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 善福寺川に沿って約700本のサクラが植えられています。尾崎橋から上流は、川の両岸に桜並木が連なり、ここでしか見られない風景となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61642044.jpg
+        source_url: https://weathernews.jp/sakura/spot/44022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44022/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44022/
+    collections:
+      - weathernews
+  - id: wn-44008
+    name_ja: 多摩川堤防沿い(永田橋〜睦橋)
+    location:
+      city_ja: 福生市
+      address_ja: 東京都福生市北田園先〜南田園先
+    geo:
+      lat: 35.7269
+      lng: 139.3293
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-12/96076131.jpg
+        source_url: https://weathernews.jp/sakura/spot/44008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44008/
+    collections:
+      - weathernews
+  - id: wn-114
+    name_ja: 多磨霊園
+    location:
+      city_ja: 府中市
+      address_ja: 東京都府中市多磨町4-628
+    geo:
+      lat: 35.6857
+      lng: 139.5104
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 多磨霊園の桜はほとんどが園路、通路の並木として植えられています。開花期になれば各所に花のトンネルを作り、来園者の目を十二分に楽しませてくれます。霊園なのでシート等を持ち込んでのお花見は不可です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82423445.jpg
+        source_url: https://weathernews.jp/sakura/spot/114/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/114/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/114/
+    collections:
+      - weathernews
+  - id: wn-4481
+    name_ja: 代々木公園
+    location:
+      city_ja: 渋谷区
+      address_ja: 東京都渋谷区代々木神園町2-1
+    geo:
+      lat: 35.6712
+      lng: 139.6965
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - サトザクラ
+      - カワズザクラ
+    description_ja: 都心で一番広い空が見られる森林公園。桜の園、中央広場が桜を見るのに絶好の場所です。早咲きのカワヅザクラは2月下旬から楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82738718.jpg
+        source_url: https://weathernews.jp/sakura/spot/4481/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4481/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4481/
+    collections:
+      - weathernews
+  - id: wn-44003
+    name_ja: 辰巳の森緑道公園
+    location:
+      city_ja: 江東区
+      address_ja: 東京都江東区辰巳1丁目・2丁目
+    geo:
+      lat: 35.646
+      lng: 139.8144
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - サトザクラ
+    description_ja: 春になるとソメイヨシノが咲き誇り、毎年多くの見物のお客様でにぎわっています。ご家族や気の合う仲間と春を満喫しに来てください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71187427.jpg
+        source_url: https://weathernews.jp/sakura/spot/44003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44003/
+    collections:
+      - weathernews
+  - id: wn-44040
+    name_ja: 池上本門寺
+    location:
+      city_ja: 大田区
+      address_ja: 東京都大田区池上1丁目1-1
+    geo:
+      lat: 35.5788
+      lng: 139.7052
+    species_ja:
+      - ソメイヨシノ
+      - 山桜
+      - しだれ桜
+      - 笹部桜
+    description_ja: 五重塔前
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44040/1766907747_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44040/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44040/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44040/
+    collections:
+      - weathernews
+  - id: wn-44027
+    name_ja: 哲学堂公園
+    location:
+      city_ja: 中野区
+      address_ja: 東京都中野区松が丘1丁目34-28
+    geo:
+      lat: 35.7221
+      lng: 139.6743
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+    description_ja:
+      さくら広場やつつじ園、菖蒲池周辺を中心にソメイヨシノが植えられ、花見の時期は多くの来園者でにぎわう。2026年3月28日(土)・29日(日)は閉園時間が19時まで延長され、桜のライトアップを予定している。同日には四聖堂で「哲学堂
+      春のミニコンサート
+      春と出会う音の祭典」も開催され、篠笛と和太鼓の音色が春の園内に響く。各日12時と14時から各回30分ほどで、出演は朱鷺たたら、朱鷺たたら一門、小泉謙一(28日のみ出演)となり、参加は無料、雨天時は中止となる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/44027/1769306382_s.webp
+        source_url: https://weathernews.jp/sakura/spot/44027/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44027/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44027/
+    collections:
+      - weathernews
+  - id: wn-110
+    name_ja: 都立狭山公園
+    location:
+      city_ja: 東村山市
+      address_ja: 東京都東村山市多摩湖町、廻田町、東大和市多摩湖
+    geo:
+      lat: 35.7634
+      lng: 139.4425
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ他
+    description_ja: 風の広場ではソメイヨシノを中心にサトザクラ、オオシマザクラを、太陽広場ではヤマザクラの大木と様々なサトザクラを楽しめます。また、雑木林に開花期の遅いウワミズザクラが点在し、4月下旬まで一味違うサクラの花を見ることができます。多摩湖堤防からの展望は最高の開放感です。【ご注意：公園内は火気使用禁止です。また、自然保全のためゴミの持ち帰りにご協力ください。】。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82830592.jpg
+        source_url: https://weathernews.jp/sakura/spot/110/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/110/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/110/
+    collections:
+      - weathernews
+  - id: wn-44007
+    name_ja: 都立桜ヶ丘公園
+    location:
+      city_ja: 多摩市
+      address_ja: 東京都多摩市連光寺5-15
+    geo:
+      lat: 35.639
+      lng: 139.4612
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: お花見坂周辺でソメイヨシノの桜並木がみられます。丘の上広場など、園内各所でもソメイヨシノを楽しめます。ヤマザクラは雑木林の中に点在し、里山の春を演出します。また園内5ヶ所の「宇宙桜(そらざくら)」も楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61774803.jpg
+        source_url: https://weathernews.jp/sakura/spot/44007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44007/
+    collections:
+      - weathernews
+  - id: wn-44005
+    name_ja: 都立浮間公園
+    location:
+      city_ja: 板橋区
+      address_ja: 東京都板橋区舟渡二丁目/北区浮間二丁目
+    geo:
+      lat: 35.7947
+      lng: 139.6933
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 池沿いに桜並木があり、毎年多くの方でにぎわいます。ソメイヨシノが見頃を終えた後は、対岸のサトザクラが咲き、比較的長く桜を楽しめます。無人での場所とり、火気の使用、大きな音の出る物、テントの設営、ペグの使用はできませんのでご協力をお願いします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82840492.jpg
+        source_url: https://weathernews.jp/sakura/spot/44005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44005/
+    collections:
+      - weathernews
+  - id: wn-44035
+    name_ja: 東郷寺
+    location:
+      city_ja: 府中市
+      address_ja: 東京都府中市清水が丘3丁目40-10
+    geo:
+      lat: 35.6646
+      lng: 139.4994
+    trees: 5
+    species_ja:
+      - シダレザクラ
+    description_ja: 府中市の名木100選にも選ばれたシダレザクラは、戦没者供養のために日蓮宗総本山身延山久遠寺から寄贈されました。「羅生門」の映画のセットモデルになったといわれる東郷寺の山門から見下ろすシダレザクラの景観は魅力的です。お花見の方は公共交通機関のご利用にご協力お願い致します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-01/95630177.jpg
+        source_url: https://weathernews.jp/sakura/spot/44035/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44035/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44035/
+    collections:
+      - weathernews
+  - id: wn-44014
+    name_ja: 播磨坂
+    location:
+      city_ja: 文京区
+      address_ja: 東京都文京区小石川4・5丁目境
+    geo:
+      lat: 35.7167
+      lng: 139.7423
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+      - 鬱金(うこん)桜など
+    description_ja: ソメイヨシノなど約120本が、例年3月下旬から4月上旬にかけて見頃を迎えます。満開の頃には、桜のトンネルが出現し、美しい景観が広がります。このさくら並木は、昭和35年(1960年)に坂の舗装が行われた際に、当時の花を植える運動の一つとして桜が植栽されたのが始まりで、地元の人々の手で育てられ、今では立派な桜並木に成長しました。中央部は緑道として整備され、市民憩いの場として親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-01/95632204.jpg
+        source_url: https://weathernews.jp/sakura/spot/44014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44014/
+    collections:
+      - weathernews
+  - id: wn-44043
+    name_ja: 梅岩寺
+    location:
+      city_ja: 青梅市
+      address_ja: 東京都青梅市仲町235
+    geo:
+      lat: 35.7912
+      lng: 139.2556
+    trees: 2
+    species_ja:
+      - エドヒガン
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95837725.jpg
+        source_url: https://weathernews.jp/sakura/spot/44043/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44043/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44043/
+    collections:
+      - weathernews
+  - id: wn-4445
+    name_ja: 飛鳥山公園
+    location:
+      city_ja: 北区
+      address_ja: 東京都北区王子1-1-3
+    geo:
+      lat: 35.7497
+      lng: 139.739
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 八代将軍吉宗が江戸庶民の行楽のために桜を植樹し、開放した日本初の公園です。またソメイヨシノのあとにはサトザクラが4月中旬に開花します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-27/61543200.jpg
+        source_url: https://weathernews.jp/sakura/spot/4445/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4445/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4445/
+    collections:
+      - weathernews
+  - id: wn-4425
+    name_ja: 浜離宮恩賜庭園
+    location:
+      city_ja: 中央区
+      address_ja: 東京都中央区浜離宮庭園1-1
+    geo:
+      lat: 35.6598
+      lng: 139.7633
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+      - カンザン
+      - フゲンゾウ
+      - ギョイコウ
+      - ウコン
+    description_ja: 海水を引き入れた「潮入の池」のほとりを中心に、園内に桜が点在しています。国の特別名勝・特別史跡に指定された江戸時代を代表する徳川将軍家の庭園を散策しながら、お花見ができます。※宴会、場所取り、火気使用、カラオケ、ペット持込、酒の持込は遠慮ください。敷物は一部可能な場所がありますので窓口にお問い合わせください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4425/1767668188_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4425/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4425/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300588/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4425/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300588/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44023
+    name_ja: 府中市の桜通り
+    location:
+      city_ja: 府中市
+      address_ja: 東京都府中市府中町2-25
+    geo:
+      lat: 35.6755
+      lng: 139.4822
+    trees: 300
+    species_ja:
+      - コシノヒガン
+    description_ja: 桜通りは東西1100mにわたる桜並木です。今年は3月中旬から下旬に府中市民桜まつりが実施され、期間中は提灯・ボンボリによるライトアップが行われます。3月28日・29日（予定）に行われるメインイベントでは、両日11～16時に桜通りと府中公園通りが歩行者天国となり、桜を間近で楽しむことができます。近くの府中公園や寿中央公園では催し物も行いますので、ぜひお越しください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/44023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44023/
+    collections:
+      - weathernews
+  - id: wn-4421
+    name_ja: 武蔵野公園
+    location:
+      city_ja: 府中市
+      address_ja: 東京都府中市多磨町2-24-1
+    geo:
+      lat: 35.6879
+      lng: 139.5205
+    trees: 600
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - カンザン
+    description_ja: 約40種の多品種の桜が3月上旬〜4月下旬まで次々と開花します。長期間お花見を楽しめるのがポイント。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4421/1766535586_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4421/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4421/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4421/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307141
+    name_ja: 武蔵野公園
+    location:
+      address_ja: 東京都府中市多磨町2-24-1(武蔵野公園サービスセンター)
+    geo:
+      lat: 35.773707
+      lng: 139.310387
+    trees: 900
+    species_ja:
+      - ヤマザクラ
+      - オオシマザクラ
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 東京都府中市・小金井市にまたがる自然豊かな都立公園で、園内には草原や雑木林、小さな丘、バーベキュー場などがある。山桜や大島桜、ソメイヨシノなど様々な種類の桜が開花する3月中旬から4月下旬には、ファミリーやカップルなど多くの花見客で賑わう。中でも、園路沿いに見事な桜のトンネルをつくる4月中旬のサトザクラは必見。都内の公園や街路に植える苗木を育てる苗圃があり、成長を観察しながら散策が楽しめる。トイレ・売店・有料駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307141_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307141_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307141_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307141_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307141_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307141/
+    collections:
+      - navitime
+  - id: wn-4403
+    name_ja: 妙法寺
+    location:
+      city_ja: 世田谷区
+      address_ja: 東京都世田谷区大蔵5丁目12-3
+    geo:
+      lat: 35.6319
+      lng: 139.6067
+    trees: 10
+    species_ja:
+      - シダレザクラ
+    description_ja: ピンクのシダレザクラと白のオオシマザクラ、そしてコブシの白が大変美しいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82528064.jpg
+        source_url: https://weathernews.jp/sakura/spot/4403/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4403/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4403/
+    collections:
+      - weathernews
+  - id: wn-4435
+    name_ja: 明治神宮外苑
+    location:
+      city_ja: 新宿区
+      address_ja: 東京都新宿区霞ヶ丘町1-1
+    geo:
+      lat: 35.6771
+      lng: 139.7179
+    trees: 310
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ他
+    description_ja: 飲食物(アルコール)の持ち込み、宴会を行うスペースはございません。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-01/31563768.jpg
+        source_url: https://weathernews.jp/sakura/spot/4435/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4435/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307152/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4435/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307152/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-44032
+    name_ja: 野山北・六道山公園
+    location:
+      city_ja: 瑞穂町
+      address_ja: 東京都武蔵村山市三ツ木4-2
+    geo:
+      lat: 35.7758
+      lng: 139.3631
+    trees: 100
+    species_ja:
+      - ヤマザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95902592.jpg
+        source_url: https://weathernews.jp/sakura/spot/44032/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44032/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44032/
+    collections:
+      - weathernews
+  - id: wn-115
+    name_ja: 靖国神社
+    location:
+      city_ja: 千代田区
+      address_ja: 東京都千代田区九段北3-1-1
+    geo:
+      lat: 35.6945
+      lng: 139.7438
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 東京管区気象台が開花を観測するため指定した桜の標本木があり、桜の名所として知られています。桜の見ごろである3月下旬から4月上旬には「奉納芸能」「奉納夜桜能」などの催し物が行われ多くの参拝者でにぎわいます。また、「夜桜詣」では期間限定で神門の扉を開放し、内苑の夜桜をご覧いただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/115/1766732236_s.webp
+        source_url: https://weathernews.jp/sakura/spot/115/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/115/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/115/
+    collections:
+      - weathernews
+  - id: wn-4417
+    name_ja: 六義園
+    location:
+      city_ja: 文京区
+      address_ja: 東京都文京区本駒込6丁目16-3
+    geo:
+      lat: 35.7324
+      lng: 139.7484
+    trees: 20
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+    description_ja: 高さ約15m・幅約20mのしだれ桜は、ソメイヨシノよりもひと足早く見頃を迎えます。薄紅色の花が滝のように咲く姿は圧巻です。※最新の情報は公式HP、X（旧Twitter）＠RikugienGardenをご覧ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82451196.jpg
+        source_url: https://weathernews.jp/sakura/spot/4417/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4417/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300525/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4417/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300525/
+    collections:
+      - weathernews
+      - navitime

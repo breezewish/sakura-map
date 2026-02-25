@@ -1,0 +1,824 @@
+prefecture:
+  id: 33
+  name_ja: 岡山県
+  name_en: Okayama
+spots:
+  - id: wn-66101
+    name_ja: がいせん桜
+    location:
+      city_ja: 新庄村
+      address_ja: 岡山県真庭郡新庄村町地区
+    geo:
+      lat: 35.1766
+      lng: 133.5691
+    trees: 133
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 旧出雲街道宿場町の両側に植えられている133本の桜は、春には見事な桜のトンネルになり新庄村の春を代表する景色といわれる。通りの両側には水路があり、水の流れる音色は環境省選定の”残したい「日本の音風景百選」”に選ばれている。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-08/71419513.jpg
+        source_url: https://weathernews.jp/sakura/spot/66101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66101/
+    collections:
+      - weathernews
+  - id: wn-66004
+    name_ja: たけべの森公園
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区建部町田地子1571-40
+    geo:
+      lat: 34.8568
+      lng: 133.8743
+    trees: 10000
+    species_ja:
+      - ヤエベニシダレザクラ
+    description_ja: 4月初旬から5月初旬まで、早咲きから遅咲きの桜がリレーで満開となります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66004/
+    collections:
+      - weathernews
+  - id: wn-6607
+    name_ja: みやま公園
+    location:
+      city_ja: 玉野市
+      address_ja: 岡山県玉野市田井2-4490
+    geo:
+      lat: 34.5176
+      lng: 133.928
+    trees: 7000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約200haの敷地内には5つの池が点在し、散策のできる遊歩道やサイクリングロードもあり、さくらまつり期間中には夜桜も楽しめます。深山イギリス庭園には花の直径約7cmのタイハクザクラがあります。またミニパターゴルフ場や、小さな子供から小学校高学年の子供まで遊べる遊具等もあり子供連れのお花見にも最適です。ドッグランもあり愛犬とも楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6607/1768454726_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6607/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6607/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6607/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307005/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-6613
+    name_ja: 旭川さくらみち
+    location:
+      city_ja: 岡山市中区
+      address_ja: 岡山県岡山市旭川河川敷
+    geo:
+      lat: 34.663
+      lng: 133.9393
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 後楽園東岸に連なるソメイヨシノは、「後楽園」や「岡山城」をロケーションにした全国に名だたる桜の名所として知られ、開花シーズンには県内外から多くの観光客、花見客でにぎわいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82823374.jpg
+        source_url: https://weathernews.jp/sakura/spot/6613/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6613/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6613/
+    collections:
+      - weathernews
+  - id: wn-6611
+    name_ja: 井原堤
+    location:
+      city_ja: 井原市
+      address_ja: 岡山県井原市井原町3616番地付近
+    geo:
+      lat: 34.606
+      lng: 133.4639
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市の中心を流れる小田川に沿って約2kmの桜並木が続いており、水辺に映える花姿などが楽しめます。家族や友達同士など幅広い年代の人々が桜のトンネルの中を散策し、穏やかな川の流れや桜の美しさに心癒されます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6611/1768353981_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6611/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6611/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6611/
+    collections:
+      - weathernews
+  - id: wn-66002
+    name_ja: 岡山・RSKバラ園
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区撫川1592-1
+    geo:
+      lat: 34.647
+      lng: 133.8342
+    trees: 160
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 当園はバラを主とした植物園で、桜はソメイヨシノを中心に約160本が植えられています。桜の季節にはチューリップや桃などの春の花もご覧いただけるほか、園外の芝生広場でも桜を楽しんでいただけます。※芝生広場は共用スペースとなっております。使用にはルールがありますのでご協力をお願いいたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-04/95730266.jpg
+        source_url: https://weathernews.jp/sakura/spot/66002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66002/
+    collections:
+      - weathernews
+  - id: wn-66012
+    name_ja: 岡山いこいの村周辺
+    location:
+      city_ja: 瀬戸内市
+      address_ja: 岡山県瀬戸内市邑久町虫明大平山5652-11
+    geo:
+      lat: 34.6986
+      lng: 134.2244
+    trees: 2500
+    species_ja:
+      - シダレザクラ
+      - オオシマザクラ
+      - ヤエザクラ
+      - ソメイヨシノ
+    description_ja: 玄関前の樹齢約80年の枝垂桜が有名であり圧巻です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/66012/1769488511_s.webp
+        source_url: https://weathernews.jp/sakura/spot/66012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66012/
+    collections:
+      - weathernews
+  - id: wn-362
+    name_ja: 岡山後楽園
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区後楽園1-5
+    geo:
+      lat: 34.667
+      lng: 133.9357
+    trees: 280
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 江戸時代に作られた日本庭園。ソメイヨシノを中心に約280本の桜があり、歩きながら趣ある桜が楽しめます。ソメイヨシノは園内桜林、南門付近、そして西外園もきれいです。少し遅れて咲く栄唱橋たもとのヤエベニシダレもお勧めです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95791823.jpg
+        source_url: https://weathernews.jp/sakura/spot/362/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/362/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300296/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/362/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300296/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-66003
+    name_ja: 岡山市半田山植物園
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区法界院3-1
+    geo:
+      lat: 34.6918
+      lng: 133.9319
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: ソメイヨシノが満開時には山全体がピンク色に染まりとても美しいです。桜まつり期間中は夜間開園します。園内がライトアップすると昼間とは違った雰囲気になり、市街地の夜景と一緒に楽しめます。樹齢100年を超える長寿のソメイヨシノが見所のひとつとなってます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61782031.jpg
+        source_url: https://weathernews.jp/sakura/spot/66003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66003/
+    collections:
+      - weathernews
+  - id: wn-66006
+    name_ja: 丸山公園(浅口市)
+    location:
+      city_ja: 浅口市
+      address_ja: 岡山県浅口市金光町占見新田2259
+    geo:
+      lat: 34.557
+      lng: 133.6247
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 住民憩いの丸山公園では例年3月下旬から4月上旬にかけて池のほとりに植えられた桜が満開となります。日没後は提灯が灯され夜桜を堪能できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66006/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66006/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307023/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-66008
+    name_ja: 岩井畝の大桜
+    location:
+      city_ja: 真庭市
+      address_ja: 岡山県真庭市岩井畝389
+    geo:
+      lat: 35.0323
+      lng: 133.6244
+    trees: 1
+    species_ja:
+      - アズマヒガン
+    description_ja: 樹齢約800年とされる、アズマヒガンの大木が例年4月になると枝張り23mにわたり、美しく咲き誇ります。開花期間中は日没から21時頃までライトアップが施され、桜見物も楽しめます。真庭市の天然記念物に指定されています。伝説では平家の落人が苗を持ち込み植えたものと伝えられています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-03/71267150.jpg
+        source_url: https://weathernews.jp/sakura/spot/66008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66008/
+    collections:
+      - weathernews
+  - id: wn-66107
+    name_ja: 吉井川河川公園桜並木
+    location:
+      city_ja: 和気町
+      address_ja: 岡山県和気郡和気町田原下162
+    geo:
+      lat: 34.8051
+      lng: 134.1388
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 吉井川の河川敷約400ｍに、およそ200本の桜が一斉に咲き乱れる。川からのさわやかな風を感じながら、ゆっくり散策できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/66107/1771896386_s.webp
+        source_url: https://weathernews.jp/sakura/spot/66107/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66107/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66107/
+    collections:
+      - weathernews
+  - id: wn-66113
+    name_ja: 久世トンネル桜
+    location:
+      city_ja: 真庭市
+      address_ja: 岡山県真庭市惣８４
+    geo:
+      lat: 35.0764
+      lng: 133.7447
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66113/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66113/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66113/
+    collections:
+      - weathernews
+  - id: wn-66020
+    name_ja: 金川桜並木
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区御津金川
+    geo:
+      lat: 34.7968
+      lng: 133.9321
+    trees: 140
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 岡山市御津町金川地区内の宇甘川堤防にある約300mの桜並木。桜の開花に合わせて、提灯が設置され、夜間はライトアップの点灯があり夜桜も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-03-30/54760604.jpg
+        source_url: https://weathernews.jp/sakura/spot/66020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66020/
+    collections:
+      - weathernews
+  - id: wn-66102
+    name_ja: 古城山公園
+    location:
+      city_ja: 笠岡市
+      address_ja: 岡山県笠岡市笠岡2369-1
+    geo:
+      lat: 34.5011
+      lng: 133.507
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 当園は、笠岡市街地と富岡干拓の間から海に向かって突き出した高さ60.8mの小山であり、山頂からは笠岡市街地と番町地区が一望できる見晴らしがとても良い公園です。春の花見シーズンには約400本の桜が咲き誇り多くの行楽客にご利用されてます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61889710.jpg
+        source_url: https://weathernews.jp/sakura/spot/66102/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66102/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66102/
+    collections:
+      - weathernews
+  - id: wn-66016
+    name_ja: 黒木キャンプ場及び黒木ダム湖畔周辺施設
+    location:
+      city_ja: 津山市
+      address_ja: 岡山県津山市加茂町黒木646-9
+    geo:
+      lat: 35.2315
+      lng: 134.0488
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 津山市内より遅れて黒木ダム湖畔周辺の桜見ごころを迎えます。ダム湖の入口の管理事務所前の前の桜、ダム湖畔隧道を抜けると道路脇に桜並木が連なり熱燗です。特に黒木キャンプ場内にはしだれ桜がありバーべキューやキャンプを楽しみながら鑑賞するのも最高です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66016/
+    collections:
+      - weathernews
+  - id: wn-66104
+    name_ja: 紺屋川美観地区
+    location:
+      city_ja: 高梁市
+      address_ja: 岡山県高梁市鍜冶町
+    geo:
+      lat: 34.7966
+      lng: 133.6173
+    trees: 40
+    species_ja:
+      - ソメイヨシノ
+    description_ja: かつて備中松山城の外堀の役目を果たしていたと言われる「紺屋川」。その川をはさんだ両側に道路があり、桜と柳の並木道になっている。「日本の道100選」のひとつにも指定されており、高梁基督教会堂(岡山県下最古の基督教会堂)や藩校有終館跡などもあり歴史情緒を感じることができる。毎年、桜が咲き始める4月第1土日には雛まつりが開催され、桜と雛まつりが同時に楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/66104/1766549907_s.webp
+        source_url: https://weathernews.jp/sakura/spot/66104/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66104/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66104/
+    collections:
+      - weathernews
+  - id: wn-6608
+    name_ja: 三休公園
+    location:
+      city_ja: 美咲町
+      address_ja: 岡山県久米郡美咲町西川上400-11
+    geo:
+      lat: 34.9723
+      lng: 133.8231
+    trees: 5000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 三休公園は桜が約5000本、ミツバツツジが約1万株あり、標高約270mから見下ろす旭川湖畔の桜と湖の調和がとれた風景は桜のピンク色とダム湖の水色が絶景で日本絵画のように美しい。山頂から見下ろす雲海の中の早朝の桜は幻想的で美しい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6608/1766679447_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6608/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6608/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6608/
+    collections:
+      - weathernews
+  - id: wn-66103
+    name_ja: 種松山公園西園地
+    location:
+      city_ja: 倉敷市
+      address_ja: 岡山県倉敷市福田町福田426-1
+    geo:
+      lat: 34.5416
+      lng: 133.7868
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 西園地山頂駐車場に売店、自動販売機あり。山頂付近に総合遊具、滑り台などあり、家族で楽しめます。桜の時期は花見に訪れる人が多く、桜のトンネルが有名です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82788478.jpg
+        source_url: https://weathernews.jp/sakura/spot/66103/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66103/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66103/
+    collections:
+      - weathernews
+  - id: wn-363
+    name_ja: 酒津公園
+    location:
+      city_ja: 倉敷市
+      address_ja: 岡山県倉敷市酒津1556
+    geo:
+      lat: 34.6111
+      lng: 133.7507
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 軟式野球場、幼児用プールもあり、スポーツとともに楽しめます。総合遊具や広場もあり、一年を通して市民の憩いの場となっています。桜の時期は花見に訪れる人が特に多く、賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82702441.jpg
+        source_url: https://weathernews.jp/sakura/spot/363/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/363/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/363/
+    collections:
+      - weathernews
+  - id: wn-6601
+    name_ja: 城山公園
+    location:
+      city_ja: 新見市
+      address_ja: 岡山県新見市新見1077
+    geo:
+      lat: 34.9861
+      lng: 133.4672
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノをはじめシダレザクラ、八重桜など約300本が4月初旬から中旬にかけて見頃を迎えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2019-04-06/45660262.jpg
+        source_url: https://weathernews.jp/sakura/spot/6601/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6601/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6601/
+    collections:
+      - weathernews
+  - id: wn-66105
+    name_ja: 早島公園
+    location:
+      city_ja: 早島町
+      address_ja: 岡山県都窪郡早島町早島1329-1
+    geo:
+      lat: 34.6067
+      lng: 133.8264
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ウコン等
+    description_ja: 早島の桜の名所「早島公園」。公園内には約200本のソメイヨシノのほか、八重桜やウコン桜も植えられており、春の開花時期には多くの花見客で賑わいます。また3月の下旬〜4月中旬にかけて夜桜のライトアップが行われ幻想的な雰囲気を楽しむ事ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/66105/1769079993_s.webp
+        source_url: https://weathernews.jp/sakura/spot/66105/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66105/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66105/
+    collections:
+      - weathernews
+  - id: wn-66015
+    name_ja: 相原公園
+    location:
+      city_ja: 井原市
+      address_ja: 岡山県井原市大江町1036
+    geo:
+      lat: 34.576
+      lng: 133.4546
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の名所として、井原市民の憩いの場となっています。特に「井原桜まつり」の開催期間中は、夜間はぼんぼりによるライトアップも楽しめるため、昼夜を問わず多くの人で賑わい、桜の美しさを堪能されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66015/
+    collections:
+      - weathernews
+  - id: wn-6602
+    name_ja: 醍醐桜(真庭市)
+    location:
+      city_ja: 真庭市
+      address_ja: 岡山県真庭市別所2277
+    geo:
+      lat: 35.024
+      lng: 133.6473
+    trees: 1
+    species_ja:
+      - ヒガンザクラ
+    description_ja: 後醍醐天皇が隠岐配流の際にこの桜を見て賞賛したといわれ、推定樹齢は1000年、桜では県下一の巨木です。また、新日本名木百選にも選ばれ、県の天然記念物に指定されています。山里の丘陵にあって、堂々と天に向かってそびえ立つ姿は見事です。※桜付近での飲食はご遠慮ください。飲食は近くの休憩所をご利用ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6602/1766552530_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6602/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6602/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6602/
+    collections:
+      - weathernews
+  - id: wn-66010
+    name_ja: 池田動物園
+    location:
+      city_ja: 岡山市北区
+      address_ja: 岡山県岡山市北区京山2-5-1
+    geo:
+      lat: 34.6746
+      lng: 133.9063
+    trees: 70
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 山の斜面を利用した昔ながらの動物園。約90種類の動物たちと、桜を一緒に楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66010/
+    collections:
+      - weathernews
+  - id: wn-364
+    name_ja: 津山城(鶴山公園)
+    location:
+      city_ja: 津山市
+      address_ja: 岡山県津山市山下135
+    geo:
+      lat: 35.0615
+      lng: 134.0058
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1000本のソメイヨシノ。「日本さくら名所100選」にも選ばれた西日本有数の桜の名所です。本丸からの桜の眺めは、まるで雲海を見るよう、一見の価値があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-04/95736280.jpg
+        source_url: https://weathernews.jp/sakura/spot/364/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/364/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307110/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B1%B1%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/364/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307110/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B1%B1%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-66018
+    name_ja: 鶴形山公園
+    location:
+      city_ja: 倉敷市
+      address_ja: 岡山県倉敷市本町794-1
+    geo:
+      lat: 34.5977
+      lng: 133.7741
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 倉敷美観地区の北、標高約35mの鶴形山山頂付近にある公園で、約120本のソメイヨシノが咲き誇ります。遊歩道が整備されていて、山頂には阿智神社があり、倉敷の町を一望できます。芭蕉堂前にあるシダレザクラもきれいです。桜のあとは藤やツツジが見頃となります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66018/
+    collections:
+      - weathernews
+  - id: wn-66005
+    name_ja: 特別史跡旧閑谷学校
+    location:
+      city_ja: 備前市
+      address_ja: 岡山県備前市閑谷784
+    geo:
+      lat: 34.7978
+      lng: 134.2302
+    trees: 45
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 明治38年に造築した資料館(登録有形文化財指定)と桜とのマッチングがみどころです。(参考)資料館は西洋建築筏を参考にしつつ日本の大工の伝統的技法で施行された擬洋風建築です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71066166.jpg
+        source_url: https://weathernews.jp/sakura/spot/66005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66005/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307121/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66005/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307121/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-66013
+    name_ja: 白谷公園
+    location:
+      city_ja: 高梁市
+      address_ja: 岡山県高梁市成羽町下原
+    geo:
+      lat: 34.7813
+      lng: 133.5439
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の名所として有名な白谷川公園は町民の憩いの場。河川と親しむこの公園は建設省手づくり郷土賞を受賞しました。公園内には、白谷の桜といわれる約500本のソメイヨシノがあり、見頃は４月上旬です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/66013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66013/
+    collections:
+      - weathernews
+  - id: wn-66017
+    name_ja: 尾所の桜
+    location:
+      city_ja: 津山市
+      address_ja: 岡山県津山市阿波尾所地区1927
+    geo:
+      lat: 35.244
+      lng: 134.1075
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-04-10/54950700.jpg
+        source_url: https://weathernews.jp/sakura/spot/66017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66017/
+    collections:
+      - weathernews
+  - id: wn-66009
+    name_ja: 美甘宿場桜
+    location:
+      city_ja: 真庭市
+      address_ja: 岡山県真庭市美甘3932-1付近
+    geo:
+      lat: 35.1558
+      lng: 133.6229
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昭和天皇御即位記念として植えられた桜並木は、河川敷から見上げるとサクラのトンネルのようです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/66009/1769393899_s.webp
+        source_url: https://weathernews.jp/sakura/spot/66009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66009/
+    collections:
+      - weathernews
+  - id: wn-66011
+    name_ja: 芳嵐園
+    location:
+      city_ja: 和気町
+      address_ja: 岡山県和気郡和気町藤野1386-2(藤公園に隣接)
+    geo:
+      lat: 34.8189
+      lng: 134.1747
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヒガンザクラ
+      - ヤマザクラ
+    description_ja: ソメイヨシノや彼岸桜、山桜など約100本の桜が植えられている名所です。広い園内をゆっくり散策しながらお花見を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82741356.jpg
+        source_url: https://weathernews.jp/sakura/spot/66011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66011/
+    collections:
+      - weathernews
+  - id: wn-66019
+    name_ja: 由加山蓮台寺
+    location:
+      city_ja: 倉敷市
+      address_ja: 岡山県倉敷市児島由加2855
+    geo:
+      lat: 34.5055
+      lng: 133.8504
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 蓮台寺境内に「双樹満願桜」、由加山山頂付近に植えられている千本桜の間をゆっくりと散策し、備前藩主池田侯が泊まられた「客殿」で江戸時代の雰囲気を感じてみてはいかがでしょうか。※ごみはお持ち帰りください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-27/70976728.jpg
+        source_url: https://weathernews.jp/sakura/spot/66019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66019/
+    collections:
+      - weathernews
+  - id: wn-66007
+    name_ja: 里見川周辺緑地
+    location:
+      city_ja: 浅口市
+      address_ja: 岡山県浅口市金光町占見新田
+    geo:
+      lat: 34.5406
+      lng: 133.6209
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR金光駅のすぐ南にある里見川周辺の緑地には、桜を眺めながら散歩ができる約1kmのソメイヨシノの桜並木が続いている。遊歩道は整備されており花見台や腰を下ろして休憩できるベンチがある。花見期間中は提灯のライトアップもあり、昼夜問わず賑わいを見せている。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82706716.jpg
+        source_url: https://weathernews.jp/sakura/spot/66007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/66007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/66007/
+    collections:
+      - weathernews

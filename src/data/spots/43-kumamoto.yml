@@ -1,0 +1,504 @@
+prefecture:
+  id: 43
+  name_ja: 熊本県
+  name_en: Kumamoto
+spots:
+  - id: wn-86003
+    name_ja: 岡岳公園
+    location:
+      city_ja: 宇土市
+      address_ja: 熊本県宇城市松橋町松山3666-5
+    geo:
+      lat: 32.6584
+      lng: 130.6791
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園にはアスレチック遊具があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-03/95686087.jpg
+        source_url: https://weathernews.jp/sakura/spot/86003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86003/
+    collections:
+      - weathernews
+  - id: wn-473
+    name_ja: 菊池公園
+    location:
+      city_ja: 菊池市
+      address_ja: 熊本県菊池市亘467-9
+    geo:
+      lat: 32.9857
+      lng: 130.8178
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ他
+    description_ja: 菊池神社の南に広がる菊池公園。園内にはソメイヨシノやヤマザクラ等22種類およそ3000本の桜が植えられており、春先は花見客で賑わいます。桜の開花期間には、ボンボリによるライトアップも行い、夜桜を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/473/1768872039_s.webp
+        source_url: https://weathernews.jp/sakura/spot/473/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/473/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1600376/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/473/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1600376/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-472
+    name_ja: 熊本城
+    location:
+      city_ja: 熊本市中央区
+      address_ja: 熊本県熊本市中央区本丸1番1号
+    geo:
+      lat: 32.8058
+      lng: 130.7058
+    trees: 550
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 平成28年熊本地震で被災し、復旧が続く熊本城。現在は、被災状況や復旧工事の過程を見学できる「特別公開(有料）」を実施中。特別見学通路や天守前広場から、美しい桜を眺めることができます。また、無料エリアである二の丸広場や長塀通りからも桜をお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61707133.jpg
+        source_url: https://weathernews.jp/sakura/spot/472/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/472/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/472/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%9F%8E
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-474
+    name_ja: 高森峠千本桜
+    location:
+      city_ja: 高森町
+      address_ja: 熊本県阿蘇郡高森町大字高森
+    geo:
+      lat: 32.8093
+      lng: 131.1349
+    trees: 7000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 満足度100％！ヘアピンカーブの桜街道です。ソメイヨシノ、ヤマザクラで合計約7000本の桜があります。高低差150ｍ、長さ3kmの桜並木を車で通り抜けもできます。桜まつり期間中は一方通行(下から上へ)です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/474/1766627473_s.webp
+        source_url: https://weathernews.jp/sakura/spot/474/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/474/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/474/
+    collections:
+      - weathernews
+  - id: wn-8608
+    name_ja: 桜ヶ丘グラウンド
+    location:
+      city_ja: 氷川町
+      address_ja: 熊本県八代郡氷川町宮原1019
+    geo:
+      lat: 32.5516
+      lng: 130.6852
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR有佐駅から約1.5Km、国道3号から桜が見えます。ライトアップもあり、夜桜もきれいです。トイレ有り。熊本県南の桜の名所として親しまれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8608/1766533846_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8608/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8608/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8608/
+    collections:
+      - weathernews
+  - id: wn-8601
+    name_ja: 市房ダム湖
+    location:
+      city_ja: 水上村
+      address_ja: 熊本県球磨郡水上村市房ダム
+    geo:
+      lat: 32.3217
+      lng: 131.0135
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ダム湖周辺には、ソメイヨシノを中心に約1万本の桜が植えられています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8601/1766465061_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8601/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8601/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307053/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B8%82%E6%88%BF%E3%83%80%E3%83%A0
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8601/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307053/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B8%82%E6%88%BF%E3%83%80%E3%83%A0
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    trees: 10000
+  - id: wn-86006
+    name_ja: 篠原国幹戦没の地
+    location:
+      city_ja: 玉東町
+      address_ja: 熊本県玉名郡玉東町原倉2141-34
+    geo:
+      lat: 32.8756
+      lng: 130.6301
+    trees: 1
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/86006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86006/
+    collections:
+      - weathernews
+  - id: wn-8605
+    name_ja: 蛇ヶ谷公園
+    location:
+      city_ja: 玉名市
+      address_ja: 熊本県玉名市立願寺1598-1
+    geo:
+      lat: 32.9461
+      lng: 130.5487
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 小岱山山麓の広大な公園に、約1500本の桜が咲き誇ります。全長130mのスーパースライダーなど遊具も充実し、展望所からは遠く島原を見ることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8605/1766975482_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8605/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8605/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8605/
+    collections:
+      - weathernews
+  - id: wn-475
+    name_ja: 城山公園
+    location:
+      city_ja: 天草市
+      address_ja: 熊本県天草市船之尾町388-1
+    geo:
+      lat: 32.4591
+      lng: 130.1853
+    trees: 70
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内には、島原・天草一揆など天草のキリシタン史にまつわる資料等を展示している天草キリシタン館があり、天草の歴史や文化に触れることもできる。満開の頃は、桜の花越しに天草市街地を一望することができる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-30/71100246.jpg
+        source_url: https://weathernews.jp/sakura/spot/475/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/475/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/475/
+    collections:
+      - weathernews
+  - id: wn-478
+    name_ja: 人吉城跡
+    location:
+      city_ja: 人吉市
+      address_ja: 熊本県人吉市麓町
+    geo:
+      lat: 32.2118
+      lng: 130.7663
+    trees: 230
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「日本百名城」に選ばれている人吉城跡には、約230本のソメイヨシノが植えられており、例年３月下旬に満開となります。相良護国神社境内と、球磨川沿いの石垣に沿って咲く桜も見事です。現在、人吉城跡は一部工事中で立ち入り禁止となっている箇所があり、桜の見頃シーズンに時期が重なる恐れがあります。その場合は、相良護国神社の境内または、対岸川沿いの城見庭園やHASSENBA周辺からご覧ください。球磨川くだりをしながら桜をお楽しみいただくのもおすすめです！
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61733787.jpg
+        source_url: https://weathernews.jp/sakura/spot/478/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/478/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/478/
+    collections:
+      - weathernews
+  - id: wn-86002
+    name_ja: 水前寺成趣園
+    location:
+      city_ja: 熊本市中央区
+      address_ja: 熊本県熊本市中央区水前寺公園8番1号
+    geo:
+      lat: 32.7911
+      lng: 130.7332
+    trees: 160
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヒガンザクラ
+    description_ja: 水前寺成趣園の築山の奥にピンクがかった桜が咲き乱れ、とても美しい景色が見られます。例年3月下旬から4月上旬が見頃です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-30/82389937.jpg
+        source_url: https://weathernews.jp/sakura/spot/86002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86002/
+    collections:
+      - weathernews
+  - id: wn-86005
+    name_ja: 千巌山
+    location:
+      city_ja: 上天草市
+      address_ja: 熊本県上天草市松島町合津
+    geo:
+      lat: 32.5109
+      lng: 130.4199
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 標高162mの山頂から眼下に天草五橋が一望でき、宇土半島、島原半島、天草下島、八代海など360度のパノラマを桜と同時にお楽しみいただけます。晴天の日に桜の下での花見も最高です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/86005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86005/
+    collections:
+      - weathernews
+  - id: wn-86004
+    name_ja: 大津山公園
+    location:
+      city_ja: 南関町
+      address_ja: 熊本県玉名郡南関町関東９３４−１
+    geo:
+      lat: 33.069
+      lng: 130.5495
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 四季折々の花が咲き乱れるこの公園は、遊歩道や東屋、公衆トイレが完備されており、訪れるみなさんの憩いの場となっています。桜、ツツジの開花時期には街灯が点灯しナイトウォークもできます。また冠木門の隣にある全長63mの「大蛇スライダー」は子供達に大人気です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61630628.jpg
+        source_url: https://weathernews.jp/sakura/spot/86004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86004/
+    collections:
+      - weathernews
+  - id: wn-8607
+    name_ja: 通潤橋周辺
+    location:
+      city_ja: 山都町
+      address_ja: 熊本県上益城郡山都町城原地内
+    geo:
+      lat: 32.6819
+      lng: 130.9937
+    trees: 10
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国宝の「通潤橋」も隣接しているため、散策コースとしても楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61726698.jpg
+        source_url: https://weathernews.jp/sakura/spot/8607/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8607/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8607/
+    collections:
+      - weathernews
+  - id: wn-86001
+    name_ja: 田原坂公園
+    location:
+      city_ja: 熊本市北区
+      address_ja: 熊本県熊本市北区植木町豊岡字舟底858-1
+    geo:
+      lat: 32.9126
+      lng: 130.6509
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 田原坂公園は、ツツジや桜の名所としても知られています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-26/70970677.jpg
+        source_url: https://weathernews.jp/sakura/spot/86001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/86001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/86001/
+    collections:
+      - weathernews
+  - id: wn-477
+    name_ja: 湯の児チェリーライン
+    location:
+      city_ja: 水俣市
+      address_ja: 熊本県水俣市(海岸道路桜並木)
+    geo:
+      lat: 32.2304
+      lng: 130.407
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+      - ヤマザクラ
+    description_ja: 3月下旬から4月上旬にかけて、湯の児海岸道路沿いに約500本の桜が咲き誇ります。チェリーラインという名の通り約2kmにわたって桜並木が続き、桜のトンネルを作り出します。ドライブやウォーキングで桜を楽しめるのはもちろん、開花期間中には海上花見船(事前予約制)が出航するため、海上から桜を楽しむこともできます。ご予約、お問い合わせは湯の児釣り船組合(0966-62-4210)まで
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/477/1767080971_s.webp
+        source_url: https://weathernews.jp/sakura/spot/477/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/477/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/477/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307119
+    name_ja: 湯の児チェリーライン(水俣市チェリーライン)
+    location:
+      address_ja: 熊本県水俣市浜
+    geo:
+      lat: 32.227122
+      lng: 130.395051
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - サトザクラ
+    description_ja: 「日本さくら名所100選」の一つとして知られる道路で、景観の美しい人気のドライビングスポット。なかでも湯の児海岸沿い約5km間に渡る「湯の児チェリーライン」は、ソメイヨシノやヤマザクラ等、約500本もの桜並木が連なり、花の満開時には一帯が桜のトンネルのようになる。新緑の中に映える桜の淡いピンク色と、不知火海の深い紺碧とが織り成すコントラストが美しい。毎年開花時期には湯の児桜まつりが開催されているほか、海上花見船(※要予約)も運航される。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307119_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307119_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307119_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%BF%A3%E5%B8%82
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%BF%A3%E5%B8%82
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-476
+    name_ja: 八代城跡
+    location:
+      city_ja: 八代市
+      address_ja: 熊本県八代市松江城町7-34
+    geo:
+      lat: 32.5077
+      lng: 130.5999
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ約200本が咲き乱れます。石垣の上からは市内を一望でき夜桜も楽しむ事ができます。また、3月下旬〜4月初旬(予定)に八代宮参道で夜間ライトアップを実施。そこに映しだされる幻想的な風景はインスタ映え間違えなし！是非、ご覧下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82476660.jpg
+        source_url: https://weathernews.jp/sakura/spot/476/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/476/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/476/
+    collections:
+      - weathernews
+  - id: wn-8606
+    name_ja: 立岡自然公園
+    location:
+      city_ja: 宇土市
+      address_ja: 熊本県宇土市立岡町
+    geo:
+      lat: 32.6772
+      lng: 130.6934
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 県下有数の桜の名所として知られる立岡自然公園は、立岡池と花園池の両池を中心に約2000本の桜が植栽されており、花見シーズンには市内外からの多くの花見客が訪れます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8606/1768444563_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8606/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8606/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8606/
+    collections:
+      - weathernews
+  - id: wn-8611
+    name_ja: 竜北公園
+    location:
+      city_ja: 氷川町
+      address_ja: 熊本県八代郡氷川町大野919
+    geo:
+      lat: 32.5768
+      lng: 130.6961
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 竜北公園には、ソメイヨシノやシダレザクラ、八重桜など合わせて700本ほどの桜があります。その他にも、ツツジやアジサイなど四季折々の花が楽しめます。また、126mのローラースライダーやクリフクライマーなどの遊具もあり子どもたちにも大人気。R7年には新たに幼児用複合遊具も誕生しました！野外ステージのあるお祭り広場ではイベントも行うことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8611/1766535071_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8611/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8611/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8611/
+    collections:
+      - weathernews

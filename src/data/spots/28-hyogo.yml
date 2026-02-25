@@ -1,0 +1,871 @@
+prefecture:
+  id: 28
+  name_ja: 兵庫県
+  name_en: Hyogo
+spots:
+  - id: wn-63016
+    name_ja: おの桜づつみ回廊
+    location:
+      city_ja: 小野市
+      address_ja: 兵庫県小野市古川町〜住永町（東条川・加古川堤防左岸）
+    geo:
+      lat: 34.8619
+      lng: 134.9177
+    trees: 650
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - エドヒガン
+      - オモイガワ
+      - ヤエベニシダレ
+    description_ja: 全長約4ｋｍ、約650本の美しい桜並木は西日本最大級の規模を誇っています。桜が上流から下流へ開花順に植栽されており、長期間にわたり桜が楽しめます。桜の開花期間中は粟田橋上流約350ｍ区間においてライトアップも実施！※詳しくは市ＨＰをご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82460146.jpg
+        source_url: https://weathernews.jp/sakura/spot/63016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63016/
+    collections:
+      - weathernews
+  - id: wn-63009
+    name_ja: かみかわ桜の山桜華園
+    location:
+      city_ja: 神河町
+      address_ja: 兵庫県神崎郡神河町東柏尾146
+    geo:
+      lat: 35.0622
+      lng: 134.7622
+    trees: 700
+    species_ja:
+      - オモイガワ
+    description_ja: 豊富な種類の桜を長い期間楽しめます。全国でも珍しい桜の青空博物館的スポットです。品種数が西日本随一の多さで、各種の桜が順々に満開を迎えるため、3月中旬頃～4月下旬頃まで長い期間お花見を楽しむことができます。シーズン中に何度訪れても、時期によりひと味違う桜の様子を楽しむことができます。※毎年行われている「さくらまつり」は、4月5日（日）に実施予定です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63009/1766564770_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63009/
+    collections:
+      - weathernews
+  - id: wn-63018
+    name_ja: センチュリー大橋
+    location:
+      city_ja: 三田市
+      address_ja: 兵庫県三田市けやき台１丁目～あかしあ台４丁目
+    geo:
+      lat: 34.9055
+      lng: 135.1874
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 三田市の住宅街の中にあるウッディタウン市民センター近くにある土木学会田中賞を受賞したセンチュリー大橋。桜とアートの融合がベストマッチで素敵な桜を楽しめます。神戸電鉄「南ウッディタウン駅」から徒歩8分で行くことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95822636.jpg
+        source_url: https://weathernews.jp/sakura/spot/63018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63018/
+    collections:
+      - weathernews
+  - id: wn-63010
+    name_ja: 王地山公園
+    location:
+      city_ja: 丹波篠山市
+      address_ja: 兵庫県丹波篠山市河原町446
+    geo:
+      lat: 35.0733
+      lng: 135.2273
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 丹波篠山城下町の東端にある小丘陵全体が王地山公園です。桜と紅葉の名所として知られ、丹波篠山の町並みを見渡せる絶景の場所です。公園内には合格成就の神として広く信仰されている王地山左衛門稲荷神社（まけきらい稲荷）もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63010/1766464331_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63010/
+    collections:
+      - weathernews
+  - id: wn-63013
+    name_ja: 音水湖(引原ダム)
+    location:
+      city_ja: 宍粟市
+      address_ja: 兵庫県宍粟市波賀町引原
+    geo:
+      lat: 35.244
+      lng: 134.5491
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83033337.jpg
+        source_url: https://weathernews.jp/sakura/spot/63013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63013/
+    collections:
+      - weathernews
+  - id: wn-63002
+    name_ja: 花のみち（宝塚）
+    location:
+      city_ja: 宝塚市
+      address_ja: 兵庫県宝塚市栄町1
+    geo:
+      lat: 34.8087
+      lng: 135.3441
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: タカラヅカの舞台に続く花道のようなロマンチックな並木道
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63002/1766555817_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63002/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307046
+    name_ja: 高蔵寺
+    location:
+      address_ja: 兵庫県篠山市高倉276
+    geo:
+      lat: 35.112486
+      lng: 135.144609
+    trees: 200
+    species_ja:
+      - シダレザクラ
+      - ヤエザクラ
+      - ギョイコウザクラ
+      - ソメイヨシノ
+      - ベニシダレザクラ
+    description_ja:
+      兵庫県篠山市にある天台宗の寺院で、春の桜、初夏のアジサイ、秋の紅葉など四季折々の風景が楽しめる「花の寺」として有名。境内には樹齢約80年といわれる枝垂れ桜をはじめ、八重桜、黄緑色の花をつけるギョイコウザクラなどが植えられ、しっとりとした寺院の風情とともに花見が楽しめる。
+      例年の見ごろは4月上旬から中旬。桜・紅葉のシーズンのみ入山が有料となるので注意。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307046_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307046/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307046_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307046/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307046_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307046/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307046/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307046/
+    collections:
+      - navitime
+  - id: wn-329
+    name_ja: 鹿島・扇平自然公園
+    location:
+      city_ja: 高砂市
+      address_ja: 兵庫県高砂市阿弥陀町
+    geo:
+      lat: 34.8103
+      lng: 134.775
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 標高304mの高御位山を背景に、ソメイヨシノなど約2000本の桜が咲き乱れ、花見客で賑わいます。隣接する市ノ池公園内には、池を周遊する散策路、遊具のある芝生広場、テントサイトやバーベキューサイトも完備。ほど近くにある鹿嶋神社境内の桜もおすすめ。高御位山へのハイキングコースもあり、桜を眺めながら山歩きを楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/329/1768436641_s.webp
+        source_url: https://weathernews.jp/sakura/spot/329/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/329/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/329/
+    collections:
+      - weathernews
+  - id: wn-63011
+    name_ja: 篠山城跡周辺
+    location:
+      city_ja: 丹波篠山市
+      address_ja: 兵庫県丹波篠山市北新町2-3
+    geo:
+      lat: 35.0734
+      lng: 135.2174
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 篠山城は1609年（慶長14年）に築城され、今も残る高石垣や城下町にはソメイヨシノ約3000本が咲き誇ります。開花期間中には「丹波篠山さくらまつり」の開催や、ぼんぼりに照らされた夜景を見物する多くの人で賑わいます。北堀の有料貸出しボートからもまた違った眺めをお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63011/1766458572_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63011/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307055/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63011/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307055/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-6311
+    name_ja: 夙川河川敷緑地
+    location:
+      city_ja: 西宮市
+      address_ja: 兵庫県西宮市大井手町ほか
+    geo:
+      lat: 34.7458
+      lng: 135.3296
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ等
+    description_ja: 南北2.8kmにわたって桜が観察でき、「さくら名所100選」に選定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82747807.jpg
+        source_url: https://weathernews.jp/sakura/spot/6311/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6311/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307058/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%99%E5%B7%9D%E6%B2%B3%E5%B7%9D%E6%95%B7%E7%B7%91%E5%9C%B0
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6311/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307058/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%99%E5%B7%9D%E6%B2%B3%E5%B7%9D%E6%95%B7%E7%B7%91%E5%9C%B0
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6301
+    name_ja: 出石城跡
+    location:
+      city_ja: 豊岡市
+      address_ja: 兵庫県豊岡市出石町内町
+    geo:
+      lat: 35.4601
+      lng: 134.8743
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノの後に、ヤエザクラが花を咲かせることから、「出石の桜は二度咲く」と言われています。37の鳥居が連なる稲荷参道で、出石城隅櫓の白と、桜の競演は見応えがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-31/71146254.jpg
+        source_url: https://weathernews.jp/sakura/spot/6301/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6301/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307059/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6301/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307059/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-63015
+    name_ja: 城崎温泉
+    location:
+      city_ja: 豊岡市
+      address_ja: 兵庫県豊岡市城崎町湯島(城崎温泉街)
+    geo:
+      lat: 35.6258
+      lng: 134.8094
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 街の中心にある外湯「一の湯」を境に、上流にかけて約1km続く桜並木。例年３月下旬から4月中旬頃まで、お花見を楽しむことができる桜の名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82636521.jpg
+        source_url: https://weathernews.jp/sakura/spot/63015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63015/
+    collections:
+      - weathernews
+  - id: wn-63019
+    name_ja: 深田公園
+    location:
+      city_ja: 三田市
+      address_ja: 兵庫県三田市弥生が丘6丁目4番
+    geo:
+      lat: 34.8845
+      lng: 135.1967
+    species_ja:
+      - 八重桜
+      - 山桜
+      - ヤエザクラ
+    description_ja: 深田公園には、大型すべり台や迷路などがある広い芝生広場で、のんびりしたり、思いっきり遊んだりと1日中楽しめます。八重桜の並木道は、春のお散歩におすすめ！神戸電鉄「フラワータウン駅」から徒歩6分で行くことができます。近隣には県立人と自然の博物館もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/63019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63019/
+    collections:
+      - weathernews
+  - id: wn-325
+    name_ja: 神戸市立王子動物園
+    location:
+      city_ja: 神戸市灘区
+      address_ja: 兵庫県神戸市灘区王子町3-1
+    geo:
+      lat: 34.71
+      lng: 135.2149
+    trees: 480
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約480本の桜が咲き誇る園内は、春の名所として多くの方に親しまれています。満開の桜とともに動物たちの姿を楽しめるスポットもあり、大人から子どもまで素敵な景観をお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/325/1767868828_s.webp
+        source_url: https://weathernews.jp/sakura/spot/325/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/325/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/325/
+    collections:
+      - weathernews
+  - id: wn-63024
+    name_ja: 神戸市立森林植物園
+    location:
+      city_ja: 神戸市北区
+      address_ja: 兵庫県神戸市北区山田町上谷上字長尾1-2
+    geo:
+      lat: 34.7409
+      lng: 135.178
+    trees: 41
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+      - エドヒガン
+      - シダレザクラ他
+    description_ja: 3月下旬には、サクラの品種の中でも早く開花するカワヅサクラが春を告げます。４月に入ると山肌をピンクに染めるヤマザクラ、ソメイヨシノなどさくらが開花し春爛漫となります。園内に自生しているヤマザクラ、さくら園のソメイヨシノ、オオシマザクラ、シダレザクラなど10数種の品種のサクラが見られます。4月中旬から5月中旬には、花が房状にたくさんつくウワミズザクラ、北米産のバージニアザクラが開花し少し変わったサクラにも出会えます。森林植物園では、いろいろな品種のサクラを見ることができ、散策しながらうららかな春をお楽しみください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/63024/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63024/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63024/
+    collections:
+      - weathernews
+  - id: wn-63007
+    name_ja: 神武山公園
+    location:
+      city_ja: 豊岡市
+      address_ja: 兵庫県豊岡市京町12
+    geo:
+      lat: 35.5398
+      lng: 134.8211
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/63007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63007/
+    collections:
+      - weathernews
+  - id: wn-327
+    name_ja: 須磨浦公園
+    location:
+      city_ja: 神戸市須磨区
+      address_ja: 兵庫県神戸市須磨区一ノ谷町5-3-2
+    geo:
+      lat: 34.6378
+      lng: 135.1001
+    trees: 3200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: こうべ花の名所50選に選ばれた須磨浦公園は桜の名所として知られ、満開の時期には見物を楽しむ観光客が多く見られます。また、須磨浦ロープウェイ鉢伏山上駅から眺める桜も絶景で、瀬戸内海、明石大橋、神戸空港離着陸の旅客機が眺望出来るスポットとして楽しまれています。※カーナビをご使用の場合は「須磨浦公園駅」と入力ください。「須磨浦山上遊園」と案内してしまいますと車では行くことができない山の奥地へ着いてしまいます。ご注意ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-08/61852981.jpg
+        source_url: https://weathernews.jp/sakura/spot/327/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/327/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/327/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307073
+    name_ja: 須磨寺
+    location:
+      address_ja: 兵庫県神戸市須磨区須磨寺町4-6-8
+    geo:
+      lat: 34.648849
+      lng: 135.111696
+    trees: 50
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤマザクラ
+    description_ja: 源平ゆかりの古刹として知られる寺院で、真言宗須磨寺派の大本山。境内には平敦盛の「青葉の笛」や盛首塚、弁慶の鐘など見どころが多い。春には八重桜やソメイヨシノ、枝垂れ桜など約500本が境内各所を彩る桜の名所。中でも、仁王門から望む桜並木参道や朱塗りの龍華橋と桜のコントラスト、源平の庭などが美しい。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307073_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307073/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307073_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307073/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307073_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307073/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307073/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307073/
+    collections:
+      - navitime
+  - id: wn-63008
+    name_ja: 水分れ公園
+    location:
+      city_ja: 丹波市
+      address_ja: 兵庫県丹波市氷上町石生1155
+    geo:
+      lat: 35.1502
+      lng: 135.072
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 雨水を瀬戸内海と日本海に分ける中央分水界「水分れ公園」では、高谷川にかかる桜のトンネルが訪れる人々を魅了します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-31/71132747.jpg
+        source_url: https://weathernews.jp/sakura/spot/63008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63008/
+    collections:
+      - weathernews
+  - id: wn-63004
+    name_ja: 瑞ケ池公園
+    location:
+      city_ja: 伊丹市
+      address_ja: 兵庫県伊丹市瑞ケ丘5
+    geo:
+      lat: 34.7958
+      lng: 135.3971
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - 他10種類の桜
+    description_ja: 公園内には世界的に有名な桜の名所である米国ワシントン・ポトマック河畔の桜の子孫樹・日米友好の桜（里帰り桜）も成長し、ソメイヨシノを中心に10種類、約600本の桜が毎年花を咲かせています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63004/1766535584_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63004/
+    collections:
+      - weathernews
+  - id: wn-333
+    name_ja: 赤穂御崎
+    location:
+      city_ja: 赤穂市
+      address_ja: 兵庫県赤穂市御崎
+    geo:
+      lat: 34.7312
+      lng: 134.4137
+    trees: 1700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 播磨灘に面した東御崎展望台周辺には、およそ1700本のさくらが咲き乱れます。海とのコントラストが美しい桜の名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95962926.jpg
+        source_url: https://weathernews.jp/sakura/spot/333/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/333/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/333/
+    collections:
+      - weathernews
+  - id: wn-63014
+    name_ja: 善福寺
+    location:
+      city_ja: 神戸市北区
+      address_ja: 兵庫県神戸市北区有馬町1645
+    geo:
+      lat: 34.7974
+      lng: 135.2471
+    trees: 3
+    species_ja:
+      - シダレザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82796805.jpg
+        source_url: https://weathernews.jp/sakura/spot/63014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63014/
+    collections:
+      - weathernews
+  - id: wn-63023
+    name_ja: 泰雲寺
+    location:
+      city_ja: 新温泉町
+      address_ja: 兵庫県美方郡新温泉町竹田1388
+    geo:
+      lat: 35.5622
+      lng: 134.4705
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 樹齢約250年とされ、高さ14.5ｍ、幹廻り5.25ｍで大きく広がり流れるような枝に見事な花を咲かせる。幹廻りでは西日本一の大きさを誇り、県の天然記念物に指定されている。一般のシダレザクラは満開になると白くなるが、泰雲寺のシダレザクラは花の色が濃いのが特長。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63023/1769146102_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63023/
+    collections:
+      - weathernews
+  - id: wn-63003
+    name_ja: 樽見の大桜
+    location:
+      city_ja: 養父市
+      address_ja: 兵庫県養父市大屋町樽見
+    geo:
+      lat: 35.3476
+      lng: 134.7111
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 駐車場から樽見の大桜までは徒歩で約15分～20分かかります。また、登山道となっており道幅が狭く急坂等もありますので、履きなれた運動靴やスニーカーでお越しください。特に雨の日やその翌日などは滑りやすいので、足元にお気をつけください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-31/71139937.jpg
+        source_url: https://weathernews.jp/sakura/spot/63003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63003/
+    collections:
+      - weathernews
+  - id: wn-6310
+    name_ja: 町道原広根線(い〜な!!さくら通り)
+    location:
+      city_ja: 猪名川町
+      address_ja: 兵庫県川辺郡猪名川町原
+    geo:
+      lat: 34.9048
+      lng: 135.3861
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約2.3kmの道路沿いに桜が咲き誇り、まさに桜のトンネルのような幻想的風景が広がります。車でのドライブや歩いても楽しめる道路です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6310/1767577987_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6310/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6310/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6310/
+    collections:
+      - weathernews
+  - id: wn-63012
+    name_ja: 日岡山公園
+    location:
+      city_ja: 加古川市
+      address_ja: 兵庫県加古川市加古川町大野1682
+    geo:
+      lat: 34.7784
+      lng: 134.8632
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - カンヒザクラ
+      - オオシマザクラ等
+    description_ja: 3月下旬～4月上旬になると約1000本の桜が公園全体に咲き誇り、ライトアップ期間は約300本ものぼんぼりも点灯されて花見客などで賑わう。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63012/1767841316_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63012/
+    collections:
+      - weathernews
+  - id: wn-6302
+    name_ja: 播磨中央公園・桜の園
+    location:
+      city_ja: 加東市
+      address_ja: 兵庫県加東市下滝野1275-8
+    geo:
+      lat: 34.9354
+      lng: 134.941
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然豊かな園内には、桜の園を始め、野球場、球技場などの運動施設、ふじいでんこうさいくるらんど、子どもの小川、四季の庭、子どもの森などの施設が整い、文化・スポーツ、レクリエーション等で多くの方々に親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-09/61879256.jpg
+        source_url: https://weathernews.jp/sakura/spot/6302/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6302/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6302/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307128
+    name_ja: 白毫寺
+    location:
+      address_ja: 兵庫県丹波市市島町白毫寺709
+    geo:
+      lat: 35.196046
+      lng: 135.093747
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 兵庫県丹波市にある天台宗の寺で、「九尺藤」と呼ばれる120mの藤棚が有名。春の境内にはソメイヨシノや山桜、枝垂れ桜あわせて約50本の桜が咲き誇り、歴史ある諸堂を華やかに彩る。丹波の山々を背景に淡い紅色の桜が雲のように映える景観は必見である。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307128_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307128_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307128_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307128_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307128_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307128/
+    collections:
+      - navitime
+  - id: wn-330
+    name_ja: 姫路城
+    location:
+      city_ja: 姫路市
+      address_ja: 兵庫県姫路市本町68番地
+    geo:
+      lat: 34.8388
+      lng: 134.6937
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 世界文化遺産に登録された姫路城の桜は約1000本。「さくら名所100選」にも選定されています。見所は三の丸広場の桜並木や、西の丸庭園のソメイヨシノやシダレザクラです。※飲食物の持ち込み等については有料区域は不可。無料区域は他に迷惑をかけず管理上問題なければ可能です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82763181.jpg
+        source_url: https://weathernews.jp/sakura/spot/330/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/330/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301133/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/330/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301133/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-63017
+    name_ja: 武庫川桜づつみ回廊(郷の音ホール横付近)
+    location:
+      city_ja: 三田市
+      address_ja: 兵庫県三田市天神1丁目
+    geo:
+      lat: 34.8916
+      lng: 135.2212
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「武庫川桜づつみ回廊」は、武庫川沿い約4000本、25kmの桜並木で、平成3年度から平成12年度に兵庫県が日本海と瀬戸内海を桜で結ぶ「ふるさと桜づつみ回廊」の一部で整備されました。武庫川の曲線に沿って咲く桜は、どこまでも続いているように感じられて圧巻です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82933251.jpg
+        source_url: https://weathernews.jp/sakura/spot/63017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63017/
+    collections:
+      - weathernews
+  - id: wn-328
+    name_ja: 明石公園
+    location:
+      city_ja: 明石市
+      address_ja: 兵庫県明石市明石公園1-27
+    geo:
+      lat: 34.6527
+      lng: 134.9928
+    trees: 1400
+    species_ja:
+      - ソメイヨシノ など
+      - ソメイヨシノ
+    description_ja: 園内には約1400本の桜があり、360度桜に囲まれて貸しボートに乗れる剛ノ池からの眺めが絶景。当公園の中心に、全国に12基しか現存しない三重櫓の坤（ひつじさる）巽（たつみ）の両櫓があり、国指定重要文化財に指定されています。「日本百名城」「さくら名所100選の地」にも選ばれており、お城に映える桜は必見です。毎年多くの花見客でにぎわいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/328/1766465575_s.webp
+        source_url: https://weathernews.jp/sakura/spot/328/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/328/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307143/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E6%98%8E%E7%9F%B3%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/328/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307143/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E6%98%8E%E7%9F%B3%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-326
+    name_ja: 有馬温泉
+    location:
+      city_ja: 神戸市北区
+      address_ja: 兵庫県神戸市北区有馬町
+    geo:
+      lat: 34.7989
+      lng: 135.247
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 有馬川沿いのソメイヨシノの桜並木は美しいく、夕方からはライトアップもお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61915861.jpg
+        source_url: https://weathernews.jp/sakura/spot/326/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/326/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/326/
+    collections:
+      - weathernews
+  - id: wn-63001
+    name_ja: 立雲峡
+    location:
+      city_ja: 朝来市
+      address_ja: 兵庫県朝来市和田山町竹田
+    geo:
+      lat: 35.2867
+      lng: 134.8416
+    trees: 2000
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: 立雲峡は「但馬吉野」ともいわれる北近畿一の桜の名所です。約2000本ものヤマザクラとソメイヨシノが咲き誇り、樹齢300年を超える老桜や奇石・巨石が点在しています。眼下には竹田の城下町が一望でき、美しい景色のなか国史跡「竹田城跡」を望むことができる人気のスポットでもあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/63001/1767751133_s.webp
+        source_url: https://weathernews.jp/sakura/spot/63001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63001/
+    collections:
+      - weathernews
+  - id: wn-331
+    name_ja: 龍野公園
+    location:
+      city_ja: たつの市
+      address_ja: 兵庫県たつの市龍野町中霞城
+    geo:
+      lat: 34.8672
+      lng: 134.539
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ等
+      - ソメイヨシノ
+    description_ja: 一目3000本と言われる桜の満開は見事なもので、ぼんぼりに照らされた夜桜を楽しむこともできます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/331/1766900232_s.webp
+        source_url: https://weathernews.jp/sakura/spot/331/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/331/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/331/
+    collections:
+      - weathernews

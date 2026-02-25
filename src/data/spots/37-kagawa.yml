@@ -1,0 +1,388 @@
+prefecture:
+  id: 37
+  name_ja: 香川県
+  name_en: Kagawa
+spots:
+  - id: wn-7203
+    name_ja: みろく自然公園
+    location:
+      city_ja: さぬき市
+      address_ja: 香川県さぬき市大川町富田中3286
+    geo:
+      lat: 34.2558
+      lng: 134.2412
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 花と緑に囲まれた多目的レジャーランドの「みろく自然公園」では、スポーツ施設やキャンプ場、クッキングスタジオなどが整備され、季節の花木を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2011-04-09/4007112.jpg
+        source_url: https://weathernews.jp/sakura/spot/7203/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7203/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7203/
+    collections:
+      - weathernews
+  - id: wn-412
+    name_ja: 丸亀城(亀山公園)
+    location:
+      city_ja: 丸亀市
+      address_ja: 香川県丸亀市一番丁
+    geo:
+      lat: 34.2864
+      lng: 133.8005
+    trees: 650
+    species_ja:
+      - ソメイヨシノ
+      - ヤエベニオオシマザクラ
+      - ヤマザクラ
+    description_ja: 城内には、約650本の桜の木がある。美しく咲き誇る桜が普段の丸亀城とは違う風情ある景色を作り出します。特に、二の丸の桜をライトアップした【桜の海】は近くで見るのはもちろん、本丸東側から見下ろすと一面に広がる桜を楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/412/1766479215_s.webp
+        source_url: https://weathernews.jp/sakura/spot/412/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/412/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/412/
+    collections:
+      - weathernews
+  - id: wn-7209
+    name_ja: 亀鶴公園
+    location:
+      city_ja: さぬき市
+      address_ja: 香川県さぬき市長尾名
+    geo:
+      lat: 34.2526
+      lng: 134.1832
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 亀鶴公園は桜の名所として知られています。とりわけ桜が見事なのは、亀島と宇佐神社を結ぶ幅約20ｍ、長さ300ｍの桜のトンネル。園内の水辺には、花しょうぶの里が広がっており約1万5000株の花しょうぶが咲く見事な様は、毎年夏の風物詩となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-07/61833508.jpg
+        source_url: https://weathernews.jp/sakura/spot/7209/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7209/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307026/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7209/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307026/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-7211
+    name_ja: 琴弾公園
+    location:
+      city_ja: 観音寺市
+      address_ja: 香川県観音寺市有明町14
+    geo:
+      lat: 34.132
+      lng: 133.6433
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+    description_ja: ソメイヨシノやオオシマザクラなどが園内各所を彩り、とくに琴柱池にかかる赤い太鼓橋と桜色とのコントラストは圧巻です。「日本さくら名所100選」に選定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61736854.jpg
+        source_url: https://weathernews.jp/sakura/spot/7211/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7211/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307035/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7211/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307035/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-411
+    name_ja: 金刀比羅宮　桜馬場
+    location:
+      city_ja: 琴平町
+      address_ja: 香川県仲多度郡琴平町892-1
+    geo:
+      lat: 34.1842
+      lng: 133.8093
+    trees: 3500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約3500本のソメイヨシノが境内を包みます。大門をぬけてすぐにある桜馬場には、両側に桜が植えてあり、春になると美しい桜並木となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82669832.jpg
+        source_url: https://weathernews.jp/sakura/spot/411/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/411/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300462/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/411/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300462/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-72004
+    name_ja: 戸川ダム公園
+    location:
+      city_ja: 三豊市
+      address_ja: 香川県三豊市財田町財田上戸川
+    geo:
+      lat: 34.1084
+      lng: 133.7988
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 豊かな清水を蓄える戸川ダムの湖畔に広がる戸川ダム公園。その美しい景観は、さぬき百景のひとつに数えられる。春には、ダムを囲むように植えられた250本の桜が、咲き誇る。散策するのにぴったりのスポット。周辺には、道の駅たからだの里物産館や、温泉施設環の湯などがある。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82779527.jpg
+        source_url: https://weathernews.jp/sakura/spot/72004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/72004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/72004/
+    collections:
+      - weathernews
+  - id: wn-7202
+    name_ja: 公渕森林公園
+    location:
+      city_ja: 高松市
+      address_ja: 香川県高松市東植田町1210-3
+    geo:
+      lat: 34.2392
+      lng: 134.1089
+    trees: 5000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: メイン通りの桜のトンネル(約500m)がお勧めです。チューリップ花壇との競演も最高です。芝生広場、チビッコ広場のほか、二子山(標高180m)のヤマザクラ、第3駐車場のヤエザクラ、レストハウス憩の家前のシダレザクラなどの見どころがたくさんあります。また、令和7年から行っているライトアップ(18～21時)では、昼間と違った幻想的な夜桜も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7202/1768462617_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7202/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7202/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7202/
+    collections:
+      - weathernews
+  - id: wn-72001
+    name_ja: 史跡高松城跡玉藻公園
+    location:
+      city_ja: 高松市
+      address_ja: 香川県高松市玉藻町2-1
+    geo:
+      lat: 34.3504
+      lng: 134.0516
+    trees: 76
+    species_ja:
+      - ソメイヨシノ
+      - ヨウシュン
+    description_ja: 高松城跡を整備した公園で、園内には国の重要文化財に指定されている艮櫓、月見櫓、水手御門、渡櫓、披雲閣があるほか、国の名勝に指定されている披雲閣の庭園があります。満開時には桜に包まれる感じとなり市民の憩いの場として親しまれています。※注意：ペット・火気(の持込)厳禁。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61668014.jpg
+        source_url: https://weathernews.jp/sakura/spot/72001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/72001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/72001/
+    collections:
+      - weathernews
+  - id: wn-7207
+    name_ja: 紫雲出山山頂園地
+    location:
+      city_ja: 三豊市
+      address_ja: 香川県三豊市詫間町大浜乙451-1
+    geo:
+      lat: 34.2442
+      lng: 133.5954
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウザクラ
+      - ヤエザクラ
+    description_ja:
+      "[桜シーズン交通規制あり。オーバーツーリズム対策の為、入山は事前予約制となっています。詳細は三豊市観光交流局ホームページをご\
+      覧ください。］標高352mの紫雲出山から見る瀬戸内海の多島美と桜林の絶景を満喫できる贅沢な癒し空間です。"
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82876312.jpg
+        source_url: https://weathernews.jp/sakura/spot/7207/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7207/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7207/
+    collections:
+      - weathernews
+  - id: wn-72002
+    name_ja: 朝日山森林公園
+    location:
+      city_ja: 三豊市
+      address_ja: 香川県三豊市高瀬町下麻3829-141
+    geo:
+      lat: 34.1796
+      lng: 133.7597
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 朝日山を登り始めると一面に咲き誇る約2000本の桜。頂上の資料館付近まで途切れることなく続いている光景は圧巻。子供からお年寄りまで楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/72002/1766536156_s.webp
+        source_url: https://weathernews.jp/sakura/spot/72002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/72002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/72002/
+    collections:
+      - weathernews
+  - id: wn-7205
+    name_ja: 桃陵公園
+    location:
+      city_ja: 多度津町
+      address_ja: 香川県仲多度郡多度津町桃山
+    geo:
+      lat: 34.2683
+      lng: 133.746
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 多度津港を見下ろす丘にあり、市街をはじめ瀬戸内海の眺めがよい公園。瀬戸内海の青い海と多島美を背景に、約1500本のソメイヨシノが植わる桜の名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-21/62775781.jpg
+        source_url: https://weathernews.jp/sakura/spot/7205/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7205/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7205/
+    collections:
+      - weathernews
+  - id: wn-366
+    name_ja: 特別名勝栗林公園
+    location:
+      city_ja: 高松市
+      address_ja: 香川県高松市栗林町1-20-16
+    geo:
+      lat: 34.33
+      lng: 134.0437
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - ヤマザクラなど
+    description_ja: 国の特別名勝に指定された名園に約300本のソメイヨシノ、エドヒガン、ヤマザクラなどの桜の木があります。また、桜の開花に合わせてライトアップも実施いたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82674293.jpg
+        source_url: https://weathernews.jp/sakura/spot/366/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/366/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300465/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/366/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300465/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-7210
+    name_ja: 萩の丘公園周辺
+    location:
+      city_ja: 観音寺市
+      address_ja: 香川県観音寺市大野原町萩原乙139-1
+    geo:
+      lat: 34.0775
+      lng: 133.6868
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 萩の丘公園周辺には、公園内の大谷池の遊歩道の自然がいっぱいの中に桜が植栽されており、その遊歩道の中に萩寺として有名な萩原寺、五郷山公園、四国霊場66番札所雲辺寺に上がる雲辺寺ロープウェイがあります。大谷池の湖畔に映す桜並木は来場者に好評を得ております。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82612628.jpg
+        source_url: https://weathernews.jp/sakura/spot/7210/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7210/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7210/
+    collections:
+      - weathernews
+  - id: wn-72003
+    name_ja: 不動の滝カントリーパーク
+    location:
+      city_ja: 三豊市
+      address_ja: 香川県三豊市豊中町岡本3567-6
+    geo:
+      lat: 34.149
+      lng: 133.6736
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ボタンザクラ
+    description_ja: 弘法大師が七つの宝を埋めたという伝説が伝わる七宝山。その麓に満開の桜と、後方に山頂の水がV字形の谷を下って高さ50メートルの絶壁を流れ落ちる滝の姿は壮観である。滝周辺は、緑地環境保全地域に指定され、桜、若葉、紅葉、冬木立と四季折々の美しい自然が満喫できる。公園には自然観察遊歩道やパットゴルフ場、芝生広場に大型コンビネーション遊具も設置されており、近郊の人たちの格好の憩いの場となっている。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82801929.jpg
+        source_url: https://weathernews.jp/sakura/spot/72003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/72003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/72003/
+    collections:
+      - weathernews
+  - id: wn-7201
+    name_ja: 鷲ヶ峰大洞窟周辺
+    location:
+      city_ja: 高松市
+      address_ja: 香川県高松市女木町2633番地
+    geo:
+      lat: 34.3969
+      lng: 134.0505
+    trees: 2300
+    species_ja:
+      - ソメイヨシノ
+      - カワズザクラ
+      - ヤマザクラ
+    description_ja: 鬼ヶ島の洞窟山頂で360度のパノラマ。展望台でのお花見は最高です。島内にハイキングコースがあり、洞窟登山道の反対側も並木道があります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7201/1767138679_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7201/
+    collections:
+      - weathernews

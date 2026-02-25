@@ -1,0 +1,882 @@
+prefecture:
+  id: 40
+  name_ja: 福岡県
+  name_en: Fukuoka
+spots:
+  - id: wn-82006
+    name_ja: 宇美公園
+    location:
+      city_ja: 宇美町
+      address_ja: 福岡県糟屋郡宇美町明神坂1-4684-1
+    geo:
+      lat: 33.5727
+      lng: 130.51
+    species_ja:
+      - ソメイヨシノ
+      - ヒガンザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/82006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82006/
+    collections:
+      - weathernews
+  - id: wn-82015
+    name_ja: 海の中道海浜公園
+    location:
+      city_ja: 福岡市東区
+      address_ja: 福岡県福岡市東区大字西戸崎18-25
+    geo:
+      lat: 33.6605
+      lng: 130.3528
+    trees: 1600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: サイクリングコース沿いなどに、ソメイヨシノやオオシマザクラ約1600本が咲き誇ります。年によっては花の丘に咲くネモフィラのブルーとサクラのピンクがコラボレーションします。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82015/1769084542_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82015/
+    collections:
+      - weathernews
+  - id: wn-82003
+    name_ja: 垣生公園
+    location:
+      city_ja: 中間市
+      address_ja: 福岡県中間市大字垣生字八ツ廣428
+    geo:
+      lat: 33.8161
+      lng: 130.6992
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 中間市の桜の名所で知られる垣生公園には約1000本の桜の木が植えられています。3月下旬から4月上旬には提灯によるライトアップが行われ、昼夜それぞれの美しい桜が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82003/1766886166_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82003/
+    collections:
+      - weathernews
+  - id: wn-8207
+    name_ja: 甘木公園
+    location:
+      city_ja: 朝倉市
+      address_ja: 福岡県朝倉市菩提寺79
+    geo:
+      lat: 33.4278
+      lng: 130.6673
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 甘木公園、通称丸山公園は、県下屈指の桜の名所として知られています。公園の中央にあるひょうたん型の池をぐるりと囲むようにして、ソメイヨシノなど約4000本が咲き乱れます。池に映える満開の桜は圧巻です。夜には桜のライトアップとともに噴水のイルミネーションが楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-03/82564180.jpg
+        source_url: https://weathernews.jp/sakura/spot/8207/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8207/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8207/
+    collections:
+      - weathernews
+  - id: wn-444
+    name_ja: 丸山公園
+    location:
+      city_ja: 田川市
+      address_ja: 福岡県田川市丸山町19-1
+    geo:
+      lat: 33.6227
+      lng: 130.8029
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約300本のソメイヨシノが、訪れる人の心を和ませます。幻想的な夜桜は圧巻。期間中は出店もあり多くの人で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82706501.jpg
+        source_url: https://weathernews.jp/sakura/spot/444/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/444/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/444/
+    collections:
+      - weathernews
+  - id: wn-447
+    name_ja: 久留米城跡
+    location:
+      city_ja: 久留米市
+      address_ja: 福岡県久留米市篠山町444
+    geo:
+      lat: 33.3286
+      lng: 130.5078
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - 御衣黄桜(3本)
+      - 陽光桜(6本)
+      - 八重桜(1本)
+    description_ja: 小高い城跡の見事な石垣と、お濠の落ち着いた佇まいに桜が彩りを添え一帯が淡い桃色に染まります。お濠に映りこむ桜はとても美しい景色です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82476330.jpg
+        source_url: https://weathernews.jp/sakura/spot/447/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/447/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/447/
+    collections:
+      - weathernews
+  - id: wn-8202
+    name_ja: 宮地嶽神社
+    location:
+      city_ja: 福津市
+      address_ja: 福岡県福津市宮司元町7-1
+    geo:
+      lat: 33.7801
+      lng: 130.4859
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 本殿横にある「開運桜」と呼ばれる大寒桜がひと足早い春を知らせる1月を皮切りに、初夏の7月にかけて、寒緋桜・ホウキモモ・河津桜・ソメイヨシノ・八重桜・ツツジ・ボタン・藤・江戸菖蒲・アジサイ等が境内に咲き誇り、参拝者の目を楽しませます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8202/1768563325_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8202/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8202/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8202/
+    collections:
+      - weathernews
+  - id: wn-507
+    name_ja: 響灘緑地(グリーンパーク)
+    location:
+      city_ja: 北九州市若松区
+      address_ja: 福岡県北九州市若松区竹並1006
+    geo:
+      lat: 33.9184
+      lng: 130.7283
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 北九州市立
+      響灘緑地グリーンパークでは、5種類の桜が開花します(ソメイヨシノ/ヤエザクラ/ヤマザクラ/カワヅザクラ/ヨウコウザクラ）。また、サイクリングコースの一部等にも、ソメイヨシノが植えられているため、散策やサイクリングしながらでも桜を楽しむことができます。ソメイヨシノは10日前後で徐々に花が散るため、花びらが舞い散る景色も堪能することができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-18/70689226.jpg
+        source_url: https://weathernews.jp/sakura/spot/507/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/507/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/507/
+    collections:
+      - weathernews
+  - id: wn-82019
+    name_ja: 県営天神中央公園
+    location:
+      city_ja: 福岡市中央区
+      address_ja: 福岡県福岡市中央区天神1丁目1
+    geo:
+      lat: 33.5906
+      lng: 130.403
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+      - ヤマザクラ
+    description_ja: 旧福岡県庁跡地にあり、広大な芝生広場や国指定の重要文化財「貴賓館」などを有する天神中央公園は、花見の名所として知られています。薬院新川沿いのさくら広場に、ソメイヨシノやヤマザクラ、サトザクラなど約50本が植栽されており、例年3月下旬から4月上旬にかけて見頃を迎え、最盛期には川沿いに桜のトンネルが出現します。夜にはさくら並木がライトアップされ、幻想的な夜桜が鑑賞できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82019/1771491425_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82019/
+    collections:
+      - weathernews
+  - id: wn-82005
+    name_ja: 虎尾桜
+    location:
+      city_ja: 福智町
+      address_ja: 福岡県田川郡福智町上野
+    geo:
+      lat: 33.7346
+      lng: 130.7915
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 福智山の中腹に咲き誇る孤高の一本桜。福岡県内最大最古の希少種エドヒガンで、高さ約20m、幹周り約3.8m、樹齢600年を超える美しさと生命力は圧巻です。以前、枯死寸前でしたが、地域の人々の懸命な尽力で蘇り、今では毎年、濃いピンクの花を咲かせます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82005/1767664964_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82005/
+    collections:
+      - weathernews
+  - id: wn-8208
+    name_ja: 秋月杉の馬場
+    location:
+      city_ja: 朝倉市
+      address_ja: 福岡県朝倉市秋月野鳥
+    geo:
+      lat: 33.4694
+      lng: 130.6936
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 清流と山に囲まれ、「筑前の小京都」と言われる城下町秋月。秋月城跡へと続く杉の馬場通りの両側には約200本の桜の木が並び、春には約500mの「桜の花のトンネル」となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82694505.jpg
+        source_url: https://weathernews.jp/sakura/spot/8208/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8208/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307057/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8208/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307057/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-443
+    name_ja: 勝盛公園
+    location:
+      city_ja: 飯塚市
+      address_ja: 福岡県飯塚市片島1-607-1
+    geo:
+      lat: 33.643
+      lng: 130.6783
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 飯塚市の市街地中心部に位置する公園で、幼児用・児童用の遊具が充実している。園内には、本物のSL(蒸気機関車)が展示されており、地域のシンボルとして親しまれている。池に架かる太鼓橋からはのんびりと泳ぐ水鳥たちが眺められる。また、約300本のソメイヨシノが咲く桜の名所として知られ、開花時期には露店が並び、多くの花見客でにぎわう。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-26/61517739.jpg
+        source_url: https://weathernews.jp/sakura/spot/443/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/443/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/443/
+    collections:
+      - weathernews
+  - id: wn-8203
+    name_ja: 小倉城
+    location:
+      city_ja: 北九州市小倉北区
+      address_ja: 福岡県北九州市小倉北区城内2-1
+    geo:
+      lat: 33.8842
+      lng: 130.8734
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウ
+    description_ja: 福岡県内で唯一の天守閣を誇る小倉城では、「お城と桜」が織りなす春ならではの絶景をご堪能いただけます。日没後、天守閣とともにライトアップされた桜の木々がやわらかな光に包まれ、天守を背景に幻想的に浮かび上がります。その光景は、思わず足を止めてしまうほどの美しさです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8203/1767678644_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8203/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8203/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301581/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8203/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301581/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-82010
+    name_ja: 昭和池公園
+    location:
+      city_ja: 北九州市小倉南区
+      address_ja: 福岡県北九州市小倉南区大字朽網
+    geo:
+      lat: 33.7966
+      lng: 130.9493
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 周囲2.5km、面積11.6haの池を取り囲むように咲きそろうソメイヨシノは、昭和池の千本桜として親しまれています。※公園内は宴会開催OKですが、火気厳禁です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/82010/1736909484_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82010/
+    collections:
+      - weathernews
+  - id: wn-82018
+    name_ja: 城井川堤防桜並木
+    location:
+      city_ja: 築上町
+      address_ja: 福岡県築上郡築上町椎田
+    geo:
+      lat: 33.6565
+      lng: 131.059
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 城井川河川敷の癒やしのスポット。昭和天皇即位を記念して植えられた、約600本の「ソメイヨシノ」。満開を迎えるころには桜のトンネルが出現し、多くの花見客でにぎわいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95905502.jpg
+        source_url: https://weathernews.jp/sakura/spot/82018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82018/
+    collections:
+      - weathernews
+  - id: wn-82020
+    name_ja: 成田山不動寺
+    location:
+      city_ja: 岡垣町
+      address_ja: 福岡県遠賀郡岡垣町内浦885
+    geo:
+      lat: 33.8692
+      lng: 130.563
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 駐車場や本堂の回廊からは、桜の向こうに広がる海の景色を楽しむことができます。行き、帰りの参道の桜並木も存分にお楽しみください。※桜の開花状況に関して、お電話でのお問い合わせにはお答えしておりません。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82020/1767837528_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82020/
+    collections:
+      - weathernews
+  - id: wn-82004
+    name_ja: 清水公園（福岡県）
+    location:
+      city_ja: みやま市
+      address_ja: 福岡県みやま市瀬高町本吉
+    geo:
+      lat: 33.1525
+      lng: 130.5189
+    trees: 1900
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 清水山の中腹にあり、みやま市の代表的な桜の名所として知られる「清水公園」では、4月上旬になると約1900本のソメイヨシノが満開になり、大勢の花見客で賑わいます。清水寺三重塔や本坊庭園など見所も多く、散策にも最適。歴史を感じられる落ち着きのある風情と共に自然美を堪能してください。和の情緒あふれる園内をゆっくり歩きながらのお花見はもちろん、晴れた日には桜越しに眺められる有明海や雲仙の景色も最高です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-13/70531780.jpg
+        source_url: https://weathernews.jp/sakura/spot/82004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82004/
+    collections:
+      - weathernews
+  - id: wn-436
+    name_ja: 西公園
+    location:
+      city_ja: 福岡市中央区
+      address_ja: 福岡県福岡市中央区西公園
+    geo:
+      lat: 33.5979
+      lng: 130.3753
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1300本の桜が植えられ、展望台からは博多湾などが一望できます。「さくら名所100選」に選ばれた風情ある丘陵地の公園です。BBQ等火気使用、カラオケ、周りの方の迷惑になるような行為は禁止です。お花見期間中は終日車両進入不可です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82689128.jpg
+        source_url: https://weathernews.jp/sakura/spot/436/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/436/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307078/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%AC%E5%9C%92_(%E7%A6%8F%E5%B2%A1%E5%B8%82)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/436/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307078/
+      wikipedia: https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%AC%E5%9C%92_(%E7%A6%8F%E5%B2%A1%E5%B8%82)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-82012
+    name_ja: 石橋文化センター
+    location:
+      city_ja: 久留米市
+      address_ja: 福岡県久留米市野中町1015
+    geo:
+      lat: 33.3127
+      lng: 130.5308
+    trees: 150
+    species_ja:
+      - ソメイヨシノ他５品種
+      - ソメイヨシノ
+    description_ja: 150本の桜やチューリップ、ポピー、ルピナスなどの春の花が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/82012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82012/
+    collections:
+      - weathernews
+  - id: wn-8209
+    name_ja: 浅井の一本桜
+    location:
+      city_ja: 久留米市
+      address_ja: 福岡県久留米市山本町耳納1511-1
+    geo:
+      lat: 33.3071
+      lng: 130.6105
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: 幹周り4.3m、高さ18mの山桜で樹齢約110年といわれ、地元で大切に保護されており、毎年見事な花を見ることができます。堂々たる風格で、花密度も高く、昼間・空の青さの残るため池に映る”逆さ桜”も一見の価値があります。※開花時期はソメイヨシノに対し1週間程遅れるのが通常です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61790426.jpg
+        source_url: https://weathernews.jp/sakura/spot/8209/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8209/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8209/
+    collections:
+      - weathernews
+  - id: wn-445
+    name_ja: 船小屋堤防桜並木
+    location:
+      city_ja: 筑後市
+      address_ja: 福岡県筑後市大字尾島
+    geo:
+      lat: 33.182
+      lng: 130.5036
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 矢部川沿いの両岸に約150本のソメイヨシノがあり花見で賑わいます。2月中旬〜4月上旬には、河川敷一面に菜の花が咲き、桜とのコントラストも楽しめます。　また、隣接の筑後広域公園・体験エリアには四季折々の花が咲き誇り、桜と合わせてお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/445/1768976790_s.webp
+        source_url: https://weathernews.jp/sakura/spot/445/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/445/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/445/
+    collections:
+      - weathernews
+  - id: wn-82013
+    name_ja: 草場川の桜並木
+    location:
+      city_ja: 筑前町
+      address_ja: 福岡県朝倉郡筑前町久光
+    geo:
+      lat: 33.4358
+      lng: 130.6315
+    trees: 254
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国道386号に交差して流れる草場川。春になると約2.2㎞に続く桜並木が色づき、同時期に咲く菜の花と共に目を楽しませてくれます。夜はライトアップされ、幻想的な雰囲気に。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82431589.jpg
+        source_url: https://weathernews.jp/sakura/spot/82013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82013/
+    collections:
+      - weathernews
+  - id: wn-82008
+    name_ja: 太宰府市民の森
+    location:
+      city_ja: 太宰府市
+      address_ja: 福岡県太宰府市観世音寺709
+    geo:
+      lat: 33.5213
+      lng: 130.5174
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大宰府政庁跡の北側の四王寺山麓に位置する市民の憩いの場です。森の西側を春の森、東側を秋の森とし、春には約300本のソメイヨシノやヤエザクラを楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82008/1766552384_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82008/
+    collections:
+      - weathernews
+  - id: wn-82002
+    name_ja: 大宰府政庁跡
+    location:
+      city_ja: 太宰府市
+      address_ja: 福岡県太宰府市観世音寺4丁目6番
+    geo:
+      lat: 33.5147
+      lng: 130.5151
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 政庁跡は史跡公園として整備され、その周囲に桜があり、周辺の自然の緑と相俟って美しく風情がある。政庁跡は特別史跡であるため火気の使用やテント設営もできません。また日没後は真暗となりますので御注意ください。(ライトアップなし)
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95767412.jpg
+        source_url: https://weathernews.jp/sakura/spot/82002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82002/
+    collections:
+      - weathernews
+  - id: wn-8206
+    name_ja: 大将陣公園
+    location:
+      city_ja: 飯塚市
+      address_ja: 福岡県飯塚市楽市1-14
+    geo:
+      lat: 33.6031
+      lng: 130.6807
+    trees: 2500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の数はおよそ2500本あり、開花時には園路に桜のトンネルが出来る程。のんびりと桜を楽しみながら散策するのもおすすめです。大将陣山頂から嘉穂盆地の風景と筑豊富士とよばれるボタ山も一望できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8206/1766717196_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8206/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8206/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8206/
+    collections:
+      - weathernews
+  - id: wn-82022
+    name_ja: 猪野公園
+    location:
+      city_ja: 久山町
+      address_ja: 福岡県糟屋郡久山町猪野609
+    geo:
+      lat: 33.6691
+      lng: 130.5116
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ひさやま猪野さくらまつりは、久山のおいしい食べ物や家族で参加できるイベントなど、桜の木に囲まれた会場で、久山と猪野の魅力を楽しめるお祭りです。令和8年3月27日(金)～29日(日)18時30分～21時は桜のライトアップも楽しめます。ぜひご来場ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/82022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82022/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82022/
+    collections:
+      - weathernews
+  - id: wn-8205
+    name_ja: 添田公園
+    location:
+      city_ja: 添田町
+      address_ja: 福岡県田川郡添田町大字添田1788-2
+    geo:
+      lat: 33.5714
+      lng: 130.8623
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 英彦山のふもとにある添田公園には約1500本の桜が植えられています。園内には岩石城などの施設もありファミリーでのレジャーにも最適です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8205/1766479853_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8205/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8205/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307115/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8205/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307115/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-82011
+    name_ja: 呑山観音寺
+    location:
+      city_ja: 篠栗町
+      address_ja: 福岡県糟屋郡篠栗町萩尾227-4
+    geo:
+      lat: 33.6588
+      lng: 130.5681
+    trees: 400
+    species_ja:
+      - 福聚桜
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シャクナゲ
+      - 枝垂れ桜
+      - 山吹など
+    description_ja: 本堂脇に樹齢100年の桜「福聚桜」があり、半八重の白花を付け、参拝者を楽しませています。令和3年7月に固有の桜として新品種に認定されました。百観音堂の周りは枝垂れ桜が咲き揃い、参道はソメイヨシノとコブシの並木道が見所になっています。その他100本程の山桜があり、山全体が桜色に染まります。多種多様な種類の桜があり、3月下旬の神代曙桜から4月中旬の八重桜まで桜を楽しむことができます。篠栗町から呑山観音へ続く県道92号線はソメイヨシノのトンネルになり、宮若市へ抜けると力丸ダム周辺の枝垂れ桜の並木があり、ドライブコースとしても楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82011/1766709844_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82011/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307122/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82011/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307122/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-437
+    name_ja: 南公園
+    location:
+      city_ja: 福岡市中央区
+      address_ja: 福岡県福岡市中央区小笹5-1-1
+    geo:
+      lat: 33.5699
+      lng: 130.3935
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 南公園の花見広場には、ソメイヨシノを中心に約150本のさくらがあります。植物園内では濃い紅のカンヒザクラや黄緑色の花を咲かせるウコン、ギョイコウなど、約50種類のさくらが3月～5月にかけて楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/437/1767852614_s.webp
+        source_url: https://weathernews.jp/sakura/spot/437/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/437/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/437/
+    collections:
+      - weathernews
+  - id: wn-82009
+    name_ja: 日向神ダムの千本桜
+    location:
+      city_ja: 八女市
+      address_ja: 福岡県八女市矢部村矢部日向神
+    geo:
+      lat: 33.1721
+      lng: 130.7796
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日向神ダム湖畔に続く千本桜。ハート岩や蹴洞岩等の日向神渓谷の景観を堪能しながら、桜ドライブが楽しめます。（桜の花びらが舞い散る中のドライブがお勧めです）
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-27/82284752.jpg
+        source_url: https://weathernews.jp/sakura/spot/82009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82009/
+    collections:
+      - weathernews
+  - id: wn-82001
+    name_ja: 白野江植物公園
+    location:
+      city_ja: 北九州市門司区
+      address_ja: 福岡県北九州市門司区白野江2丁目
+    geo:
+      lat: 33.9367
+      lng: 131.0016
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - 白野江のサトザクラ
+      - 河津桜ほか約60品種
+    description_ja: およそ60品種の桜コレクションを誇る県内有数の桜の名所。秋咲き種や早咲き種を加えると1年のうち6カ月以上もの間、サクラが開花しており、訪れるたびに違う景色を見せてくれます。桜の開花のピークに合わせてイベントも開催しており、大人から子供まで楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/82001/1768462274_s.webp
+        source_url: https://weathernews.jp/sakura/spot/82001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307127/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307127/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-446
+    name_ja: 発心公園
+    location:
+      city_ja: 久留米市
+      address_ja: 福岡県久留米市草野町草野664-1
+    geo:
+      lat: 33.3137
+      lng: 130.6369
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ヤマザクラ
+    description_ja: 歴代藩主の花見の場所といわれ、春は約170本の桜が咲き誇り、毎年花見客で賑わいます。文豪夏目漱石もここを訪ねて「松をもて囲いし谷の桜かな」と詠みました。満開時期には山肌が白くかすむほどの名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82440134.jpg
+        source_url: https://weathernews.jp/sakura/spot/446/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/446/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/446/
+    collections:
+      - weathernews
+  - id: wn-438
+    name_ja: 舞鶴公園
+    location:
+      city_ja: 福岡市中央区
+      address_ja: 福岡県福岡市中央区城内1番4号
+    geo:
+      lat: 33.585
+      lng: 130.3831
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノや八重桜など約1000本の桜が咲きます。一番の見所は、上之橋からの風景。桜がお濠の水面に映る姿は幻想的で写真に収めておきたいポイントです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/438/1766644716_s.webp
+        source_url: https://weathernews.jp/sakura/spot/438/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/438/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/438/
+    collections:
+      - weathernews
+  - id: wn-82016
+    name_ja: 福岡県営中央公園
+    location:
+      city_ja: 北九州市戸畑区
+      address_ja: 福岡県北九州市小倉北区井堀5丁目1-4
+    geo:
+      lat: 33.8772
+      lng: 130.8409
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 金比羅池を囲むように桜の木が植えられていて、桜を楽しみながらのウォーキングも可能です。一部サクラ並木となっています。また、多目的グラウンドがある古墳公園にも桜があり、遊具で遊びつつお花見も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/82016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/82016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/82016/
+    collections:
+      - weathernews
+  - id: wn-8204
+    name_ja: 油山市民の森
+    location:
+      city_ja: 福岡市南区
+      address_ja: 福岡県福岡市南区大字桧原855-4
+    geo:
+      lat: 33.5167
+      lng: 130.3755
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 自然の地形を生かした公園です。山あいにたくさんの桜が咲きひと目で見渡せる桜色が見事です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8204/1767487486_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8204/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8204/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8204/
+    collections:
+      - weathernews
+  - id: wn-8201
+    name_ja: 竈門神社
+    location:
+      city_ja: 太宰府市
+      address_ja: 福岡県太宰府市内山883
+    geo:
+      lat: 33.5289
+      lng: 130.5524
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエシダレザクラ
+      - カワズザクラ
+    description_ja: 九州で最も登山者の多い宝満山の麓に鎮座する竈門神社は昔から美しい自然の中の桜の名所として、また縁結びの神として親しまれています。神社の神絞も桜です。最盛期は夜間ライトアップも行われ、浄闇が浮かぶ可憐な桜の幻想的な風景を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82507088.jpg
+        source_url: https://weathernews.jp/sakura/spot/8201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8201/
+    collections:
+      - weathernews

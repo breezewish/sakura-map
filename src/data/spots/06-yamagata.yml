@@ -1,0 +1,428 @@
+prefecture:
+  id: 6
+  name_ja: 山形県
+  name_en: Yamagata
+spots:
+  - id: wn-3501
+    name_ja: 伊佐沢の久保ザクラ
+    location:
+      city_ja: 長井市
+      address_ja: 山形県長井市上伊佐沢2027
+    geo:
+      lat: 38.0935
+      lng: 140.0664
+    trees: 15
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+    description_ja: 国指定天然記念物である樹齢約1200年のエドヒガンザクラ。毎年開花の時期になると、支柱に支えられた枝には、淡い花を咲かせていましたが、老木のため花が咲く枝が年々少なくなっていますので、周辺のソメイヨシノのご観賞もお楽しみください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3501/1766556719_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3501/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3501/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3501/
+    collections:
+      - weathernews
+  - id: wn-63
+    name_ja: 烏帽子山公園
+    location:
+      city_ja: 南陽市
+      address_ja: 山形県南陽市赤湯1415
+    geo:
+      lat: 38.051
+      lng: 140.1654
+    trees: 1000
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+      - シダレザクラ
+      - 菊桜
+      - 大山桜など
+    description_ja: 赤湯温泉街を眼下にする公園は、全国最大級の「エドヒガンの群生地」。約25種1000本の桜が作り出す大回廊の中を散策しながら、全国有名桜の二世木なども楽しめます。街中から見るパノラマの景色は息をのむ美しさ。夜は花見客で賑わい、温泉街から見上げる春色の夜桜も見ごたえあり。近くに商店街や飲食街があるのも嬉しい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/83014473.jpg
+        source_url: https://weathernews.jp/sakura/spot/63/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/63/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307011/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B8%BD%E5%AD%90%E5%B1%B1%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/63/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307011/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B8%BD%E5%AD%90%E5%B1%B1%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-62
+    name_ja: 霞城公園
+    location:
+      city_ja: 山形市
+      address_ja: 山形県山形市霞城町1-7
+    geo:
+      lat: 38.2551
+      lng: 140.3283
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 霞城公園は、約1500本の桜が咲き誇る市内随一の桜の名所となっております。桜が満開になる週末には、「霞城観桜会」において大茶会など風流なイベントが開催されます。夜にはお堀沿いの桜がライトアップされ、東大手門の白壁と相まってとても幻想的です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82975652.jpg
+        source_url: https://weathernews.jp/sakura/spot/62/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/62/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/62/
+    collections:
+      - weathernews
+  - id: wn-35002
+    name_ja: 寒河江公園
+    location:
+      city_ja: 寒河江市
+      address_ja: 山形県寒河江市寒河江丙2708-2
+    geo:
+      lat: 38.3847
+      lng: 140.2677
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - オオシマ
+      - ヤマザクラザクラ
+    description_ja: 月山の雪景色をバックに桜が開花しているところ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-18/83144696.jpg
+        source_url: https://weathernews.jp/sakura/spot/35002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/35002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/35002/
+    collections:
+      - weathernews
+  - id: wn-59
+    name_ja: 最上公園
+    location:
+      city_ja: 新庄市
+      address_ja: 山形県新庄市堀端町6
+    geo:
+      lat: 38.7673
+      lng: 140.2936
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - エドヒガン
+    description_ja: 新庄藩6万8千石を治めた戸澤氏の居城があった場所がここ最上公園です。現在は最上地方随一の桜の名所として知られています。当地域は雪深く、春告魚と呼ばれるカド（にしん）を食し、春を感じる風習があります。ゴールデンウイークには約300本の桜を愛でながら大型のカドを味わう「カド焼まつり」が開催され、新庄の春を彩ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82955633.jpg
+        source_url: https://weathernews.jp/sakura/spot/59/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/59/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/59/
+    collections:
+      - weathernews
+  - id: wn-3509
+    name_ja: 最上川堤防千本桜
+    location:
+      city_ja: 長井市
+      address_ja: 山形県長井市東町〜館町
+    geo:
+      lat: 38.1024
+      lng: 140.0439
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 最上川両岸の約2kmにわたってソメイヨシノの桜並木が続きます。大正4年、大正天皇御即位の記念に300本を植樹。樹齢100年の見事な桜並木となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82999965.jpg
+        source_url: https://weathernews.jp/sakura/spot/3509/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3509/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3509/
+    collections:
+      - weathernews
+  - id: wn-3519
+    name_ja: 楯山公園
+    location:
+      city_ja: 庄内町
+      address_ja: 山形県東田川郡庄内町狩川字楯山137-1
+    geo:
+      lat: 38.7895
+      lng: 139.975
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 眼下に広がる庄内平野と、風の町を象徴する風車とともに200本の桜をお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-22/31920200.jpg
+        source_url: https://weathernews.jp/sakura/spot/3519/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3519/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3519/
+    collections:
+      - weathernews
+  - id: wn-64
+    name_ja: 松が岬公園
+    location:
+      city_ja: 米沢市
+      address_ja: 山形県米沢市丸の内
+    geo:
+      lat: 37.91
+      lng: 140.104
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 米沢城祉堀の周りに約200本の桜が咲き、堀の水面に映る古木桜は格別です。4月29日〜5月3日には上杉まつりが行われ、上杉神社の例大祭で幕を開け、上杉行列、川中島合戦がフィナーレを飾ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-24/96500217.jpg
+        source_url: https://weathernews.jp/sakura/spot/64/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/64/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/64/
+    collections:
+      - weathernews
+  - id: wn-3518
+    name_ja: 倉津川枝垂桜
+    location:
+      city_ja: 天童市
+      address_ja: 山形県天童市老野森一丁目ほか
+    geo:
+      lat: 38.3615
+      lng: 140.3799
+    trees: 150
+    species_ja:
+      - シダレザクラ
+    description_ja: 天童市中心部を流れる倉津川の両岸約1.4kmに枝垂桜が咲き誇ります。桜の開花時期には、約740mにわたってライトアップします。ライトに照らされた趣のある枝垂桜をご鑑賞下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3518/1768296622_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3518/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3518/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3518/
+    collections:
+      - weathernews
+  - id: wn-35001
+    name_ja: 草岡の大明神ザクラ
+    location:
+      city_ja: 長井市
+      address_ja: 山形県長井市草岡694
+    geo:
+      lat: 38.1355
+      lng: 140.0083
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 国指定天然記念物。樹齢はおよそ1200年、樹高14ｍ、東西の枝張27ｍあり、個人宅に植えられた桜としては国内最大級の大きさを誇っています。伊達政宗が鮎貝の初陣で敗北を喫した際に、この桜に身を隠し生き延びたという伝説があり、「桜子の　散り来る方を　頼み草　岡にて又も　花を咲かせん」と詠み、後に家臣の横山勘解油（かげゆ）を遣わせ、手厚く保護にあたらせたという話も残っています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82961063.jpg
+        source_url: https://weathernews.jp/sakura/spot/35001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/35001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/35001/
+    collections:
+      - weathernews
+  - id: wn-35003
+    name_ja: 中山河川公園
+    location:
+      city_ja: 遊佐町
+      address_ja: 山形県飽海郡遊佐町直世
+    geo:
+      lat: 39.0584
+      lng: 139.9117
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昔ながらの石垣の護岸が残り、庄内地方らしい黒瓦、黒板、白壁の建物の家並み。目を上げれば雪で真っ白に輝く鳥海山、そして満開の桜。初めて見るのにどこか懐かしい思いに捉えられる、日本の原風景的な桜並木が見どころ。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/35003/1766630419_s.webp
+        source_url: https://weathernews.jp/sakura/spot/35003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/35003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/35003/
+    collections:
+      - weathernews
+  - id: wn-57
+    name_ja: 鶴岡公園
+    location:
+      city_ja: 鶴岡市
+      address_ja: 山形県鶴岡市馬場町
+    geo:
+      lat: 38.7292
+      lng: 139.8245
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 【鶴岡公園開園150周年】庄内藩主酒井家の居城であった鶴ヶ岡城跡に整備された公園で、令和8年（2026年）に開園150周年を迎えます。園内には、ソメイヨシノ、ヤエザクラ、シダレザクラなど約700本の桜が植えられており、日本さくら名所100選にも選ばれています。桜の開花に合わせて設置されるぼんぼりにうかぶ夜桜も見所のひとつです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/83000090.jpg
+        source_url: https://weathernews.jp/sakura/spot/57/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/57/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307113/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/57/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307113/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-60
+    name_ja: 天童公園(舞鶴山)
+    location:
+      city_ja: 天童市
+      address_ja: 山形県天童市天童字城山
+    geo:
+      lat: 38.3526
+      lng: 140.3774
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 天童市の中心部に位置し、山頂の展望広場からは、月山や朝日連峰、最上川などが一望できます。桜の名所で、ソメイヨシノやシダレザクラなど、およそ2000本の桜があります。また、舞鶴山全体が中世の山城であったことから、史跡も残っています。更に西斜面には、桜の名所舞鶴山の原点である樹齢4〜5百年を超えるエドヒガンの古木が咲き誇り、悠久の時を伝えます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60/1768296816_s.webp
+        source_url: https://weathernews.jp/sakura/spot/60/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/60/
+    collections:
+      - weathernews
+  - id: wn-58
+    name_ja: 日和山公園
+    location:
+      city_ja: 酒田市
+      address_ja: 山形県酒田市南新町1丁目
+    geo:
+      lat: 38.919
+      lng: 139.828
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の名所である日和山公園は、酒田港を一望できる高台に位置し、日本海に沈む夕日が旅情をかきたてます。園内には日本最古級の木造六角灯台があります。また文学の散歩道には松尾芭蕉など29基の文学碑が点在し、酒田に魅せられた文人墨客の心に思いを馳せることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-17/96256309.jpg
+        source_url: https://weathernews.jp/sakura/spot/58/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/58/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/58/
+    collections:
+      - weathernews
+  - id: wn-61
+    name_ja: 馬見ヶ崎さくらライン
+    location:
+      city_ja: 山形市
+      address_ja: 山形県山形市小白川町付近馬見ヶ崎川河畔
+    geo:
+      lat: 38.2474
+      lng: 140.3598
+    trees: 379
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市街地を流れる馬見ヶ崎川沿いは、約2.3kmに渡り桜並木が続く市内有数の桜の名所です。川のせせらぎを聞きながら眺める桜は、多くの人を楽しませています。特に小白川町地内から馬見ヶ崎川上流に向けての桜並木約830ｍではライトアップがおこなわれ、光に映し出された桜回廊をドライブできる人気スポットとなっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-21/96396770.jpg
+        source_url: https://weathernews.jp/sakura/spot/61/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/61/
+    collections:
+      - weathernews
+  - id: wn-35006
+    name_ja: 馬渡の桜並木
+    location:
+      city_ja: 鶴岡市
+      address_ja: 山形県鶴岡市馬渡道西
+    geo:
+      lat: 38.6956
+      lng: 139.864
+    trees: 320
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+      - シダレザクラ
+    description_ja: 赤川にかかる黒川橋下流に整備された「やすらぎ公園」から馬渡川にかけての約1.5ｋｍにも及ぶ桜並木が美しい。見頃となる４月中旬から５月上旬には多くの人でにぎわう。北に鳥海山南に月山を望む景色も素晴らしい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/35006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/35006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/35006/
+    collections:
+      - weathernews
+  - id: wn-3520
+    name_ja: 薬師ザクラ
+    location:
+      city_ja: 白鷹町
+      address_ja: 山形県西置賜郡白鷹町大字高玉3663
+    geo:
+      lat: 38.169
+      lng: 140.039
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢1200年のエドヒガンザクラ。高さ10m、太さ8m。薬師堂の境内にあり堂々たる風格を保っています。西暦796年坂上田村麻呂が奥州征伐の時、手植えしたものと伝えられています。県指定天然記念物です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3520/1767668088_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3520/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3520/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3520/
+    collections:
+      - weathernews

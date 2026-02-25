@@ -1,0 +1,592 @@
+prefecture:
+  id: 46
+  name_ja: 鹿児島県
+  name_en: Kagoshima
+spots:
+  - id: wn-88018
+    name_ja: かいもん山麓ふれあい公園
+    location:
+      city_ja: 指宿市
+      address_ja: 鹿児島県指宿市開聞十町2626
+    geo:
+      lat: 31.1963
+      lng: 130.5342
+    trees: 500
+    species_ja:
+      - カワヅザクラ
+      - ヒカンザクラ
+      - ヤマザクラ
+      - ソメイヨシノ
+      - ヤエザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/88018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88018/
+    collections:
+      - weathernews
+  - id: wn-88010
+    name_ja: 永野鉄道記念館の桜並木
+    location:
+      city_ja: さつま町
+      address_ja: 鹿児島県薩摩郡さつま町永野884
+    geo:
+      lat: 31.9247
+      lng: 130.5883
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 旧永野鉄道跡地の線路跡や車掌車両と桜並木が織りなす風景は、他ではなかなか見られないユニークなお花見体験です。満開になるとピンクの桜が古い線路と一緒に映え、撮影スポットとしても人気です。付近では菜の花も咲き、桜のピンクと菜の花の黄色のコントラストが春らしい景色を作ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/88010/1769392056_s.webp
+        source_url: https://weathernews.jp/sakura/spot/88010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88010/
+    collections:
+      - weathernews
+  - id: wn-8815
+    name_ja: 花瀬公園
+    location:
+      city_ja: 錦江町
+      address_ja: 鹿児島県肝属郡錦江町田代川原花瀬
+    geo:
+      lat: 31.1658
+      lng: 130.8493
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - オオシマザクラ
+    description_ja: 公園内を流れる花瀬川は、千畳敷の石畳が敷かれ水量も少ないため、川の中から両岸のサクラを観賞する人々で賑わう。日頃の喧騒から離れて美しく咲くサクラを楽しみたい。のんびりと散策するのもおすすめ。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-03-27/18125679.jpg
+        source_url: https://weathernews.jp/sakura/spot/8815/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8815/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8815/
+    collections:
+      - weathernews
+  - id: wn-88009
+    name_ja: 観音ヶ池市民の森
+    location:
+      city_ja: いちき串木野市
+      address_ja: 鹿児島県いちき串木野市湊町1247-3
+    geo:
+      lat: 31.6989
+      lng: 130.3261
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 千本以上のソメイヨシノが周囲一帯をピンク色に染め、一斉に咲き誇る春の景色は壮観です。ライトアップ期間中の夜桜も昼間の桜と一味違って大変おすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/88009/1766537448_s.webp
+        source_url: https://weathernews.jp/sakura/spot/88009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88009/
+    collections:
+      - weathernews
+  - id: wn-501
+    name_ja: 丸岡公園
+    location:
+      city_ja: 霧島市
+      address_ja: 鹿児島県霧島市横川町上ノ3201
+    geo:
+      lat: 31.892
+      lng: 130.6754
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内及び周辺には約2000本の桜があり、300m続く桜のトンネルや県内有数の大きさを誇るシダレ桜がある。又、霧島連山を一望出来、ロケーションも抜群である。樹齢100年以上のしだれ桜も見応えがあります。また、ゴーカートやバンガローもありますので、いろんな楽しみ方ができると思います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82479133.jpg
+        source_url: https://weathernews.jp/sakura/spot/501/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/501/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307022/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/501/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307022/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-8814
+    name_ja: 岩屋公園
+    location:
+      city_ja: 南九州市
+      address_ja: 鹿児島県南九州市川辺町清水3882
+    geo:
+      lat: 31.418
+      lng: 130.425
+    trees: 900
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 桜の屋形を背景にした、池の周辺や堤防沿いに植えられた桜等が見所です。広い園内を散策した後は、カフェ・サクラノヤカタでスイーツをお楽しみ下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-27/71011876.jpg
+        source_url: https://weathernews.jp/sakura/spot/8814/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8814/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8814/
+    collections:
+      - weathernews
+  - id: wn-8813
+    name_ja: 吉野公園
+    location:
+      city_ja: 鹿児島市
+      address_ja: 鹿児島県鹿児島市吉野町7955番地
+    geo:
+      lat: 31.6321
+      lng: 130.5931
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ他
+    description_ja: 公園全体で約800本の桜があり、その中でソメイヨシノ約630本あります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8813/1768716829_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8813/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8813/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8813/
+    collections:
+      - weathernews
+  - id: wn-8803
+    name_ja: 魚見岳
+    location:
+      city_ja: 指宿市
+      address_ja: 鹿児島県指宿市東方
+    geo:
+      lat: 31.2614
+      lng: 130.6551
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 山頂まで車で登ることができ、山頂からは知林ヶ島や鹿児島湾(錦江湾）、指宿市街地をぐるりと見渡せます。約600本のソメイヨシノを堪能することができ、桜の名所にもなっています。見頃は、3月下旬～4月上旬です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-30/82400246.jpg
+        source_url: https://weathernews.jp/sakura/spot/8803/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8803/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8803/
+    collections:
+      - weathernews
+  - id: wn-8816
+    name_ja: 甲突川河畔
+    location:
+      city_ja: 鹿児島市
+      address_ja: 鹿児島県鹿児島市鍛治屋町21－1
+    geo:
+      lat: 31.5859
+      lng: 130.5466
+    trees: 430
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 甲突川の左岸・右岸沿いには、約430本の桜とともに、西郷隆盛や大久保利通が育った地の周辺であることから、維新ふるさと館とスマホで映像を楽しむ維新ドラマの道があり、歴史を感じながらの散策や花見ができます。※花見は22時までとなっており、照明が一部を除き22時で消灯となりますので、片付けはお早めにお願いします。尚、ゴミは各自でお持ち帰りください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61701266.jpg
+        source_url: https://weathernews.jp/sakura/spot/8816/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8816/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8816/
+    collections:
+      - weathernews
+  - id: wn-88001
+    name_ja: 高岡公園
+    location:
+      city_ja: 姶良市
+      address_ja: 鹿児島県姶良市加治木町西別府2944
+    geo:
+      lat: 31.7568
+      lng: 130.6562
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 加治木市街地の北方約2㎞に位置する標高155mの台地にあり、桜と一緒に市街地、錦江湾を一望できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/88001/1768355881_s.webp
+        source_url: https://weathernews.jp/sakura/spot/88001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88001/
+    collections:
+      - weathernews
+  - id: wn-88007
+    name_ja: 志布志大浜緑地公園
+    location:
+      city_ja: 志布志市
+      address_ja: 鹿児島県志布志市志布志町志布志3219番地6
+    geo:
+      lat: 31.4715
+      lng: 131.0981
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 志布志港の近くにある公園。青々とした芝生が広がる公園の小道の両脇には約100本の桜並木が続きます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/88007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88007/
+    collections:
+      - weathernews
+  - id: wn-88003
+    name_ja: 寺山いこいの広場
+    location:
+      city_ja: 薩摩川内市
+      address_ja: 鹿児島県薩摩川内市天辰町2453-30
+    geo:
+      lat: 31.8261
+      lng: 130.34
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 広場が標高250mにあるため、広場のさくらだけでなく沿道のさくらも楽しむことができます。ライトアップはありませんが、24時間入場できますので、夜桜が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71029847.jpg
+        source_url: https://weathernews.jp/sakura/spot/88003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88003/
+    collections:
+      - weathernews
+  - id: wn-8804
+    name_ja: 城山公園
+    location:
+      city_ja: 霧島市
+      address_ja: 鹿児島県霧島市国分上小川3819
+    geo:
+      lat: 31.7406
+      lng: 130.7814
+    trees: 630
+    species_ja:
+      - ソメイヨシノ
+      - ジンダイアケボノ
+      - ヤエザクラ
+    description_ja: 霧島連山や錦江湾、桜島まで見渡す192mの高台にある公園。桜の時期にはおよそ630本のソメイヨシノや八重桜などが咲き乱れます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82492596.jpg
+        source_url: https://weathernews.jp/sakura/spot/8804/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8804/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307048/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8804/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307048/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-8801
+    name_ja: 新田神社
+    location:
+      city_ja: 薩摩川内市
+      address_ja: 鹿児島県薩摩川内市宮内町1935-2
+    geo:
+      lat: 31.8277
+      lng: 130.2928
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 表参道700mに植えられた300本の桜並木が美しく咲き誇ります。また、神社境内には幹周り13m、高さ20m、樹齢650〜800年とも言われる樟の御神木もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8801/1766470355_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8801/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8801/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8801/
+    collections:
+      - weathernews
+  - id: wn-88008
+    name_ja: 知覧平和公園
+    location:
+      city_ja: 南九州市
+      address_ja: 鹿児島県南九州市知覧町郡　知覧平和公園
+    geo:
+      lat: 31.3636
+      lng: 130.4334
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 知覧平和公園一帯は桜の名所となり毎年多くのお客様が咲き誇る桜を楽しみます。今年も「桜のおもてなし」イベントを行います！！
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-07/95864523.jpg
+        source_url: https://weathernews.jp/sakura/spot/88008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88008/
+    collections:
+      - weathernews
+  - id: wn-8802
+    name_ja: 忠元公園
+    location:
+      city_ja: 伊佐市
+      address_ja: 鹿児島県伊佐市大口原田2484番地193
+    geo:
+      lat: 32.0494
+      lng: 130.614
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+    description_ja: 日本さくら名所100選にも選ばれた忠元公園。延々2kmに及ぶ桜並木はまるで桜のトンネルのようです。桜は700本あり、6割がソメイヨシノ、4割がエドヒガンです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61683580.jpg
+        source_url: https://weathernews.jp/sakura/spot/8802/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8802/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307107/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%BF%A0%E5%85%83%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8802/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307107/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%BF%A0%E5%85%83%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-8820
+    name_ja: 東光山公園
+    location:
+      city_ja: 出水市
+      address_ja: 鹿児島県出水市上鯖渕6332-5
+    geo:
+      lat: 32.0981
+      lng: 130.3603
+    trees: 330
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 東光山公園は市街地に近く、標高160メートルの山頂を利用した自然林と、不知火海と出水平野を一望できる眺めの良い市民のいこいの公園です。展望台や遊具もあり、桜が見頃になると花見客でにぎわいます。※火を使わない宴会であれば可
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-25/70944369.jpg
+        source_url: https://weathernews.jp/sakura/spot/8820/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8820/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8820/
+    collections:
+      - weathernews
+  - id: wn-88012
+    name_ja: 道の駅 おおすみ弥五郎伝説の里
+    location:
+      city_ja: 曽於市
+      address_ja: 鹿児島県曽於市大隅町岩川6134-1
+    geo:
+      lat: 31.5902
+      lng: 130.9905
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 約1500本の桜が楽しめます
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-28/95498758.jpg
+        source_url: https://weathernews.jp/sakura/spot/88012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88012/
+    collections:
+      - weathernews
+  - id: wn-8817
+    name_ja: 特攻碑公園
+    location:
+      city_ja: 出水市
+      address_ja: 鹿児島県出水市平和町149
+    geo:
+      lat: 32.0858
+      lng: 130.3318
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 3月下旬または4月上旬の日曜日(桜の開花に合わせて開催日設定)には、「いずみ桜まつり」が開催されます。また、公園前の通りは桜並木のトンネルになり、大勢の花見客で賑わいます。※火を使わない宴会であれば可能です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61634224.jpg
+        source_url: https://weathernews.jp/sakura/spot/8817/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8817/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8817/
+    collections:
+      - weathernews
+  - id: wn-88014
+    name_ja: 日当山温泉公園
+    location:
+      city_ja: 霧島市
+      address_ja: 鹿児島県霧島市隼人町東郷(天降川河川敷)
+    geo:
+      lat: 31.7679
+      lng: 130.7541
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/88014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88014/
+    collections:
+      - weathernews
+  - id: wn-88004
+    name_ja: 霧島神宮
+    location:
+      city_ja: 霧島市
+      address_ja: 鹿児島県霧島市霧島田口2608-5
+    geo:
+      lat: 31.859
+      lng: 130.8716
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シダレザクラ
+    description_ja: 山桜、ソメイヨシノ、枝垂れ桜、陽光、御衣黄など、いろいろな桜が３月中旬から４月上旬にかけて咲くので、この季節は長期間桜が楽しめる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-23/82150959.jpg
+        source_url: https://weathernews.jp/sakura/spot/88004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88004/
+    collections:
+      - weathernews
+  - id: wn-88002
+    name_ja: 霧島神話の里公園
+    location:
+      city_ja: 霧島市
+      address_ja: 鹿児島県霧島市霧島田口2583ｰ22
+    geo:
+      lat: 31.8648
+      lng: 130.8535
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 標高680mから錦江湾、桜島、間近に霧島連山を望む絶景の中、500本の桜がとても美しいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82526708.jpg
+        source_url: https://weathernews.jp/sakura/spot/88002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88002/
+    collections:
+      - weathernews
+  - id: wn-8819
+    name_ja: 名勝 仙巌園(カンヒザクラ)
+    location:
+      city_ja: 鹿児島市
+      address_ja: 鹿児島県鹿児島市吉野町9700-1
+    geo:
+      lat: 31.6192
+      lng: 130.5802
+    trees: 150
+    species_ja:
+      - カンヒザクラ他5種
+      - カンヒザクラ
+    description_ja: 島津家の別邸
+      仙巌園では、カンヒザクラをはじめ、5種のサクラ・約150本が2月上旬から4月上旬にかけて次々と咲き誇ります。また、一帯は、平成27年(2015)に世界遺産に登録されました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-03-07/31169397.jpg
+        source_url: https://weathernews.jp/sakura/spot/8819/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8819/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8819/
+    collections:
+      - weathernews
+  - id: wn-88006
+    name_ja: 鷲尾の森自然公園
+    location:
+      city_ja: 指宿市
+      address_ja: 鹿児島県指宿市山川大山(山川デジタルテレビ中継所付近)
+    geo:
+      lat: 31.2225
+      lng: 130.595
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鷲尾岳
+      (わしおだけ)は標高411ｍの手ごろなハイキングコースで、山頂付近から大パノラマが楽しめます。春は山へ登る途中の道路沿いに約1000本の桜が開花、色鮮やかな「桜のトンネル」を満喫できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/88006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/88006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/88006/
+    collections:
+      - weathernews

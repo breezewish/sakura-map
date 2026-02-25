@@ -1,0 +1,701 @@
+prefecture:
+  id: 34
+  name_ja: 広島県
+  name_en: Hiroshima
+spots:
+  - id: wn-67004
+    name_ja: ピースリーホーム バンブー総合公園
+    location:
+      city_ja: 竹原市
+      address_ja: 広島県竹原市高崎町1414
+    geo:
+      lat: 34.3381
+      lng: 132.9301
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+      - ギョイコウ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 公園内駐車場からすぐ近くに桜があるので、高齢者やベビーカー利用の方にも利用し易くなっています。また、園内の桜の種類が多いので、約1か月間桜が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61759258.jpg
+        source_url: https://weathernews.jp/sakura/spot/67004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67004/
+    collections:
+      - weathernews
+  - id: wn-6704
+    name_ja: ひろしま遊学の森　広島県緑化センター
+    location:
+      city_ja: 広島市東区
+      address_ja: 広島県広島市東区福田町10166-2
+    geo:
+      lat: 34.4346
+      lng: 132.5651
+    trees: 126
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 早咲きのカンザクラから遅咲きのヤエザクラまで約60品種800本以上の桜を楽しむことができます。3月20日(金祝)〜4月19日(日)は「さくら祭り」期間とし、研修会（植物観察会・山菜講座・トレッキング等）や「さくら祭りお楽しみイベント～八重ざくらを楽しもう～」4月12日(日)があります。3/20～4月の土日祝日は車両交通規制あり。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6704/1767852061_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6704/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6704/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6704/
+    collections:
+      - weathernews
+  - id: wn-377
+    name_ja: 安芸津正福寺山公園
+    location:
+      city_ja: 東広島市
+      address_ja: 広島県東広島市安芸津町三津正福寺山
+    geo:
+      lat: 34.3184
+      lng: 132.823
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 瀬戸内の海、島々が見える公園です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82824560.jpg
+        source_url: https://weathernews.jp/sakura/spot/377/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/377/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/377/
+    collections:
+      - weathernews
+  - id: wn-373
+    name_ja: 音戸の瀬戸公園
+    location:
+      city_ja: 呉市
+      address_ja: 広島県呉市警固屋8丁目
+    geo:
+      lat: 34.1954
+      lng: 132.541
+    trees: 2300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 音戸の瀬戸は、平清盛が西の海に沈もうとする夕日を扇で招き返し、一日で切り開いたという「日招き伝説」が残る名勝地で、この瀬戸を望む音戸の瀬戸公園には約2300本の桜が咲き、海の音と橋の紅との彩りが見事です。第二音戸大橋や、第三音戸大橋(遊歩道)からも絶景を望むことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/373/1770099713_s.webp
+        source_url: https://weathernews.jp/sakura/spot/373/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/373/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/373/
+    collections:
+      - weathernews
+  - id: wn-67003
+    name_ja: 亀居公園
+    location:
+      city_ja: 大竹市
+      address_ja: 広島県大竹市小方2丁目
+    geo:
+      lat: 34.2414
+      lng: 132.2167
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 亀居城跡地に整備された公園であるため、歴史を感じながら桜を観ることができます。また、夜には本丸跡地から桜の奥に工場夜景を観ることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67003/1767598136_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67003/
+    collections:
+      - weathernews
+  - id: wn-371
+    name_ja: 宮島
+    location:
+      city_ja: 廿日市市
+      address_ja: 広島県廿日市市宮島町
+    geo:
+      lat: 34.2955
+      lng: 132.3204
+    trees: 1900
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 宮島では国重要文化財である大鳥居や多宝塔などと、見事に咲き誇る1900本の桜とのコラボレーションがご覧いたいただけます。夜桜が楽しめるスポットではありますが、時期、場所によってはご覧頂けない場合があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82724626.jpg
+        source_url: https://weathernews.jp/sakura/spot/371/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/371/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/371/
+    collections:
+      - weathernews
+  - id: wn-67013
+    name_ja: 鏡山公園
+    location:
+      city_ja: 東広島市
+      address_ja: 広島県東広島市鏡山2丁目
+    geo:
+      lat: 34.4065
+      lng: 132.7283
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約30種500本以上の桜を芝生広場から眺められます。芝生広場では、レジャーシートを広げてお弁当を食べてもよし、家族やカップル、ペットと一緒に散策してもよし、枝と一緒に記念撮影もよし！
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/67013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67013/
+    collections:
+      - weathernews
+  - id: wn-67008
+    name_ja: 御調八幡宮
+    location:
+      city_ja: 三原市
+      address_ja: 広島県三原市八幡町宮内7番地
+    geo:
+      lat: 34.4713
+      lng: 133.081
+    trees: 1000
+    species_ja:
+      - シダレザクラ
+      - エドヒガン
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 西の吉野ともいわれ、しだれ桜の名所として有名です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82763508.jpg
+        source_url: https://weathernews.jp/sakura/spot/67008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67008/
+    collections:
+      - weathernews
+  - id: wn-67001
+    name_ja: 広島市植物公園
+    location:
+      city_ja: 広島市佐伯区
+      address_ja: 広島県広島市佐伯区倉重3丁目495
+    geo:
+      lat: 34.3924
+      lng: 132.3469
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - 八重桜(関山
+      - ウコン
+      - ヤエベニシダレザクラ)
+    description_ja: 園内には約70種類250本の桜が咲き、3月中旬から4月末まで桜の花の魅力を堪能することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67001/1766532571_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67001/
+    collections:
+      - weathernews
+  - id: wn-376
+    name_ja: 耕三寺博物館(耕三寺)
+    location:
+      city_ja: 尾道市
+      address_ja: 広島県尾道市瀬戸田町瀬戸田553-2
+    geo:
+      lat: 34.3047
+      lng: 133.0902
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: もと実業家の耕三寺耕三が母の菩提寺として建立した浄土真宗本願寺派の寺です。境内に立ち並ぶ絢爛豪華な伽藍と薄桃色のサクラの花びらが調和し、荘厳な美しさを醸し出しています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61758619.jpg
+        source_url: https://weathernews.jp/sakura/spot/376/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/376/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/376/
+    collections:
+      - weathernews
+  - id: wn-67002
+    name_ja: 住吉堤防敷
+    location:
+      city_ja: 廿日市市
+      address_ja: 広島県廿日市市木材港北7-42
+    geo:
+      lat: 34.3484
+      lng: 132.3395
+    trees: 240
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 総延長610mの堤防敷の両側に約240本の桜の木があり、市内有数の桜の名所として知られています。開花時期にはぼんぼりも灯され幻想的な世界を演出します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67002/1766462117_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67002/
+    collections:
+      - weathernews
+  - id: wn-6701
+    name_ja: 縮景園
+    location:
+      city_ja: 広島市中区
+      address_ja: 広島県広島市中区上幟町2-11
+    geo:
+      lat: 34.4006
+      lng: 132.4676
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+    description_ja: 広島の開花基準となる標本木があります。桜咲く、春の日本庭園をお楽しみ下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6701/1766465238_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6701/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6701/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6701/
+    collections:
+      - weathernews
+  - id: wn-6702
+    name_ja: 上野公園
+    location:
+      city_ja: 庄原市
+      address_ja: 広島県庄原市東本町1丁目
+    geo:
+      lat: 34.8571
+      lng: 133.0257
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: (財)日本さくらの会選定の「さくらの名所100選」の1ヶ所。周囲約2kmの上野池を中心とした名所。約600本のソメイヨシノが池の水面に映えます。池周辺に植栽された「レンギョウ」「ユキヤナギ」も開花します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6702/1766465139_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6702/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6702/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307064/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%BA%84%E5%8E%9F%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6702/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307064/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%BA%84%E5%8E%9F%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-67006
+    name_ja: 真道山千本桜
+    location:
+      city_ja: 江田島市
+      address_ja: 広島県江田島市能美町中町
+    geo:
+      lat: 34.207
+      lng: 132.4537
+    trees: 1000
+    species_ja:
+      - ソメイヨシノほか
+      - ソメイヨシノ
+    description_ja: 旧海軍兵学校の訓練場だった真道山。山頂へは林道入口から歩いて登ることができ、道の両脇には約1000本の桜の並木が連なる。山頂には「同期の千本桜」や「五省」の碑があり、瀬戸内の島々や四国連山が一望できる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/67006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67006/
+    collections:
+      - weathernews
+  - id: wn-67009
+    name_ja: 神原のシダレザクラ
+    location:
+      city_ja: 広島市佐伯区
+      address_ja: 広島県広島市佐伯区五日市町石内2186
+    geo:
+      lat: 34.4459
+      lng: 132.3736
+    trees: 3
+    species_ja:
+      - シダレザクラ
+    description_ja: 樹齢300年以上と推定される、幹回り2.42m、高さ10mの大木です。滝のように流れる枝いっぱいに花を咲かせた姿は圧巻で、百本のソメイヨシノよりも艶やかです。そばの2代目、近くの3代目の花も彩りを添えます。県の天然記念物に指定されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67009/1766625066_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67009/
+    collections:
+      - weathernews
+  - id: wn-365
+    name_ja: 千光寺公園
+    location:
+      city_ja: 尾道市
+      address_ja: 広島県尾道市西土堂町19-1
+    geo:
+      lat: 34.4111
+      lng: 133.1967
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 標高144.2mの千光寺山の山頂から中腹にかけて広がる公園で、”さくらの名所100選”に選定された約1500本の桜が公園内を彩ります。2022年に千光寺頂上展望台PEAKがリニューアルオープン、また尾道城跡地を再利用した千光寺公園視点場MiTeMiがオープンするなど、尾道の絶景や公園内の桜が楽しめるビュースポットが多彩。夜には提灯が灯され、夜桜も楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/365/1766629745_s.webp
+        source_url: https://weathernews.jp/sakura/spot/365/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/365/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307087/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%8D%83%E5%85%89%E5%AF%BA%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/365/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307087/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%8D%83%E5%85%89%E5%AF%BA%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6703
+    name_ja: 千鳥別尺のヤマザクラ
+    location:
+      city_ja: 庄原市
+      address_ja: 広島県庄原市東城町千鳥439-2
+    geo:
+      lat: 35.0102
+      lng: 133.2765
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: ヤマザクラとしては日本有数であり、広島県内で一番の巨樹。広島県内最後に楽しめる桜として知られています。ご神木として地域住民から大切にされています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6703/1766465539_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6703/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6703/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6703/
+    collections:
+      - weathernews
+  - id: wn-67005
+    name_ja: 造幣局広島支局　花のまわりみち
+    location:
+      city_ja: 広島市佐伯区
+      address_ja: 広島県広島市佐伯区五日市中央6-3-1
+    geo:
+      lat: 34.3784
+      lng: 132.3595
+    trees: 220
+    species_ja:
+      - ヤエザクラなど約60品種
+      - ヤエザクラ
+    description_ja: 「桜の通り抜け」で有名な大阪の造幣局から広島支局に昭和42年以降に移植された桜。樹勢も盛んになってきた平成3年4月に造幣局創業120年を記念し、一般公開を開始。八重桜を主として約60種・約220本の幅広い品種を楽しむことができる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67005/1766643138_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67005/
+    collections:
+      - weathernews
+  - id: wn-386
+    name_ja: 土師ダム(のどごえ公園)
+    location:
+      city_ja: 安芸高田市
+      address_ja: 広島県安芸高田市八千代町大字土師
+    geo:
+      lat: 34.6619
+      lng: 132.6179
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 5.5kmに渡って約3000本の桜並木が続きます。公園内での火の使用は禁止されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82691241.jpg
+        source_url: https://weathernews.jp/sakura/spot/386/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/386/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/386/
+    collections:
+      - weathernews
+  - id: wn-67014
+    name_ja: 塔の峰千本桜
+    location:
+      city_ja: 三原市
+      address_ja: 広島県三原市鷺浦町向田野浦
+    geo:
+      lat: 34.328
+      lng: 133.104
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - オオシマザクラ
+    description_ja: 塔の峰は向田港から歩いていける小高い山。桜が満開の時期には、塔の峰を1周する道に桜のトンネルができあがります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67014/1767939287_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67014/
+    collections:
+      - weathernews
+  - id: wn-67011
+    name_ja: 白竜湖
+    location:
+      city_ja: 三原市
+      address_ja: 広島県三原市大和町和木1026-3
+    geo:
+      lat: 34.5052
+      lng: 132.9192
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 白竜湖畔に咲く桜並木は、大和町内でも随一のお花見スポットとして有名です。夜間でも楽しめるようにと平成１３年から大和町観光協会が中心となって提灯を設置しライトアップをしています。白竜湖の水面に映る桜も映えスポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67011/1766536369_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67011/
+    collections:
+      - weathernews
+  - id: wn-370
+    name_ja: 比治山公園
+    location:
+      city_ja: 広島市南区
+      address_ja: 広島県広島市南区比治山公園
+    geo:
+      lat: 34.3838
+      lng: 132.4731
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1300本のソメイヨシノや見晴らしの良い展望台が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61786533.jpg
+        source_url: https://weathernews.jp/sakura/spot/370/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/370/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307133/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/370/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307133/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-380
+    name_ja: 尾関山公園
+    location:
+      city_ja: 三次市
+      address_ja: 広島県三次市三次町439-3
+    geo:
+      lat: 34.8143
+      lng: 132.84
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約600本の桜が尾関山一帯に咲きます。江戸時代には浅野家三次藩の下屋敷が置かれ、忠臣蔵で有名な浅野内匠頭長矩の正室、阿久利姫が幼少の頃を過ごした場所でもあります。尾関山公園頂上の天文台跡には現在展望台があり、そこから眺める大渦土手の桜並木の景観は素晴らしいです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82678598.jpg
+        source_url: https://weathernews.jp/sakura/spot/380/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/380/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307134/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/380/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307134/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-374
+    name_ja: 筆影山・竜王山
+    location:
+      city_ja: 三原市
+      address_ja: 広島県三原市須波町、沖浦町
+    geo:
+      lat: 34.3757
+      lng: 133.0813
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 山頂周辺に咲くソメイヨシノ越しには瀬戸内海の多島美が望め、その景観は瀬戸内海随一と評される絶景。テレビCMをはじめ、多くの映像媒体で広く紹介されています。竜王山頂へは大型バスも通行可能なアクセス道「竜王みはらしライン」が便利。健脚の方は徒歩(ハイキング)もオススメです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2019-04-09/45687636.jpg
+        source_url: https://weathernews.jp/sakura/spot/374/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/374/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/374/
+    collections:
+      - weathernews
+  - id: wn-67010
+    name_ja: 府中公園
+    location:
+      city_ja: 府中市
+      address_ja: 広島県府中市出口町
+    geo:
+      lat: 34.58
+      lng: 133.2319
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内の庄ノ池を囲むようにと、その周囲の遊歩道の桜並木がとてもキレイ。ライトアップで夜桜も楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/67010/1767588150_s.webp
+        source_url: https://weathernews.jp/sakura/spot/67010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/67010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/67010/
+    collections:
+      - weathernews
+  - id: wn-381
+    name_ja: 福山城公園
+    location:
+      city_ja: 福山市
+      address_ja: 広島県福山市丸之内1-8
+    geo:
+      lat: 34.4904
+      lng: 133.3614
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 総数約300本の内ソメイヨシノが大半です。他にヤマザクラ、サトザクラ、ヤエザクラもあります。福山城は築城400年を迎えリニューアル。お城北側には鉄板張りを復元しました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/381/1768950255_s.webp
+        source_url: https://weathernews.jp/sakura/spot/381/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/381/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/381/
+    collections:
+      - weathernews
+  - id: wn-369
+    name_ja: 平和記念公園
+    location:
+      city_ja: 広島市中区
+      address_ja: 広島県広島市中区中島町1及び大手町1-10
+    geo:
+      lat: 34.3917
+      lng: 132.452
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノ約300本を有し、平和大橋と元安橋の間の川縁が見どころの一つです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82829528.jpg
+        source_url: https://weathernews.jp/sakura/spot/369/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/369/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/369/
+    collections:
+      - weathernews
+  - id: wn-385
+    name_ja: 野呂山
+    location:
+      city_ja: 呉市
+      address_ja: 広島県呉市川尻町板休5502番37
+    geo:
+      lat: 34.2629
+      lng: 132.6662
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ヤマザクラ
+    description_ja: 野呂山山頂まで約9kmの「さざなみスカイライン」沿いに立ち並ぶ桜並木です。ソメイヨシノ、ヤマザクラ、ヤエザクラと順々に咲き乱れ、4月下旬頃まで楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61912657.jpg
+        source_url: https://weathernews.jp/sakura/spot/385/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/385/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/385/
+    collections:
+      - weathernews

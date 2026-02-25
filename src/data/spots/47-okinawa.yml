@@ -1,0 +1,35 @@
+prefecture:
+  id: 47
+  name_ja: 沖縄県
+  name_en: Okinawa
+spots:
+  - id: nt-90011-sak1307151
+    name_ja: 名護城公園
+    location:
+      address_ja: 沖縄県名護市名護
+    geo:
+      lat: 26.588763
+      lng: 127.993191
+    species_ja:
+      - カンヒザクラ
+    description_ja: 沖縄県名護市の「名護城」跡一帯を整備した公園で、1月下旬から2月上旬にかけて寒緋桜が咲く「日本さくら名所100選」のひとつ。開花シーズン中は園内は鮮やかなピンク色に染まり、1月下旬に開催される「名護さくらまつり」には県内外から大勢の花見客が訪れる。展望台から望む、エメラルドグリーンの海と桜のコントラストが美しい絶景も必見。トイレ・駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307151_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307151/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307151_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307151/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307151/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%9F%8E
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307151/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%9F%8E
+    collections:
+      - navitime
+      - sakura100

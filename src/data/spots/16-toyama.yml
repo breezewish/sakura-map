@@ -1,0 +1,606 @@
+prefecture:
+  id: 16
+  name_ja: 富山県
+  name_en: Toyama
+spots:
+  - id: wn-55001
+    name_ja: 安居寺公園
+    location:
+      city_ja: 南砺市
+      address_ja: 富山県南砺市安居一帯
+    geo:
+      lat: 36.6034
+      lng: 136.8855
+    trees: 450
+    species_ja:
+      - シダレザクラ
+    description_ja: 境内には大きなシダレザクラが見所。公園の山頂の備中ヶ丘展望台には約450本の桜があり、公園の遊歩道を散策しながらお花見できる。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71437743.jpg
+        source_url: https://weathernews.jp/sakura/spot/55001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55001/
+    collections:
+      - weathernews
+  - id: wn-55007
+    name_ja: 下条川千本桜
+    location:
+      city_ja: 射水市
+      address_ja: 富山県射水市戸破
+    geo:
+      lat: 36.7222
+      lng: 137.1001
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/55007/1768349864_s.webp
+        source_url: https://weathernews.jp/sakura/spot/55007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55007/
+    collections:
+      - weathernews
+  - id: wn-243
+    name_ja: 岸渡川堤
+    location:
+      city_ja: 高岡市
+      address_ja: 富山県高岡市福岡町福岡新地内
+    geo:
+      lat: 36.7122
+      lng: 136.9312
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1000本の桜(ソメイヨシノ)が咲き誇る様は圧巻です。岸度川は桜のトンネルでお花見ができます。また夜間はライトアップを致します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61898281.jpg
+        source_url: https://weathernews.jp/sakura/spot/243/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/243/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/243/
+    collections:
+      - weathernews
+  - id: wn-251
+    name_ja: 宮野運動公園
+    location:
+      city_ja: 黒部市
+      address_ja: 富山県黒部市宮野44番
+    geo:
+      lat: 36.8659
+      lng: 137.4765
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 丘陵にあり景観は素晴らしく、富山湾一帯を眺望できます。園内には陸上競技場、野球場、テニスコート、体育館などがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61898306.jpg
+        source_url: https://weathernews.jp/sakura/spot/251/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/251/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/251/
+    collections:
+      - weathernews
+  - id: wn-255
+    name_ja: 魚津総合公園
+    location:
+      city_ja: 魚津市
+      address_ja: 富山県魚津市三ヶ1390
+    geo:
+      lat: 36.7976
+      lng: 137.3872
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 富山さくらの名所70選に選定されています。※総合公園内は、火気の使用禁止しております。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2011-04-18/4068519.jpg
+        source_url: https://weathernews.jp/sakura/spot/255/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/255/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/255/
+    collections:
+      - weathernews
+  - id: wn-55003
+    name_ja: 倶利伽羅県定公園
+    location:
+      city_ja: 小矢部市
+      address_ja: 富山県小矢部市埴生
+    geo:
+      lat: 36.6616
+      lng: 136.8187
+    trees: 6000
+    species_ja:
+      - ヤエザクラ
+    description_ja: 小矢部市ゆかりの武将木曾(源)義仲が平家軍を破るために奇襲作戦「火牛(かぎゅう)の計」が行われた舞台でもあります。倶利伽羅一帯の見事な桜並木は「昭和の花咲かじいさん」と呼ばれた高岡市の高木勝巳氏が20年間に渡って約3000本の八重桜を植栽したのが始まりです。現在ではその意志を受け継ぎ植樹、管理され約6000本の八重桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-15/71612244.jpg
+        source_url: https://weathernews.jp/sakura/spot/55003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55003/
+    collections:
+      - weathernews
+  - id: wn-248
+    name_ja: 呉羽山(民俗民芸村)
+    location:
+      city_ja: 富山市
+      address_ja: 富山県富山市安養坊1118-1(民俗民芸村)
+    geo:
+      lat: 36.7089
+      lng: 137.1854
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 標高71.3mの呉羽山頂上付近を中心に広場や遊歩道、展望台などが整備されており、富山平野や立山連峰を一望することができます。富山市民俗民芸村や五百羅漢等、富山の歴史文化に触れることができる施設も充実しています。3月下旬から4月にかけてたくさんの桜を楽しめる名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-04-12/18421820.jpg
+        source_url: https://weathernews.jp/sakura/spot/248/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/248/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/248/
+    collections:
+      - weathernews
+  - id: wn-244
+    name_ja: 高岡古城公園
+    location:
+      city_ja: 高岡市
+      address_ja: 富山県高岡市古城1-9
+    geo:
+      lat: 36.7487
+      lng: 137.0215
+    trees: 1800
+    species_ja:
+      - ソメイヨシノ
+      - その他17種類
+    description_ja: 市街地のど真ん中に位置し、加賀前田家二代当主前田利長公が築いた高岡城の城跡で、210000平方メートルと広大です。園内の桜の見頃は4月上旬頃で、この頃には園内にボンボリや露天商、また、花見客で昼夜問わずにぎわいます。桜は18種、1800本、内ソメイヨシノ1400本、コシノヒガン100本、その他300本。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-07/61831763.jpg
+        source_url: https://weathernews.jp/sakura/spot/244/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/244/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307045/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/244/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307045/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-254
+    name_ja: 桜ヶ池
+    location:
+      city_ja: 南砺市
+      address_ja: 富山県南砺市立野原
+    geo:
+      lat: 36.4991
+      lng: 136.866
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - コシノヒガンザクラ
+      - サトザクラ
+      - キンマメザクラ
+    description_ja: 池の周りにある様々な種類のサクラを楽しむことができ、散策にぴったりです。キャンプ等を楽しむことができ、近くには温泉もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61897165.jpg
+        source_url: https://weathernews.jp/sakura/spot/254/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/254/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/254/
+    collections:
+      - weathernews
+  - id: wn-249
+    name_ja: 寺家公園
+    location:
+      city_ja: 富山市
+      address_ja: 富山県富山市寺家
+    geo:
+      lat: 36.5642
+      lng: 137.2328
+    trees: 70
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 京都の嵐山の風景を模して作られた公園です。自然の植生がうまく生かされており、森の中を思わせます。桜は広い園内に点々と植えられ、芽吹いたばかりの新緑に映え、落ち着いた趣のある風情のお花見をすることができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/249/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/249/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/249/
+    collections:
+      - weathernews
+  - id: wn-5504
+    name_ja: 舟川べり
+    location:
+      city_ja: 朝日町
+      address_ja: 富山県下新川郡朝日町舟川新
+    geo:
+      lat: 36.9383
+      lng: 137.5402
+    trees: 280
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 残雪の朝日岳、白馬岳を中心とした北アルプス連峰を背景に舟川の両岸に約280本のソメイヨシノが咲き誇ります。周辺のチューリップ畑、菜の花畑と開花の時期がかさなれば自然がつくりだすみごとな春の四重奏が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5504/1767570285_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5504/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5504/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5504/
+    collections:
+      - weathernews
+  - id: wn-5503
+    name_ja: 小矢部川公園
+    location:
+      city_ja: 南砺市
+      address_ja: 富山県南砺市荒木ほか
+    geo:
+      lat: 36.5565
+      lng: 136.8738
+    trees: 800
+    species_ja:
+      - ソメイヨシノほか
+      - ソメイヨシノ
+    description_ja: 南砺市福光の中心部を流れる小矢部川の両岸に、約1kmの桜並木が続きます。昼間は、河川敷を散歩しながら、桜を楽しむことができ、夜間は夜桜を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61811679.jpg
+        source_url: https://weathernews.jp/sakura/spot/5503/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5503/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5503/
+    collections:
+      - weathernews
+  - id: wn-245
+    name_ja: 庄川水記念公園
+    location:
+      city_ja: 砺波市
+      address_ja: 富山県砺波市庄川町金屋1058
+    geo:
+      lat: 36.573
+      lng: 136.9954
+    trees: 500
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+    description_ja: ソメイヨシノとエドヒガンザクラ、あわせて500本の桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82748724.jpg
+        source_url: https://weathernews.jp/sakura/spot/245/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/245/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/245/
+    collections:
+      - weathernews
+  - id: wn-250
+    name_ja: 松川べり(松川公園・磯部堤・城址公園)
+    location:
+      city_ja: 富山市
+      address_ja: 富山県富山市布瀬町一丁目〜桜橋通り
+    geo:
+      lat: 36.6942
+      lng: 137.2108
+    trees: 530
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市の中心部を流れる松川辺り約3.9kmに約530本の桜並木が続きます。古くは大正2年に大正天皇御大典記念樹として植えられましたが、戦災で焼失しました。現在のものは、昭和25年以降に植えられたもので、「日本さくらの名所100選」に選ばれており、富山市のシンボルとして市民に親しまれています。桜並木に沿って遊歩道も整備されていて、「水と緑のプロムナード」をテーマに28基の彫刻像が設置されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/250/1766465634_s.webp
+        source_url: https://weathernews.jp/sakura/spot/250/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/250/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307066/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B7%9D%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/250/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307066/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B7%9D%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-5501
+    name_ja: 城ヶ山公園
+    location:
+      city_ja: 富山市
+      address_ja: 富山県富山市八尾町諏訪町
+    geo:
+      lat: 36.5737
+      lng: 137.1346
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 春はソメイヨシノなど約1000本の桜が咲き誇り、野鳥のさえずりを聴きながら自然と親しむことが出来ます。また、公園内には八尾町建ての先覚者米屋少兵衛の銅像をはじめ、歌碑など八尾の歴史を物語るものが数々あり、歴史散策を楽しむことが出来ます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/5501/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5501/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5501/
+    collections:
+      - weathernews
+  - id: wn-55002
+    name_ja: 城山公園(小矢部市)
+    location:
+      city_ja: 小矢部市
+      address_ja: 富山県小矢部市城山町9
+    geo:
+      lat: 36.6818
+      lng: 136.8628
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 城山公園は天正の昔、前田利秀が4万石の城主をつとめた「今石動城」(1585年に築城)のあった所で、城山(一名「白馬山」)山頂に城の本丸がありました。4月上旬にはお花見、秋には紅葉も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-09/61877440.jpg
+        source_url: https://weathernews.jp/sakura/spot/55002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55002/
+    collections:
+      - weathernews
+  - id: wn-55009
+    name_ja: 常願寺川公園
+    location:
+      city_ja: 立山町
+      address_ja: 富山県中新川郡立山町利田
+    geo:
+      lat: 36.6944
+      lng: 137.2816
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/55009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55009/
+    collections:
+      - weathernews
+  - id: wn-55011
+    name_ja: 神通川さくら堤・塩の千本桜
+    location:
+      city_ja: 富山市
+      address_ja: 富山市八尾町西神通・中神通(神通川さくら堤)、富山市塩(塩の千本桜)
+    geo:
+      lat: 36.608
+      lng: 137.1813
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 神通川の中州にある西神通・中神通は、周辺を堤防に囲まれた輪中地域で、4.8㎞の回廊の800本もの桜並木が続く「神通川さくら堤」と呼ばれています。「塩の千本桜」は、富山県の真ん中を流れる神通川の右岸、富山市塩に植えられた約1㎞、約200本のさくら堤で、水仙と桜のコラボレーションが楽しめるスポットです。神通川さくら堤と塩の千本桜をあわせて1000本もの桜並木は、「富山さくらの名所70選」にも選ばれており、全国にも誇れる規模の桜スポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/55011/1771993788_s.webp
+        source_url: https://weathernews.jp/sakura/spot/55011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55011/
+    collections:
+      - weathernews
+  - id: wn-55004
+    name_ja: 太閤山ランド
+    location:
+      city_ja: 射水市
+      address_ja: 富山県射水市黒河字高山4774-6
+    geo:
+      lat: 36.6922
+      lng: 137.1042
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja:
+      約1300本のサクラが植えられた太閤山ランドではソメイヨシノが一番多く見られ、特に正面口から西口まで桜並木がアーチ状に連なるさくら通りは、圧巻の美しさ。
+      「富山さくらの名所70選」にも選定されている。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/55004/1766627089_s.webp
+        source_url: https://weathernews.jp/sakura/spot/55004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55004/
+    collections:
+      - weathernews
+  - id: wn-246
+    name_ja: 朝日山公園
+    location:
+      city_ja: 氷見市
+      address_ja: 富山県氷見市幸町16
+    geo:
+      lat: 36.8546
+      lng: 136.9829
+    trees: 280
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内にはソメイヨシノ約280本が植えられており県内有数のサクラの名所として知られています。春から夏にかけてはツツジも見ごろを迎えます。令和3年3月には朝日山公園が拡張され、新エリア「見晴らしの丘」として開園しました。見晴らしの丘には、ソメイヨシノのほかにヤマザクラやカワヅザクラなど様々な種類のサクラを見ることができます。また、大型複合遊具や大芝生広場があり、のびのびと遊ぶことができます。ゴミは必ずお持ち帰りくださいますようご協力下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82957511.jpg
+        source_url: https://weathernews.jp/sakura/spot/246/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/246/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/246/
+    collections:
+      - weathernews
+  - id: wn-55005
+    name_ja: 内川周辺の桜並木
+    location:
+      city_ja: 射水市
+      address_ja: 富山県射水市中新湊
+    geo:
+      lat: 36.7785
+      lng: 137.0909
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/55005/1768350501_s.webp
+        source_url: https://weathernews.jp/sakura/spot/55005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55005/
+    collections:
+      - weathernews
+  - id: wn-5505
+    name_ja: 富山県中央植物園
+    location:
+      city_ja: 富山市
+      address_ja: 富山県富山市婦中町上轡田42
+    geo:
+      lat: 36.6616
+      lng: 137.1817
+    trees: 490
+    species_ja:
+      - ソメイヨシノ
+      - ヤエベニシダレザクラなど120品種
+    description_ja: ソメイヨシノの並木(300m、90本)はトンネル状です。ソメイヨシノの見頃の後も、サトザクラ、キクザクラ類の品種が4月下旬まで順次見頃となります。酒類、ペット持込禁止、火気の使用禁止です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71031540.jpg
+        source_url: https://weathernews.jp/sakura/spot/5505/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5505/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5505/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1301013
+    name_ja: 富山市民俗民芸村
+    location:
+      address_ja: 富山県富山市安養坊1118-1
+    geo:
+      lat: 36.710311
+      lng: 137.189443
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 民芸館や考古資料館、売薬資料館、美術館など9つの施設が点在する文化集落で、富山県富山市の呉羽丘陵の一隅にある。集落内には合掌造りの古民家など県内外から移築された建物もあり、自然あふれる古き良き山里の雰囲気。春に咲くソメイヨシノとの調和も美しい。例年の見ごろは4月上旬。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1301013_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301013/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1301013_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301013/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1301013_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301013/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301013/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301013/
+    collections:
+      - navitime
+  - id: wn-55010
+    name_ja: 湊川
+    location:
+      city_ja: 氷見市
+      address_ja: 富山県氷見市本町4
+    geo:
+      lat: 36.8557
+      lng: 136.9872
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/55010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55010/
+    collections:
+      - weathernews
+  - id: wn-55006
+    name_ja: 薬勝寺池公園
+    location:
+      city_ja: 射水市
+      address_ja: 富山県射水市中太閤山19
+    geo:
+      lat: 36.7007
+      lng: 137.0864
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71178572.jpg
+        source_url: https://weathernews.jp/sakura/spot/55006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/55006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/55006/
+    collections:
+      - weathernews

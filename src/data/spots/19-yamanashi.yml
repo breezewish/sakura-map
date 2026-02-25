@@ -1,0 +1,608 @@
+prefecture:
+  id: 19
+  name_ja: 山梨県
+  name_en: Yamanashi
+spots:
+  - id: wn-49006
+    name_ja: さくら温泉通り
+    location:
+      city_ja: 笛吹市
+      address_ja: 山梨県笛吹市石和町川中島
+    geo:
+      lat: 35.6585
+      lng: 138.6515
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 近津用水沿い約900mにわたり、約170本の桜並木が温泉街をピンク色に彩ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/49006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49006/
+    collections:
+      - weathernews
+  - id: wn-4911
+    name_ja: わに塚のサクラ
+    location:
+      city_ja: 韮崎市
+      address_ja: 山梨県韮崎市神山町北宮地624
+    geo:
+      lat: 35.7083
+      lng: 138.4258
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢300年を越えるエドヒガンザクラ。塚の上に立つ一本桜で、平成元年に韮崎市の天然記念物に指定されました。「わに塚」の名の由来は、日本武尊の王子・武田王のお墓という説や、塚の形が鰐口(仏具の一種)に似ていることからなど諸説あります。残雪の富士山や八ヶ岳を背景に咲き誇る姿は、凛とした美しさで訪れる人々を魅了し、フォトジェニックな名所として人気です。見ごろの時期にはライトアップも行われ、昼間とは一味違った幻想的な姿を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4911/1766710937_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4911/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4911/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4911/
+    collections:
+      - weathernews
+  - id: wn-4912
+    name_ja: 河口湖北岸円形ホール付近
+    location:
+      city_ja: 富士河口湖町
+      address_ja: 山梨県南都留郡富士河口湖町河口3030
+    geo:
+      lat: 35.5235
+      lng: 138.7651
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昼は富士山と桜の絶景、夜はライトアップされた桜が楽しめます。また、期間中は職人による手作りの作品が並ぶクラフト市も行われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4912/1767595109_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4912/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4912/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4912/
+    collections:
+      - weathernews
+  - id: wn-49004
+    name_ja: 岩殿山丸山公園
+    location:
+      city_ja: 大月市
+      address_ja: 山梨県大月市賑岡町強瀬81-1
+    geo:
+      lat: 35.6192
+      lng: 138.9494
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 300本のソメイヨシノが咲き誇り、桜越しに富士山を望むことができる花見スポット
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-14/96153163.jpg
+        source_url: https://weathernews.jp/sakura/spot/49004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49004/
+    collections:
+      - weathernews
+  - id: wn-49005
+    name_ja: 原間のイトザクラ
+    location:
+      city_ja: 南部町
+      address_ja: 山梨県南巨摩郡南部町本郷1547
+    geo:
+      lat: 35.2997
+      lng: 138.4417
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 樹齢150年〜200年の巨樹で枝を四方に張り、支柱もなく樹形も整った清々しい桜です。町の天然記念物に指定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-27/95445561.jpg
+        source_url: https://weathernews.jp/sakura/spot/49005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49005/
+    collections:
+      - weathernews
+  - id: wn-4903
+    name_ja: 山の神千本桜
+    location:
+      city_ja: 中央市
+      address_ja: 山梨県中央市大鳥居1619-1付近
+    geo:
+      lat: 35.5599
+      lng: 138.5537
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 800mの山の神神社へつながる参道(全長2.4km)沿いの桜並木。麓と山頂では気温差があり、開花時期が異なる為、麓から山頂にかけて順に咲き移るという珍しい現象がご覧いただけます。麓から神社まで徒歩約40分。甲府盆地を隔てて望む八ヶ岳や南アルプスの山々は絶景です。トレッキングの後は麓の「シルクふれんどりぃ」の温泉に浸かり疲れを癒して下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4903/1768286798_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4903/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4903/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4903/
+    collections:
+      - weathernews
+  - id: wn-4902
+    name_ja: 山高神代桜
+    location:
+      city_ja: 北杜市
+      address_ja: 山梨県北杜市武川町山高2763
+    geo:
+      lat: 35.7803
+      lng: 138.3677
+    trees: 31
+    species_ja:
+      - エドヒガンザクラ
+      - ソメイヨシノ
+    description_ja: 実相寺境内にそびえる山高神代桜は、日本三大桜の一つで樹齢約2000年、国指定天然記念物で日本最古の桜といわれています。日本武尊が植えたという言い伝えがあり、悠久の時を感じる古木です。桜の開花にあわせて約8万本のラッパ水仙が咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4902/1766903099_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4902/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4902/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4902/
+    collections:
+      - weathernews
+  - id: wn-4909
+    name_ja: 山梨県護国神社
+    location:
+      city_ja: 甲府市
+      address_ja: 山梨県甲府市岩窪町608
+    geo:
+      lat: 35.6837
+      lng: 138.5823
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 護国神社および愛宕山、円光院周辺が桜の森になり、散策に訪れる方々が多く見られます。※今年もライトアップを中止いたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-25/70935964.jpg
+        source_url: https://weathernews.jp/sakura/spot/4909/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4909/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4909/
+    collections:
+      - weathernews
+  - id: wn-4904
+    name_ja: 慈雲寺
+    location:
+      city_ja: 甲州市
+      address_ja: 山梨県甲州市塩山中萩原352
+    geo:
+      lat: 35.7184
+      lng: 138.7562
+    trees: 7
+    species_ja:
+      - シダレザクラ
+    description_ja: 禅寺の境内にある樹齢300年を超すイトザクラ(シダレザクラ)を観て、生命の尊さを感じていただけると思います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61715256.jpg
+        source_url: https://weathernews.jp/sakura/spot/4904/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4904/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4904/
+    collections:
+      - weathernews
+  - id: wn-49014
+    name_ja: 信玄堤公園
+    location:
+      city_ja: 甲斐市
+      address_ja: 山梨県甲斐市竜王1989
+    geo:
+      lat: 35.6675
+      lng: 138.502
+    trees: 48
+    species_ja:
+      - ソメイヨシノ
+      - 太白桜
+    description_ja: 信玄堤公園は日本の歴史公園100選に認定されている風情がある公園です。公園内には主に「ソメイヨシノ」「太白桜」の2種があり、それぞれ開花時期が異なるため、長い期間桜を楽しむことができます。※ペットは芝生内禁止になりますので、ご注意ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/49014/1738115756_s.webp
+        source_url: https://weathernews.jp/sakura/spot/49014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49014/
+    collections:
+      - weathernews
+  - id: wn-49009
+    name_ja: 新倉山浅間公園
+    location:
+      city_ja: 富士吉田市
+      address_ja: 山梨県富士吉田市浅間2丁目4-1
+    geo:
+      lat: 35.5019
+      lng: 138.8015
+    trees: 650
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内の五重塔（忠霊塔）と桜、そして富士山という日本的な美しい景色が広がります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82954888.jpg
+        source_url: https://weathernews.jp/sakura/spot/49009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49009/
+    collections:
+      - weathernews
+  - id: wn-49013
+    name_ja: 新名庄川・お宮橋
+    location:
+      city_ja: 忍野村
+      address_ja: 山梨県南都留郡忍野村忍草 お宮橋
+    geo:
+      lat: 35.4625
+      lng: 138.8324
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/49013/1768366237_s.webp
+        source_url: https://weathernews.jp/sakura/spot/49013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49013/
+    collections:
+      - weathernews
+  - id: wn-4910
+    name_ja: 身延山久遠寺
+    location:
+      city_ja: 身延町
+      address_ja: 山梨県南巨摩郡身延町身延3567
+    geo:
+      lat: 35.3817
+      lng: 138.4254
+    trees: 52
+    species_ja:
+      - シダレザクラ
+    description_ja: 鎌倉時代に日蓮聖人によって開かれたお寺で日蓮宗の総本山。境内には「全国しだれ桜10選」にも選ばれた樹齢400年の古木をはじめ多数のしだれ桜が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4910/1768347408_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4910/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4910/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4910/
+    collections:
+      - weathernews
+  - id: wn-4907
+    name_ja: 甚六桜
+    location:
+      city_ja: 甲州市
+      address_ja: 山梨県甲州市勝沼町菱山
+    geo:
+      lat: 35.6733
+      lng: 138.7431
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 勝沼ぶどう郷駅沿いに咲く約600本の桜は「甚六桜」と呼ばれ多くの方に親しまれています。電車の中からも大いに楽しめますが、下車して見上げる桜のトンネルも見事です。夜にはライトアップされて甲府盆地の夜景とともに素敵な景色を楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4907/1766463266_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4907/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4907/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4907/
+    collections:
+      - weathernews
+  - id: wn-4901
+    name_ja: 清春芸術村の桜群
+    location:
+      city_ja: 北杜市
+      address_ja: 山梨県北杜市長坂町中丸2072
+    geo:
+      lat: 35.8228
+      lng: 138.3533
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 多くのアーティストが訪れることでも知られるこの地、清春芸術村を囲むように樹齢100年を迎える約30本のソメイヨシノが咲きます。寿命が短いとされるソメイヨシノ、群をなす大木としては県内随一で、県の指定文化財になっています。南アルプスを背景に咲き誇る桜は圧巻!
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82967007.jpg
+        source_url: https://weathernews.jp/sakura/spot/4901/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4901/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4901/
+    collections:
+      - weathernews
+  - id: wn-49001
+    name_ja: 大善寺
+    location:
+      city_ja: 甲州市
+      address_ja: 山梨県甲州市勝沼町勝沼3559
+    geo:
+      lat: 35.656
+      lng: 138.7433
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国宝薬師堂のまわりや、その右手に広がる高台の桜道、眼下に見下ろす桜と甲府盆地が見どころです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/49001/1766555120_s.webp
+        source_url: https://weathernews.jp/sakura/spot/49001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49001/
+    collections:
+      - weathernews
+  - id: wn-178
+    name_ja: 大法師公園
+    location:
+      city_ja: 富士川町
+      address_ja: 山梨県南巨摩郡富士川町鰍沢2175
+    geo:
+      lat: 35.5459
+      lng: 138.4553
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大法師公園は、大法師山の高台にあり、そのさくらは「日本さくら名所100選」に選ばれています。公園内からは富士山や八ヶ岳・甲府盆地を見渡せるため、美しい風景を背景に桜を撮影できます。さくらの見ごろには、多くの観光客や写真を撮影する人々で賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/178/1768286412_s.webp
+        source_url: https://weathernews.jp/sakura/spot/178/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/178/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307104/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B3%95%E5%B8%AB%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/178/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307104/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B3%95%E5%B8%AB%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-49008
+    name_ja: 富士山吉田口登山道中ノ茶屋エリア
+    location:
+      city_ja: 富士吉田市
+      address_ja: 山梨県富士吉田市上吉田
+    geo:
+      lat: 35.4413
+      lng: 138.7698
+    species_ja:
+      - フジザクラ
+    description_ja: 標高1100m、富士山吉田口登山道沿いの中ノ茶屋エリアは県下最大のフジザクラ(オトメザクラ)の群生地で、約2万本が咲き誇る。フジザクラは国の天然記念物であり、県の花、市の花にも指定されている。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/49008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49008/
+    collections:
+      - weathernews
+  - id: wn-49012
+    name_ja: 富士川クラフトパーク
+    location:
+      city_ja: 身延町
+      address_ja: 山梨県南巨摩郡身延町下山1597
+    geo:
+      lat: 35.418
+      lng: 138.4371
+    trees: 6300
+    species_ja:
+      - シダレザクラ
+      - ソメイヨシノ
+      - ヤエザクラ他
+    description_ja: 自然観察の森の一部は、平成30年に身延町による「しだれ桜の里づくり事業」により整備され、多くのしだれ桜の苗が植栽されました。サバイバルの森と自然観察の森あわせて約5200本のしだれ桜が春には満開に咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/49012/1768437947_s.webp
+        source_url: https://weathernews.jp/sakura/spot/49012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49012/
+    collections:
+      - weathernews
+  - id: wn-49007
+    name_ja: 冨士御室浅間神社
+    location:
+      city_ja: 富士河口湖町
+      address_ja: 山梨県南都留郡富士河口湖町勝山3951-1
+    geo:
+      lat: 35.5106
+      lng: 138.746
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜が両脇に並ぶ表参道は必見です。桜をモチーフにした御守も授与しております。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-15/96193202.jpg
+        source_url: https://weathernews.jp/sakura/spot/49007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49007/
+    collections:
+      - weathernews
+  - id: wn-4908
+    name_ja: 武田神社
+    location:
+      city_ja: 甲府市
+      address_ja: 山梨県甲府市古府中町2611
+    geo:
+      lat: 35.6867
+      lng: 138.5773
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 神社境内及び境内周辺（約50本）は、御祭神武田信玄公在世中の居館「躑躅ヶ崎館（つつじがさきやかた）」跡の情景に彩りを添えており、さらにＪＲ甲府駅から武田神社までの、南北約2kmに渡る一本道、通称「武田通り」の桜並木（約300本）は、圧巻で、見応えがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61707681.jpg
+        source_url: https://weathernews.jp/sakura/spot/4908/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4908/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4908/
+    collections:
+      - weathernews
+  - id: wn-49010
+    name_ja: 舞鶴城公園
+    location:
+      city_ja: 甲府市
+      address_ja: 山梨県甲府市丸の内1丁目5-4
+    geo:
+      lat: 35.6647
+      lng: 138.5714
+    trees: 156
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - コシガン
+      - シダレザクラ
+      - ヤエザクラ
+      - カワヅサクラ
+      - 太白桜
+    description_ja: 約160本の桜が城の石垣を囲むように咲き誇り、遠方に見える富士山を観賞しながら、のんびりと散歩ができる憩いの場となっています。日本百名城の一つ「甲府城」は、武田氏滅亡後16世紀末に築城され、かつては20ヘクタールほどの広大な城郭で、現在は城跡の一部が「舞鶴城公園」として開放されています。天守台からは甲府盆地が360度見渡せ、富士山や南アルプスなども見ることができます。また、眺望だけではなく、石垣、稲荷櫓等の多くの歴史的な資産も見どころです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95547534.jpg
+        source_url: https://weathernews.jp/sakura/spot/49010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49010/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307142/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49010/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307142/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-49003
+    name_ja: 本郷の千年桜
+    location:
+      city_ja: 南部町
+      address_ja: 山梨県南巨摩郡南部町本郷3230
+    geo:
+      lat: 35.3035
+      lng: 138.4348
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢500年〜600年と老樹ですが、毎年見事に花を咲かせます。千年桜は県指定の天然記念物でもあり見ごたえがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61633784.jpg
+        source_url: https://weathernews.jp/sakura/spot/49003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49003/
+    collections:
+      - weathernews
+  - id: wn-49002
+    name_ja: 妙了寺
+    location:
+      city_ja: 南アルプス市
+      address_ja: 南アルプス市上市之瀬724
+    geo:
+      lat: 35.6056
+      lng: 138.4381
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - シダレザクラ
+    description_ja: 樹齢100年以上の古木は昭和24年に寺が全焼した火災被害にも負けず、春の到来を伝えています。火災前、妙了寺は日本総本山「身延山久遠寺」に次ぐ規模のお寺で「裏身延」と尊祟されてきたのだとか。桜も身延山から分けてもらい植えたのだそう。そんな歴史ある妙了寺の桜、ぜひ一度ご鑑賞ください！
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-27/61552832.jpg
+        source_url: https://weathernews.jp/sakura/spot/49002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49002/
+    collections:
+      - weathernews
+  - id: wn-49011
+    name_ja: 眞原の桜並木
+    location:
+      city_ja: 北杜市
+      address_ja: 山梨県北杜市武川町實原3567地内
+    geo:
+      lat: 35.7758
+      lng: 138.34
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約750ｍある通りの両側にソメイヨシノ約200本が植えられています。桜色のトンネルから時折見える甲斐駒ヶ岳が美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/49011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/49011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/49011/
+    collections:
+      - weathernews

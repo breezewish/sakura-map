@@ -1,0 +1,401 @@
+prefecture:
+  id: 31
+  name_ja: 鳥取県
+  name_en: Tottori
+spots:
+  - id: wn-6908
+    name_ja: とっとり花回廊
+    location:
+      city_ja: 南部町
+      address_ja: 鳥取県西伯郡南部町鶴田110
+    geo:
+      lat: 35.3475
+      lng: 133.4246
+    trees: 250
+    species_ja:
+      - ソメイヨシノ他39品種
+      - ソメイヨシノ
+    description_ja: 41品種250本の桜があり、様々な花を楽しめます。中国地方の最高峰大山を背景にした桜並木が絶好の写真スポットです。桜並木の周辺は芝生のスペースとなっており、ゆっくりと桜を見ることができます。4月中〜下旬はオランダの名園キューケンホフ公園をイメージした「花の谷（キューケンホフコーナー）」で遅咲き桜とチューリップの共演が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-11/61924315.jpg
+        source_url: https://weathernews.jp/sakura/spot/6908/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6908/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6908/
+    collections:
+      - weathernews
+  - id: wn-6814
+    name_ja: 境台場公園
+    location:
+      city_ja: 境港市
+      address_ja: 鳥取県境港市花町
+    geo:
+      lat: 35.5468
+      lng: 133.2426
+    trees: 240
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 境台場公園は境港を見下ろす高台にあり、桜の名所として毎年多くの人でにぎわいます。また、園内にある真っ白な灯台は、中に入って見学することもできます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2018-03-31/41435517.jpg
+        source_url: https://weathernews.jp/sakura/spot/6814/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6814/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6814/
+    collections:
+      - weathernews
+  - id: wn-6903
+    name_ja: 鹿野城跡公園
+    location:
+      city_ja: 鳥取市
+      address_ja: 鳥取県鳥取市鹿野町鹿野
+    geo:
+      lat: 35.4583
+      lng: 134.0642
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約400年前に築かれた城下町の中心に位置する鹿野城跡。春には城跡の堀に沿って植えられた約500本のソメイヨシノが満開となり、夜のライトアップでは、鏡のような堀の水面に映る幻想的な夜桜を写真に収めようと、多くの人で賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6903/1766724829_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6903/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6903/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6903/
+    collections:
+      - weathernews
+  - id: wn-69005
+    name_ja: 船上山万本桜公園(ソメイヨシノ)
+    location:
+      city_ja: 琴浦町
+      address_ja: 鳥取県東伯郡琴浦町山川
+    geo:
+      lat: 35.4297
+      lng: 133.6076
+    trees: 4600
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 隠岐の島を脱出した御醍醐天皇が立てこもり、建武の新政の礎となった歴史ある山で、ソメイヨシノ、シダレザクラなど彩り豊かに咲き乱れ、公園を明るく賑やかな雰囲気に染めます。ゴールデンウィークの始まりまで楽しめる遅咲きのヤエザクラも艶やかです。豊かな自然を堪能できるハイキングコースもあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/69005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69005/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307092/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69005/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307092/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-6904
+    name_ja: 船上山万本桜公園(ヤエザクラ)
+    location:
+      city_ja: 琴浦町
+      address_ja: 鳥取県東伯郡琴浦町山川
+    geo:
+      lat: 35.4297
+      lng: 133.6076
+    trees: 4000
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 隠岐の島を脱出した御醍醐天皇が立てこもり、建武の新政の礎となった歴史ある山で、ソメイヨシノ、シダレザクラなど彩り豊かに咲き乱れ、公園を明るく賑やかな雰囲気に染めます。ゴールデンウィークの始まりまで楽しめる遅咲きのヤエザクラも艶やかです。豊かな自然を堪能できるハイキングコースもあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-07/31679620.jpg
+        source_url: https://weathernews.jp/sakura/spot/6904/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6904/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6904/
+    collections:
+      - weathernews
+  - id: wn-402
+    name_ja: 打吹公園
+    location:
+      city_ja: 倉吉市
+      address_ja: 鳥取県倉吉市仲ノ町
+    geo:
+      lat: 35.4297
+      lng: 133.8226
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 天女伝説の伝わる打吹山のふもと、打吹公園は、「さくら名所100選」、「日本の都市公園100選」に選定されており、山陰随一のさくらの名所です。開花の時期には公園全体が桜色に染まります。また、園内には猿園舎や小動物とふれあえるフレンドリー広場もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/402/1766533766_s.webp
+        source_url: https://weathernews.jp/sakura/spot/402/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/402/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307097/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%89%93%E5%90%B9%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/402/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307097/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%89%93%E5%90%B9%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6905
+    name_ja: 袋川桜土手
+    location:
+      city_ja: 鳥取市
+      address_ja: 鳥取県鳥取市元町〜材木町付近(若桜橋〜湯所橋)
+    geo:
+      lat: 35.4986
+      lng: 134.2302
+    trees: 260
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鳥取市の中心を流れる袋川に沿って約2.0km、約260本の桜並木が続きます。※ライトアップは荒天中止
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-08/82736891.jpg
+        source_url: https://weathernews.jp/sakura/spot/6905/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6905/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6905/
+    collections:
+      - weathernews
+  - id: wn-69002
+    name_ja: 智頭河畔桜土手
+    location:
+      city_ja: 智頭町
+      address_ja: 鳥取県八頭郡智頭町智頭
+    geo:
+      lat: 35.2673
+      lng: 134.2305
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 鳥取県内でも有数の桜の名所として知られ、3月下旬〜4月上旬に見頃を迎えます。約1.3kmにわたって国道373号線の河畔が美しくピンクに咲き誇る桜を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/69002/1769391681_s.webp
+        source_url: https://weathernews.jp/sakura/spot/69002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69002/
+    collections:
+      - weathernews
+  - id: wn-403
+    name_ja: 鳥取城跡久松公園
+    location:
+      city_ja: 鳥取市
+      address_ja: 鳥取県鳥取市東町
+    geo:
+      lat: 35.5071
+      lng: 134.237
+    trees: 220
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約220本の桜がお堀や二ノ丸を彩る「日本さくら名所100選」のひとつです。※ライトアップは荒天中止
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-07/95863175.jpg
+        source_url: https://weathernews.jp/sakura/spot/403/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/403/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300377/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%B9%85%E6%9D%BE%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/403/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300377/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%B9%85%E6%9D%BE%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6902
+    name_ja: 天満山公園
+    location:
+      city_ja: 八頭町
+      address_ja: 鳥取県八頭郡八頭町船岡
+    geo:
+      lat: 35.3895
+      lng: 134.2534
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 標高200mの小高い丘にあり、古くから桜の名所として親しまれ、毎年春には1000本余りの桜が咲き誇ります。公園内には学問の神様が祀られている「船岡天満宮」があり、合格祈願の参拝者も見られます。また春には天満宮さくら祭りも開かれます。※公園入口駐車スペースから桜の見える見晴らしスポットまでは、さらに坂道を徒歩で10分程登る必要があります。ご注意ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/6902/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6902/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6902/
+    collections:
+      - weathernews
+  - id: wn-69001
+    name_ja: 萩原桜並木
+    location:
+      city_ja: 大山町
+      address_ja: 鳥取県西伯郡大山町羽田井1419-13
+    geo:
+      lat: 35.4623
+      lng: 133.5943
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 文芸の小径から報恩峠にかけて約500mの道路沿いにソメイヨシノなど約500本の桜が植えられている。ドライブコースにもおすすめ。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/69001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69001/
+    collections:
+      - weathernews
+  - id: wn-6907
+    name_ja: 法勝寺城山公園・法勝寺川土手
+    location:
+      city_ja: 南部町
+      address_ja: 鳥取県西伯郡南部町法勝寺
+    geo:
+      lat: 35.3367
+      lng: 133.327
+    trees: 440
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 法勝寺城山公園及び法勝寺川の土手には約5.3kmにわたって桜並木が続いています。夜になりぼんぼりに灯りが灯ると、浮かび上がった桜が川面に映し出され、幻想的な雰囲気をかもしだします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61806757.jpg
+        source_url: https://weathernews.jp/sakura/spot/6907/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6907/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6907/
+    collections:
+      - weathernews
+  - id: wn-400
+    name_ja: 湊山公園
+    location:
+      city_ja: 米子市
+      address_ja: 鳥取県米子市西町
+    geo:
+      lat: 35.4288
+      lng: 133.3213
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約500本の桜を有し、大小のぼんぼりが点灯します。公園から徒歩10分のところに遊覧船があり、船から桜を楽しむことも出来ます(有料)。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/400/1766536875_s.webp
+        source_url: https://weathernews.jp/sakura/spot/400/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/400/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/400/
+    collections:
+      - weathernews
+  - id: wn-69003
+    name_ja: 名和公園
+    location:
+      city_ja: 大山町
+      address_ja: 鳥取県西伯郡大山町御来屋556
+    geo:
+      lat: 35.5069
+      lng: 133.4925
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 名和公園は、南に大山(だいせん)、北には日本海が見え、山陰本線JR名和駅からもすぐのところにあります。公園の海側に公園があり、家族で楽しむことができます。また近隣には、名和長年とその一族を祀る「名和神社」があり、ここの桜も一緒に楽しめるおすすめの場所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-25/70950112.jpg
+        source_url: https://weathernews.jp/sakura/spot/69003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69003/
+    collections:
+      - weathernews
+  - id: wn-69004
+    name_ja: 木ノ根神社
+    location:
+      city_ja: 大山町
+      address_ja: 鳥取県西伯郡大山町松河原232
+    geo:
+      lat: 35.5173
+      lng: 133.5498
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 男根そっくりの老松の根を御神体として祀っているユニークな神社で、夫婦円満や子宝に恵まれるご利益があると言われている。上の方へ登ると広場があり、この周りにも桜があり、ソメイヨシノが咲く頃にはボンボリが灯され、幽玄な雰囲気の夜桜を堪能することができる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/69004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/69004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/69004/
+    collections:
+      - weathernews
+  - id: wn-6812
+    name_ja: 緑水湖周辺
+    location:
+      city_ja: 南部町
+      address_ja: 鳥取県西伯郡南部町下中谷
+    geo:
+      lat: 35.3029
+      lng: 133.3249
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 1周4kmの桜並木が緑水湖の湖面と重なりとても美しいロケーションです。散策道をゆっくり歩きながら、または車に乗って楽しむことができます。近くに食事や喫茶を楽しめるレストランや、季節の山菜が並ぶ直売所もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-03-29/54749510.jpg
+        source_url: https://weathernews.jp/sakura/spot/6812/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6812/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6812/
+    collections:
+      - weathernews

@@ -1,0 +1,461 @@
+prefecture:
+  id: 24
+  name_ja: 三重県
+  name_en: Mie
+spots:
+  - id: wn-53007
+    name_ja: なばなの里
+    location:
+      city_ja: 桑名市
+      address_ja: 三重県桑名市長島町駒江漆畑270
+    geo:
+      lat: 35.0809
+      lng: 136.7035
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - カワヅザクラ
+      - シダレザクラ
+    description_ja: 里内の花ひろばではチューリップの開花とともにソメイヨシノも見ごろを迎え、チューリップとソメイヨシノの豪華競演の景色がご覧いただけます。里西側水辺エリアでも約120本の圧巻の桜並木をご覧になることが出来、見頃の時期には歩経路沿いの約50本がライトアップ（予定）夜桜が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/53007/1766456461_s.webp
+        source_url: https://weathernews.jp/sakura/spot/53007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53007/
+    collections:
+      - weathernews
+  - id: wn-220
+    name_ja: 伊勢神宮(内宮)
+    location:
+      city_ja: 伊勢市
+      address_ja: 三重県伊勢市宇治館町1
+    geo:
+      lat: 34.455
+      lng: 136.7252
+    trees: 600
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: 伊勢神宮内宮を始め五十鈴川沿いにはソメイヨシノの他、様々な桜が神域の緑に映えて美しく咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-07/95870817.jpg
+        source_url: https://weathernews.jp/sakura/spot/220/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/220/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/220/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307025
+    name_ja: 亀山公園
+    location:
+      address_ja: 三重県亀山市若山町
+    geo:
+      lat: 34.85687
+      lng: 136.449859
+    trees: 230
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 亀山城跡を中心に整備された公園で、園内には県史跡の「多門櫓」をはじめ、芝生広場や菖蒲園、野外ステージ、図書館、ローラースライダーなどがある。園内に植えられたソメイヨシノが例年4月上旬から中旬に見ごろを迎え、花見スポットとしても人気。4月上旬には「亀山城桜まつり」も開催され、桜の下で様々なイベントが行われる。トイレ・駐車場あり。最寄はJR亀山駅。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307025_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307025/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307025_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307025/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307025_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307025/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307025/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307025/
+    collections:
+      - navitime
+  - id: wn-5303
+    name_ja: 宮川堤
+    location:
+      city_ja: 伊勢市
+      address_ja: 三重県伊勢市中島・宮川町地内(度会橋付近)宮川堤防公園
+    geo:
+      lat: 34.4957
+      lng: 136.6862
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 「日本の桜名所100選」にも選ばれた宮川堤には、たくさんの桜が立ち並び、市内随一の桜の名所として知られています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5303/1767666628_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5303/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5303/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307028/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B7%9D_(%E4%B8%89%E9%87%8D%E7%9C%8C)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5303/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307028/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B7%9D_(%E4%B8%89%E9%87%8D%E7%9C%8C)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-53019
+    name_ja: 郷の恵 風輪
+    location:
+      city_ja: 伊勢市
+      address_ja: 三重県伊勢市横輪町586
+    geo:
+      lat: 34.4054
+      lng: 136.6721
+    trees: 1500
+    species_ja:
+      - 横輪桜
+    description_ja: 横輪桜は、三重県伊勢市横輪町に古くから存在する桜で、花びらの大きさはソメイヨシノの2～3倍の大きさの濃いピンク色で、一重（5枚の花びら）と八重（6枚以上）の花びらが混在する「一重八重咲」、香りが強いという特徴がある美しい品種です。2018年に新種登録され、横輪町でしか見られない固有種です。是非、横輪町にお越しいただき、桜に近寄ってアップの横輪桜をお楽しみください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/53019/1771382887_s.webp
+        source_url: https://weathernews.jp/sakura/spot/53019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53019/
+    collections:
+      - weathernews
+  - id: wn-5305
+    name_ja: 九華公園
+    location:
+      city_ja: 桑名市
+      address_ja: 三重県桑名市吉之丸5-1
+    geo:
+      lat: 35.0638
+      lng: 136.6979
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+      - シダレサクラ
+      - ヤマサクラ
+    description_ja: お堀沿いを中心にソメイヨシノ、しだれ桜、山桜など約450本が咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5305/1766465093_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5305/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5305/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5305/
+    collections:
+      - weathernews
+  - id: wn-5306
+    name_ja: 君ヶ野ダムの桜
+    location:
+      city_ja: 津市
+      address_ja: 三重県津市美杉町八手俣
+    geo:
+      lat: 34.6002
+      lng: 136.3164
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノの花の色が湖面に映え、美しさが一層際立ちます。ダム周辺には森林セラピーコースもあり、散策しながら桜を愛でるもよし。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82706537.jpg
+        source_url: https://weathernews.jp/sakura/spot/5306/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5306/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5306/
+    collections:
+      - weathernews
+  - id: wn-53003
+    name_ja: 五十鈴川堤
+    location:
+      city_ja: 伊勢市
+      address_ja: 三重県伊勢市宇治今在家町(内宮)～宇治浦田周辺(五十鈴川)一帯
+    geo:
+      lat: 34.4631
+      lng: 136.7238
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 伊勢神宮宇治橋近くや五十鈴川浦田橋から宇治橋まではソメイヨシノが多く、盛花の頃は周囲の緑も五十鈴川に映えて美しさを増します。桜の見ごろに合わせて、夜桜のライトアップを行う「五十鈴川桜まつり」を開催いたします。河川敷の縁台に座ってゆっくりとお花見をしていただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61714051.jpg
+        source_url: https://weathernews.jp/sakura/spot/53003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53003/
+    collections:
+      - weathernews
+  - id: wn-5304
+    name_ja: 三多気の桜
+    location:
+      city_ja: 津市
+      address_ja: 三重県津市美杉町三多気
+    geo:
+      lat: 34.5174
+      lng: 136.2222
+    trees: 400
+    species_ja:
+      - ヤマザクラ
+    description_ja: 日本さくら名所100選、国の名勝に指定されている三多気の桜。伊勢本街道から真福院への参道約1.5kmにわたってヤマザクラの並木が続き、まるで桜のトンネルをくぐっているかのようです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82968731.jpg
+        source_url: https://weathernews.jp/sakura/spot/5304/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5304/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307051/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B8%82
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5304/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307051/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B8%82
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-53002
+    name_ja: 春谷寺
+    location:
+      city_ja: 松阪市
+      address_ja: 三重県松阪市飯南町向粥見274
+    geo:
+      lat: 34.4376
+      lng: 136.3745
+    trees: 51
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 樹齢約400年、幹周囲約4mの大木です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/53002/1766627882_s.webp
+        source_url: https://weathernews.jp/sakura/spot/53002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53002/
+    collections:
+      - weathernews
+  - id: wn-222
+    name_ja: 上野公園(伊賀上野城)
+    location:
+      city_ja: 伊賀市
+      address_ja: 三重県伊賀市上野丸之内106
+    geo:
+      lat: 34.7705
+      lng: 136.1279
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 天守閣周辺にソメイヨシノが約600本咲いています。天守閣のライトアップは、３月中旬から約１ヶ月間、サクラ色のライトアップ22時までの予定。本丸広場の桜の木にもライトアップ。天守閣の入館は16時45分まで、17時閉館です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/222/1766626699_s.webp
+        source_url: https://weathernews.jp/sakura/spot/222/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/222/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/222/
+    collections:
+      - weathernews
+  - id: wn-53005
+    name_ja: 大滝峡自然公園
+    location:
+      city_ja: 大紀町
+      address_ja: 三重県度会郡大紀町滝原2500
+    geo:
+      lat: 34.3514
+      lng: 136.4029
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大滝峡沿いにある桜の名所です。3月から12月にかけてキャンプ場として賑わいます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/53005/1770950215_s.webp
+        source_url: https://weathernews.jp/sakura/spot/53005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53005/
+    collections:
+      - weathernews
+  - id: wn-53001
+    name_ja: 鳥羽城跡　城山公園
+    location:
+      city_ja: 鳥羽市
+      address_ja: 三重県鳥羽市鳥羽3-4
+    geo:
+      lat: 34.4823
+      lng: 136.8439
+    trees: 46
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高台にあり、広場や遊歩道・トイレが整備されています。鳥羽湾が一望でき、桜の名所として多くの花見客で賑わいます。また、ハートTOBAのモニュメントはフォトスポットとしてもおススメです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82716516.jpg
+        source_url: https://weathernews.jp/sakura/spot/53001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53001/
+    collections:
+      - weathernews
+  - id: wn-5302
+    name_ja: 津偕楽公園
+    location:
+      city_ja: 津市
+      address_ja: 三重県津市広明町147-1
+    geo:
+      lat: 34.7319
+      lng: 136.5065
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1000本のソメイヨシノが見られます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82691003.jpg
+        source_url: https://weathernews.jp/sakura/spot/5302/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5302/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307111/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5302/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307111/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-53006
+    name_ja: 田丸城跡
+    location:
+      city_ja: 玉城町
+      address_ja: 三重県度会郡玉城町田丸114-1
+    geo:
+      lat: 34.4909
+      lng: 136.631
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 三重県指定文化財・史跡であり、続日本100名城にも選ばれている田丸城跡は、現在は桜の名所です。野面積みの石垣の上に咲き誇る桜の様子は風情があり、例年多くの花見客が訪れます。夜間はライトアップを行っており、夜桜も楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82661039.jpg
+        source_url: https://weathernews.jp/sakura/spot/53006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53006/
+    collections:
+      - weathernews
+  - id: wn-53004
+    name_ja: 湯の山温泉
+    location:
+      city_ja: 菰野町
+      address_ja: 三重県三重郡菰野町菰野8522
+    geo:
+      lat: 35.015
+      lng: 136.4477
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 大石公園の散策がオススメです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/53004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53004/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307118/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53004/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307118/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-53008
+    name_ja: 鍋田川堤桜並木
+    location:
+      city_ja: 木曽岬町
+      address_ja: 三重県桑名郡木曽岬町和富
+    geo:
+      lat: 35.0821
+      lng: 136.7465
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ベニシダレザクラ
+      - カンザクラ
+      - オオカンザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-04/95710585.jpg
+        source_url: https://weathernews.jp/sakura/spot/53008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/53008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/53008/
+    collections:
+      - weathernews
+  - id: wn-221
+    name_ja: 富田十四川桜並木
+    location:
+      city_ja: 四日市市
+      address_ja: 三重県四日市市富田4丁目
+    geo:
+      lat: 35.0055
+      lng: 136.6483
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日本さくらの会から全国表彰された市内随一の桜の名所です。十四川の両岸にソメイヨシノ約600本が咲き、川の幅が狭いため橋の上に立つと桜がトンネルのようになります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82872714.jpg
+        source_url: https://weathernews.jp/sakura/spot/221/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/221/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/221/
+    collections:
+      - weathernews

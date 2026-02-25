@@ -1,0 +1,544 @@
+prefecture:
+  id: 5
+  name_ja: 秋田県
+  name_en: Akita
+spots:
+  - id: wn-24
+    name_ja: きみまち阪県立自然公園
+    location:
+      city_ja: 能代市
+      address_ja: 秋田県能代市二ツ井町小繋
+    geo:
+      lat: 40.2215
+      lng: 140.2562
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 切り立った岩肌の奇岩がおりなす景勝地。眼下には七座山や、ゆったりと蛇行している米代川も望むことができます。また、開花に合わせてライトアップも行います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-22/83270845.jpg
+        source_url: https://weathernews.jp/sakura/spot/24/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/24/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/24/
+    collections:
+      - weathernews
+  - id: wn-32003
+    name_ja: 一つ森公園
+    location:
+      city_ja: 秋田市
+      address_ja: 秋田県秋田市下北手桜字蛭沢141-7
+    geo:
+      lat: 39.703
+      lng: 140.1356
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - 彼岸ザクラ
+    description_ja: サクラ広場にはソメイヨシノ、シダレザクラ、彼岸ザクラなどが植えられ、花見シーズンには、たくさんの人でにぎわいます。カマドが設置されています。注意：使用後は清掃を行い、ゴミは必ず持ち帰ってください。また、火の後始末は責任を持って行ってください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/83017795.jpg
+        source_url: https://weathernews.jp/sakura/spot/32003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32003/
+    collections:
+      - weathernews
+  - id: wn-31
+    name_ja: 横手公園
+    location:
+      city_ja: 横手市
+      address_ja: 秋田県横手市城山町
+    geo:
+      lat: 39.3203
+      lng: 140.5702
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 数千本の桜が花を咲かせ、春を満喫させてくれます。天守閣様式の展望台を背景にした桜は特に美しく、訪れた人を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/31/1768356233_s.webp
+        source_url: https://weathernews.jp/sakura/spot/31/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/31/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/31/
+    collections:
+      - weathernews
+  - id: wn-3202
+    name_ja: 角館のシダレザクラ
+    location:
+      city_ja: 仙北市
+      address_ja: 秋田県仙北市角館町内
+    geo:
+      lat: 39.5993
+      lng: 140.5614
+    trees: 400
+    species_ja:
+      - シダレザクラ
+    description_ja: 武家屋敷通りの黒板塀に降りそそぐように咲き誇り、見事な景観を醸し出す「角館のシダレザクラ」。その歴史は古く佐竹北家二代義明の正室がお興入れのときに持参した3本の苗木が始まりと言われています。国の天然記念物に指定されているものをはじめ、角館町内は薄紅色に染められます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-23/62189928.jpg
+        source_url: https://weathernews.jp/sakura/spot/3202/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3202/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2600271/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3202/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2600271/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-27
+    name_ja: 桂城公園
+    location:
+      city_ja: 大館市
+      address_ja: 秋田県大館市字中城1
+    geo:
+      lat: 40.2726
+      lng: 140.5647
+    trees: 140
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大館城の跡地である桂城公園は、桜まつりの期間中多くの花見客で賑わいます。桜まつり期間中の園内には露店が並び、昼は満開の桜を、夜はライトアップされた夜桜を楽しむことができます。また、芝生でシートを広げての飲食や宴会等もお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-23/83309061.jpg
+        source_url: https://weathernews.jp/sakura/spot/27/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/27/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/27/
+    collections:
+      - weathernews
+  - id: wn-32005
+    name_ja: 五輪坂アルカディア公園
+    location:
+      city_ja: 羽後町
+      address_ja: 秋田県雄勝郡羽後町足田字古堤上地内
+    geo:
+      lat: 39.2188
+      lng: 140.4014
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 五輪坂の麓にある家族連れで楽しめる公園。キャンプやバーべキューが楽しめ、敷地内の大きな堤では野ゴイやヘラブナを釣ることもできます。5月初頭にかけて約300本もの桜が見頃を迎え、遊具で遊びながらお花見ができます。※キャンプやバーベキュー等で利用する場合は、利用する5日前までに羽後町建設課に申請が必要となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-25/96537603.jpg
+        source_url: https://weathernews.jp/sakura/spot/32005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32005/
+    collections:
+      - weathernews
+  - id: wn-32006
+    name_ja: 御所の台ふれあいパーク
+    location:
+      city_ja: 八峰町
+      address_ja: 秋田県山本郡八峰町八森御所の台
+    geo:
+      lat: 40.3881
+      lng: 139.9865
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/32006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32006/
+    collections:
+      - weathernews
+  - id: wn-3215
+    name_ja: 桜・菜の花ロード
+    location:
+      city_ja: 大潟村
+      address_ja: 秋田県南秋田郡大潟村(県道道村298号線)
+    geo:
+      lat: 39.9617
+      lng: 140.0355
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+      - ベニヤマザクラ
+      - ヤエザクラ
+    description_ja: 県道沿い11kmにおよぶ桜並木は大潟村の春の風物詩です。菜の花の黄色、桜のピンクと空の青が織りなすコントラストがひときわ美しく、道行く人の目を楽しませてくれます。(桜と菜の花まつり同時開催します)
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3215/1766539158_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3215/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3215/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3215/
+    collections:
+      - weathernews
+  - id: wn-30
+    name_ja: 真人公園
+    location:
+      city_ja: 横手市
+      address_ja: 秋田県横手市増田町亀田字上掵81
+    geo:
+      lat: 39.2101
+      lng: 140.5733
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 松の緑の真人山を背景に沼と中島を配した公園で、春は約2000本の桜が公園を美しく彩ります。平成2年「日本さくらの名所100選」の地に選ばれました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/30/1770701067_s.webp
+        source_url: https://weathernews.jp/sakura/spot/30/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/30/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307072/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%9C%9F%E4%BA%BA%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/30/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307072/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%9C%9F%E4%BA%BA%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-26
+    name_ja: 勢至公園
+    location:
+      city_ja: にかほ市
+      address_ja: 秋田県にかほ市金浦字黒川竹嶋潟
+    geo:
+      lat: 39.261
+      lng: 139.9205
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 秋田県内で最も桜の開花が早い「にかほ市の勢至公園」。県内でも有数の桜の名所であり、市民の憩いの場になっております。「竹嶋潟」の周辺には遊歩道がありを桜を見ながら散策できます。隣接する南極公園では、遊具があり、子供たちと一緒に楽しみながら遊ぶことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/26/1766478894_s.webp
+        source_url: https://weathernews.jp/sakura/spot/26/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/26/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/26/
+    collections:
+      - weathernews
+  - id: wn-25
+    name_ja: 千秋公園
+    location:
+      city_ja: 秋田市
+      address_ja: 秋田県秋田市千秋公園1番
+    geo:
+      lat: 39.7213
+      lng: 140.1237
+    trees: 650
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+      - ジンダイアケボノ
+      - オオムラザクラ
+      - オオシマザクラ他
+    description_ja: 千秋公園は秋田藩20万石佐竹氏の居城跡で、明治29年に公園として整備されました。桜の季節になると、ソメイヨシノを中心とする約650本の桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-19/62102701.jpg
+        source_url: https://weathernews.jp/sakura/spot/25/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/25/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300183/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%8D%83%E7%A7%8B%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/25/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300183/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%8D%83%E7%A7%8B%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: nt-90011-sak1307099
+    name_ja: 大館市ベニヤマ自然パーク
+    location:
+      address_ja: 秋田県大館市比内町大葛字金山沢口5
+    geo:
+      lat: 40.127064
+      lng: 140.677761
+    trees: 50
+    species_ja:
+      - ベニヤマザクラ
+      - ソメイヨシノ
+    description_ja: 秋田県大館市比内町の山間にある自然公園で、天然温泉付きの市営保養施設「比内ベニヤマ荘」に隣接している。自然豊かな園内にはベニヤマザクラやソメイヨシノが数多く植えられ、山々の緑と薄紅色の桜が生み出す景色が素晴らしい。園内には多目的広場やキャンプ場、アスレチック、滑り台・スカイロープなどの大型遊具もあり、ファミリーの花見スポットとして人気である。例年の見ごろは4月下旬から5月上旬。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307099_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307099/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307099_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307099/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307099_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307099/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307099/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307099/
+    collections:
+      - navitime
+  - id: wn-32004
+    name_ja: 大佐沢公園
+    location:
+      city_ja: 大仙市
+      address_ja: 秋田県大仙市刈和野字山堂ヶ沢
+    geo:
+      lat: 39.5512
+      lng: 140.3922
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大佐沢沼を中心とした大佐沢公園は、観光秋田30景の景勝地にえらばれています。周囲には桜やツツジ、山ゆりが数多く植えられており、沼にはヘラブナが放流され、毎日、太公望で賑わっています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/32004/1767570497_s.webp
+        source_url: https://weathernews.jp/sakura/spot/32004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32004/
+    collections:
+      - weathernews
+  - id: wn-3209
+    name_ja: 大森公園
+    location:
+      city_ja: 横手市
+      address_ja: 秋田県横手市大森町高口下水戸堤
+    geo:
+      lat: 39.3489
+      lng: 140.4334
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 遊歩道も整備され魅力がさらにアップ。車の乗り入れも可能で桜を眺めながらの散歩もお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3209/1766706809_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3209/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3209/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3209/
+    collections:
+      - weathernews
+  - id: wn-29
+    name_ja: 日本国花苑
+    location:
+      city_ja: 井川町
+      address_ja: 秋田県南秋田郡井川町浜井川字二階
+    geo:
+      lat: 39.9047
+      lng: 140.0953
+    trees: 2000
+    species_ja:
+      - カンザン
+      - 普賢象
+      - 紅豊など約200種類
+    description_ja: 昭和47年日本各地から集められた桜200種2000本が植樹された公園で、全国に数か所しかない学術的にも貴重な公園です。バラ園やツツジ等が咲く花木園があり、また、桜の森彫刻コンクールで入選した作品が41基展示され、桜と彫刻の公園として四季を通じて親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-08/62530652.jpg
+        source_url: https://weathernews.jp/sakura/spot/29/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/29/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/29/
+    collections:
+      - weathernews
+  - id: wn-32001
+    name_ja: 能代公園
+    location:
+      city_ja: 能代市
+      address_ja: 秋田県能代市清助町
+    geo:
+      lat: 40.213
+      lng: 140.0184
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 能代公園は公園全体が小丘陵になっており、米代川、日本海、そして白神山地の風景を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/32001/1766623501_s.webp
+        source_url: https://weathernews.jp/sakura/spot/32001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32001/
+    collections:
+      - weathernews
+  - id: wn-32002
+    name_ja: 能代市役所　さくら庭
+    location:
+      city_ja: 能代市
+      address_ja: 秋田県能代市上町1-3
+    geo:
+      lat: 40.2116
+      lng: 140.027
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「さくら庭」は目線の高さで桜を楽しむことができる名所です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/32002/1766623401_s.webp
+        source_url: https://weathernews.jp/sakura/spot/32002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/32002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/32002/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307129
+    name_ja: 八塩いこいの森
+    location:
+      address_ja: 秋田県由利本荘市東由利田代字沢中41-6
+    geo:
+      lat: 39.262566
+      lng: 140.239981
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - キザクラ
+    description_ja: 秋田県由利本荘市の「八塩山」麓に広がる総合公園で、八塩ダム湖とブナの原生林に囲まれた緑豊かなスポット。ダム湖を一周する遊歩道やパークゴルフ場、野外広場、オートキャンプ場などの施設があるほか、黄桜の名所としても知られている。園内では4月下旬から5月中旬にかけてソメイヨシノ、黄桜、八重桜が順に開花を迎え、多くの花見客で賑わう。見ごろの時期には「黄桜まつり」も開催。トイレ・売店・無料駐車場有。毎年4月下旬から11月上旬のみ営業。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307129_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307129/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307129_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307129/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307129_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307129/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307129/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307129/
+    collections:
+      - navitime
+  - id: nt-90011-sak1307137
+    name_ja: 桧木内川堤
+    location:
+      address_ja: 秋田県仙北市角館町
+    geo:
+      lat: 39.596052
+      lng: 140.560387
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昭和9年(1934年)に、今上天皇御誕生記念として植えられたというソメイヨシノが、桧木内川の堤防沿い約2kmに渡って連なる景勝地。昭和50年に国指定名勝に、平成2年に「日本さくら名所100選」に選定されている。毎年4月下旬から5月上旬になると一斉に開花し、辺り一面が桜の花の薄紅色で染まる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307137_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307137/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307137_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307137/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307137_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307137/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307137/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%A1%A7%E6%9C%A8%E5%86%85%E5%B7%9D
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307137/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%A1%A7%E6%9C%A8%E5%86%85%E5%B7%9D
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-28
+    name_ja: 桧木内川堤のソメイヨシノ
+    location:
+      city_ja: 仙北市
+      address_ja: 秋田県仙北市角館町内
+    geo:
+      lat: 39.6009
+      lng: 140.5581
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ゆったり流れる桧木内川沿い約2kmにわたって、見事なソメイヨシノの並木道が続きます。昭和9年(1934年)に上皇陛下御誕生のお祝いに町民により植えられたもので、昭和50年(1975年)には、国指定名勝に指定されました。伸び伸びと広げる大木が多く、満開期には、桜のトンネルと呼ばれるにふさわしい光景となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-23/96467785.jpg
+        source_url: https://weathernews.jp/sakura/spot/28/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/28/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/28/
+    collections:
+      - weathernews
+  - id: wn-3201
+    name_ja: 本荘公園
+    location:
+      city_ja: 由利本荘市
+      address_ja: 秋田県由利本荘市尾崎
+    geo:
+      lat: 39.3848
+      lng: 140.0478
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 本荘城跡にある史跡公園。公園内には約1000本のソメイヨシノがあります。5月上旬〜下旬に色とりどりのツツジ約5千株が全山を彩るのもみどころです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3201/1767575108_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3201/
+    collections:
+      - weathernews

@@ -1,0 +1,728 @@
+prefecture:
+  id: 8
+  name_ja: 茨城県
+  name_en: Ibaraki
+spots:
+  - id: wn-78
+    name_ja: かみね公園
+    location:
+      city_ja: 日立市
+      address_ja: 茨城県日立市宮田町5丁目2-22
+    geo:
+      lat: 36.6089
+      lng: 140.6573
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 約25種類1000本の桜を有し、市内の「平和通り」とともに、日本の「さくら名所100選」に選ばれた桜の名所です。さらに、かみね公園頂上展望台から望む夜景は、「日本夜景遺産」に認定(令和元年9月5日)され、夜桜とともに楽しむことができます。様々な種類の桜を観賞し市街地が一望できる公園でのんびりお花見を!
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82956280.jpg
+        source_url: https://weathernews.jp/sakura/spot/78/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/78/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307002/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%B8%82%E3%81%8B%E3%81%BF%E3%81%AD%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/78/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307002/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E5%B8%82%E3%81%8B%E3%81%BF%E3%81%AD%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-40023
+    name_ja: さくら宇宙公園（高萩市衛星通信記念公園）
+    location:
+      city_ja: 高萩市
+      address_ja: 茨城県高萩市石滝608-1
+    geo:
+      lat: 36.6997
+      lng: 140.6983
+    species_ja:
+      - ソメイヨシノ
+    description_ja: さくら宇宙は、我が国初のテレビ衛星中継受信の地を記念した公園です。公園内には、茨城大学の宇宙科学教育研究センターである宇宙電波館や、国立天文台のパラボラアンテナがあります。1周800メートルのジョギングコースやグラウンドゴルフ、お散歩や花見などでご利用いただくことができます。※ただし、公園を安全にご利用いただくため、キャンプ及びバーベキュー、たき火及び花火等の火気を使用する行為、ゴルフの練習はご遠慮いただいております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/40023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40023/
+    collections:
+      - weathernews
+  - id: wn-40016
+    name_ja: ネーブルパーク(ソメイヨシノ)
+    location:
+      city_ja: 古河市
+      address_ja: 茨城県古河市駒羽根620
+    geo:
+      lat: 36.1664
+      lng: 139.7535
+    trees: 410
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: ネーブルパークはソメイヨシノが約130本、八重桜が約280本植えられている茨城県でも有数の桜の名所です。4月初旬でソメイヨシノが終わると、八重桜が咲き始めます。八重桜はポニー牧場の周囲とつり堀の周囲と間の谷に植えられています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/40016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40016/
+    collections:
+      - weathernews
+  - id: wn-40017
+    name_ja: ネーブルパーク(ヤエザクラ)
+    location:
+      city_ja: 古河市
+      address_ja: 茨城県古河市駒羽根620
+    geo:
+      lat: 36.1664
+      lng: 139.7535
+    trees: 410
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: ネーブルパークはソメイヨシノが約130本、八重桜が約280本植えられている茨城県でも有数の桜の名所です。4月初旬でソメイヨシノが終わると、八重桜が咲き始めます。八重桜はポニー牧場の周囲とつり堀の周囲と間の川沿いに植えられています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/40017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40017/
+    collections:
+      - weathernews
+  - id: wn-40020
+    name_ja: 阿漕ヶ浦公園
+    location:
+      city_ja: 東海村
+      address_ja: 茨城県那珂郡東海村村松579
+    geo:
+      lat: 36.4547
+      lng: 140.5923
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約200本のソメイヨシノが咲き誇ります。桜まつり期間中の日没から午後9時までの夜桜ライトアップにより、やわらかな光に照らされた桜並木が、幻想的な春の景色を演出します。昼はご家族でのお花見に、夜は幻想的な夜桜鑑賞に。春のひとときを、ぜひお楽しみください。阿漕ヶ浦公園の敷地内には遊具広場があります。村内・村外問わず、多くの方に利用されております。遊具は3－6歳向けの遊具と6－12歳向けの遊具があります。また、保護者の方も利用できる「見守り小屋」があり、キレイなトイレや授乳室に加えエアコンも完備しているため、とても快適にご利用できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/40020/1770354446_s.webp
+        source_url: https://weathernews.jp/sakura/spot/40020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40020/
+    collections:
+      - weathernews
+  - id: wn-40001
+    name_ja: 愛宕山
+    location:
+      city_ja: 笠間市
+      address_ja: 茨城県笠間市泉
+    geo:
+      lat: 36.2904
+      lng: 140.2526
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ボタンザクラ
+    description_ja: 愛宕山の標高差により、花の白い帯が上へと登ってきます。また、会場となる大駐車場では眺望が良く、晴天時には太平洋までご覧いただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-17/62058428.jpg
+        source_url: https://weathernews.jp/sakura/spot/40001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40001/
+    collections:
+      - weathernews
+  - id: wn-4003
+    name_ja: 磯部桜川公園
+    location:
+      city_ja: 桜川市
+      address_ja: 茨城県桜川市磯部740-2
+    geo:
+      lat: 36.3658
+      lng: 140.1373
+    trees: 550
+    species_ja:
+      - ヤマザクラ
+    description_ja: 世阿弥の謡曲「桜川」の舞台で、桜の名所といわれる磯部桜川公園。この場所の桜は特に珍しい種類が多く、園内の一部のヤマザクラが国の天然記念物に指定されています。桜の種類はヤマザクラを中心に約３０種類あり、長い期間楽しむことができます。見頃は４月上旬から中旬です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4003/1766622520_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4003/
+    collections:
+      - weathernews
+  - id: wn-40008
+    name_ja: 宇留野公園
+    location:
+      city_ja: 常陸大宮市
+      address_ja: 茨城県常陸大宮市宇留野687
+    geo:
+      lat: 36.548
+      lng: 140.4212
+    trees: 15
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園から久慈川が望め、清流とサクラが一体となった画を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71195997.jpg
+        source_url: https://weathernews.jp/sakura/spot/40008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40008/
+    collections:
+      - weathernews
+  - id: wn-40003
+    name_ja: 羽黒山公園
+    location:
+      city_ja: 行方市
+      address_ja: 茨城県行方市麻生989-1
+    geo:
+      lat: 35.9899
+      lng: 140.4804
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高台に位置する公園で展望休憩所から霞ヶ浦が一望できます。休憩所から少し坂を上がると広々とした芝生の広場が目に飛び込んできます。桜の木が広場を囲んでおり、満開の時期はとても美しいです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/40003/1766465236_s.webp
+        source_url: https://weathernews.jp/sakura/spot/40003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40003/
+    collections:
+      - weathernews
+  - id: wn-40011
+    name_ja: 外大野のシダレザクラ
+    location:
+      city_ja: 大子町
+      address_ja: 茨城県久慈郡大子町外大野1312
+    geo:
+      lat: 36.8135
+      lng: 140.4178
+    trees: 1
+    species_ja:
+      - シダレザクラ(イトザクラ)
+      - シダレザクラ
+    description_ja: 徳川光圀公によるお手植えの桜といわれ、地元では俗に「下大倉（しもおおくら）の桜」と呼ばれています。古くから地元の人々は、その蕾の膨らみや花の咲き具合を見て苗代つくりや田植えの準備を始めてきました。現在でも、農業暦に深い関わりを持つものとして地域に広く親しまれています。樹は斜面中腹に生育しているため、生育地を囲むように設けられた歩道から見上げて又は見下ろして樹冠全景を観賞することができ、開花期間中には大勢の花見客が訪れるほか、ライトアップや桜祭りなども実施されます。樹齢は300年をゆうに超えると推定されます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82674686.jpg
+        source_url: https://weathernews.jp/sakura/spot/40011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40011/
+    collections:
+      - weathernews
+  - id: wn-79
+    name_ja: 亀城公園
+    location:
+      city_ja: 土浦市
+      address_ja: 茨城県土浦市中央1-13-48
+    geo:
+      lat: 36.0843
+      lng: 140.1988
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 土浦の象徴でもあり、市民の憩いの場として親しまれている亀城公園は、室町時代に築かれた土浦城址です。続日本100名城に認定されています。堀に囲まれた城の姿が、水に浮かぶ亀に見えたことから、「亀城（きじょう）」の愛称がついたといわれています。櫓門（やぐらもん）は城郭建築の遺構として本丸にある櫓門形式では現存するもので関東唯一のものであり、公園の象徴となっています。園内には約50本のソメイヨシノがあり、櫓や堀との調和はみごとです。3月下旬から4月上旬には桜が咲き来場者を癒してくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/79/1768287226_s.webp
+        source_url: https://weathernews.jp/sakura/spot/79/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/79/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/79/
+    collections:
+      - weathernews
+  - id: wn-4010
+    name_ja: 吉野公園
+    location:
+      city_ja: 常総市
+      address_ja: 茨城県常総市上蛇町1863
+    geo:
+      lat: 36.075
+      lng: 140.0008
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 釣りを楽しみながらさくらの見物ができます。また、天気が良ければ遠くに筑波山も望め、公園内の散策が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4010/1769135484_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4010/
+    collections:
+      - weathernews
+  - id: wn-126
+    name_ja: 牛久シャトー
+    location:
+      city_ja: 牛久市
+      address_ja: 茨城県牛久市中央3-20-1
+    geo:
+      lat: 35.9778
+      lng: 140.1474
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国の重要文化財、日本遺産、近代化産業遺産である日本初の本格的ワイン醸造場「牛久シャトー」の園内では、ソメイヨシノなど約250本の桜を楽しめます。園内がピンク色に彩られる光景は別世界です。また、夜間は園内の照明に照らされた桜が日中の桜とは異なる趣を出しており、日中と夜間で違う風情の桜を楽しむことができます。園内にはレストラン、BBQ、ショップがあり、BBQでは桜に囲まれながらバーベキューや園内で醸造されている「牛久シャトー　ビール」を味わうことができます。お花見にピッタリの場所です！
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82884634.jpg
+        source_url: https://weathernews.jp/sakura/spot/126/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/126/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/126/
+    collections:
+      - weathernews
+  - id: wn-40013
+    name_ja: 牛久大仏
+    location:
+      city_ja: 牛久市
+      address_ja: 茨城県牛久市久野町2083
+    geo:
+      lat: 35.9827
+      lng: 140.2204
+    trees: 420
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大仏様の足元には桜だけではなく、芝桜も咲き始めますのでタイミングが良ければ桜＆芝桜のコラボレーションが楽しめます。大仏様の左側に桜芝桜が一面に広がり、圧巻です！大仏様と桜芝桜が一緒に見られるのは牛久大仏だけですのでこの機会に是非ご来園下さい。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/40013/1766638559_s.webp
+        source_url: https://weathernews.jp/sakura/spot/40013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40013/
+    collections:
+      - weathernews
+  - id: wn-40004
+    name_ja: 十王パノラマ公園
+    location:
+      city_ja: 日立市
+      address_ja: 茨城県日立市十王町友部1085-6
+    geo:
+      lat: 36.6699
+      lng: 140.6646
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - 他35種類
+    description_ja: UFO型の展望台が目印の高台にある公園です。展望台からは阿武隈山系の山々や太平洋、桜を見渡すことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82991033.jpg
+        source_url: https://weathernews.jp/sakura/spot/40004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40004/
+    collections:
+      - weathernews
+  - id: wn-40005
+    name_ja: 城跡歴史公園
+    location:
+      city_ja: 結城市
+      address_ja: 茨城県結城市結城2486-1
+    geo:
+      lat: 36.3077
+      lng: 139.8859
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 結城合戦の舞台となったことで知られる結城城の跡地。現在は公園として整備され、梅や桜、紫陽花など四季折々の花を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82925627.jpg
+        source_url: https://weathernews.jp/sakura/spot/40005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40005/
+    collections:
+      - weathernews
+  - id: wn-40015
+    name_ja: 常陸風土記の丘
+    location:
+      city_ja: 石岡市
+      address_ja: 茨城県石岡市染谷1646番地
+    geo:
+      lat: 36.2078
+      lng: 140.2388
+    trees: 190
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: シダレザクラのトンネル
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71067457.jpg
+        source_url: https://weathernews.jp/sakura/spot/40015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40015/
+    collections:
+      - weathernews
+  - id: wn-40006
+    name_ja: 神之池緑地
+    location:
+      city_ja: 神栖市
+      address_ja: 茨城県神栖市溝口4991－5
+    geo:
+      lat: 35.8913
+      lng: 140.663
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 夜間はライトアップを実施予定です。日程等は神栖市または神栖市観光協会のホームページをご確認ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-07/61834977.jpg
+        source_url: https://weathernews.jp/sakura/spot/40006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40006/
+    collections:
+      - weathernews
+  - id: wn-4004
+    name_ja: 水海道あすなろの里
+    location:
+      city_ja: 常総市
+      address_ja: 茨城県常総市大塚戸町310
+    geo:
+      lat: 36.0051
+      lng: 139.9229
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 水海道あすなろの里は、茨城県環境保全地域である菅生沼に隣接する自然豊かな宿泊研修施設です。首都圏から約1時間圏内とアクセスの良い場所でありながら、豊かな自然あふれる田園風景が広がります。多目的広場は、ソメイヨシノが並び咲き、研修棟から釣り堀の外周を歩くと、オオシマザクラやカワズザクラを含めた桜が随所に咲きます。釣り堀の水面に映った桜を眺めながら、ひと味違う散策も楽しめます。様々な桜の表情が楽しめるあすなろの里で春のひと時を満喫しませんか。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4004/1768366279_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4004/
+    collections:
+      - weathernews
+  - id: wn-4002
+    name_ja: 西山公園
+    location:
+      city_ja: 常陸太田市
+      address_ja: 茨城県常陸太田市新宿町(あらじゅくちょう)
+    geo:
+      lat: 36.5412
+      lng: 140.514
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 徳川光圀公の隠居所、西山御殿の近くにある西山公園には、約1500本もの桜が植えられています。開花時期に合わせてライトアップも行っているので、夜桜見物をすることができます。また、遊歩道も整備されているので、桜を眺めながらのんびりと散策をしてみてはいかがでしょうか。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4002/1768889616_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4002/
+    collections:
+      - weathernews
+  - id: wn-40002
+    name_ja: 西蓮寺
+    location:
+      city_ja: 行方市
+      address_ja: 茨城県行方市西蓮寺504
+    geo:
+      lat: 36.0716
+      lng: 140.4378
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 西蓮寺仁王門入口から西蓮寺境内相輪橖付近にかけて桜の木が植えられており、見頃の時期には綺麗な桜が見物できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/40002/1766465538_s.webp
+        source_url: https://weathernews.jp/sakura/spot/40002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40002/
+    collections:
+      - weathernews
+  - id: wn-4001
+    name_ja: 静峰ふるさと公園
+    location:
+      city_ja: 那珂市
+      address_ja: 茨城県那珂市静1720番地1
+    geo:
+      lat: 36.5005
+      lng: 140.42
+    trees: 2000
+    species_ja:
+      - ヤエザクラ
+    description_ja: 「日本さくら名所100選」に選ばれた八重桜の名所。12ヘクタールの園内に、約2000本の八重桜が咲き誇る光景はまさに壮観です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82999633.jpg
+        source_url: https://weathernews.jp/sakura/spot/4001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4001/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307082/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B3%B0%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4001/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307082/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B3%B0%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-40012
+    name_ja: 千波湖
+    location:
+      city_ja: 水戸市
+      address_ja: 茨城県水戸市千波町3080
+    geo:
+      lat: 36.37
+      lng: 140.4605
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 千波湖は、偕楽園の南東に位置する周囲3kmの湖です。桜並木の遊歩道が湖をぐるっと囲っており、ウォーキングやジョギングが楽しめます。また、ボートの貸出しも行っており、市民の憩いの場となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-27/84577803.jpg
+        source_url: https://weathernews.jp/sakura/spot/40012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40012/
+    collections:
+      - weathernews
+  - id: wn-40009
+    name_ja: 大宮自然公園
+    location:
+      city_ja: 常陸大宮市
+      address_ja: 茨城県常陸大宮市石沢60-2
+    geo:
+      lat: 36.5275
+      lng: 140.4032
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 広々とした青空の下でゆったりとサクラを満喫することができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95809063.jpg
+        source_url: https://weathernews.jp/sakura/spot/40009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40009/
+    collections:
+      - weathernews
+  - id: wn-40007
+    name_ja: 辰ノ口親水公園
+    location:
+      city_ja: 常陸大宮市
+      address_ja: 常陸大宮市辰ノ口1339-2
+    geo:
+      lat: 36.5919
+      lng: 140.4206
+    trees: 130
+    species_ja:
+      - ソメイヨシノ
+      - センダイヤ
+    description_ja: 久慈川堤防の桜づつみに約130本のサクラが1.3kmほど続き、満開の季節には桜堤が淡いピンクのベルトのように見えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95906071.jpg
+        source_url: https://weathernews.jp/sakura/spot/40007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40007/
+    collections:
+      - weathernews
+  - id: wn-4011
+    name_ja: 福岡堰の桜並木
+    location:
+      city_ja: つくばみらい市
+      address_ja: 茨城県つくばみらい市北山〜福岡
+    geo:
+      lat: 36.0349
+      lng: 140.0297
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 1925(寛永2)年に小貝川をせき止めて造られた福岡堰は、岡堰、豊田堰とともに関東三大堰の1つに数えられています。1.8kmにも及ぶ遊歩道沿いに咲く大小あわせて約450本のソメイヨシノが水面に映り目を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/4011/1766630813_s.webp
+        source_url: https://weathernews.jp/sakura/spot/4011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4011/
+    collections:
+      - weathernews
+  - id: wn-4009
+    name_ja: 平和通り
+    location:
+      city_ja: 日立市
+      address_ja: 茨城県日立市平和町ほか
+    geo:
+      lat: 36.593
+      lng: 140.659
+    trees: 110
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR日立駅中央口から国道6号まで続く桜並木。約110本のソメイヨシノが咲き誇り、訪れる人を歓迎します。市内のかみね公園とともに、日本の「さくら名所100選」に選ばれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71085036.jpg
+        source_url: https://weathernews.jp/sakura/spot/4009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4009/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307144/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4009/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307144/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-40018
+    name_ja: 母子島遊水地
+    location:
+      city_ja: 筑西市
+      address_ja: 茨城県筑西市飯田
+    geo:
+      lat: 36.2571
+      lng: 139.9917
+    trees: 290
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約290本の桜並木を堪能できる絶景スポット。筑波山をバックに見る桜は見どころ万歳です！
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95536112.jpg
+        source_url: https://weathernews.jp/sakura/spot/40018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40018/
+    collections:
+      - weathernews
+  - id: wn-40027
+    name_ja: 利根川桜づつみ
+    location:
+      city_ja: 利根町
+      address_ja: 茨城県北相馬郡利根町布川
+    geo:
+      lat: 35.8604
+      lng: 140.135
+    trees: 182
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 平成17年に整備された「利根川桜づつみ」は、利根川の雄大な流れを見下ろす堤防上に、全長850mにわたって182本のソメイヨシノが2列に整然と植えられ、満開時には見事な桜のトンネルが息をのむほどの美しい景観を作り出します。　平成28年には「茨城の宝125選」にも選定され、毎年桜の開花シーズンには遠方から観光客やカメラマンが訪れる桜の名所になっています。この美しい景色は、桜の里親制度により募った町民オーナーや「利根町桜づつみ保存会」の保全活動によって守られています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/40027/1766649570_s.webp
+        source_url: https://weathernews.jp/sakura/spot/40027/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40027/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40027/
+    collections:
+      - weathernews
+  - id: wn-40014
+    name_ja: 偕楽園桜山
+    location:
+      city_ja: 水戸市
+      address_ja: 茨城県水戸市見川1丁目
+    geo:
+      lat: 36.3761
+      lng: 140.4475
+    trees: 370
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノやヤマザクラなど、約370本の桜が咲き誇り、淡いピンク色に包まれる景色は圧巻です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-27/84576667.jpg
+        source_url: https://weathernews.jp/sakura/spot/40014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40014/
+    collections:
+      - weathernews

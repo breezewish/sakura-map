@@ -1,0 +1,815 @@
+prefecture:
+  id: 3
+  name_ja: 岩手県
+  name_en: Iwate
+spots:
+  - id: wn-33014
+    name_ja: Ark館ヶ森(ソメイヨシノ)
+    location:
+      city_ja: 一関市
+      address_ja: 岩手県一関市藤沢町黄海衣井沢山9-15
+    geo:
+      lat: 38.8175
+      lng: 141.274
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: Ark館ヶ森は、100ヘクタールの広大な敷地に、季節の花々や様々な動物とのふれあいが楽しめる牧場です。春のハイライトは「チューリップと桜の共演」そして「桜のトンネル」です。「食といのちと自然」をテーマとした牧場で、桜を楽しみ牧場産の食事を楽しみ、春を満喫することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33014/1768285529_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33014/
+    collections:
+      - weathernews
+  - id: wn-33013
+    name_ja: Ark館ヶ森(ヤエザクラ)
+    location:
+      city_ja: 一関市
+      address_ja: 岩手県一関市藤沢町黄海衣井沢山9-15
+    geo:
+      lat: 38.8175
+      lng: 141.274
+    trees: 200
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+    description_ja: Ark館ヶ森は、100ヘクタールの広大な敷地に、季節の花々や様々な動物とのふれあいが楽しめる牧場です。ソメイヨシノが散り始める頃、花の勢いを増してくるのがヤエザクラです。正門からツリーハウスに向かう並木道と牧場中心地にまっすぐ伸びる「八重桜の並木道」の2か所が名所となっています。濃いピンク色の花の存在感は圧倒的で、咲き始めから満開の頃合いだけでなく、その散り際に風に舞う花びらで道がピンク色に染まる光景は息を呑む美しさがあります。「食といのちと自然」をテーマとした牧場で、桜を楽しみ牧場産の食事を楽しみ、春を満喫することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33013/1768287543_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33013/
+    collections:
+      - weathernews
+  - id: wn-3301
+    name_ja: お物見公園
+    location:
+      city_ja: 奥州市
+      address_ja: 岩手県奥州市前沢字陣場179-6
+    geo:
+      lat: 39.0503
+      lng: 141.119
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 奥州市前沢地域を眼下に北上川を隔てて束稲山をのぞむ前沢城主の城跡で、樹齢70年以上、約200本のソメイヨシノの並木は見事です。お帰りの際は「前沢牛」をお土産にどうぞ。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3301/1766470958_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3301/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3301/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3301/
+    collections:
+      - weathernews
+  - id: wn-33001
+    name_ja: サクラパーク姫神
+    location:
+      city_ja: 盛岡市
+      address_ja: 岩手県盛岡市日戸字姥懐36番地64
+    geo:
+      lat: 39.8027
+      lng: 141.2446
+    species_ja:
+      - オオヤマザクラ
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 日本一の桜の名所を作ろうと、平成10年・11年に旧玉山村出身の在京者団体「ふるさと玉山会」や地元自治会などが中心となり、約37ヘクタールに１万本のオオヤマザクラを植樹しました。以来約20年の年月が経過し、現在では春の花見や秋の紅葉を楽しむことができます。他にも、約120本のソメイヨシノやシダレザクラを見ることができ、展望台からは雄大な岩手山を一望できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-29/83518100.jpg
+        source_url: https://weathernews.jp/sakura/spot/33001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33001/
+    collections:
+      - weathernews
+  - id: wn-33012
+    name_ja: リバーパークにいさと 湯ったり館
+    location:
+      city_ja: 宮古市
+      address_ja: 岩手県宮古市茂市第8地割53
+    geo:
+      lat: 39.6169
+      lng: 141.7932
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/33012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33012/
+    collections:
+      - weathernews
+  - id: wn-33006
+    name_ja: 為内の一本桜
+    location:
+      city_ja: 八幡平市
+      address_ja: 岩手県八幡平市野駄
+    geo:
+      lat: 39.95
+      lng: 141.055
+    trees: 1
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 小高い丘の頂上に、数基の石碑とほこらを守るように咲く一本桜。かつて神社があった場所に、大正8年（1919年）の社殿の移設によって1本だけ残った桜。そのどっしりとした存在感を放つ「ソメイヨシノ」は毎年見事な花を咲かせ、訪れる人たちの目を楽しませています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33006/1766647826_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33006/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307161/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33006/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307161/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-3309
+    name_ja: 花巻温泉
+    location:
+      city_ja: 花巻市
+      address_ja: 岩手県花巻市湯本1-125
+    geo:
+      lat: 39.452
+      lng: 141.0687
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 県内有数の桜の名所である花巻温泉。園内には約500本のソメイヨシノやしだれ桜が立ち並び、客室やバラ園から一望できる満開の桜並木は圧巻です。花巻市内より少し遅れて咲きはじめ、さらに花巻温泉の園内でも開花の時期が違い、長く楽しめるのが特徴です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/3309/1771200389_s.webp
+        source_url: https://weathernews.jp/sakura/spot/3309/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3309/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3309/
+    collections:
+      - weathernews
+  - id: wn-33005
+    name_ja: 舘山公園
+    location:
+      city_ja: 一関市
+      address_ja: 岩手県一関市千厩町千厩字摩王２０−１５
+    geo:
+      lat: 38.915
+      lng: 141.3359
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 千厩町を見下ろす舘山公園は桜とあわせて街が一望出来る場所にあります。約100本の桜はソメイヨシノ・シダレザクラ・ヤエザクラなど数種類が順に咲き始めるので、お花見の時期が長く楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33005/1766465890_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33005/
+    collections:
+      - weathernews
+  - id: wn-33008
+    name_ja: 岩手県県民の森
+    location:
+      city_ja: 八幡平市
+      address_ja: 岩手県八幡平市松尾寄木1-515-5
+    geo:
+      lat: 39.8927
+      lng: 140.9646
+    trees: 500
+    species_ja:
+      - オオヤマザクラ
+      - カスミザクラ
+    description_ja: みんなの広場を奥に進み、中ノ島と呼ばれる小高い場所に佇む「夫婦桜」。樹齢約100年のオオヤマザクラとカスミザクラが寄り添うように並び、ピンクと白の花びらが美しく重なり合う姿は見所の一つです。県民の森では、約500本もの「オオヤマザクラ」を楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33008/1766647909_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33008/
+    collections:
+      - weathernews
+  - id: wn-3303
+    name_ja: 厳美渓
+    location:
+      city_ja: 一関市
+      address_ja: 岩手県一関市厳美町字滝ノ上地内
+    geo:
+      lat: 38.9442
+      lng: 141.048
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 2kmにわたって渓谷美を見せる厳美渓。名物のだんごをほおばりながら遊歩道を散策してみてはいかがですか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71453951.jpg
+        source_url: https://weathernews.jp/sakura/spot/3303/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3303/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300216/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3303/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300216/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-42
+    name_ja: 碁石海岸
+    location:
+      city_ja: 大船渡市
+      address_ja: 岩手県大船渡市末崎町字大浜
+    geo:
+      lat: 38.9903
+      lng: 141.742
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - オオヤマザクラ
+    description_ja: 桜は碁石海岸レストハウス付近で見られ、近くには遊歩道があり散策もできます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/82992419.jpg
+        source_url: https://weathernews.jp/sakura/spot/42/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/42/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/42/
+    collections:
+      - weathernews
+  - id: wn-40
+    name_ja: 高松の池
+    location:
+      city_ja: 盛岡市
+      address_ja: 岩手県盛岡市高松1-26-1
+    geo:
+      lat: 39.7224
+      lng: 141.1433
+    trees: 1260
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 周囲2kmの池の周りに桜が植えられ、散歩道としても親しまれています。ボートに乗って湖面から桜を眺めたり、さくらまつり期間中は、ぼんぼりが点灯され夜桜を楽しむことができます。日本さくら名所100選にも選ばれている景観地です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-20/83232149.jpg
+        source_url: https://weathernews.jp/sakura/spot/40/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/40/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/40/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-33015
+    name_ja: 桜の回廊（国道397号線の桜並木）
+    location:
+      city_ja: 奥州市
+      address_ja: 岩手県奥州市胆沢若柳地内
+    geo:
+      lat: 39.1276
+      lng: 141.0174
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国道397号いさわ桜の回廊は「徳水園」付近から西へ約7㎞約600本の桜並木が続きます。開花時期には道路を包み込むように花が咲き、満開時には折り重なる花枝が桜のトンネルを作り上げます。春満開の光景をドライブや散策で楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33015/1771476955_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33015/
+    collections:
+      - weathernews
+  - id: wn-38
+    name_ja: 紫波城山公園
+    location:
+      city_ja: 紫波町
+      address_ja: 岩手県紫波郡紫波町二日町字古館
+    geo:
+      lat: 39.5644
+      lng: 141.1732
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+      - ヤエザクラ
+    description_ja: 桜が咲き誇る頃には丘全体が桜色に染まる城山公園。公園内の本丸跡から岩手山、早池峰山を一望することができ、遊歩道、自然観察道にも多くの人たちが訪れる憩いの空間となっております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/38/1768292711_s.webp
+        source_url: https://weathernews.jp/sakura/spot/38/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/38/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/38/
+    collections:
+      - weathernews
+  - id: wn-33002
+    name_ja: 雫石川園地の桜並木
+    location:
+      city_ja: 雫石町
+      address_ja: 岩手県岩手郡雫石町根堀（周辺）
+    geo:
+      lat: 39.6841
+      lng: 140.9759
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 雫石を代表するお花見スポット。JR雫石駅の南側を流れる雫石川の堤に約150本のソメイヨシノが植えられており、桜並木の中を歩くこともできるほか、堤防に上がれば目線の高さで桜の花を楽しむこともできます。開花期間中は雫石川の上を100匹もの鯉のぼりが泳ぐ光景が出現します。満開の時期のみ夜間には一部ライトアップされ夜桜も楽しめます。（5～6日間）※荒天等により、ライトアップを中止する場合があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-27/96590294.jpg
+        source_url: https://weathernews.jp/sakura/spot/33002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33002/
+    collections:
+      - weathernews
+  - id: wn-36
+    name_ja: 小岩井農場
+    location:
+      city_ja: 雫石町
+      address_ja: 岩手県岩手郡雫石町丸谷地36-1
+    geo:
+      lat: 39.7513
+      lng: 141.0182
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+      - エドヒガン
+    description_ja: 例年桜は4月中旬～4月下旬頃に見頃を迎えます。小岩井農場酪農発祥の地、上丸牛舎にはおよそ90本のソメイヨシノがあり、国の重要文化財に指定されている牛舎群と桜の見事な景観が楽しめます。また、残雪の残る岩手山を背景に緑の牧草地に根を張る小岩井農場の一本桜は写真スポットでも有名です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/36/1767513280_s.webp
+        source_url: https://weathernews.jp/sakura/spot/36/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/36/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/36/
+    collections:
+      - weathernews
+  - id: wn-33007
+    name_ja: 上坊牧野の一本桜
+    location:
+      city_ja: 八幡平市
+      address_ja: 岩手県八幡平市松尾寄木
+    geo:
+      lat: 39.9055
+      lng: 141.0286
+    trees: 1
+    species_ja:
+      - カスミザクラ
+    description_ja: 八幡平市の上坊牧野に咲く、知る人ぞ知る一本桜。霞がかかっているように見えることが由来の「カスミザクラ」は雄大な岩手山を背景に凛と立ち、その優しい色合いで来訪者を迎えます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33007/1766647866_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33007/
+    collections:
+      - weathernews
+  - id: wn-33010
+    name_ja: 水沢競馬場
+    location:
+      city_ja: 奥州市
+      address_ja: 岩手県奥州市水沢姉体阿久戸1-2
+    geo:
+      lat: 39.1303
+      lng: 141.1678
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜の時期のみ入ることができる北上川沿いの桜並木。競馬場のメインスタンドの向こう正面に位置し、電線や建物など空を遮るものが一切なく桜のトンネルと芝の絨毯の美しい景色が広がります。桜とともに競馬場を走る馬たちの姿を見ることもできます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33010/1767920878_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33010/
+    collections:
+      - weathernews
+  - id: wn-41
+    name_ja: 水沢公園
+    location:
+      city_ja: 奥州市
+      address_ja: 岩手県奥州市水沢中上野町1-1
+    geo:
+      lat: 39.1352
+      lng: 141.1391
+    trees: 400
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+    description_ja: 県の天然記念物に指定されているヒガン系桜(古木)をはじめ、約400本の桜が咲き乱れ癒しの空間を演出します。みずさわ観光物産センター『Zプラザアテルイ』も隣接しており、奥州市・岩手県特産品等を販売しています。※4月最終土曜日には300有余年の歴史をもつ日高火防祭が豪華絢爛に行われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/41/1766652204_s.webp
+        source_url: https://weathernews.jp/sakura/spot/41/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/41/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/41/
+    collections:
+      - weathernews
+  - id: wn-35
+    name_ja: 盛岡城跡公園(岩手公園)
+    location:
+      city_ja: 盛岡市
+      address_ja: 岩手県盛岡市内丸1-37
+    geo:
+      lat: 39.7
+      lng: 141.1501
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市内中心部にある盛岡城跡公園(岩手公園)は盛岡藩南部氏20万石の居城跡です。今も残る石垣が往時をしのばせます。市民の憩いの場であり、桜の季節は昼夜を問わず花見の宴でにぎわいます。コケむした石垣との調和が城下町の風情をただよわせます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83035035.jpg
+        source_url: https://weathernews.jp/sakura/spot/35/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/35/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300248/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/35/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300248/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-3316
+    name_ja: 西行桜の森
+    location:
+      city_ja: 平泉町
+      address_ja: 岩手県西磐井郡平泉町長島字深山
+    geo:
+      lat: 39.0035
+      lng: 141.1548
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+      - オオヤマザクラ
+    description_ja: 西行法師が「ききもせず束稲（たばしね）やまのさくら花よし野のほかにかかるべしとは」と句を詠んだ桜の名所で100種3000本余りの桜が咲きそろいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96431518.jpg
+        source_url: https://weathernews.jp/sakura/spot/3316/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3316/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3316/
+    collections:
+      - weathernews
+  - id: wn-39
+    name_ja: 石割桜
+    location:
+      city_ja: 盛岡市
+      address_ja: 岩手県盛岡市内丸9-1(盛岡地方裁判所敷地内)
+    geo:
+      lat: 39.7038
+      lng: 141.1512
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢約360年から400年のエドヒガンが周囲約21mの岩を割って生えており、国の天然記念物に指定されています。盛岡市内の他の桜よりも早くその淡いピンクの花を咲かせ、幹周囲4.3m、高さ10.8mもの大木であり、その姿は圧巻です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-21/62140523.jpg
+        source_url: https://weathernews.jp/sakura/spot/39/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/39/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/39/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307105
+    name_ja: 達谷窟毘沙門堂
+    location:
+      address_ja: 岩手県西磐井郡平泉町平泉字北沢16
+    geo:
+      lat: 38.968906
+      lng: 141.059207
+    trees: 15
+    species_ja:
+      - シダレザクラ
+    description_ja: 坂上田村麻呂が蝦夷討伐の記念に毘沙門天をまつった岩窟で、岩手県西磐井郡平泉町にある。境内には赤い懸崖造りの毘沙門堂があるほか、岩壁に刻まれた大きな磨崖仏が有名。4月中旬から下旬には樹齢約450年ともいわれる枝垂れ桜の古木が見事に咲き、観光客が多く訪れる。
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307105/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307105/
+    collections:
+      - navitime
+  - id: wn-33
+    name_ja: 巽山公園
+    location:
+      city_ja: 久慈市
+      address_ja: 岩手県久慈市中町1-48(社務所)
+    geo:
+      lat: 40.1895
+      lng: 141.7675
+    trees: 90
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市街地はもちろん久慈湾も一望できる市民いこいの広場です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-25/62228349.jpg
+        source_url: https://weathernews.jp/sakura/spot/33/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33/
+    collections:
+      - weathernews
+  - id: wn-3302
+    name_ja: 釣山公園
+    location:
+      city_ja: 一関市
+      address_ja: 岩手県一関市字釣山地内
+    geo:
+      lat: 38.9243
+      lng: 141.1299
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 満開の桜と釣山公園上部から望む一関市内の風景を満喫できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-16/31822651.jpg
+        source_url: https://weathernews.jp/sakura/spot/3302/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3302/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3302/
+    collections:
+      - weathernews
+  - id: wn-3318
+    name_ja: 唐丹町本郷の桜並木
+    location:
+      city_ja: 釜石市
+      address_ja: 岩手県釜石市唐丹町本郷
+    geo:
+      lat: 39.2094
+      lng: 141.8837
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約800ｍにわたる桜並木が続き、見事な桜のトンネルを作ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/3318/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3318/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3318/
+    collections:
+      - weathernews
+  - id: wn-43
+    name_ja: 福泉寺
+    location:
+      city_ja: 遠野市
+      address_ja: 岩手県遠野市松崎町駒木7-57
+    geo:
+      lat: 39.3721
+      lng: 141.5649
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約200本のソメイヨシノと約200本のヤマザクラがあります。また、5月上旬〜5月下旬はツツジ、10月中旬〜11月上旬はモミジが見頃になります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2017-05-02/37350005.jpg
+        source_url: https://weathernews.jp/sakura/spot/43/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/43/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/43/
+    collections:
+      - weathernews
+  - id: wn-44
+    name_ja: 平泉町内(県道300号線沿い)
+    location:
+      city_ja: 平泉町
+      address_ja: 岩手県西磐井郡平泉町平泉
+    geo:
+      lat: 38.9905
+      lng: 141.1149
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR平泉駅から中尊寺へむかう旧国道4号線(県道300号線)、約1.5kmにわたって桜並木が続き満開時には「桜のトンネル」のようです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-08/62529828.jpg
+        source_url: https://weathernews.jp/sakura/spot/44/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/44/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/44/
+    collections:
+      - weathernews
+  - id: wn-37
+    name_ja: 米内浄水場
+    location:
+      city_ja: 盛岡市
+      address_ja: 岩手県盛岡市上米内字中居49
+    geo:
+      lat: 39.746
+      lng: 141.2026
+    trees: 37
+    species_ja:
+      - ヤエベニシダレヒガンザクラ
+    description_ja: 盛岡市景観重要樹木である樹齢90年以上のヤエベニシダレヒガンザクラ9本を含む、37本の桜を見学できます。構内での飲食や喫煙、敷物に座っての見学、ペットの入場は不可。また、ドローン撮影もできません。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/37/1767754830_s.webp
+        source_url: https://weathernews.jp/sakura/spot/37/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/37/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/37/
+    collections:
+      - weathernews
+  - id: wn-34
+    name_ja: 北上展勝地
+    location:
+      city_ja: 北上市
+      address_ja: 岩手県北上市立花付近
+    geo:
+      lat: 39.275
+      lng: 141.1266
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「さくらの名所100選」「みちのく三大桜名所」に数えられる北上市立公園展勝地は、2021年に開園100周年を迎えました。広大な公園内には150種の様々な桜が1万本あると言われ、約2kmに亘る北上川沿いの桜並木は圧巻です。また、12種類の桜が咲き誇る「みちのく民俗村」もお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96443955.jpg
+        source_url: https://weathernews.jp/sakura/spot/34/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/34/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
+    collections:
+      - weathernews
+      - sakura100
+  - id: nt-90011-sak1307147
+    name_ja: 北上展勝地
+    location:
+      address_ja: 岩手県北上市立花
+    geo:
+      lat: 39.281002
+      lng: 141.129238
+    trees: 10000
+    species_ja:
+      - ソメイヨシノ
+      - ベニヤマザクラ
+      - カスミザクラ等
+    description_ja: 北上川沿い約2kmに渡り、約10,000本もの桜並木が連なる桜の名所。さくらの名所100選に選定されており、青森県弘前市、秋田県角館町と並ぶ「みちのく三大桜名所」として知られる。毎年開花時期になると、観光遊覧船や渡し舟、観光馬車が運行されるほか、夜間には桜のライトアップも実施される。川面に映し出される満開の夜桜の幻想的な美しさは、一見の価値あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-33003
+    name_ja: 薬師公園
+    location:
+      city_ja: 釜石市
+      address_ja: 岩手県釜石市大町３丁目1
+    geo:
+      lat: 39.2745
+      lng: 141.879
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市内中心部の高台にある公園で、市街地と釜石湾を一望できます。公園内には戦災者の霊を慰め、平和を祈って建てた平和女人像や、釜石製鉄所の発展に尽くした高橋亦助翁の頌徳碑が建っています。春は約200本の桜が咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/33003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33003/
+    collections:
+      - weathernews
+  - id: wn-33004
+    name_ja: 歴史公園えさし藤原の郷
+    location:
+      city_ja: 奥州市
+      address_ja: 岩手県奥州市江刺岩谷堂小名丸86−1
+    geo:
+      lat: 39.1964
+      lng: 141.1891
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 『歴史公園えさし藤原の郷』は、平安時代の歴史テーマパーク。日本で唯一、平安貴族の住宅:寝殿造の建物を再現。大河ドラマ「光る君へ」、映画「陰陽師0」ロケ地。時代衣装や鎧の着付、弓矢や貝合わせなど、様々な体験で楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/33004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/33004/
+    collections:
+      - weathernews

@@ -1,0 +1,735 @@
+prefecture:
+  id: 44
+  name_ja: 大分県
+  name_en: Oita
+spots:
+  - id: wn-8309
+    name_ja: いいちこ日田蒸留所
+    location:
+      city_ja: 日田市
+      address_ja: 大分県日田市西有田810-1
+    geo:
+      lat: 33.3502
+      lng: 130.9553
+    trees: 150
+    species_ja:
+      - ベニシダレザクラ
+      - ソメイヨシノ
+    description_ja: いいちこ日田蒸留所の敷地内にある紅しだれ桜は、鮮やかなピンク色の花ビラが春の訪れを感じさせます。また敷地内の散策路には、約150本のソメイヨシノがあり、満開の時期には、桜のトンネルを演出してくれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95554278.jpg
+        source_url: https://weathernews.jp/sakura/spot/8309/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8309/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8309/
+    collections:
+      - weathernews
+  - id: wn-83012
+    name_ja: えぼし公園
+    location:
+      city_ja: 豊後大野市
+      address_ja: 大分県豊後大野市大野町藤北
+    geo:
+      lat: 33.068
+      lng: 131.4876
+    trees: 500
+    species_ja:
+      - ぼたん桜
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/83012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83012/
+    collections:
+      - weathernews
+  - id: wn-83015
+    name_ja: ダイハツ九州スポーツパーク大貞（大貞総合運動公園）
+    location:
+      city_ja: 中津市
+      address_ja: 大分県中津市大字加来2283-27
+    geo:
+      lat: 33.5628
+      lng: 131.2101
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 1.桜並木が歩道を覆いかぶさり、トンネルのようになっている。2.歩道なので子連れも安心して楽しめる。③屋根付きのベンチなども設置されているのでお花見に最適。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/83015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83015/
+    collections:
+      - weathernews
+  - id: wn-8311
+    name_ja: ハーモニーランド
+    location:
+      city_ja: 日出町
+      address_ja: 大分県速見郡日出町藤原5933番地
+    geo:
+      lat: 33.4003
+      lng: 131.547
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウザクラ
+      - シダレザクラ
+      - ヒガンザクラ
+    description_ja:
+      ハローキティをはじめ、サンリオキャラクターに会える屋外型テーマパーク。園内各所には、ソメイヨシノやヨウコウザクラ、シダレザクラなど、約500本の桜が彩るお花見スポットがある。またアトラクション「ハーモニートレイン」や「スカイジェット」は桜のトンネルを通り、毎年人気を博しています。（C）2026
+      SANRIO CO., LTD.
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8311/1769077114_s.webp
+        source_url: https://weathernews.jp/sakura/spot/8311/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8311/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8311/
+    collections:
+      - weathernews
+  - id: wn-8313
+    name_ja: 粟嶋公園
+    location:
+      city_ja: 豊後高田市
+      address_ja: 大分県豊後高田市臼野7-10
+    geo:
+      lat: 33.6459
+      lng: 131.4867
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 粟嶋公園の桜並木をくぐると、海に突き出した岩窟に社が設けられている全国的にも珍しい「粟嶋社」があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-09/95965583.jpg
+        source_url: https://weathernews.jp/sakura/spot/8313/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8313/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8313/
+    collections:
+      - weathernews
+  - id: wn-504
+    name_ja: 安岐ダムいこいの広場
+    location:
+      city_ja: 国東市
+      address_ja: 大分県国東市安岐町矢川
+    geo:
+      lat: 33.4903
+      lng: 131.6035
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約3000本の桜が植えられています。桜開花の期間中はライトアップも行われる予定です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/504/1766544132_s.webp
+        source_url: https://weathernews.jp/sakura/spot/504/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/504/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/504/
+    collections:
+      - weathernews
+  - id: wn-457
+    name_ja: 宇佐神宮
+    location:
+      city_ja: 宇佐市
+      address_ja: 大分県宇佐市大字南宇佐2859
+    geo:
+      lat: 33.5233
+      lng: 131.3771
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 100本近いソメイヨシノとヤエザクラがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95568058.jpg
+        source_url: https://weathernews.jp/sakura/spot/457/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/457/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/457/
+    collections:
+      - weathernews
+  - id: wn-503
+    name_ja: 臼杵城跡(臼杵公園)
+    location:
+      city_ja: 臼杵市
+      address_ja: 大分県臼杵市大字臼杵字丹生島91
+    geo:
+      lat: 33.1217
+      lng: 131.8021
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大友宗麟築城の城跡は桜の名所であり、春にはたくさんのソメイヨシノが咲き誇ります。また桜まつり期間中は桜のライトアップもあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/503/1768288480_s.webp
+        source_url: https://weathernews.jp/sakura/spot/503/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/503/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/503/
+    collections:
+      - weathernews
+  - id: wn-455
+    name_ja: 岡城跡
+    location:
+      city_ja: 竹田市
+      address_ja: 大分県竹田市大字竹田2761
+    geo:
+      lat: 32.9664
+      lng: 131.4031
+    trees: 450
+    species_ja:
+      - ソメイヨシノ他
+      - ソメイヨシノ
+    description_ja: 四方を断崖絶壁の谷に囲まれた難攻不落の名城には「日本のさくら名所百選」に選ばれるほど見事な桜が咲き誇る。苔むした石垣と、満開の桜に囲まれ見下ろす景色は、歴史のロマンさえ感じる絶景。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-30/95568497.jpg
+        source_url: https://weathernews.jp/sakura/spot/455/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/455/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307013/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%9F%8E_(%E8%B1%8A%E5%BE%8C%E5%9B%BD)
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/455/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307013/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%9F%8E_(%E8%B1%8A%E5%BE%8C%E5%9B%BD)
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-505
+    name_ja: 亀山公園
+    location:
+      city_ja: 日田市
+      address_ja: 大分県日田市大字庄手559番地（中ノ島町）
+    geo:
+      lat: 33.3142
+      lng: 130.9283
+    trees: 75
+    species_ja:
+      - ソメイヨシノ
+      - ジンダイアケボノ
+    description_ja: 三隈川や四季折々の景観が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82470791.jpg
+        source_url: https://weathernews.jp/sakura/spot/505/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/505/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/505/
+    collections:
+      - weathernews
+  - id: wn-8303
+    name_ja: 吉四六ランド
+    location:
+      city_ja: 臼杵市
+      address_ja: 大分県臼杵市野津町大字原326番地
+    geo:
+      lat: 33.0368
+      lng: 131.6822
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内の大きな丘一つがすべてソメイヨシノです。ライトアップの時には、池に浮かび上がる桜も絶景です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71197075.jpg
+        source_url: https://weathernews.jp/sakura/spot/8303/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8303/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8303/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307040
+    name_ja: 御岳県立自然公園
+    location:
+      address_ja: 大分県豊後大野市清川町宇田枝
+    geo:
+      lat: 32.932447
+      lng: 131.511756
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大分県豊後大野市清川町の「御嶽山」全体に広がる自然公園で、桜の名所としても有名。山頂に続く林道沿いには約3,000本のも桜が植えられ、約6kmにもわたる圧巻の桜並木は「桜ロード」と呼ばれている。弁当持参で花見を楽しむファミリーが多く、自然の中で桜を鑑賞できる人気スポット。晴れた日の山頂からは、桜とともに久住連山や阿蘇山、由布岳などを望む絶景が堪能できる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307040_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307040/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307040_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307040/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307040_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307040/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307040/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307040/
+    collections:
+      - navitime
+  - id: wn-83008
+    name_ja: 高崎山自然動物園
+    location:
+      city_ja: 大分市
+      address_ja: 大分県大分市大字神崎字ウト3098番地1
+    geo:
+      lat: 33.2582
+      lng: 131.5317
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜が咲く頃、駐車場や歩道橋から見た山全体の景色はとても見ごたえがあります。動物園内では桜とサルの共演を楽しむことができ、春のお出かけにおすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83008/1767849093_s.webp
+        source_url: https://weathernews.jp/sakura/spot/83008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83008/
+    collections:
+      - weathernews
+  - id: wn-83003
+    name_ja: 城下公園
+    location:
+      city_ja: 日出町
+      address_ja: 大分県速見郡日出町2610-1
+    geo:
+      lat: 33.3665
+      lng: 131.5315
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日出城下の公園内に約100本の桜が植えられており、春の見頃には桜越しに高崎山を望む別府湾の絶景が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83003/1768359487_s.webp
+        source_url: https://weathernews.jp/sakura/spot/83003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83003/
+    collections:
+      - weathernews
+  - id: wn-8302
+    name_ja: 城山公園(杵築城)
+    location:
+      city_ja: 杵築市
+      address_ja: 大分県杵築市大字杵築16-1
+    geo:
+      lat: 33.4159
+      lng: 131.6265
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 杵築城周辺に約250本のソメイヨシノが咲き誇り、お城と桜が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-29/95523469.jpg
+        source_url: https://weathernews.jp/sakura/spot/8302/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8302/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8302/
+    collections:
+      - weathernews
+  - id: wn-453
+    name_ja: 城島高原パーク
+    location:
+      city_ja: 別府市
+      address_ja: 大分県別府市城島高原123
+    geo:
+      lat: 33.2644
+      lng: 131.4268
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: パーク駐車場の桜並木は圧巻です。園内ではアトラクションに乗りながら桜が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71180243.jpg
+        source_url: https://weathernews.jp/sakura/spot/453/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/453/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/453/
+    collections:
+      - weathernews
+  - id: wn-8308
+    name_ja: 大原大しだれ桜
+    location:
+      city_ja: 日田市
+      address_ja: 大分県日田市田島2丁目528
+    geo:
+      lat: 33.3183
+      lng: 130.945
+    species_ja:
+      - シダレザクラ
+    description_ja: 大原八幡宮近くにソメイヨシノが立ち並びその末端に樹齢200年以上の一本のシダレザクラが美しい姿を見せてくれます。開花の時期に合わせてライトアップも行われます。※駐車場に限りがありますのでご注意ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-29/82349645.jpg
+        source_url: https://weathernews.jp/sakura/spot/8308/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8308/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8308/
+    collections:
+      - weathernews
+  - id: wn-8301
+    name_ja: 大分城址公園
+    location:
+      city_ja: 大分市
+      address_ja: 大分県大分市荷揚町74外
+    geo:
+      lat: 33.2402
+      lng: 131.6115
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 当公園は大分市の中心部に位置しているため、交通の便が良いところです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-03/71247711.jpg
+        source_url: https://weathernews.jp/sakura/spot/8301/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8301/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8301/
+    collections:
+      - weathernews
+  - id: wn-83004
+    name_ja: 大分縣護國神社
+    location:
+      city_ja: 大分市
+      address_ja: 大分県大分市大字牧1371
+    geo:
+      lat: 33.2354
+      lng: 131.6423
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/83004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83004/
+    collections:
+      - weathernews
+  - id: wn-8310
+    name_ja: 中野川
+    location:
+      city_ja: 日田市
+      address_ja: 大分県日田市元町
+    geo:
+      lat: 33.3153
+      lng: 130.9375
+    trees: 200
+    species_ja:
+      - ヤエザクラ
+    description_ja: 日田市内中心を流れる中野川沿い、約1kmに渡り200本余りの八重桜が咲き誇り、その内100mがライトアップされ幻想的な世界を演出します。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-16/96214365.jpg
+        source_url: https://weathernews.jp/sakura/spot/8310/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8310/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8310/
+    collections:
+      - weathernews
+  - id: wn-8314
+    name_ja: 長崎鼻リゾートキャンプ場
+    location:
+      city_ja: 豊後高田市
+      address_ja: 大分県豊後高田市見目4060
+    geo:
+      lat: 33.6822
+      lng: 131.5248
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノを中心に約300本の桜が楽しめるとともに、2700万本の菜の花がお出迎えしてくれます。黄色の絨毯の上に咲く桜を是非ご覧下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-03-25/54657479.jpg
+        source_url: https://weathernews.jp/sakura/spot/8314/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8314/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8314/
+    collections:
+      - weathernews
+  - id: wn-83007
+    name_ja: 長湯温泉　しだれ桜の里(コマツオトメ)
+    location:
+      city_ja: 竹田市
+      address_ja: 大分県竹田市直入町大字長湯3142番地15
+    geo:
+      lat: 33.0703
+      lng: 131.3704
+    trees: 450
+    species_ja:
+      - 大漁桜
+      - コマツオトメ
+      - 八重紅しだれ
+      - ヨウコウザクラ
+      - オモイカワザクラ
+      - ぼたん桜
+    description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83007/1770701353_s.webp
+        source_url: https://weathernews.jp/sakura/spot/83007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83007/
+    collections:
+      - weathernews
+  - id: wn-83006
+    name_ja: 長湯温泉　しだれ桜の里(タイリョウザクラ)
+    location:
+      city_ja: 竹田市
+      address_ja: 大分県竹田市直入町大字長湯3142番地15
+    geo:
+      lat: 33.0703
+      lng: 131.3704
+    trees: 1500
+    species_ja:
+      - 大漁桜
+      - コマツオトメ
+      - 八重紅しだれ
+      - ヨウコウザクラ
+      - オモイカワザクラ
+      - ぼたん桜
+      - タイリョウザクラ
+    description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95654786.jpg
+        source_url: https://weathernews.jp/sakura/spot/83006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83006/
+    collections:
+      - weathernews
+  - id: wn-83005
+    name_ja: 長湯温泉　しだれ桜の里(ヤエベニシダレザクラ)
+    location:
+      city_ja: 竹田市
+      address_ja: 大分県竹田市直入町大字長湯3142番地15
+    geo:
+      lat: 33.0703
+      lng: 131.3704
+    trees: 300
+    species_ja:
+      - 大漁桜
+      - コマツオトメ
+      - 八重紅しだれ
+      - ヨウコウザクラ
+      - オモイカワザクラ
+      - ぼたん桜
+      - ヤエベニシダレ
+    description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82828003.jpg
+        source_url: https://weathernews.jp/sakura/spot/83005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83005/
+    collections:
+      - weathernews
+  - id: wn-452
+    name_ja: 萩尾公園
+    location:
+      city_ja: 日田市
+      address_ja: 大分県日田市大字二串1335番地1(君迫町)
+    geo:
+      lat: 33.331
+      lng: 130.889
+    trees: 445
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: ソメイヨシノやヤエザクラが約445本あります。展望台からは園内の桜や市内が一望できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/452/1768876351_s.webp
+        source_url: https://weathernews.jp/sakura/spot/452/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/452/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/452/
+    collections:
+      - weathernews
+  - id: wn-83001
+    name_ja: 不動尊一心寺
+    location:
+      city_ja: 大分市
+      address_ja: 大分県大分市廻栖野1305
+    geo:
+      lat: 33.164
+      lng: 131.5546
+    trees: 700
+    species_ja:
+      - ボタンザクラ(カンザン)
+      - ウコンザクラ(黄桜)
+      - ギョイコウ(緑桜)
+    description_ja: 参道から見下ろす桜の庭園は雲海と称され日本でも大変珍しい光景です。また桜のほとんどが八重桜で6色13種以上の桜が楽しめます。見物は一心寺の桜を使った手作り桜もち。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83001/1766465518_s.webp
+        source_url: https://weathernews.jp/sakura/spot/83001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83001/
+    collections:
+      - weathernews
+  - id: wn-454
+    name_ja: 平和市民公園
+    location:
+      city_ja: 大分市
+      address_ja: 大分県大分市萩原緑町外
+    geo:
+      lat: 33.2456
+      lng: 131.6368
+    trees: 800
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 園内にはソメイヨシノやヤエザクラが合計約800本あります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61709018.jpg
+        source_url: https://weathernews.jp/sakura/spot/454/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/454/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/454/
+    collections:
+      - weathernews
+  - id: wn-8312
+    name_ja: 並石ダムグリーンランド
+    location:
+      city_ja: 豊後高田市
+      address_ja: 大分県豊後高田市一畑1587番地
+    geo:
+      lat: 33.5649
+      lng: 131.5681
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜と紅葉の名所として有名な「並石ダムグリーンランド」。水車と桜のコラボは必見です。また、敷地内の「こっとん村」では特産の豊後高田そばや地元のお母さんたちが作るおまんじゅう「こっとんまんじゅう」などを楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82529015.jpg
+        source_url: https://weathernews.jp/sakura/spot/8312/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8312/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8312/
+    collections:
+      - weathernews
+  - id: wn-83010
+    name_ja: 別府公園
+    location:
+      city_ja: 別府市
+      address_ja: 大分県別府市大字別府字野口原3018-1
+    geo:
+      lat: 33.2816
+      lng: 131.491
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-07/95864224.jpg
+        source_url: https://weathernews.jp/sakura/spot/83010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83010/
+    collections:
+      - weathernews
+  - id: wn-83002
+    name_ja: 由布院・大分川沿いの桜並木
+    location:
+      city_ja: 由布市
+      address_ja: 大分県由布市湯布院町川上・川南
+    geo:
+      lat: 33.259
+      lng: 131.3576
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 御幸橋(みゆきばし)から見る由布岳、桜、大分川の景色は最高です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-04/95724370.jpg
+        source_url: https://weathernews.jp/sakura/spot/83002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/83002/
+    collections:
+      - weathernews

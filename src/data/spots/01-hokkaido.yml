@@ -1,0 +1,1208 @@
+prefecture:
+  id: 1
+  name_ja: 北海道
+  name_en: Hokkaido
+spots:
+  - id: wn-22001
+    name_ja: うらかわ千本桜 優駿さくらロード
+    location:
+      city_ja: 浦河町
+      address_ja: 北海道浦河郡浦河町西舎
+    geo:
+      lat: 42.1824
+      lng: 142.8508
+    trees: 1000
+    species_ja:
+      - エゾヤマザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/22001/1770626929_s.webp
+        source_url: https://weathernews.jp/sakura/spot/22001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/22001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/22001/
+    collections:
+      - weathernews
+  - id: wn-2104
+    name_ja: オニウシ公園
+    location:
+      city_ja: 森町
+      address_ja: 北海道茅部郡森町上台町326
+    geo:
+      lat: 42.1021
+      lng: 140.5703
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - チシマザクラ
+      - カンザン
+      - ホリイヒザクラ
+    description_ja: 道の駅「YOU.遊.もり」も併設しており、ドライブ途中の休憩ポイントとしても人気。「YOU.遊.もり」の建物の屋上からは、駒ヶ岳、内浦湾のみならず、羊蹄山や有珠山まで、展望を楽しんでいただけます。「オニウシ」とは、町名の由来ともなったアイヌ語で「樹木のたくさんある所」という意味です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-30/71990490.jpg
+        source_url: https://weathernews.jp/sakura/spot/2104/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2104/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2104/
+    collections:
+      - weathernews
+  - id: wn-23007
+    name_ja: さらんべ公園
+    location:
+      city_ja: 八雲町
+      address_ja: 北海道二海郡八雲町栄町1-12
+    geo:
+      lat: 42.257
+      lng: 140.256
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+      - エゾヤマザクラ
+    description_ja: 八雲町のさらんべ公園は､八雲町市街地にある4.2万平方メートルの敷地を有する町民の憩いの公園｡園内には､遊具のほか､せせらぎ水路や親水池｡無料のパークゴルフ練習場や人魚姫が横たわるマーメイド広場などがある｡５月上旬から中旬にはソメイヨシノやエゾヤマザクラなど､約180本が咲く｡満開の桜の下､春を求めた花見客で賑わう｡
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-27/71929856.jpg
+        source_url: https://weathernews.jp/sakura/spot/23007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23007/
+    collections:
+      - weathernews
+  - id: wn-24001
+    name_ja: しびの岬公園
+    location:
+      city_ja: 乙部町
+      address_ja: 北海道爾志郡乙部町字潮見79
+    geo:
+      lat: 42.0378
+      lng: 140.087
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - エゾヤマザクラ
+    description_ja: 北海道天然記念物に指定された「鮪（しび）の岬」の上にある公園に、約３００本の大小さまざまな桜が咲き誇ります。ソメイヨシノのほか、八重桜の南殿やエゾヤマザクラなどが時期をずらして咲き、４月下旬から５月上旬の期間、花見を楽しめます。桜に囲まれた小道を岬の先端に向けて抜けると、日本海の大海原が眼下に広がり、晴れた日には奥尻島を望むことも可能です。柱状節理と呼ばれ、マグロのうろこのように重なっている鮪の岬の独特な岩肌の鑑賞と、花見が一日で行えます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/24001/1771986602_s.webp
+        source_url: https://weathernews.jp/sakura/spot/24001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/24001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/24001/
+    collections:
+      - weathernews
+  - id: wn-14003
+    name_ja: にわ山森林自然公園
+    location:
+      city_ja: 奈井江町
+      address_ja: 北海道空知郡奈井江町字東奈井江59-7
+    geo:
+      lat: 43.4266
+      lng: 141.9201
+    trees: 1800
+    species_ja:
+      - エゾヤマザクラ
+      - ソメイヨシノ
+    description_ja: 4月末から5月上旬には、エゾヤマザクラを中心に桜が咲き乱れ、展望台へと続く道には、「桜のトンネル」が姿を現します。展望台からは、奈井江の町並みや樺戸連山・石狩川を見渡すことができ、春は「桜」、秋には「紅葉」などの景観が楽しめます。また、春と秋の早朝には、樺戸連山との間に「雲海」が拡がりをみせることがあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-06/62490253.jpg
+        source_url: https://weathernews.jp/sakura/spot/14003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/14003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/14003/
+    collections:
+      - weathernews
+  - id: wn-1204
+    name_ja: 旭山公園
+    location:
+      city_ja: 旭川市
+      address_ja: 北海道旭川市東旭川町倉沼
+    geo:
+      lat: 43.7657
+      lng: 142.4759
+    trees: 3500
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 桜の名所として知られ、約3500本のサクラやカタクリなどの花が目を楽しませてくれます。※公園に隣接して旭山動物園があり、公園内にある旭山三浦庭園(有料)と連絡通路により行き来が可能です。また、5月中はお花見期間として、公園内での火気の使用が認められ、バーベキューや焼き肉なども楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-12/83989974.jpg
+        source_url: https://weathernews.jp/sakura/spot/1204/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1204/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1204/
+    collections:
+      - weathernews
+  - id: wn-14002
+    name_ja: 芦別市旭ケ丘公園
+    location:
+      city_ja: 芦別市
+      address_ja: 北海道芦別市旭町641
+    geo:
+      lat: 43.5192
+      lng: 142.2009
+    trees: 1000
+    species_ja:
+      - エゾヤマザクラ
+      - サトザクラ
+      - ソメイヨシノ他
+    description_ja: 市街地を見下ろすことができる小高い丘にある旭ケ丘公園には、エゾヤマザクラのほか、サトザクラやソメイヨシノなど約1000本の桜がピンク色に咲き誇ります。例年、桜の見頃に合わせて夜桜ライトアップを実施しており、公園内にあるきらきらハウスでバーベキューを堪能しながら花見を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/14002/1766975814_s.webp
+        source_url: https://weathernews.jp/sakura/spot/14002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/14002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/14002/
+    collections:
+      - weathernews
+  - id: wn-21003
+    name_ja: 安平町鹿公園
+    location:
+      city_ja: 安平町
+      address_ja: 北海道勇払郡安平町追分白樺2-1
+    geo:
+      lat: 42.8731
+      lng: 141.8056
+    trees: 30
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 日本最古の指定を受けた保健保安林に包まれた鹿公園。園内正面より、エゾヤマザクラの並木が皆さんをお迎えします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-03/83644039.jpg
+        source_url: https://weathernews.jp/sakura/spot/21003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/21003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/21003/
+    collections:
+      - weathernews
+  - id: wn-14001
+    name_ja: 円山公園
+    location:
+      city_ja: 札幌市中央区
+      address_ja: 北海道札幌市中央区宮ヶ丘3
+    geo:
+      lat: 43.0547
+      lng: 141.3139
+    trees: 120
+    species_ja:
+      - エゾヤマザクラ
+      - ソメイヨシノ
+    description_ja: 円山原始林の北側に位置する公園です。隣接する北海道神宮境内とともに古くから市民に親しまれている桜の名所です。公園内にはエゾヤマザクラ、ソメイヨシノなど約120本あります。のんびりと散策するのもおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-22/83290535.jpg
+        source_url: https://weathernews.jp/sakura/spot/14001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/14001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/14001/
+    collections:
+      - weathernews
+  - id: wn-17002
+    name_ja: 金刀比羅さくら公園
+    location:
+      city_ja: 北見市
+      address_ja: 北海道北見市常川446-7
+    geo:
+      lat: 43.741
+      lng: 143.8417
+    trees: 650
+    species_ja:
+      - エゾヤマザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-09/97010324.jpg
+        source_url: https://weathernews.jp/sakura/spot/17002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/17002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/17002/
+    collections:
+      - weathernews
+  - id: wn-14004
+    name_ja: 栗山公園
+    location:
+      city_ja: 栗山町
+      address_ja: 北海道夕張郡栗山町桜丘2-38-16
+    geo:
+      lat: 43.0656
+      lng: 141.7797
+    trees: 200
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 公園内に無料の「なかよし動物園」があります。ポニー・うさぎ・ヤギ・モルモット・ひつじの５種類の動物にエサやり体験ができる「パクパクタイム」が大人気です。（にんじん１カップ200円）キャンプ・バーベキュー場やコンビネーションやブランコなどの遊具もあり、気軽に食べれるコロッケやかき氷などの飲食販売、地元野菜や栗山町の特産品も豊富に取り揃えています。１日中ゆっくり過ごすことができる公園となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-28/83481788.jpg
+        source_url: https://weathernews.jp/sakura/spot/14004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/14004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/14004/
+    collections:
+      - weathernews
+  - id: wn-2
+    name_ja: 五稜郭公園
+    location:
+      city_ja: 函館市
+      address_ja: 北海道函館市五稜郭町44
+    geo:
+      lat: 41.797
+      lng: 140.7567
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 堀の周りや郭内には約1500本のソメイヨシノやヤエザクラが咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-16/97277721.jpg
+        source_url: https://weathernews.jp/sakura/spot/2/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300031/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300031/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-19001
+    name_ja: 子野日公園
+    location:
+      city_ja: 厚岸町
+      address_ja: 北海道厚岸郡厚岸町奔渡6丁目9番
+    geo:
+      lat: 43.0274
+      lng: 144.8584
+    species_ja:
+      - エゾヤマザクラ
+      - ヤエザクラ
+      - フゲンゾウ
+    description_ja: 冷涼な北海道の中でも特に気温が低い厚岸町は、最も遅く桜が咲く地域です。5月上旬から町の木であるエゾヤマザクラやヤエザクラなどの桜が次々と開花する子野日公園は、道東でも有数の桜の名所として知られています。公園内には、北海道では珍しいフゲンゾウも花を咲かせます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/19001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/19001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/19001/
+    collections:
+      - weathernews
+  - id: wn-16001
+    name_ja: 手宮緑化植物園
+    location:
+      city_ja: 小樽市
+      address_ja: 小樽市手宮3-12-1　手宮公園内
+    geo:
+      lat: 43.2146
+      lng: 141.0045
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - チシマザクラ
+      - エゾヤマザクラ
+      - ヤエザクラなど
+    description_ja: 小樽港を一望できる丘の上にあります。港と桜を一緒に眺めることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-04/96862201.jpg
+        source_url: https://weathernews.jp/sakura/spot/16001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/16001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/16001/
+    collections:
+      - weathernews
+  - id: wn-2101
+    name_ja: 出光カルチャーパーク
+    location:
+      city_ja: 苫小牧市
+      address_ja: 北海道苫小牧市末広町3-1-15
+    geo:
+      lat: 42.6366
+      lng: 141.612
+    trees: 91
+    species_ja:
+      - エゾヤマザクラ
+      - チシマザクラ
+    description_ja: 園内には桜の他いろいろな植物があり、目を楽しませてくれます。芝生があって、休日には花見を楽しむ家族連れが多く見られます。また、サンガーデンでは年中、植物の姿を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-07/62505869.jpg
+        source_url: https://weathernews.jp/sakura/spot/2101/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2101/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2101/
+    collections:
+      - weathernews
+  - id: wn-1901
+    name_ja: 春採公園
+    location:
+      city_ja: 釧路市
+      address_ja: 北海道釧路市春湖台35番10他
+    geo:
+      lat: 42.9738
+      lng: 144.4037
+    trees: 800
+    species_ja:
+      - エゾヤマザクラ
+      - チシマザクラ
+      - クシロヤエ等
+    description_ja: 春採公園は市街地には珍しく周囲約4.7kmの大きな春採湖を有し、湖畔を散策しながら四季折々の自然を楽しむ事が出来ます。また、桜の開花が日本で最も遅く、公園内に設置されたバーベキューコーナーで焼肉をしながらお花見が楽しめます。同公園は、アイヌ民族や天然記念物「ヒブナ」の生息地でもある事から、「日本の歴史公園100選」に選ばれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-05-18/32279784.jpg
+        source_url: https://weathernews.jp/sakura/spot/1901/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1901/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1901/
+    collections:
+      - weathernews
+  - id: wn-23002
+    name_ja: 小樽公園
+    location:
+      city_ja: 小樽市
+      address_ja: 北海道小樽市花園5丁目
+    geo:
+      lat: 43.187
+      lng: 140.9926
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - エゾヤマザクラ
+      - ヤエザクラなど
+    description_ja: 桜のほかにも、市の花に指定されているツツジが数多く咲くことで知られる公園。4月下旬から5月上旬が見ごろで、エゾヤマザクラやソメイヨシノなどが約600本咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-30/72006146.jpg
+        source_url: https://weathernews.jp/sakura/spot/23002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23002/
+    collections:
+      - weathernews
+  - id: wn-2304
+    name_ja: 松前公園(ソメイヨシノ)
+    location:
+      city_ja: 松前町
+      address_ja: 北海道松前郡松前町字松城(松前公園内)
+    geo:
+      lat: 41.4299
+      lng: 140.1089
+    species_ja:
+      - ソメイヨシノ(染井吉野)
+      - ソメイヨシノ
+    description_ja: 松前公園は「日本さくら名所100選」に認定されており、春になると約250品種1万本の桜が早・中・遅咲きと開花リレーを繰り広げ、1ヶ月間花見を楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/2304/1768289544_s.webp
+        source_url: https://weathernews.jp/sakura/spot/2304/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2304/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307067/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2304/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307067/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+    trees: 10000
+  - id: wn-1
+    name_ja: 松前公園(ナデン)
+    location:
+      city_ja: 松前町
+      address_ja: 北海道松前郡松前町字松城(松前公園内)
+    geo:
+      lat: 41.4299
+      lng: 140.1089
+    species_ja:
+      - ナデン(南殿)
+      - ナデン
+    description_ja: 松前公園は「日本さくら名所100選」に認定されており、春になると約250品種1万本の桜が早・中・遅咲きと開花リレーを繰り広げ、1ヶ月間花見を楽しめる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1/1768289541_s.webp
+        source_url: https://weathernews.jp/sakura/spot/1/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
+    collections:
+      - weathernews
+      - sakura100
+  - id: wn-23004
+    name_ja: 松前藩戸切地陣屋跡桜並木トンネル
+    location:
+      city_ja: 北斗市
+      address_ja: 北海道北斗市野崎
+    geo:
+      lat: 41.8542
+      lng: 140.6194
+    trees: 340
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 陣屋跡へ続く約800mの桜並木トンネルが空を覆うように咲き誇ります。陣屋前の広場には上磯海潮桜や十月桜、御衣黄などの珍しい桜が植えられています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23004/1768358657_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23004/
+    collections:
+      - weathernews
+  - id: wn-1203
+    name_ja: 常磐公園
+    location:
+      city_ja: 旭川市
+      address_ja: 北海道旭川市常磐公園
+    geo:
+      lat: 43.7753
+      lng: 142.357
+    trees: 200
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 旭川で最も歴史のある公園です。ハルニレ、ナナカマド、ポプラなどの樹木が千鳥ヶ池の景観と調和した緑豊かな公園です。園内には、道立旭川美術館、中央図書館、公会堂などもあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-05-07/62501814.jpg
+        source_url: https://weathernews.jp/sakura/spot/1203/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1203/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1203/
+    collections:
+      - weathernews
+  - id: wn-20001
+    name_ja: 新得山・新得神社
+    location:
+      city_ja: 新得町
+      address_ja: 北海道上川郡新得町西１条北３丁目１１
+    geo:
+      lat: 43.0855
+      lng: 142.8259
+    trees: 2300
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 新得山いっぱいに桜が咲き誇ります。遠くから見ると山全体が桜色に染まり、新得神社の鳥居をくぐればエゾヤマザクラの可愛らしい桜がお出迎え。また、レンギョウを始めツツジやエゾエンゴサクなどの山野草なども顔を出します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/20001/1771985145_s.webp
+        source_url: https://weathernews.jp/sakura/spot/20001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/20001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/20001/
+    collections:
+      - weathernews
+  - id: wn-15002
+    name_ja: 深山峠さくら園
+    location:
+      city_ja: 上富良野町
+      address_ja: 北海道空知郡上富良野町西５線北
+    geo:
+      lat: 43.5023
+      lng: 142.46
+    trees: 200
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 残雪の十勝岳連峰をバックに写真撮影が出来るスポットでもあり、多くのカメラマンも訪れます。高台から桜と雄大な山並みの景観が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/15002/1771574996_s.webp
+        source_url: https://weathernews.jp/sakura/spot/15002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/15002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/15002/
+    collections:
+      - weathernews
+  - id: wn-1201
+    name_ja: 神楽岡公園
+    location:
+      city_ja: 旭川市
+      address_ja: 北海道旭川市神楽岡公園
+    geo:
+      lat: 43.7505
+      lng: 142.3665
+    trees: 500
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 旭川市の中心部に近く、例年多くの花見客が訪れます。また、5月中はお花見期間として、公園内での火気の使用が認められ、バーベキューや焼き肉なども楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-29/62304961.jpg
+        source_url: https://weathernews.jp/sakura/spot/1201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1201/
+    collections:
+      - weathernews
+  - id: wn-23003
+    name_ja: 清川千本桜
+    location:
+      city_ja: 北斗市
+      address_ja: 北海道北斗市清川・中野
+    geo:
+      lat: 41.8441
+      lng: 140.6365
+    trees: 1000
+    species_ja:
+      - オオヤマザクラ
+      - ソメイヨシノ
+    description_ja: 道道96号線沿いに約1.8km続く桜並木です。ソメイヨシノと山桜が咲き乱れ、ドライバーの目を楽しませるドライブコースです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23003/1768358704_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23003/
+    collections:
+      - weathernews
+  - id: wn-7
+    name_ja: 清隆寺
+    location:
+      city_ja: 根室市
+      address_ja: 北海道根室市松本町2-2
+    geo:
+      lat: 43.3285
+      lng: 145.5756
+    trees: 35
+    species_ja:
+      - チシマザクラ
+    description_ja: 北海道百年記念樹の樹齢百五十年程の千島桜など大小35本ほどあります。桜前線の終着地と言われ日本で一番遅く開花する千島桜です。5月中旬が見頃ですが昨年は5月上旬に見頃となりました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7/1768271518_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7/
+    collections:
+      - weathernews
+  - id: wn-2103
+    name_ja: 青葉ヶ丘公園
+    location:
+      city_ja: 森町
+      address_ja: 北海道茅部郡森町字清澄町12
+    geo:
+      lat: 42.1018
+      lng: 140.5755
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - カンザン
+      - ギョイコウ
+      - モリコマチ(森町固有種)
+    description_ja: 大正3年開設の歴史ある公園。天皇即位を記念し、1000本のソメイヨシノが植栽されてから100年以上になる桜が多数あります。春には元気に花を咲かせ、その姿は圧巻です。また、「青葉枝垂」といった森町固有種もあります。早咲き、遅咲きの桜がありますので、例年5月下旬頃まで、花期は続きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-30/71996111.jpg
+        source_url: https://weathernews.jp/sakura/spot/2103/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2103/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2103/
+    collections:
+      - weathernews
+  - id: wn-14006
+    name_ja: 大通公園
+    location:
+      city_ja: 札幌市中央区
+      address_ja: 北海道札幌市中央区大通西1〜12丁目
+    geo:
+      lat: 43.0608
+      lng: 141.3544
+    trees: 20
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 西6丁目南側が見どころになります。西6丁目北側では、エゾヤマザクラ、キタコブシ、レンギョウの開花時期が重なるため、ピンク、白、黄色の花が色とりどりに見ごろを迎えます。また、西7丁目にはエゾヤマザクラの他に、サトザクラ、ソメイヨシノ、ミヤマザクラ等、時期をずらして色々な桜が咲くのもみどころです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/14006/1766716821_s.webp
+        source_url: https://weathernews.jp/sakura/spot/14006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/14006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/14006/
+    collections:
+      - weathernews
+  - id: wn-23006
+    name_ja: 大野川沿い桜並木
+    location:
+      city_ja: 北斗市
+      address_ja: 北斗市本町2丁目、4丁目
+    geo:
+      lat: 41.8858
+      lng: 140.6386
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大野川に沿ってソメイヨシノを中心とした、およそ100本の桜並木があります。この桜は昭和34年(1959年)、当時の皇太子殿下のご成婚を記念して植樹されました。川のせせらぎを聞きながらゆっくりと300mの桜並木を楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23006/1768274891_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23006/
+    collections:
+      - weathernews
+  - id: wn-1102
+    name_ja: 稚内公園
+    location:
+      city_ja: 稚内市
+      address_ja: 北海道稚内市ヤムワッカナイ
+    geo:
+      lat: 45.4175
+      lng: 141.6678
+    trees: 60
+    species_ja:
+      - エゾヤマザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2015-05-05/25698392.jpg
+        source_url: https://weathernews.jp/sakura/spot/1102/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1102/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1102/
+    collections:
+      - weathernews
+  - id: wn-23010
+    name_ja: 中島公園
+    location:
+      city_ja: 札幌市中央区
+      address_ja: 札幌市中央区中島公園1
+    geo:
+      lat: 43.0465
+      lng: 141.3531
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - エゾヤマザクラ
+      - シダレザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-05/96902449.jpg
+        source_url: https://weathernews.jp/sakura/spot/23010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23010/
+    collections:
+      - weathernews
+  - id: wn-5
+    name_ja: 朝日ヶ丘公園
+    location:
+      city_ja: 富良野市
+      address_ja: 北海道富良野市下御料
+    geo:
+      lat: 43.3406
+      lng: 142.3693
+    trees: 3000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 春はエゾヤマザクラ、ツツジが咲き、空知川、大雪山系、十勝岳連峰をのぞむ眺めが絶景です。日本百景の1つにもなっています。樹々の間から富良野盆地を一望できます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-06/96912271.jpg
+        source_url: https://weathernews.jp/sakura/spot/5/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5/
+    collections:
+      - weathernews
+  - id: wn-17001
+    name_ja: 天都山桜公園
+    location:
+      city_ja: 網走市
+      address_ja: 北海道網走市天都山244-3
+    geo:
+      lat: 44.0008
+      lng: 144.2414
+    trees: 1000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 約1000本のエゾヤマサクラが咲く名所。開花時期が5月中旬と、桜前線の終盤を飾る桜の名所のひとつ。例年であれば雪を抱く斜里岳を桜越しに望めます。桜公園のある天都山は、国指定の名勝地にあり、オホーツク海、知床連山、網走湖など360度のパノラマを楽しむ事が出来、近隣には展望台もある。展望台併設のオホーツク流氷館では、通年で流氷を展示している観光施設もあり、網走の魅力を満喫できる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/17001/1767236628_s.webp
+        source_url: https://weathernews.jp/sakura/spot/17001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/17001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/17001/
+    collections:
+      - weathernews
+  - id: wn-1404
+    name_ja: 登別桜並木
+    location:
+      city_ja: 登別市
+      address_ja: 北海道登別市中登別町
+    geo:
+      lat: 42.4665
+      lng: 141.1671
+    trees: 2000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: JR登別駅から登別温泉まで、8kmの沿道に並んだ約2000本のエゾヤマザクラが来訪者を歓迎します。一部は「花のトンネル」の愛称で親しまれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1404/1768543280_s.webp
+        source_url: https://weathernews.jp/sakura/spot/1404/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1404/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1404/
+    collections:
+      - weathernews
+  - id: wn-1206
+    name_ja: 東大演習林樹木園
+    location:
+      city_ja: 富良野市
+      address_ja: 北海道富良野市山部
+    geo:
+      lat: 43.218
+      lng: 142.3835
+    trees: 300
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 樹木園は国内最大規模の研究林、東京大学北海道演習林の中にあります。※個人による見学の場合、事前の手続きは不要です。入口でご記帳の上ご見学ください。団体（個人的なグループを除く）でのご利用には事前の申請が必要です。詳しくは公式HPをご参照ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-10/97066087.jpg
+        source_url: https://weathernews.jp/sakura/spot/1206/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1206/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1206/
+    collections:
+      - weathernews
+  - id: wn-15001
+    name_ja: 東明公園
+    location:
+      city_ja: 美唄市
+      address_ja: 北海道美唄市東明町
+    geo:
+      lat: 43.3401
+      lng: 141.8983
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - エゾヤマザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-05/96900292.jpg
+        source_url: https://weathernews.jp/sakura/spot/15001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/15001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/15001/
+    collections:
+      - weathernews
+  - id: wn-21002
+    name_ja: 洞爺湖温泉
+    location:
+      city_ja: 洞爺湖町
+      address_ja: 北海道虻田郡洞爺湖町洞爺湖温泉
+    geo:
+      lat: 42.5638
+      lng: 140.8117
+    trees: 200
+    species_ja:
+      - ヤエザクラ
+    description_ja: 洞爺湖畔にはヤエザクラをはじめとしたサクラが咲き、その色と香りで春の訪れを告げます。この時期はサクラを見ながらの湖畔ドライブやサイクリング、洞爺地区にある浮見堂公園やえぼし岩公園のサクラを楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-05-04/83698446.jpg
+        source_url: https://weathernews.jp/sakura/spot/21002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/21002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/21002/
+    collections:
+      - weathernews
+  - id: wn-3
+    name_ja: 二十間道路桜並木
+    location:
+      city_ja: 新ひだか町
+      address_ja: 北海道日高郡新ひだか町静内田原〜静内御園
+    geo:
+      lat: 42.3859
+      lng: 142.4225
+    trees: 2000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 2000本を超える桜が直線7kmの道路の両面に咲き誇る「二十間道路桜並木」。現在は、「日本の道百選」や「さくら名所100選」、「北海道遺産」などに選定され、日本屈指の桜の名所として多くの人から親しまれています。桜の開花に合わせ、開催されるしずない桜まつりでは、町内事業者により期間中のみ出店が行われます。(会場はペットの連れ歩き禁止となっております。)
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-28/83489712.jpg
+        source_url: https://weathernews.jp/sakura/spot/3/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307123/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E9%96%93%E9%81%93%E8%B7%AF%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/3/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307123/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E9%96%93%E9%81%93%E8%B7%AF%E6%A1%9C%E4%B8%A6%E6%9C%A8
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-23001
+    name_ja: 函館公園
+    location:
+      city_ja: 函館市
+      address_ja: 北海道函館市青柳町17
+    geo:
+      lat: 41.756
+      lng: 140.7159
+    trees: 360
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ他
+    description_ja: 函館山を背景に園内の「明治山」から津軽海峡を一望でき、園内には約360本の桜が一斉に咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23001/1766559740_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23001/
+    collections:
+      - weathernews
+  - id: wn-23012
+    name_ja: 百想園・小樽朝里川遊歩道(エゾヤマザクラ)
+    location:
+      city_ja: 小樽市
+      address_ja: 北海道小樽市新光5丁目5-7
+    geo:
+      lat: 43.1632
+      lng: 141.0463
+    trees: 250
+    species_ja:
+      - エゾヤマザクラ
+      - カンザン他
+    description_ja: 百想園は桜とアジサイの見本園で多品種の桜があります。隣接する朝里川沿いの遊歩道にはエゾヤマザクラが150本ほどの並木をつくります。百想園内ではエゾヤマザクラの他に、4月下旬には早咲き品種の冬桜や千島桜、中咲きの紅豊や御殿場桜をはさんで、5月中旬のカンザンをはじめとする多種の八重咲き、そして超遅咲きの菊桜とウワミズザクラは5月下旬まで長く花見ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23012/1766543408_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23012/
+    collections:
+      - weathernews
+  - id: wn-23011
+    name_ja: 百想園・小樽朝里川遊歩道(カンザン)
+    location:
+      city_ja: 小樽市
+      address_ja: 北海道小樽市新光5丁目5-7
+    geo:
+      lat: 43.1632
+      lng: 141.0463
+    trees: 250
+    species_ja:
+      - カンザン
+      - エゾヤマザクラ他
+    description_ja: 百想園は桜とアジサイの見本園なのでカンザンは2本ですが、朝里川沿いの遊歩道には約80本のカンザン並木があります。早咲きのエゾヤマザクラの並木は150本ほどになります。4月下旬には早咲き品種の冬桜や千島桜、中咲きの紅豊や御殿場桜をはさんで、5月中旬のカンザンをはじめとする多種の八重咲き、そして超遅咲きの菊桜とウワミズザクラは5月下旬まで長く花見ができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23011/1766541760_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23011/
+    collections:
+      - weathernews
+  - id: wn-23005
+    name_ja: 法亀寺しだれ桜
+    location:
+      city_ja: 北斗市
+      address_ja: 北海道北斗市向野1-14-13
+    geo:
+      lat: 41.8814
+      lng: 140.6381
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 樹齢およそ300年と言われる道内最大級のしだれ桜。高さは約12mで枝振りが大変良く、垂れ下がった枝いっぱいに花がつくと大変見応えがあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23005/1768275155_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/23005/
+    collections:
+      - weathernews
+  - id: wn-4
+    name_ja: 北海道神宮
+    location:
+      city_ja: 札幌市中央区
+      address_ja: 北海道札幌市中央区宮ヶ丘474
+    geo:
+      lat: 43.0545
+      lng: 141.3075
+    trees: 1000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 境内にはエゾヤマザクラ、ソメイヨシノ、ヤエザクラが咲きます。その他、梅林があり、開花の時期には露店も出ます。例年、車の大渋滞となりますので、公共交通機関をお勧めします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-26/83425438.jpg
+        source_url: https://weathernews.jp/sakura/spot/4/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/4/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/4/
+    collections:
+      - weathernews
+  - id: wn-1704
+    name_ja: 北見フラワーパラダイス
+    location:
+      city_ja: 北見市
+      address_ja: 北海道北見市若松41番地2
+    geo:
+      lat: 43.7915
+      lng: 143.9267
+    trees: 400
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 28ヘクタールにもおよぶ、広大な山一面に、世界の花85種が植えられています。5月上旬には、エゾヤマザクラ、エゾムラサキツツジなどが見頃を迎えます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-07/96949117.jpg
+        source_url: https://weathernews.jp/sakura/spot/1704/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1704/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1704/
+    collections:
+      - weathernews
+  - id: wn-12004
+    name_ja: 名寄公園
+    location:
+      city_ja: 名寄市
+      address_ja: 北海道名寄市緑丘
+    geo:
+      lat: 44.3438
+      lng: 142.47
+    trees: 40
+    species_ja:
+      - エゾヤマザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/12004/1766708054_s.webp
+        source_url: https://weathernews.jp/sakura/spot/12004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/12004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/12004/
+    collections:
+      - weathernews
+  - id: wn-12003
+    name_ja: 弥生公園
+    location:
+      city_ja: 名寄市
+      address_ja: 北海道名寄市字弥生
+    geo:
+      lat: 44.3405
+      lng: 142.3818
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/12003/1766710654_s.webp
+        source_url: https://weathernews.jp/sakura/spot/12003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/12003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/12003/
+    collections:
+      - weathernews
+  - id: wn-21001
+    name_ja: 有珠善光寺自然公園
+    location:
+      city_ja: 伊達市
+      address_ja: 北海道伊達市有珠町124
+    geo:
+      lat: 42.5238
+      lng: 140.7814
+    trees: 1000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 蝦夷三官寺のひとつである有珠善光寺と隣接する自然公園。長期間にわたって種類豊富な桜が楽しめる事で有名です。中でも「石割桜」は北海道の記念保護樹木に指定されております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/21001/1771207117_s.webp
+        source_url: https://weathernews.jp/sakura/spot/21001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/21001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/21001/
+    collections:
+      - weathernews
+  - id: wn-2001
+    name_ja: 緑ヶ丘公園
+    location:
+      city_ja: 帯広市
+      address_ja: 北海道帯広市字緑ヶ丘2
+    geo:
+      lat: 42.905
+      lng: 143.1873
+    trees: 780
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 園内に博物館や動物園、美術館、児童会館などの施設のほか、1200人が一度に座れる圧巻の400mのベンチを備える市内最大級の公園です。園内各所、とくに全長300mの「彫刻の径」を散策しての観桜は見ごたえがあります。このほか、グリーンパーク西側の「まっすぐの径」でも桜並木をお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/2001/1768348425_s.webp
+        source_url: https://weathernews.jp/sakura/spot/2001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/2001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/2001/
+    collections:
+      - weathernews
+  - id: wn-1402
+    name_ja: 緑ケ丘公園
+    location:
+      city_ja: 苫小牧市
+      address_ja: 北海道苫小牧市清水町1、3丁目、字高丘
+    geo:
+      lat: 42.6556
+      lng: 141.5979
+    trees: 2000
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 自然に囲まれた公園で、金太郎の池周辺ではボート（1隻30分200円）に乗りながら、ゆっくりと観賞することもできます。迫力満点のローラー滑り台（全長102メートル、高低差約20メートル）がご利用できます。複合遊具もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1402/1768370197_s.webp
+        source_url: https://weathernews.jp/sakura/spot/1402/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1402/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1402/
+    collections:
+      - weathernews
+  - id: wn-1205
+    name_ja: 麓郷街道
+    location:
+      city_ja: 富良野市
+      address_ja: 北海道富良野市字北麓郷
+    geo:
+      lat: 43.303
+      lng: 142.4824
+    trees: 300
+    species_ja:
+      - エゾヤマザクラ
+    description_ja: 麓郷街道と平行に走っている布部川のせせらぎが美しい桜並木にいやしの演出を醸しだしています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1205/1766462888_s.webp
+        source_url: https://weathernews.jp/sakura/spot/1205/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1205/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/1205/
+    collections:
+      - weathernews

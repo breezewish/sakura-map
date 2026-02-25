@@ -1,0 +1,1249 @@
+prefecture:
+  id: 22
+  name_ja: 静岡県
+  name_en: Shizuoka
+spots:
+  - id: wn-185
+    name_ja: さくらの里
+    location:
+      city_ja: 伊東市
+      address_ja: 静岡県伊東市富戸1317-4
+    geo:
+      lat: 34.9065
+      lng: 139.0904
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内には約40種、約1000本の桜が植栽されています。9月下旬には十月桜が咲き始め、寒桜、大寒桜、染井吉野、一葉、松月、さらに5月に花開く兼六園菊桜へと8カ月にわたり絶え間なく桜を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/185/1766712837_s.webp
+        source_url: https://weathernews.jp/sakura/spot/185/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/185/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2100078/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E9%87%8C
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/185/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2100078/
+      wikipedia: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E9%87%8C
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-190
+    name_ja: すみれ台　木屋川沿い
+    location:
+      city_ja: 焼津市
+      address_ja: 静岡県焼津市すみれ台
+    geo:
+      lat: 34.8321
+      lng: 138.3214
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約700本のソメイヨシノが1.5kmにわたって立ち並んでいる焼津の桜の名所です。近くに石津海岸公園、ディスカバリーパーク焼津(プラネタリウムや温水プール施設)もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-16/62045963.jpg
+        source_url: https://weathernews.jp/sakura/spot/190/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/190/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/190/
+    collections:
+      - weathernews
+  - id: wn-50009
+    name_ja: つま恋リゾート彩の郷
+    location:
+      city_ja: 掛川市
+      address_ja: 静岡県掛川市満水2000
+    geo:
+      lat: 34.7648
+      lng: 138.0397
+    trees: 1600
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+      - サトザクラ
+      - カワヅザクラ
+    description_ja: 広大な140万平米の敷地のいたる所に桜の花が咲き誇ります。1番のオススメスポットは桜並木。1kmにも及ぶ桜並木をゆっくりとウォーキングしながら楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50009/
+    collections:
+      - weathernews
+  - id: wn-193
+    name_ja: はままつフラワーパーク
+    location:
+      city_ja: 浜松市西区
+      address_ja: 静岡県浜松市中央区舘山寺町195
+    geo:
+      lat: 34.7617
+      lng: 137.6344
+    trees: 1700
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 色とりどり50万球のチューリップと、次々見頃を迎えるソメイヨシノ・八重桜など園内いっぱいに咲く桜のリレーをお楽しみ下さい。また、3月下旬〜4月上旬(開花状況による)は花の見頃に合わせて桜並木をライトアップ。春の夜を艶やかに彩る総長1600ｍの幻想的な夜桜並木をお楽しみ下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82582183.jpg
+        source_url: https://weathernews.jp/sakura/spot/193/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/193/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/193/
+    collections:
+      - weathernews
+  - id: wn-50008
+    name_ja: 粟ヶ岳
+    location:
+      city_ja: 掛川市
+      address_ja: 静岡県掛川市東山1051番地の1
+    geo:
+      lat: 34.8417
+      lng: 138.0672
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+      - ヤマザクラ
+    description_ja: 標高532m。桜の名所として有名でソメイヨシノ、サトザクラ、ヤマザクラなど咲き誇ります。山頂にある栗ヶ岳世界農業遺産茶草場テラスからは、桜はもとより、茶草場農法による茶畑、駿河湾、富士山、南アルプスといった景色が広がります。また、同じく山頂にある阿波々神社には磐座と呼ばれる巨石群があり、毎年桜祭りが開催されます。近年、栗ヶ岳は徒歩1時間で登ることができる低山登山のメッカとして登山客に親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-06/71354111.jpg
+        source_url: https://weathernews.jp/sakura/spot/50008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50008/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50008/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307008/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-183
+    name_ja: 伊豆高原桜並木
+    location:
+      city_ja: 伊東市
+      address_ja: 静岡県伊東市八幡野1151
+    geo:
+      lat: 34.8791
+      lng: 139.108
+    trees: 550
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 伊豆高原駅から約3kmにわたって続く桜並木は、約550本のソメイヨシノが植えられており、「桜のトンネル」「桜のアーチ」と呼ばれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/183/1766990100_s.webp
+        source_url: https://weathernews.jp/sakura/spot/183/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/183/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/183/
+    collections:
+      - weathernews
+  - id: wn-50017
+    name_ja: 奥山公園
+    location:
+      city_ja: 浜松市北区
+      address_ja: 静岡県浜松市浜名区引佐町奥山
+    geo:
+      lat: 34.8472
+      lng: 137.618
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - カワヅザクラ
+    description_ja: 静かな山あいの公園です。公園とその周辺で約1000本の桜が咲き誇ります。公園内の池に浮かぶ浮き桟橋「夢の浮き橋」から見る桜は絶景です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-03/82535754.jpg
+        source_url: https://weathernews.jp/sakura/spot/50017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50017/
+    collections:
+      - weathernews
+  - id: wn-50001
+    name_ja: 黄金崎公園
+    location:
+      city_ja: 西伊豆町
+      address_ja: 静岡県賀茂郡西伊豆町宇久須3566-7
+    geo:
+      lat: 34.8419
+      lng: 138.7622
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+    description_ja: 黄金色に輝く岩肌とコバルトブルーの駿河湾、遠方には富士山が望める絶好のロケーションの公園です。春には、ソメイヨシノとオオシマザクラ約250本が満開となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71035423.jpg
+        source_url: https://weathernews.jp/sakura/spot/50001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50001/
+    collections:
+      - weathernews
+  - id: wn-5024
+    name_ja: 家山の桜トンネル
+    location:
+      city_ja: 島田市
+      address_ja: 静岡県島田市川根町家山
+    geo:
+      lat: 34.9325
+      lng: 138.0773
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 家山駅から桜トンネルの間は、大井川鐵道のSLがすぐ横を走り、最高のシャッターポイントとなっています。近隣の家山緑地公園の桜並木や野守の池周辺のしだれ桜のほか、桜トンネルから車で10分程度の茶畑の中にある樹齢300年を越える一本桜「牛代のみずめ桜」も見ごたえ十分です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5024/1766648520_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5024/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5024/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5024/
+    collections:
+      - weathernews
+  - id: wn-50015
+    name_ja: 河原町旧堤防
+    location:
+      city_ja: 島田市
+      address_ja: 静岡県島田市河原1-14
+    geo:
+      lat: 34.8319
+      lng: 138.154
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 島田市博物館の裏手にある旧堤防沿いには、春になるとたくさんの桜が咲き誇ります。川越遺跡の川会所の桜は、堤防沿いよりもやや早く見頃が訪れます。見頃の期間にはボンボリが飾られ、午後9時ごろまで夜桜見物もできます。また、ひと月遅れで八重桜も咲きます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50015/1768433079_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50015/
+    collections:
+      - weathernews
+  - id: wn-50050
+    name_ja: 河津桜観光交流館
+    location:
+      city_ja: 河津町
+      address_ja: 静岡県賀茂郡河津町笹原７２−１２
+    geo:
+      lat: 34.7507
+      lng: 138.9919
+    species_ja:
+      - カワヅザクラ
+    description_ja: 地元の地場産品が豊富に揃っている
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50050/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50050/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50050/
+    collections:
+      - weathernews
+  - id: wn-50032
+    name_ja: 河津桜並木 菜の花ロード(河津町笹原周辺)
+    location:
+      city_ja: 河津町
+      address_ja: 静岡県賀茂郡河津町笹原９１−２３
+    geo:
+      lat: 34.7492
+      lng: 138.9899
+    species_ja:
+      - カワヅザクラ
+    description_ja: 河津桜と菜の花が一度に楽しめる場所。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50032/1769065494_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50032/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50032/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50032/
+    collections:
+      - weathernews
+  - id: wn-50031
+    name_ja: 河津町河津桜原木
+    location:
+      city_ja: 河津町
+      address_ja: " 静岡県賀茂郡河津町田中"
+    geo:
+      lat: 34.7564
+      lng: 138.9891
+    trees: 1
+    species_ja:
+      - カワヅザクラ
+    description_ja: 河津桜の発祥の桜。世界に誇る1本の原木。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50031/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50031/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50031/
+    collections:
+      - weathernews
+  - id: wn-195
+    name_ja: 金比羅山緑地・瀬戸川右左岸堤
+    location:
+      city_ja: 藤枝市
+      address_ja: 静岡県藤枝市志太
+    geo:
+      lat: 34.8698
+      lng: 138.2368
+    trees: 900
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 藤枝市の中心を流れる瀬戸川沿い両岸と金比羅山では、1約900本のソメイヨシノが咲き、「東海地区最大級2kmの桜トンネル」には華やかなぼんぼりが吊るされ、夜間にはライトアップも行われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/195/1768371947_s.webp
+        source_url: https://weathernews.jp/sakura/spot/195/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/195/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/195/
+    collections:
+      - weathernews
+  - id: wn-5025
+    name_ja: 御殿山
+    location:
+      city_ja: 静岡市清水区
+      address_ja: 静岡県静岡市清水区蒲原二丁目13-15(八坂神社)
+    geo:
+      lat: 35.1209
+      lng: 138.6064
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+      - オオシマザクラ
+    description_ja: 徳川家康によって建設された｢蒲原御殿｣の背後にあったことから、その名がついた御殿山では、3月下旬から4月上旬にかけてお花見が楽しめます。山全体に根付く約600本のソメイヨシノやオオシマザクラが開花し、山全体が桜色に染まる風景を楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82674706.jpg
+        source_url: https://weathernews.jp/sakura/spot/5025/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5025/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5025/
+    collections:
+      - weathernews
+  - id: wn-50054
+    name_ja: 御殿場高原時之栖(カワヅザクラ)
+    location:
+      city_ja: 御殿場市
+      address_ja: 静岡県御殿場市神山719
+    geo:
+      lat: 35.236
+      lng: 138.9255
+    trees: 3810
+    species_ja:
+      - カワヅザクラ
+    description_ja: 2月中旬から4月中旬まで、河津桜・ソメイヨシノ・遅咲き桜（八重桜や御衣黄）など開花時期の異なる桜が植えられており、「時之栖の桜リレー」をお楽しみいただけます。2月下旬～3810本の河津桜が、3月下旬～は約1260本の「ソメイヨシノ」が園内広場に多く咲き、300ｍの桜の並木道が皆様を桜の世界へと導きます。小高い｢ありがた山｣からは桜を枝下に富士山を眺められ、この時期に同じく、クリスマスローズやチューリップなど春の花々が色とりどりに咲き、ソメイヨシノとの共演をお楽しみいただけます。壮大な桜を眺めながらお気に入りのいちごスイーツも探してみてはいかがでしょうか。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50054/1766808296_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50054/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50054/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50054/
+    collections:
+      - weathernews
+  - id: wn-5002
+    name_ja: 御殿場高原時之栖(ソメイヨシノ)
+    location:
+      city_ja: 御殿場市
+      address_ja: 静岡県御殿場市神山719
+    geo:
+      lat: 35.236
+      lng: 138.9255
+    trees: 1260
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 2月中旬から4月中旬まで、河津桜・ソメイヨシノ・遅咲き桜(八重桜や御衣黄)など開花時期の異なる桜が植えられており、「時之栖の桜リレー」をお楽しみいただけます。3月下旬～は約1260本の「ソメイヨシノ」が園内広場に多く咲き、300ｍの桜の並木道が皆様を桜の世界へと導きます。小高い｢ありがた山｣からは桜を枝下に富士山を眺められ、この時期に同じく、クリスマスローズやチューリップなど春の花々が色とりどりに咲き、ソメイヨシノとの共演をお楽しみいただけます。壮大な桜を眺めながらお気に入りのいちごスイーツも探してみてはいかがでしょうか。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5002/1766638489_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5002/
+    collections:
+      - weathernews
+  - id: wn-50027
+    name_ja: 佐鳴湖公園
+    location:
+      city_ja: 浜松市中央区
+      address_ja: 静岡県浜松市中央区大平台2丁目4
+    geo:
+      lat: 34.7169
+      lng: 137.6893
+    trees: 450
+    species_ja:
+      - 河津桜
+      - ソメイヨシノ
+      - ヤマザクラ
+      - シダレザクラ
+      - ヤエザクラ
+    description_ja: 早咲きの河津桜、寒緋桜に加え、ソメイヨシノやしだれ桜など多くの種類の桜を楽しむことができる。特にひょうたん池付近や花見台、東岸桜通りがおすすめ。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50027/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50027/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50027/
+    collections:
+      - weathernews
+  - id: wn-5001
+    name_ja: 坂本 高草川沿い
+    location:
+      city_ja: 焼津市
+      address_ja: 静岡県焼津市坂本
+    geo:
+      lat: 34.8912
+      lng: 138.3103
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 山麓を流れる高草川堤約1.4kmにわたって桜並木が続きます。「山の手会館」方面へ向かうと、約0.9㎞の梅並木があります。近くにはスティーブジョブズにも影響を与えたと言われている禅で有名な「林叟院」もあります。徳川家康ゆかりの「旗掛石」や「石脇城跡」、「花沢城跡」、「花沢の里(ビジターセンター等)」へ足を伸ばすのもおすすめです。また、期間限定で「桜のライトアップ」も企画されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-04-03/54841615.jpg
+        source_url: https://weathernews.jp/sakura/spot/5001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5001/
+    collections:
+      - weathernews
+  - id: wn-50011
+    name_ja: 桜堤遊歩道
+    location:
+      city_ja: 長泉町
+      address_ja: 静岡県駿東郡長泉町桜堤3-2
+    geo:
+      lat: 35.1455
+      lng: 138.907
+    trees: 120
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約900m整備された遊歩道に、約120本ものソメイヨシノが一斉に咲き誇る様子は圧巻です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61697017.jpg
+        source_url: https://weathernews.jp/sakura/spot/50011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50011/
+    collections:
+      - weathernews
+  - id: wn-50028
+    name_ja: 三嶋大社
+    location:
+      city_ja: 三島市
+      address_ja: 静岡県三島市大宮町2-1-5
+    geo:
+      lat: 35.1223
+      lng: 138.9188
+    trees: 200
+    species_ja:
+      - オオシマザクラ
+      - シダレザクラ
+      - ミシマザクラ
+      - ソメイヨシノ
+      - 河津桜
+    description_ja: 2月下旬の河津桜から4月上旬の八重桜まで、約15種200本の桜が本殿へと続く参道、神池沿いで開花。3月下旬～4月上旬にかけてライトアップを実施。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50028/1768447903_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50028/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50028/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50028/
+    collections:
+      - weathernews
+  - id: wn-50012
+    name_ja: 狩宿の下馬ザクラ
+    location:
+      city_ja: 富士宮市
+      address_ja: 静岡県富士宮市狩宿98-1
+    geo:
+      lat: 35.3013
+      lng: 138.5886
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: 樹齢800年以上の日本最古級の「ヤマザクラ」で昭和27年に国の特別天然記念物に指定されています。1193年源頼朝が富士の巻狩りを行った際に馬から下りた所であると言われています。花期は例年4月上旬。周辺は菜の花に彩られ、桜の時期には地元の方が出店し、多くの観光客が地元の味を楽しんでいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-10/61895805.jpg
+        source_url: https://weathernews.jp/sakura/spot/50012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50012/
+    collections:
+      - weathernews
+  - id: wn-5023
+    name_ja: 狩野川さくら公園
+    location:
+      city_ja: 伊豆の国市
+      address_ja: 静岡県伊豆の国市中條162-1他
+    geo:
+      lat: 35.0473
+      lng: 138.9361
+    trees: 110
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 狩野川流域随一の桜の名所です。レジャーシートを敷いてのお花見も可能です。※飲食等の片付けは、各自でお願いいたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-03-27/54707489.jpg
+        source_url: https://weathernews.jp/sakura/spot/5023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5023/
+    collections:
+      - weathernews
+  - id: wn-50041
+    name_ja: 狩野川堤防(城山さくら)
+    location:
+      city_ja: 伊豆の国市
+      address_ja: " 静岡県伊豆の国市神島"
+    geo:
+      lat: 35.0069
+      lng: 138.9377
+    trees: 140
+    species_ja:
+      - カワヅザクラ
+    description_ja: 伊豆の国市内で早咲きの桜といえばここ、狩野川堤防沿いの城山（じょうやま）さくらが有名です。ジオスポットである城山の対岸付近の堤防には、城山さくらの並木が続いています。桜を愛でながらのウォーキングやサイクリングも最高です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-19/95107424.jpg
+        source_url: https://weathernews.jp/sakura/spot/50041/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50041/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50041/
+    collections:
+      - weathernews
+  - id: wn-50003
+    name_ja: 秋葉ダム千本桜
+    location:
+      city_ja: 浜松市天竜区
+      address_ja: 静岡県浜松市天竜区龍山町戸倉435-9
+    geo:
+      lat: 34.9706
+      lng: 137.8295
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 秋葉ダム湖を中心におよそ7.5kmにわたってソメイヨシノなど約1000本の桜が咲き誇る。「秋葉ダム千本桜」は、北遠随一の桜の名所として有名です。ここで開催されるさくらまつりは、満開となる3月下旬～4月上旬にかけて開催されており、地元の特産品の販売も行われます。https://たつやま.com
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82676113.jpg
+        source_url: https://weathernews.jp/sakura/spot/50003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50003/
+    collections:
+      - weathernews
+  - id: wn-50010
+    name_ja: 駿河平自然公園
+    location:
+      city_ja: 長泉町
+      address_ja: 静岡県駿東郡長泉町東野515-7
+    geo:
+      lat: 35.1727
+      lng: 138.8702
+    trees: 300
+    species_ja:
+      - オオシマザクラ
+      - ソメイヨシノ
+    description_ja: オオシマザクラやソメイヨシノなど約300本の桜が咲き、吊り橋や遊歩道が整備された自然豊かな公園と共にお楽しみください。近くにはクレマチスの丘もあり、一日を通して自然とアートを楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82668508.jpg
+        source_url: https://weathernews.jp/sakura/spot/50010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50010/
+    collections:
+      - weathernews
+  - id: wn-189
+    name_ja: 駿府城公園
+    location:
+      city_ja: 静岡市葵区
+      address_ja: 静岡県静岡市葵区駿府城公園1-1
+    geo:
+      lat: 34.9794
+      lng: 138.3831
+    trees: 900
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 徳川家康公の大御所時代の居城であった、駿府城公園のお堀沿いや園内に咲くソメイヨシノ等の桜が満開となります。お堀の水面に映る桜の木々も趣深いものがあります。天気が良ければ広場から富士山も一望できます。※BBQ等火気の取り扱いは禁止です
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/189/1767662440_s.webp
+        source_url: https://weathernews.jp/sakura/spot/189/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/189/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/189/
+    collections:
+      - weathernews
+  - id: wn-50026
+    name_ja: 潤井川龍巌淵
+    location:
+      city_ja: 富士市
+      address_ja: 静岡県富士市久沢
+    geo:
+      lat: 35.1833
+      lng: 138.6449
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「潤井川の清流」「富士山」「桜」が三位一体となった絶景を望むことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50026/1768788234_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50026/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50026/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50026/
+    collections:
+      - weathernews
+  - id: wn-50006
+    name_ja: 勝間田川沿い
+    location:
+      city_ja: 牧之原市
+      address_ja: 静岡県牧之原市静波
+    geo:
+      lat: 34.7384
+      lng: 138.2194
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 勝間田川の両岸に植樹された約600本もの桜が、3月下旬から4月上旬にかけて咲き、見事な桜のトンネルを作り出します。静かな水面にも桜が映り、その美しさは息を呑むほど。開花時期には夜間のライトアップもされ、夜桜も楽しむことができます。川沿いをゆっくりと歩けば、日常を忘れて幻想的な世界に包まれることでしょう。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82603693.jpg
+        source_url: https://weathernews.jp/sakura/spot/50006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50006/
+    collections:
+      - weathernews
+  - id: wn-50016
+    name_ja: 小國神社
+    location:
+      city_ja: 森町
+      address_ja: 静岡県周智郡森町一宮3956-1
+    geo:
+      lat: 34.8472
+      lng: 137.8995
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「癒しの斎庭」（いやしのゆにわ）と呼ばれる境内には春の訪れを告げる様々な桜が咲き揃います。大願成就の縁起石『家康公の立ち上がり石』のすぐそばにある薄桃色の花を付ける枝垂桜は県内のフォトスポットとして親しまれ、桜木の下、石に腰かけながら写真撮影を楽しむことができます。また、門前にひと際目を引く江戸彼岸の枝垂桜や桜などが境内各所に咲き、心を和ませてくれます。「御衣黄」や「菊桜」などの珍しい種類の桜も開花し、華やかなご神域に多くの参拝者が訪れます。令和6年には台湾から海を渡り、日台友好の証として昭和天皇ゆかりの寒緋桜も植樹されました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82653086.jpg
+        source_url: https://weathernews.jp/sakura/spot/50016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50016/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307063/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50016/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307063/
+    collections:
+      - weathernews
+      - navitime
+  - id: nt-90011-sak1307065
+    name_ja: 昭和の森会館
+    location:
+      address_ja: 静岡県伊豆市湯ケ島892-6
+    geo:
+      lat: 34.856039
+      lng: 138.922625
+    trees: 2
+    species_ja:
+      - エドヒガン
+    description_ja: 静岡県伊豆市の道の駅「天城越え」にある観光施設で、天城連山の自然を紹介する情報館や文学館のほか、レストランも併設している。駐車場の北側と「天城グリーンガーデン」の北端に2本の桜があり、伊豆地方最大級のエドヒガンザクラとして有名。毎年4月中旬から下旬ごろに見ごろを迎え、訪れる人々の目を楽しませる。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307065_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307065_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307065_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307065_04.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307065_05.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307065/
+    collections:
+      - navitime
+  - id: wn-50019
+    name_ja: 松川遊歩道
+    location:
+      city_ja: 伊東市
+      address_ja: 静岡県伊東市竹の内
+    geo:
+      lat: 34.9713
+      lng: 139.0971
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 伊東の中心市街地を流れる松川。川沿いの松川遊歩道では、春には桜が咲きほこり、川越しに伊東温泉観光文化施設「東海館」を臨み、古き良き湯の街情緒を楽しみながら散策することができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50019/1766712793_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50019/
+    collections:
+      - weathernews
+  - id: wn-50007
+    name_ja: 清水船越堤公園
+    location:
+      city_ja: 静岡市清水区
+      address_ja: 静岡県静岡市清水区船越497（代表地番）
+    geo:
+      lat: 34.9975
+      lng: 138.4679
+    trees: 800
+    species_ja:
+      - ソメイヨシノ等
+      - ソメイヨシノ
+    description_ja: 池の周囲から見はらし台にかけてソメイヨシノなどが咲いている。３月下旬～４月成就までライトアップを実施している。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82838958.jpg
+        source_url: https://weathernews.jp/sakura/spot/50007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50007/
+    collections:
+      - weathernews
+  - id: wn-187
+    name_ja: 静岡市立日本平動物園
+    location:
+      city_ja: 静岡市駿河区
+      address_ja: 静岡県静岡市駿河区池田1767-6
+    geo:
+      lat: 34.9799
+      lng: 138.4395
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 動物園で桜が楽しめるので、お子様連れやカップルにも最適です。また桜を見ながらお弁当を広げてみてはいかがでしょうか。土日祝は混雑が予想されます。ゆっくりご覧いただくには平日がおすすめです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/187/1767657739_s.webp
+        source_url: https://weathernews.jp/sakura/spot/187/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/187/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/187/
+    collections:
+      - weathernews
+  - id: wn-184
+    name_ja: 静岡浅間神社
+    location:
+      city_ja: 静岡市葵区
+      address_ja: 静岡県静岡市葵区宮ヶ崎町102-1
+    geo:
+      lat: 34.9837
+      lng: 138.3753
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 毎年4月1日から6日まで、桜花咲き誇る中、静岡市最大のお祭り「廿日会祭(はつかえさい)」が開催され、5日には国重要無形民俗文化財の稚児舞が神前に奉納されます。境内及び参道には露店が立ち並び、多くの人出で賑わいます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-31/61642080.jpg
+        source_url: https://weathernews.jp/sakura/spot/184/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/184/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/184/
+    collections:
+      - weathernews
+  - id: wn-50002
+    name_ja: 千歳川沿い
+    location:
+      city_ja: 熱海市
+      address_ja: 静岡県熱海市泉
+    geo:
+      lat: 35.1404
+      lng: 139.0915
+    trees: 60
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 湯河原温泉街に流れる清流「千歳川」沿いの桜並木。3月末～4月初めの桜の開花にあわせてライトアップも行います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82508660.jpg
+        source_url: https://weathernews.jp/sakura/spot/50002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50002/
+    collections:
+      - weathernews
+  - id: wn-50005
+    name_ja: 戦国夢街道ハイキングコース
+    location:
+      city_ja: 森町
+      address_ja: 静岡県周智郡森町三倉地内
+    geo:
+      lat: 34.9116
+      lng: 137.9369
+    trees: 500
+    species_ja:
+      - ヤマザクラ
+    description_ja: 戦国武将たちの活躍にちなんで「戦国夢街道」と名付けられたハイキングコースには、約500本のヤマザクラがり、素朴な美しさが味わえます。大久保小学校跡地にある桜の巨木などコースに点在する銘木を鑑賞するとともに、戦国の歴史を体感できるハイキングコースです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50005/1766654008_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50005/
+    collections:
+      - weathernews
+  - id: wn-50004
+    name_ja: 太田川桜堤
+    location:
+      city_ja: 森町
+      address_ja: 静岡県周智郡森町向天方地内、太田川沿い
+    geo:
+      lat: 34.8416
+      lng: 137.9349
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約2kmにわたり1000本ものソメイヨシノが見事な桜のアーチをつくる花見の名所です。この桜は、地元の人たちに大切に育てられてきたもので、堤防沿いの道路にできる桜のトンネルが、訪れた人を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50004/1766653955_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50004/
+    collections:
+      - weathernews
+  - id: wn-50013
+    name_ja: 大石寺
+    location:
+      city_ja: 富士宮市
+      address_ja: 静岡県富士宮市上条2057
+    geo:
+      lat: 35.2805
+      lng: 138.5872
+    trees: 5150
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 大石寺に向かう車中、花盛りの時期には大石寺一体が桜の花で覆われたように見えます。花期は例年3月下旬～4月上旬。毎年4月6日・7日は一般の花見客は進入禁止になり、また毎週土日も進入禁止になります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61778750.jpg
+        source_url: https://weathernews.jp/sakura/spot/50013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50013/
+    collections:
+      - weathernews
+  - id: wn-50020
+    name_ja: 秩父宮記念公園
+    location:
+      city_ja: 御殿場市
+      address_ja: 静岡県御殿場市東田中1507-7
+    geo:
+      lat: 35.2885
+      lng: 138.9536
+    trees: 25
+    species_ja:
+      - シダレザクラ
+      - オオシマザクラ
+    description_ja: 開園当時樹齢120年の枝垂れ桜をはじめとする園内の桜が一気に色づき、満開の園内は、毎年多くの人でにぎわいます。春を感じ心おだやかな時間をお楽しみいただけます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50020/
+    collections:
+      - weathernews
+  - id: wn-50040
+    name_ja: 東大山(カワヅザクラ)
+    location:
+      city_ja: 浜松市中央区
+      address_ja: 静岡県浜松市西区大山町2671
+    geo:
+      lat: 34.7721
+      lng: 137.6757
+    species_ja:
+      - カワヅザクラ
+      - ソメイヨシノ
+    description_ja: 花川の堤防両側に、ピンクの優美な1kmの花街道が待っています。河津桜は約400本ソメイヨシノも約120本ほどあります。また菜の花は2500坪ほどに咲いていて、ピンクと黄色の饗宴が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-03-18/95101591.jpg
+        source_url: https://weathernews.jp/sakura/spot/50040/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50040/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50040/
+    collections:
+      - weathernews
+  - id: wn-50022
+    name_ja: 徳山のしだれ桜
+    location:
+      city_ja: 川根本町
+      address_ja: 静岡県榛原郡川根本町徳山1644-1
+    geo:
+      lat: 35.0748
+      lng: 138.1148
+    trees: 50
+    species_ja:
+      - シダレザクラ
+    description_ja: SLの走る大井川鉄道の駿河徳山駅から約10分のところに見事な桜並木があります。川根高校のグラウンド横から始まる桃沢（ももんざわ）です。沢の両岸に覆いかぶさるように咲くソメイヨシノは約300本。花見客でごったがえす川根の桜トンネルに比べてまだまだこの名所は穴場感あり。4月には川根高校グラウンド沿いの約150ｍに約50本のしだれ桜も咲き始めます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50022/1771553213_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50022/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50022/
+    collections:
+      - weathernews
+  - id: wn-5021
+    name_ja: 那賀川沿い
+    location:
+      city_ja: 松崎町
+      address_ja: 静岡県賀茂郡松崎町大沢、那賀他
+    geo:
+      lat: 34.7578
+      lng: 138.8263
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 那賀川沿いには約6km、1200本のソメイヨシノが植えられ3月下旬から4月上旬に見頃となります。また那賀バイパス付近には約3万㎡の田んぼをつかった花畑もあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-06/82677775.jpg
+        source_url: https://weathernews.jp/sakura/spot/5021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5021/
+    collections:
+      - weathernews
+  - id: wn-50018
+    name_ja: 日本平山頂付近
+    location:
+      city_ja: 静岡市清水区
+      address_ja: 静岡県静岡市清水区馬走
+    geo:
+      lat: 34.9739
+      lng: 138.466
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - カワヅザクラ
+    description_ja: 1月初旬より「日本平梅園」の紅白梅と早咲きの「河津桜」をかわぎりに、3月後半に「ソメイヨシノ」その後「ヤエザクラ」と切れ目なくお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82723793.jpg
+        source_url: https://weathernews.jp/sakura/spot/50018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50018/
+    collections:
+      - weathernews
+  - id: wn-50044
+    name_ja: 美和桜並木
+    location:
+      city_ja: 静岡市葵区
+      address_ja: 静岡県静岡市葵区与左衛門新田１０５
+    geo:
+      lat: 35.0291
+      lng: 138.3694
+    trees: 107
+    species_ja:
+      - 河津桜
+    description_ja: 延長700mに107本の桜が植えてあります。安倍川の土手下に植えてあるので見る桜と見降す桜の風景が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/50044/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50044/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50044/
+    collections:
+      - weathernews
+  - id: wn-5022
+    name_ja: 浜松城公園
+    location:
+      city_ja: 浜松市中央区
+      address_ja: 静岡県浜松市中央区元城町100-2
+    geo:
+      lat: 34.7129
+      lng: 137.7255
+    trees: 270
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ他
+    description_ja: 浜松城を取り囲むように園内が約270本の桜で彩られます。野面積みの石垣と城の黒板壁とのコントラストが美しく、見ごたえも充分です。夜間は、ライトアップされた浜松城と桜が作り出す幻想的な雰囲気をお楽しみ頂けます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5022/1767661610_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5022/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5022/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307138/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5022/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307138/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-50023
+    name_ja: 富士桜自然墓地公園
+    location:
+      city_ja: 富士宮市
+      address_ja: 静岡県富士宮市上井出2736-25
+    geo:
+      lat: 35.3398
+      lng: 138.6236
+    trees: 8000
+    species_ja:
+      - ソメイヨシノ
+      - フジザクラ
+      - ヤエザクラなど
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-16/96219876.jpg
+        source_url: https://weathernews.jp/sakura/spot/50023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50023/
+    collections:
+      - weathernews
+  - id: wn-50021
+    name_ja: 富士山本宮浅間大社
+    location:
+      city_ja: 富士宮市
+      address_ja: 静岡県富士宮市宮町1-1
+    geo:
+      lat: 35.2277
+      lng: 138.6099
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50021/1771738430_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50021/
+    collections:
+      - weathernews
+  - id: wn-5026
+    name_ja: 冨士霊園
+    location:
+      city_ja: 小山町
+      address_ja: 静岡県駿東郡小山町大御神888-2
+    geo:
+      lat: 35.3677
+      lng: 138.9089
+    trees: 3500
+    species_ja:
+      - 富士桜
+      - 染井吉野など
+      - ソメイヨシノ
+    description_ja: 富士山麓の花と緑に囲まれた敷地面積213万平方mの公園墓地です。園内の霊園参道にはヤマザクラ(山桜）、ソメイヨシノ(染井吉野)など約3500本の桜が植えられ、4月上旬から中旬の満開時には大勢の人出で賑わいます。日本さくら名所百選にも選ばれた園内は、桜の他にも梅やつつじなど四季折々の草花が美しい姿を見せてくれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-12/96079957.jpg
+        source_url: https://weathernews.jp/sakura/spot/5026/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5026/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307139/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E9%9C%8A%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5026/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307139/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E9%9C%8A%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-50014
+    name_ja: 野守の池
+    location:
+      city_ja: 島田市
+      address_ja: 静岡県島田市川根町家山
+    geo:
+      lat: 34.9396
+      lng: 138.0697
+    trees: 260
+    species_ja:
+      - シダレザクラ
+      - カンヒザクラ
+      - カワヅザクラ
+    description_ja: 県下有数の桜の名所・川根町。周囲約1.2㎞の野守の池周辺には、シダレザクラが約60本、カンヒザクラが約200本植えられています。最盛期の4月上旬には周囲が桜色で染まるほか、野守の池から家山の桜トンネルに向かって歩く道中の家山川沿いの土手にも桜並木があり、目を楽しませてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50014/1768432989_s.webp
+        source_url: https://weathernews.jp/sakura/spot/50014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/50014/
+    collections:
+      - weathernews
+  - id: wn-194
+    name_ja: 蓮華寺池公園
+    location:
+      city_ja: 藤枝市
+      address_ja: 静岡県藤枝市若王子694-1
+    geo:
+      lat: 34.8747
+      lng: 138.2585
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「花と水と鳥」をテーマに造られた蓮華寺池公園では、見頃の時期になるとソメイヨシノやサトザクラが咲き、池の外周路や山が桜色に染まります。景色を楽しみながらゆったりと散策するのがおすすめ。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82584783.jpg
+        source_url: https://weathernews.jp/sakura/spot/194/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/194/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/194/
+    collections:
+      - weathernews

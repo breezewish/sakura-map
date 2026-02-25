@@ -1,0 +1,1212 @@
+prefecture:
+  id: 21
+  name_ja: 岐阜県
+  name_en: Gifu
+spots:
+  - id: wn-52003
+    name_ja: イビデン東横山発電所の桜並木
+    location:
+      city_ja: 揖斐川町
+      address_ja: 岐阜県揖斐郡揖斐川町東横山264-1
+    geo:
+      lat: 35.5782
+      lng: 136.4636
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 「道の駅星のふる里ふじはし」の隣にあるイビデン東横山発電所付近の桜並木は、隠れた花見スポット。また、「徳山民俗資料収蔵庫」と、「いび川温泉藤橋の湯」が隣接し、安らぎと憩いの場でもある。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52003/1767768739_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52003/
+    collections:
+      - weathernews
+  - id: wn-5224
+    name_ja: ひよもの枝垂れ桜
+    location:
+      city_ja: 恵那市
+      address_ja: 岐阜県恵那市串原中沢5325-2
+    geo:
+      lat: 35.2927
+      lng: 137.4406
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 根周り約6ｍ、幹周り4ｍ、高さ枝張りとも20ｍを超す巨木。樹齢は約300年ほどで岐阜県の天然記念物に指定されています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5224/1766537554_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5224/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5224/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5224/
+    collections:
+      - weathernews
+  - id: wn-213
+    name_ja: 愛宕公園
+    location:
+      city_ja: 郡上市
+      address_ja: 岐阜県郡上市八幡町島谷85
+    geo:
+      lat: 35.7506
+      lng: 136.9653
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 愛宕公園は春になると満開の桜で彩られ、特に郡上八幡城を眺めながらお花見を楽しめることから「飛騨・美濃さくら33選」にも選ばれるなど、地元の住民を含めた憩いの場所です。公園内で注目なのが、1600年に植えたとされる樹齢400年のエドヒガンザクラ「墨染の桜」で花弁の周りが墨色に見える美しい桜となっています。その他、遊具やベンチも備えられているので、家族でお花見にもピッタリです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-05/31639628.jpg
+        source_url: https://weathernews.jp/sakura/spot/213/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/213/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/213/
+    collections:
+      - weathernews
+  - id: wn-52006
+    name_ja: 伊吹山ドライブウェイ
+    location:
+      city_ja: 関ケ原町
+      address_ja: 岐阜県不破郡関ヶ原町関ヶ原1586番地
+    geo:
+      lat: 35.3745
+      lng: 136.4484
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 開業前の桜の鑑賞はできません。2026年度の開業は4月18日(土)を予定しております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52006/1768788962_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52006/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500495/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52006/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500495/
+    collections:
+      - weathernews
+      - navitime
+    trees: 30
+  - id: wn-52021
+    name_ja: 羽根谷だんだん公園
+    location:
+      city_ja: 海津市
+      address_ja: 岐阜県海津市南濃町奥条・羽沢地内
+    geo:
+      lat: 35.2175
+      lng: 136.5971
+    trees: 1800
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - 河津桜
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52021/1770610547_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52021/
+    collections:
+      - weathernews
+  - id: wn-5235
+    name_ja: 奥矢作湖畔桜並木
+    location:
+      city_ja: 恵那市
+      address_ja: 岐阜県恵那市串原大野地内
+    geo:
+      lat: 35.2366
+      lng: 137.4479
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ドライブコース沿いに続く桜並木。サクラと奥矢作湖の美しい競演はドライバーの目を楽しませてくれます。大野公園付近は桜のトンネルになっており絶好のお花見スポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5235/1766537429_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5235/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5235/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5235/
+    collections:
+      - weathernews
+  - id: wn-5230
+    name_ja: 下呂駅周辺の桜
+    location:
+      city_ja: 下呂市
+      address_ja: 岐阜県下呂市幸田
+    geo:
+      lat: 35.8061
+      lng: 137.2401
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 駅周辺にまとまって咲き、特に駅裏手の道路沿いの並木が美しいです。「飛騨・美濃さくら33選」に指定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82906729.jpg
+        source_url: https://weathernews.jp/sakura/spot/5230/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5230/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5230/
+    collections:
+      - weathernews
+  - id: wn-211
+    name_ja: 霞間ヶ渓公園
+    location:
+      city_ja: 池田町
+      address_ja: 岐阜県揖斐郡池田町藤代
+    geo:
+      lat: 35.4321
+      lng: 136.5522
+    trees: 1500
+    species_ja:
+      - ヤマザクラ
+      - ソメイヨシノ
+    description_ja: ヤマザクラ、ヨシノザクラ、シダレザクラなど7〜8種類、約1500本咲き乱れ、桜の花が咲く様子を遠くから見るとまるで霞(かすみ)がかかったように見えることからいつしか霞間ヶ渓と呼ばれるようになりました。昭和3年には国の名勝・天然記念物に、平成元年には全国桜名所100選に指定されました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82451299.jpg
+        source_url: https://weathernews.jp/sakura/spot/211/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/211/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307017/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%9C%9E%E9%96%93%E3%83%B6%E6%B8%93
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/211/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307017/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%9C%9E%E9%96%93%E3%83%B6%E6%B8%93
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-5201
+    name_ja: 臥龍桜
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市一之宮町臥龍公園
+    geo:
+      lat: 36.089
+      lng: 137.2478
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 樹形が龍の臥した姿に似ているところから名付けられた国指定天然記念物「臥龍桜」。樹齢1100年、日本を代表とするエドヒガンザクラです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71432508.jpg
+        source_url: https://weathernews.jp/sakura/spot/5201/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5201/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5201/
+    collections:
+      - weathernews
+  - id: wn-52012
+    name_ja: 笠松みなと公園
+    location:
+      city_ja: 笠松町
+      address_ja: 岐阜県羽島郡笠松町港町官有地無番地
+    geo:
+      lat: 35.3658
+      lng: 136.7634
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 木曽川河畔の広々とした公園でお花見をお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82625668.jpg
+        source_url: https://weathernews.jp/sakura/spot/52012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52012/
+    collections:
+      - weathernews
+  - id: wn-52019
+    name_ja: 笠置峡
+    location:
+      city_ja: 恵那市
+      address_ja: 岐阜県恵那市笠置町河合
+    geo:
+      lat: 35.479
+      lng: 137.331
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 木曽川に中野方川が合流する穏やかな笠置峡は、上流方面に恵那山を望み下流方面に赤い鉄橋を配す安らいだ景色で時間帯によっては、水墨画のような渓谷美も生まれます。笠置ボート・カヌー場があり、カヌーやSUP(サップ）のアクティビティも楽しめ、水面から観る山桜の景色は美しく癒されます。※ボート・カヌー場利用の場合は、恵那市スポーツ課へお問い合わせください。（0573－26－6852）
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52019/1769568512_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52019/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52019/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52019/
+    collections:
+      - weathernews
+  - id: wn-52004
+    name_ja: 関川の桜
+    location:
+      city_ja: 関市
+      address_ja: 岐阜県関市南春日町 濃州関所茶屋付近 他
+    geo:
+      lat: 35.4818
+      lng: 136.9158
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 関市街地を流れる関川沿い約3kmにわたり、ソメイヨシノ250本が可憐に咲きほころぶ桜並木が続く。散歩がてら川沿いを歩くにはちょうどよい距離。夜にはサクラがライトアップされ神秘的な世界が広がる。また散り始めの桜吹雪も圧巻です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52004/1767573389_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52004/
+    collections:
+      - weathernews
+  - id: wn-52005
+    name_ja: 関善光寺の桜
+    location:
+      city_ja: 関市
+      address_ja: 岐阜県関市西日吉町35
+    geo:
+      lat: 35.489
+      lng: 136.9149
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - ヒガンザクラ
+    description_ja: 信州の善光寺とそっくりな本堂をもつ関善光寺。関市を見渡すことができるほど景観がよく、参道には、ソメイヨシノが咲き誇る桜並木があり、美しい姿を見せてくれる。本堂下には日本で唯一の卍型をした戒檀巡りがあり、多くの人が訪れる。本堂脇には大仏が鎮座している大仏殿もある。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52005/1767573050_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52005/
+    collections:
+      - weathernews
+  - id: wn-5217
+    name_ja: 吉田川の桜
+    location:
+      city_ja: 関市
+      address_ja: 岐阜県関市旭ヶ丘2丁目旭ヶ丘小学校付近ほか
+    geo:
+      lat: 35.4835
+      lng: 136.926
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 関市の中心部を流れる吉田川両岸2kmには、250本もの桜が美しく咲き誇ります。この桜は昭和11年小島七右工門という人物が護岸工事の完成を記念し、「桜の町」にしようと桜を植えたのが始まりです。岐阜県が選定する「飛騨・美濃さくら33選」にも選ばれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5217/1767573167_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5217/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5217/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5217/
+    collections:
+      - weathernews
+  - id: wn-212
+    name_ja: 宮川緑地公園
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市桐生町1
+    geo:
+      lat: 36.1527
+      lng: 137.2555
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市内の中心部を流れる宮川下流の万人橋下に緑地公園があり、市民の憩いの場となっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96424923.jpg
+        source_url: https://weathernews.jp/sakura/spot/212/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/212/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/212/
+    collections:
+      - weathernews
+  - id: wn-215
+    name_ja: 恵那峡
+    location:
+      city_ja: 恵那市
+      address_ja: 岐阜県恵那市大井町奥戸
+    geo:
+      lat: 35.48
+      lng: 137.4063
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内に約200本、恵那峡線の約200本と合わせ、約400本の桜を楽しめます。桜の見頃時期2026年3月21から4月8日は、日没〜22時ライトアップされ、昼夜問わず花見が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-06/61810824.jpg
+        source_url: https://weathernews.jp/sakura/spot/215/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/215/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500706/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/215/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500706/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-5222
+    name_ja: 虎渓公園
+    location:
+      city_ja: 多治見市
+      address_ja: 岐阜県多治見市弁天町3丁目
+    geo:
+      lat: 35.3438
+      lng: 137.1292
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 公園には約400本のソメイヨシノなどの桜が植えられ、岐阜県選定の「飛騨・美濃さくら三十三選」にも選ばれる桜の名所です。公園から伸びる参道を降りて行くと、虎渓山永保寺の美しい庭園が広がります。鎌倉時代に建てられた国宝の観音堂など由緒ある建築物を背景に春の庭園散策を楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-09/82792544.jpg
+        source_url: https://weathernews.jp/sakura/spot/5222/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5222/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5222/
+    collections:
+      - weathernews
+  - id: wn-52001
+    name_ja: 江名子川沿い
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市大新町・下三之町 他
+    geo:
+      lat: 36.1464
+      lng: 137.2579
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 川沿いの桜や松をライトアップします。趣のある橋や町家建築の家も多く、情調ある町並みの散策が楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82903021.jpg
+        source_url: https://weathernews.jp/sakura/spot/52001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52001/
+    collections:
+      - weathernews
+  - id: wn-5221
+    name_ja: 国道156号線沿いの桜並木
+    location:
+      city_ja: 郡上市
+      address_ja: 岐阜県郡上市美並町深戸地内
+    geo:
+      lat: 35.6856
+      lng: 136.963
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国道156号線と長良川に沿って約500mにわたってソメイヨシノが咲く桜並木です。この桜は、昭和40年の国体開催に向けて地元深戸地区の人々により植樹され守られてきたものです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-16/96198153.jpg
+        source_url: https://weathernews.jp/sakura/spot/5221/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5221/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5221/
+    collections:
+      - weathernews
+  - id: wn-214
+    name_ja: 根尾谷淡墨ザクラ
+    location:
+      city_ja: 本巣市
+      address_ja: 岐阜県本巣市根尾板所字上段995
+    geo:
+      lat: 35.6322
+      lng: 136.6088
+    trees: 10
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢1500余年の淡墨桜は国指定の天然記念物で、幹や枝からは生命のエネルギーが感じられます。つぼみのときは薄いピンク色、満開になるとつややかな白色、散りぎわには特異の淡い墨色を帯びるのが特徴です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/214/1766456558_s.webp
+        source_url: https://weathernews.jp/sakura/spot/214/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/214/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307106/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%B0%BE%E8%B0%B7%E3%83%BB%E6%B7%A1%E5%A2%A8%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/214/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307106/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%B0%BE%E8%B0%B7%E3%83%BB%E6%B7%A1%E5%A2%A8%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-5227
+    name_ja: 桜野公園
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市国府町広瀬町510-1
+    geo:
+      lat: 36.2059
+      lng: 137.225
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - エドヒガンザクラ
+    description_ja: その昔、大和国吉野山から桜苗を移植したのが始まりと伝えられています。園内には約150本の桜の木が植えられており、見事に咲きほこる桜は飛騨美濃さくら33選にも選ばれた名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2011-04-29/4135928.jpg
+        source_url: https://weathernews.jp/sakura/spot/5227/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5227/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5227/
+    collections:
+      - weathernews
+  - id: wn-5202
+    name_ja: 寺尾ヶ原千本桜公園
+    location:
+      city_ja: 関市
+      address_ja: 岐阜県関市武芸川町谷口字寺尾
+    geo:
+      lat: 35.6562
+      lng: 136.8203
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 県道59号線の寺尾峠から2kmにわたり道をつつみ込むように約1000本の桜並木となっており桜のトンネルを作ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-04-07/18337711.jpg
+        source_url: https://weathernews.jp/sakura/spot/5202/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5202/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5202/
+    collections:
+      - weathernews
+  - id: wn-5212
+    name_ja: 小倉公園
+    location:
+      city_ja: 美濃市
+      address_ja: 岐阜県美濃市泉町1571-3
+    geo:
+      lat: 35.5504
+      lng: 136.9113
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 公園内全体にたくさんのソメイヨシノやヤマザクラが咲きます。またさくらまつり期間中は季節売店がオープンし、木の芽でんがくや五平餠などがご賞味いただけます(変更の可能性あり）。小動物や遊具、広場がございますのでお子様も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5212/1766537769_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5212/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5212/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5212/
+    collections:
+      - weathernews
+  - id: wn-5210
+    name_ja: 城山公園
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市城山
+    geo:
+      lat: 36.14
+      lng: 137.2633
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高山城跡に約700本のソメイヨシノが植えられています。自然に恵まれ、静寂な公園は森林浴の森百選にも選ばれ、市街地を一望しながらお花見を楽しめます。豊かな自然環境を守るため、ゴミは持ち帰っていただきますようお願いします。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/5210/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5210/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5210/
+    collections:
+      - weathernews
+  - id: wn-5228
+    name_ja: 浄福寺のしだれ桜
+    location:
+      city_ja: 下呂市
+      address_ja: 岐阜県下呂市小坂町小坂町920
+    geo:
+      lat: 35.9537
+      lng: 137.2611
+    trees: 2
+    species_ja:
+      - シダレザクラ
+    description_ja: 享和3年(1803)春、浄福寺の梵鐘が江戸新吉原の妓楼、山城屋等によって寄進され、江戸よりはるばる飛騨の山中へ運ばれることとなりました。この時遊女たちの希望によって新吉原の夜の艶を添えていたサクラの一枝が梵鐘と共に小坂へ運ばれ、鐘楼のかたわらに植えられたといわれています。このため別名遊女桜とも言われています。飛騨・美濃さくら33選に指定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-15/83049179.jpg
+        source_url: https://weathernews.jp/sakura/spot/5228/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5228/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5228/
+    collections:
+      - weathernews
+  - id: wn-209
+    name_ja: 新境川堤
+    location:
+      city_ja: 各務原市
+      address_ja: 岐阜県各務原市蘇原大島町〜那加門前町周辺
+    geo:
+      lat: 35.3993
+      lng: 136.8407
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 新境川堤の両岸に約1000本の桜が続く、美しく見ごたえのある並木道です。日本さくらの会選定の「さくらの名所100選」にも選ばれており、地元では、桜を寄贈した歌舞伎役者・市川百十郎の名前にちなみ、「百十郎桜」として親しまれています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61726094.jpg
+        source_url: https://weathernews.jp/sakura/spot/209/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/209/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/209/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
+    collections:
+      - weathernews
+      - sakura100
+  - id: nt-90011-sak1307070
+    name_ja: 新境川堤
+    location:
+      address_ja: 岐阜県各務原市那加門前町外
+    geo:
+      lat: 35.411919
+      lng: 136.843564
+    trees: 1200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 岐阜県各務原市を流れる川で、「日本さくら名所100選」に選ばれている。両岸に植栽された約1200本ものソメイヨシノの桜並木は、地元出身の歌舞伎役者・市川百十郎が寄贈したもの。「百十郎桜」の呼名で愛され、3月下旬から4月上旬の開花シーズンにはライトアップされた夜桜も楽しめる。4月初旬には周辺で「各務原市桜まつり」が開催される。トイレ・売店・有料駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307070_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307070_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307070_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
+    collections:
+      - navitime
+      - sakura100
+  - id: wn-5225
+    name_ja: 新田の桜
+    location:
+      city_ja: 恵那市
+      address_ja: 岐阜県恵那市本郷
+    geo:
+      lat: 35.3064
+      lng: 137.5037
+    trees: 1
+    species_ja:
+      - エドヒガンザクラ
+    description_ja: 愛知県と県境に近い、恵那市上矢作町本郷地区の個人宅に咲く、1本のコヒガンザクラの古木で、樹高25ｍ、幹囲5.0m、樹齢500年と推定されます。見学は自由ですが、個人宅にありますのでマナーを守ってご覧ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82593605.jpg
+        source_url: https://weathernews.jp/sakura/spot/5225/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5225/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5225/
+    collections:
+      - weathernews
+  - id: wn-52014
+    name_ja: 水戸野のシダレザクラ
+    location:
+      city_ja: 白川町
+      address_ja: 岐阜県加茂郡白川町水戸野290
+    geo:
+      lat: 35.6008
+      lng: 137.231
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 岐阜県白川町水戸野地内に咲く見事な一本桜で、春になると美しい花を咲かせます。桜の周囲には静かな田んぼと茶園が広がり、特に桜の下の田んぼに水が張られると、まるで鏡のように桜を映し出す光景が広がります。この幻想的な景色は訪れる人々を魅了し、昼間は青空と桜のコントラスト、夜にはライトアップされた桜と水面に映る姿が一体となり、息をのむほどの美しさを楽しめます。春の訪れを存分に感じられる絶景スポットです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52014/1768290306_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52014/
+    collections:
+      - weathernews
+  - id: wn-52009
+    name_ja: 水道山
+    location:
+      city_ja: 岐阜市
+      address_ja: 岐阜県岐阜市上加納山
+    geo:
+      lat: 35.4221
+      lng: 136.7671
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 金華山の南に位置する山で水道山の通称で知られています。山全体に桜の木があり、4月上旬の見頃になると山の各所がピンク色に染まり市内中心街からもよく見えます。金華山ドライブウェイの道中にある展望台からは谷がピンクに染まっているような景色が楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52009/1767953369_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52009/
+    collections:
+      - weathernews
+  - id: wn-52008
+    name_ja: 生活環境保全林「みたけの森」
+    location:
+      city_ja: 御嵩町
+      address_ja: 岐阜県可児郡御嵩町中字南山2777-1
+    geo:
+      lat: 35.4146
+      lng: 137.126
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 自然林を利用して整備された約70haにわたるレクリエーションエリア。春にはソメイヨシノやヤエザクラが咲き、四季折々の花と緑に囲まれてピクニックや散策を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/52008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52008/
+    collections:
+      - weathernews
+  - id: wn-52002
+    name_ja: 相川水辺公園
+    location:
+      city_ja: 垂井町
+      address_ja: 岐阜県不破郡垂井町相川水辺公園一帯
+    geo:
+      lat: 35.3728
+      lng: 136.5292
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 同時期には「相川こいのぼり一斉遊泳」が行われており、満開の桜と相川上空を泳ぐ350匹のこいのぼりと合わせてお楽しみいただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61781203.jpg
+        source_url: https://weathernews.jp/sakura/spot/52002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52002/
+    collections:
+      - weathernews
+  - id: wn-5214
+    name_ja: 荘川桜
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市荘川町中野769-15
+    geo:
+      lat: 36.0902
+      lng: 136.9391
+    trees: 2
+    species_ja:
+      - アズマヒガンザクラ
+    description_ja: 今は湖底に沈んでいる、旧荘川村中野地区にあった「光輪寺」「照蓮寺」の境内にあった樹齢500年近い二本の桜を、昭和35年の御母衣ダム建設の際に、今の場所まで移植したもので、半世紀経過した今も見事な花を咲かせています。その移植秘話は多くの人々に感動を与えました。岐阜県指定天然記念物です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-29/96657549.jpg
+        source_url: https://weathernews.jp/sakura/spot/5214/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5214/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5214/
+    collections:
+      - weathernews
+  - id: wn-5205
+    name_ja: 大垣船町川湊(奥の細道むすびの地)
+    location:
+      city_ja: 大垣市
+      address_ja: 岐阜県大垣市船町
+    geo:
+      lat: 35.356
+      lng: 136.6125
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 松尾芭蕉のゆかりの地「奥の細道むすびの地」の桜は、「飛騨・美濃・さくら33選」に選ばれた桜の名所です。大垣船町川湊は、おくのほそ道の風景地として、国の名勝に指定された景勝地で、夜は桜のライトアップをし、芭蕉翁を想いながら桜を楽しんで頂けます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-02/71232665.jpg
+        source_url: https://weathernews.jp/sakura/spot/5205/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5205/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5205/
+    collections:
+      - weathernews
+  - id: wn-52010
+    name_ja: 大榑川桜並木
+    location:
+      city_ja: 海津市
+      address_ja: 岐阜県海津市平田町三郷2330
+    geo:
+      lat: 35.2687
+      lng: 136.6455
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 平田公園を中心とした大榑川堤約7kmの区間にソメイヨシノとサトザクラが植えられ、千本桜となっています。ソメイヨシノとサトザクラは開花時期が異なることから、2度桜を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52010/1766463544_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52010/
+    collections:
+      - weathernews
+  - id: wn-218
+    name_ja: 谷汲山華厳寺参道
+    location:
+      city_ja: 揖斐川町
+      address_ja: 岐阜県揖斐郡揖斐川町谷汲徳積23
+    geo:
+      lat: 35.5359
+      lng: 136.6076
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜に包まれた参道が誘う西国33カ所霊場満願の地。旧名鉄谷汲駅から華厳寺まで桜の道が続きます。総門から仁王門までの参道には土産物店が軒を並べています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/218/1767768859_s.webp
+        source_url: https://weathernews.jp/sakura/spot/218/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/218/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/218/
+    collections:
+      - weathernews
+  - id: wn-5218
+    name_ja: 中将姫誓願桜
+    location:
+      city_ja: 岐阜市
+      address_ja: 岐阜県岐阜市大洞1-21-2
+    geo:
+      lat: 35.453
+      lng: 136.8731
+    trees: 1
+    species_ja:
+      - ヤマザクラの変種
+      - ヤマザクラ
+    description_ja: 願成寺境内にある中将姫誓願桜は、山桜の変化したものと言われており花弁の数が20～30枚と多く国の天然記念物に指定されています。名前の由来となった中将姫は、継母からの迫害を逃れて各地を転々とした後、願成寺を参詣しました。この時中将姫は心労と長旅の疲れで病にかかっていましたが、たちまち治りました。そこで感謝の意と後世の女性たちの守りとなるよう誓願をこめて1本の桜を植えられました。これが中将姫誓願桜です。今でも4月上旬の桜の季節になると繊細な花を咲かせます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5218/1767953601_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5218/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5218/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5218/
+    collections:
+      - weathernews
+  - id: wn-217
+    name_ja: 長良川堤・岐阜公園の桜
+    location:
+      city_ja: 岐阜市
+      address_ja: 岐阜県岐阜市大宮町〜鏡岩
+    geo:
+      lat: 35.4357
+      lng: 136.7739
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+      - コヒガンザクラ
+    description_ja: 岐阜公園の桜は、例年3月下旬から4月上旬に満開となり、多くの花見客で賑わいます。満開の時期だけでなく、散り際に花びらが池に浮かぶ様も美しく、見応えがあります。また、岐阜公園の北側を流れる長良川の堤には、長良橋南詰から金華山トンネル東出入り口までの間に桜並木が続いており、岐阜公園内の桜の開花に併せて、長良川左岸堤一帯が満開の桜で埋め尽くされます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/217/1766560418_s.webp
+        source_url: https://weathernews.jp/sakura/spot/217/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/217/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/217/
+    collections:
+      - weathernews
+  - id: wn-5220
+    name_ja: 藤路の桜
+    location:
+      city_ja: 郡上市
+      address_ja: 岐阜県郡上市白鳥町向小駄良740
+    geo:
+      lat: 35.8788
+      lng: 136.8457
+    trees: 1
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢600年超、幹の周り3.6m、高さ約18ｍ、枝のひろがり約23ｍ。岐阜県天然記念物です。花盛りは例年4月中旬〜下旬となっております。白山参拝を思い立った宮本武蔵は、この地の民家に逗留し旅の疲れを癒しました。逗留のお礼として一本の山桜を植樹したと伝えられる事から、別名武蔵桜とも言われています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5220/1768378614_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5220/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5220/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5220/
+    collections:
+      - weathernews
+  - id: wn-52015
+    name_ja: 道の駅 柳津
+    location:
+      city_ja: 岐阜市
+      address_ja: 岐阜県岐阜市柳津町仙右城7696-1
+    geo:
+      lat: 35.3702
+      lng: 136.7315
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-08/95906426.jpg
+        source_url: https://weathernews.jp/sakura/spot/52015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52015/
+    collections:
+      - weathernews
+  - id: wn-5226
+    name_ja: 飛騨高山・中橋周辺
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市神明町4丁目(中橋周辺)
+    geo:
+      lat: 36.14
+      lng: 137.259
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 市内の中心部を流れる宮川にかかる飛騨高山の代表的な橋である赤い中橋と桜が調和し、とても美しい光景が見られます。夜にはその周辺をライトアップし、幻想的な春の飛騨高山を見ることができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-16/83076537.jpg
+        source_url: https://weathernews.jp/sakura/spot/5226/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5226/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5226/
+    collections:
+      - weathernews
+  - id: wn-5229
+    name_ja: 苗代桜
+    location:
+      city_ja: 下呂市
+      address_ja: 岐阜県下呂市和佐
+    geo:
+      lat: 35.7103
+      lng: 137.208
+    trees: 2
+    species_ja:
+      - エドヒガン
+    description_ja: 樹齢400年の姉妹ザクラ、その美しい桜の花を見て村人が苗代(稲の苗を作るための田んぼ)の準備をしたことよりその名がつきました。水田にライトアップされた夜桜が写った姿は美しいです。飛騨・美濃さくら33選に指定されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-12/82895535.jpg
+        source_url: https://weathernews.jp/sakura/spot/5229/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5229/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5229/
+    collections:
+      - weathernews
+  - id: wn-5223
+    name_ja: 苗木さくら公園
+    location:
+      city_ja: 中津川市
+      address_ja: 岐阜県中津川市苗木
+    geo:
+      lat: 35.5165
+      lng: 137.4846
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 苗木城跡北方の高台にある公園には、約700本の桜が植栽されており、市街地より少し遅めの春の開花期には全山がピンク色に染まり花見客で賑わいます。苗木地域を一望する眺望も見事です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5223/1767674620_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5223/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5223/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5223/
+    collections:
+      - weathernews
+  - id: wn-52011
+    name_ja: 平田公園
+    location:
+      city_ja: 海津市
+      address_ja: 岐阜県海津市平田町三郷田町三郷2330
+    geo:
+      lat: 35.268
+      lng: 136.6455
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+    description_ja: 平田公園は1.5haにも及ぶ広大な敷地の公園で、500席収容の全天候型多目的ドームをはじめパターゴルフ場、芝生広場やコンビネーション遊具、全長80ｍのローラー滑り台があります。平田公園を中心とした大榑川堤約8kmの区間（平田靱負ロード）にソメイヨシノとサトザクラが植えられ、平田靱負桜と命名されています。ソメイヨシノとサトザクラは開花時期が異なり、2度桜を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61672262.jpg
+        source_url: https://weathernews.jp/sakura/spot/52011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52011/
+    collections:
+      - weathernews
+  - id: wn-5216
+    name_ja: 墨俣一夜城・犀川堤の桜
+    location:
+      city_ja: 大垣市
+      address_ja: 岐阜県大垣市墨俣町墨俣字城之越1742-1
+    geo:
+      lat: 35.3671
+      lng: 136.6878
+    trees: 750
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 町の北端・東端を流れる犀川の堤には、約800本の桜並木が約3.7kmにわたって続いています。桜並木のトンネルを抜けて、太閣出世橋を渡ると一夜城址公園。特にぼんぼりに灯がともる夜桜を眺めながらの散策は最高です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-10/97042247.jpg
+        source_url: https://weathernews.jp/sakura/spot/5216/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5216/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5216/
+    collections:
+      - weathernews
+  - id: wn-52007
+    name_ja: 本町公園
+    location:
+      city_ja: 中津川市
+      address_ja: 岐阜県中津川市本町3-6
+    geo:
+      lat: 35.4958
+      lng: 137.499
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園には約950mのミニ中山道と呼ばれる遊歩道があり、沿道の桜並木がオススメ。また園内には野外ステージや遊具、蒸気機関車「D51」の展示もあります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/52007/1767674535_s.webp
+        source_url: https://weathernews.jp/sakura/spot/52007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/52007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/52007/
+    collections:
+      - weathernews
+  - id: wn-5219
+    name_ja: 明建神社
+    location:
+      city_ja: 郡上市
+      address_ja: 岐阜県郡上市大和町牧
+    geo:
+      lat: 35.8118
+      lng: 136.9235
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 明建神社は、中世の領主である東氏が勧請した神社で、750年あまりの歴史があります。中世の馬場跡とも伝えられる、同神社の230mの横参道には、100本あまりの桜が植えられており、最盛期にはソメイヨシノとヤマザクラの桜のトンネルができます。飛騨美濃さくら33選、県指定天然記念物。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-16/96198164.jpg
+        source_url: https://weathernews.jp/sakura/spot/5219/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5219/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5219/
+    collections:
+      - weathernews
+  - id: wn-5234
+    name_ja: 薬師堂の枝垂れ桜
+    location:
+      city_ja: 高山市
+      address_ja: 岐阜県高山市朝日町万石
+    geo:
+      lat: 36.0883
+      lng: 137.3454
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: 朝日町に数多くある枝垂れ桜の代表的な1本です。「飛騨・美濃さくら33選」にも指定されております。国道361号線沿いにあるため車に十分注意して下さい。また飛騨あさひ観光協会では毎年「飛騨あさひ桜巡り」が開催され、夜はライトアップも実施されます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-04-10/54961629.jpg
+        source_url: https://weathernews.jp/sakura/spot/5234/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5234/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5234/
+    collections:
+      - weathernews
+  - id: wn-5233
+    name_ja: 揖斐二度ザクラ
+    location:
+      city_ja: 大野町
+      address_ja: 岐阜県揖斐郡大野町南方186
+    geo:
+      lat: 35.4531
+      lng: 136.6222
+    trees: 82
+    species_ja:
+      - ヤマザクラ
+    description_ja: 国指定天然記念物。1本の木に、一重と八重の花が咲く珍しい桜。とくに八重咲きの中に、二段咲きの花が見られます。平成24年3月に公園が整備され、国の天然記念物に指定された揖斐二度ザクラの分け木が植栽されています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-05/95769152.jpg
+        source_url: https://weathernews.jp/sakura/spot/5233/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5233/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5233/
+    collections:
+      - weathernews
+  - id: wn-216
+    name_ja: 養老公園
+    location:
+      city_ja: 養老町
+      address_ja: 岐阜県養老郡養老町高林1298-2
+    geo:
+      lat: 35.2826
+      lng: 136.544
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内の3000本の桜が一斉に咲き誇る様は見事の一言！濃尾平野を一望できる雄大な景色と桜の共演をお楽しみ下さい。滝谷「養老孝子坂」よりお店屋が並び、食べ歩きも楽しめます。また不動橋周辺は写真スポットでも人気です。※バーベキュー、鍋などの火気は使用不可。ペットは一部エリアを除き、連れ込み可能です。HPをご参照下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-02/82517919.jpg
+        source_url: https://weathernews.jp/sakura/spot/216/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/216/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307158/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/216/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307158/
+    collections:
+      - weathernews
+      - navitime

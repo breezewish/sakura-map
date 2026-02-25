@@ -1,0 +1,900 @@
+prefecture:
+  id: 15
+  name_ja: 新潟県
+  name_en: Niigata
+spots:
+  - id: wn-54013
+    name_ja: 安塚リバーサイドロード
+    location:
+      city_ja: 上越市
+      address_ja: 新潟県上越市安塚区内
+    geo:
+      lat: 37.141
+      lng: 138.4396
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 安塚区内を流れる小黒川沿いでは、松崎地区から和田地区までの約6キロメートルにわたり、約500本のソメイヨシノが満開となっています。また、一部のエリアではライトアップされていますので、昼夜を問わずリバーサイドロードを歩きながら、満開の桜を楽しむことができますので、ぜひ安塚区にお出かけください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54013/1766626102_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54013/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54013/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54013/
+    collections:
+      - weathernews
+  - id: wn-5409
+    name_ja: 加治川治水記念公園
+    location:
+      city_ja: 新発田市
+      address_ja: 新潟県新発田市真野原463-1
+    geo:
+      lat: 37.9896
+      lng: 139.3007
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 6000本の桜が連なり、かつて「長堤十里世界一」といわしめた桜の名所です。その姿は昭和41・42水害と河川改修で失われてしまいましたが、復元が進み、現在では加治川沿いに約2000本の桜を見ることができます。満開の頃には、桜のトンネルが現れ多くの人で賑わいます。開花時期にあわせて、一部で夜桜のライトアップも行われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5409/1768293165_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5409/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5409/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5409/
+    collections:
+      - weathernews
+  - id: wn-54018
+    name_ja: 海川の桜づつみ
+    location:
+      city_ja: 糸魚川市
+      address_ja: 新潟県糸魚川市竹ケ花579
+    geo:
+      lat: 37.0446
+      lng: 137.8873
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 海川下流の堤防に植えられた桜。樹齢は若いものの、近ごろは花がたくさん咲くようになり、お花見の新名所になりました。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54018/1769561155_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54018/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54018/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54018/
+    collections:
+      - weathernews
+  - id: wn-54005
+    name_ja: 魚野川桜づつみ
+    location:
+      city_ja: 魚沼市
+      address_ja: 新潟県魚沼市青島667
+    geo:
+      lat: 37.2195
+      lng: 138.9583
+    trees: 280
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+      - オオヤマザクラ
+    description_ja: 約2kmにわたり続く魚野川沿いの並木道は新潟県健康ウォーキングロードとしても登録されています。遠くには越後三山も眺めることができます。川のせせらぎを聴きながら、春の風を感じ桜を見られるスポットです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-30/96709489.jpg
+        source_url: https://weathernews.jp/sakura/spot/54005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54005/
+    collections:
+      - weathernews
+  - id: wn-54012
+    name_ja: 経塚山公園
+    location:
+      city_ja: 妙高市
+      address_ja: 新潟県妙高市小出雲335
+    geo:
+      lat: 37.0139
+      lng: 138.2542
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ他
+    description_ja: 日本海と妙高連峰を望む高台に広がる、妙高市屈指のお花見スポット。春になると園内を彩る桜が一斉に咲き誇り、青空と山並みを背景にした美しい景色が楽しめます。展望台からの眺めは格別で、天気の良い日には日本海と妙高連峰を同時に一望。広々とした運動広場や遊具、散策にぴったりの遊歩道も整備されており、子どもからご高齢の方までゆったりと春のひとときを過ごせます。桜の最盛期には多くの花見客でにぎわい、期間中は灯籠によるライトアップも予定。やわらかな灯りに照らされる夜桜は、昼間とはまた違った幻想的な表情を見せてくれます。昼も夜も楽しめる、妙高の春を代表する憩いの公園です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/54012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54012/
+    collections:
+      - weathernews
+  - id: wn-230
+    name_ja: 高田城址公園
+    location:
+      city_ja: 上越市
+      address_ja: 新潟県上越市本城町44-1
+    geo:
+      lat: 37.1108
+      lng: 138.2544
+    trees: 4000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高田城址公園や、その周辺を含め約4000本の桜が咲き誇ります。また、ぼんぼりに照らされた美しい桜とライトアップされた高田城三重櫓が堀の水面に映える様が、日本三大夜桜の一つに数えらています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/230/1766473890_s.webp
+        source_url: https://weathernews.jp/sakura/spot/230/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/230/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500584/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/230/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500584/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-5402
+    name_ja: 坂田池
+    location:
+      city_ja: 上越市
+      address_ja: 新潟県上越市柿崎区上下浜
+    geo:
+      lat: 37.2486
+      lng: 138.3676
+    trees: 301
+    species_ja:
+      - ソメイヨシノ
+      - ヨウコウ
+      - シダレザクラ
+    description_ja: 池の岸辺に約300本のソメイヨシノ・陽光桜が咲き誇ります。観桜会期間は4/1〜15で、期間中にはイベント・露店の出店があります（4/11、予備日4/12）。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-14/83003312.jpg
+        source_url: https://weathernews.jp/sakura/spot/5402/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5402/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5402/
+    collections:
+      - weathernews
+  - id: wn-54002
+    name_ja: 桜公園（大峰山）
+    location:
+      city_ja: 新発田市
+      address_ja: 新潟県新発田市貝屋
+    geo:
+      lat: 38.0189
+      lng: 139.3959
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラほか
+    description_ja: 国の天然記念物でもある大峰山の橡平桜樹林にほど近く、約5.2haの敷地に約100種類300本の桜が植栽されています。冬に咲く珍しい桜もあり、桜の詳細がわかる図鑑の立札を見るのも楽しみのひとつです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54002/1769496985_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54002/
+    collections:
+      - weathernews
+  - id: wn-54004
+    name_ja: 桜遊歩道公園
+    location:
+      city_ja: 新潟市南区
+      address_ja: 新潟県新潟市南区鷲ノ木新田
+    geo:
+      lat: 37.846
+      lng: 139.0222
+    trees: 80
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 春の桜から初夏のツツジまで楽しめます。桜の開花時期は夜のライトアップも行い、川面に反射する様子は圧巻です。ヘラブナの釣り場としても有名です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82874453.jpg
+        source_url: https://weathernews.jp/sakura/spot/54004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54004/
+    collections:
+      - weathernews
+  - id: wn-54021
+    name_ja: 山の下海浜公園
+    location:
+      city_ja: 新潟市東区
+      address_ja: 新潟県新潟市東区船江町１丁目４２
+    geo:
+      lat: 37.9541
+      lng: 139.0941
+    trees: 185
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/54021/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54021/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54021/
+    collections:
+      - weathernews
+  - id: wn-233
+    name_ja: 秋葉公園
+    location:
+      city_ja: 新潟市秋葉区
+      address_ja: 新潟県新潟市秋葉区秋葉3丁目
+    geo:
+      lat: 37.787
+      lng: 139.1362
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 見晴広場を中心に、園内には約200本ほどの桜の木があります。秋葉湖の周りでも桜の木が並び、近くのキャンプ場や運動広場から楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71188496.jpg
+        source_url: https://weathernews.jp/sakura/spot/233/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/233/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/233/
+    collections:
+      - weathernews
+  - id: wn-232
+    name_ja: 諸上寺公園(ヤエザクラ)
+    location:
+      city_ja: 村上市
+      address_ja: 新潟県村上市岩船(岩船港鮮魚センター付近)
+    geo:
+      lat: 38.2017
+      lng: 139.4338
+    trees: 500
+    species_ja:
+      - ヤエザクラ
+      - ソメイヨシノ
+    description_ja: 日本海の佐渡や粟島、朝日連峰の素晴らしい眺めが見渡せます。桜並木の遊歩道が続き、散策にもぴったりです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/232/1767597105_s.webp
+        source_url: https://weathernews.jp/sakura/spot/232/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/232/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/232/
+    collections:
+      - weathernews
+  - id: wn-54006
+    name_ja: 小出公園
+    location:
+      city_ja: 魚沼市
+      address_ja: 新潟県魚沼市青島1609
+    geo:
+      lat: 37.2281
+      lng: 138.9552
+    trees: 90
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 越後三山や魚野川、魚沼の雄大な自然を背景に咲き誇る桜を楽しめます。遊歩道を歩き季節の花々を愛でながら山頂まで散策するのもお勧めです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-05/96873630.jpg
+        source_url: https://weathernews.jp/sakura/spot/54006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54006/
+    collections:
+      - weathernews
+  - id: wn-240
+    name_ja: 松ケ峯周辺の桜
+    location:
+      city_ja: 上越市
+      address_ja: 新潟県上越市中郷区江口字松ヶ峯
+    geo:
+      lat: 36.9495
+      lng: 138.2103
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 新潟県上越市中郷区松ヶ峯は、約1500本と言われる桜の名所です。美しい桜と残雪の妙高山とのコントラストが織り成す風景がとても美しく、毎年大勢の方が写真撮影や見物に訪れています。また、夜間には一部の桜をライトアップし、昼間と違った幻想的な桜を楽しむこともできます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71443923.jpg
+        source_url: https://weathernews.jp/sakura/spot/240/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/240/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/240/
+    collections:
+      - weathernews
+  - id: wn-54015
+    name_ja: 上堰潟公園
+    location:
+      city_ja: 新潟市西蒲区
+      address_ja: 新潟県新潟市西蒲区松野尾1番地
+    geo:
+      lat: 37.7908
+      lng: 138.8665
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 角田山の麓にある広大な公園、春は桜や菜の花、夏はひまわり、秋はコスモスが咲き誇る。ログハウスの休憩所などがあり屋根付きの施設でバーベキューを楽しむこともできます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54015/1768808441_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54015/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54015/
+    collections:
+      - weathernews
+  - id: wn-54010
+    name_ja: 信濃川やすらぎ堤緑地
+    location:
+      city_ja: 新潟市中央区
+      address_ja: 新潟県新潟市中央区一番堀通町
+    geo:
+      lat: 37.912
+      lng: 139.0401
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - サトザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-13/61972170.jpg
+        source_url: https://weathernews.jp/sakura/spot/54010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54010/
+    collections:
+      - weathernews
+  - id: wn-225
+    name_ja: 新潟県立鳥屋野潟公園(新潟県スポーツ公園)
+    location:
+      city_ja: 新潟市中央区
+      address_ja: 新潟県新潟市中央区清五郎33-1
+    geo:
+      lat: 37.8838
+      lng: 139.0569
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約500本ものソメイヨシノのほか、オオシマザクラやエドヒガン、ギョイコウなどが見られます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-12/61948688.jpg
+        source_url: https://weathernews.jp/sakura/spot/225/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/225/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/225/
+    collections:
+      - weathernews
+  - id: wn-54025
+    name_ja: 新江の桜並木
+    location:
+      city_ja: 阿賀野市
+      address_ja: 新潟県阿賀野市保田南郷
+    geo:
+      lat: 37.7621
+      lng: 139.2342
+    trees: 550
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 用水路の両岸に沿って並ぶ桜並木は圧巻の景色です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54025/1771899394_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54025/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54025/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54025/
+    collections:
+      - weathernews
+  - id: wn-237
+    name_ja: 新発田城址公園
+    location:
+      city_ja: 新発田市
+      address_ja: 新潟県新発田市大手町6丁目
+    geo:
+      lat: 37.9543
+      lng: 139.3238
+    trees: 260
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 日本100名城「新発田城」すぐ横に位置する公園で、お堀沿いに整備された桜や園内各所に咲く桜が楽しめます。切込みはぎと呼ばれる美しい石垣や国の重要文化財に指定されている「表門」「旧二の丸隅櫓」と桜の共演は必見です。広大な公園内には芝生が敷かれており、ゆっくりとお花見するにはぴったり。開花時期に合わせて行われる新発田城のライトアップやぼんぼりの明かりが幻想的な雰囲気を演出します。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/237/1768292781_s.webp
+        source_url: https://weathernews.jp/sakura/spot/237/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/237/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/237/
+    collections:
+      - weathernews
+  - id: wn-54023
+    name_ja: 新発田中央公園
+    location:
+      city_ja: 新発田市
+      address_ja: 新潟県新発田市本町4-16
+    geo:
+      lat: 37.9507
+      lng: 139.3394
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+    description_ja: JR羽越本線の線路沿いにある公園で、桜並木の下を歩くことができる。公園内には子ども向けの遊具も数多く設置されており、休日には数多くの家族連れでにぎわう。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54023/1769498781_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54023/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54023/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54023/
+    collections:
+      - weathernews
+  - id: wn-238
+    name_ja: 真野公園
+    location:
+      city_ja: 佐渡市
+      address_ja: 新潟県佐渡市真野663
+    geo:
+      lat: 37.9563
+      lng: 138.3448
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 佐渡随一の桜の名所で約2000本(ソメイヨシノ、八重、ヤマザクラ等)があり、園内には順徳天皇をお祀りした真野宮や佐渡ゆかりの事物に出会える佐渡歴史伝説館があります。又、文学散歩道には、昭和天皇御製と真野にゆかりのある著名な作家、詩人、俳人の作品の文学碑があります。桜開花ピーク時に、夜間ライトアップが雰囲気を盛り上げます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-11/61922806.jpg
+        source_url: https://weathernews.jp/sakura/spot/238/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/238/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/238/
+    collections:
+      - weathernews
+  - id: wn-5410
+    name_ja: 神林水辺の楽校
+    location:
+      city_ja: 村上市
+      address_ja: 新潟県村上市葛龍山1068-1
+    geo:
+      lat: 38.1326
+      lng: 139.4661
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園内には小川があり小魚や水生昆虫が真近でみられ、キャンプサイトでは野外炉でバーベキューを楽しむことができ、残雪が残る飯豊連峰、日本海に沈む夕日をご堪能いただけます。詳しくは村上市HPを確認ください。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5410/1766477237_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5410/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5410/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5410/
+    collections:
+      - weathernews
+  - id: wn-235
+    name_ja: 赤坂山公園
+    location:
+      city_ja: 柏崎市
+      address_ja: 新潟県柏崎市緑町・赤坂町地内
+    geo:
+      lat: 37.3583
+      lng: 138.5422
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シダレザクラ
+    description_ja: 春には、ソメイヨシノや八重桜、しだれ桜が約400本咲き乱れます。公園内には芝生広場や川、滝や遊具もあり子供にも人気のスポットです。2019年まで実施し、好評をいただいておりました、日没後のライトアップは行わないことになりました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82974821.jpg
+        source_url: https://weathernews.jp/sakura/spot/235/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/235/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/235/
+    collections:
+      - weathernews
+  - id: wn-54016
+    name_ja: 船岡公園
+    location:
+      city_ja: 小千谷市
+      address_ja: 新潟県小千谷市稲荷町12-2
+    geo:
+      lat: 37.3044
+      lng: 138.7952
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/54016/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54016/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54016/
+    collections:
+      - weathernews
+  - id: wn-226
+    name_ja: 村松公園
+    location:
+      city_ja: 五泉市
+      address_ja: 新潟県五泉市愛宕甲2631番地1
+    geo:
+      lat: 37.6926
+      lng: 139.1885
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約3000本もの桜(9割がソメイヨシノ)が立ち並び、「日本さくら名所100選」及び「にいがた景勝100選」で第３位に選出されています。園内は広くレジャーシートを広げてのお花見にもってこいです。遊具もあるので家族でゆったりと楽しめます。見頃期間中は、夜桜ライトアップも実施され、幻想的な風景に包まれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-04-12/18432203.jpg
+        source_url: https://weathernews.jp/sakura/spot/226/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/226/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307095/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%9D%91%E6%9D%BE%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/226/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307095/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%91%E6%9D%BE%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-54020
+    name_ja: 胎内川河川敷千本桜
+    location:
+      city_ja: 胎内市
+      address_ja: 新潟県胎内市夏井
+    geo:
+      lat: 38.0368
+      lng: 139.4847
+    trees: 660
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 胎内市夏井地区にある「胎内川河川敷千本桜」は、雪深い地域ならではの春の訪れを感じられる名所です。毎年4月中旬頃になると、飯豊連峰を源とする胎内川の上流部に沿って、約1kmにわたる染井吉野の桜並木が一斉に咲き誇ります。川沿いの両岸を淡い桜色が包み込み、せせらぎの音とともに歩ける並木道は、訪れる人を魅了する美しい景観として親しまれています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54020/1771224685_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54020/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54020/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54020/
+    collections:
+      - weathernews
+  - id: wn-227
+    name_ja: 大河津分水桜並木
+    location:
+      city_ja: 燕市
+      address_ja: 新潟県燕市五千石地内
+    geo:
+      lat: 37.6142
+      lng: 138.8411
+    trees: 1500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 世紀の大事業、「大河津分水路建設工事」の偉業を称えて植えられた約1500本ものソメイヨシノが分水路の堤防沿いに咲き誇ります。2026年3月20日(金)～4月19日(日)は「2026つばめ桜まつり」が開催され、夜桜がライトアップされるほか、市内各地において桜イベントが華やかに繰り広げられます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/227/1767924402_s.webp
+        source_url: https://weathernews.jp/sakura/spot/227/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/227/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307098/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E6%B4%A5%E5%88%86%E6%B0%B4%E8%B7%AF
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/227/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307098/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E6%B4%A5%E5%88%86%E6%B0%B4%E8%B7%AF
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-239
+    name_ja: 椎崎公園
+    location:
+      city_ja: 佐渡市
+      address_ja: 新潟県佐渡市原黒724
+    geo:
+      lat: 38.0677
+      lng: 138.4388
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 公園は湖畔の高台にあり周囲が約17kmの新潟県で1番大きな加茂湖、標高1172mの佐渡最高峰金北山などの景観も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/239/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/239/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/239/
+    collections:
+      - weathernews
+  - id: wn-54001
+    name_ja: 湯沢中央公園
+    location:
+      city_ja: 湯沢町
+      address_ja: 新潟県南魚沼郡湯沢町神立628-1
+    geo:
+      lat: 36.9356
+      lng: 138.8219
+    trees: 280
+    species_ja:
+      - ベニヤマザクラ
+    description_ja: 桜は公園内にある池の周りに配植されていて、桜のピンク色と遠くの山々の残雪とのコントラストが綺麗な時期。春の遅い湯沢では、例年、4月中旬から5月上旬にかけて桜が見ごろとなります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-05-02/96785481.jpg
+        source_url: https://weathernews.jp/sakura/spot/54001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54001/
+    collections:
+      - weathernews
+  - id: wn-54014
+    name_ja: 徳合しだれ桜
+    location:
+      city_ja: 糸魚川市
+      address_ja: 新潟県糸魚川市 大字徳合6755
+    geo:
+      lat: 37.1347
+      lng: 138.0739
+    trees: 300
+    species_ja:
+      - シダレザクラ
+    description_ja: 国土交通省の日本風景街道にも認定された、徳合(とくあい)地区には街道沿いに枝垂れ桜が植えられています。数は100本以上あり、種類もいろいろです。枝垂れ桜と一緒に農作業の進む田畑や農村の風景を撮影することができる糸魚川世界ジオパークの桜の名所です。※工事中でした県道は、令和6年10月23日に全面開通となりました。皆様のお越しをお待ちしております。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/54014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54014/
+    collections:
+      - weathernews
+  - id: wn-54009
+    name_ja: 白山公園
+    location:
+      city_ja: 新潟市中央区
+      address_ja: 新潟県新潟市中央区一番堀通町1-2
+    geo:
+      lat: 37.915
+      lng: 139.0378
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82817390.jpg
+        source_url: https://weathernews.jp/sakura/spot/54009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54009/
+    collections:
+      - weathernews
+  - id: wn-54011
+    name_ja: 姫川の桜づつみ
+    location:
+      city_ja: 糸魚川市
+      address_ja: 新潟県糸魚川市寺島
+    geo:
+      lat: 37.0299
+      lng: 137.8412
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 姫川河口から約2kmにわたる桜並木。まだ残雪のある山々との競演に心を奪われます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54011/1769560967_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54011/
+    collections:
+      - weathernews
+  - id: wn-54003
+    name_ja: 瓢湖水きん公園
+    location:
+      city_ja: 阿賀野市
+      address_ja: 新潟県阿賀野市水原313-1
+    geo:
+      lat: 37.8391
+      lng: 139.2385
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - ユイザクラ
+    description_ja: ハクチョウたちの北帰行が終わった4月上旬から湖岸を廻るように植えられた桜並木(主にソメイヨシノ)の花がほころび始め、例年4月上旬に見頃を迎えます。瓢湖（本池）は1周約1.2kmで、桜並木の下を散策できます。また、ゴールデンウィークの頃には、小高い八重桜園に植えられたヤエザクラが見頃となります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82958884.jpg
+        source_url: https://weathernews.jp/sakura/spot/54003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54003/
+    collections:
+      - weathernews
+  - id: wn-54017
+    name_ja: 福島江沿い
+    location:
+      city_ja: 長岡市
+      address_ja: 新潟県長岡市台町1～福住3
+    geo:
+      lat: 37.4493
+      lng: 138.8573
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 長岡駅近くを流れる用水路沿い約1㎞にわたって、川面に覆いかぶさるように立派な桜が連なります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54017/1766708968_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54017/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54017/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54017/
+    collections:
+      - weathernews
+  - id: wn-54007
+    name_ja: 弁天潟風致公園
+    location:
+      city_ja: 聖籠町
+      address_ja: 新潟県北蒲原郡聖籠町蓮野1027-1
+    geo:
+      lat: 37.9636
+      lng: 139.2629
+    trees: 20
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 一年中、四季の移り変わりを楽しむことができる公園です。毎年、春より初夏にかけて桜、紫陽花、蓮の花が咲きます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82864992.jpg
+        source_url: https://weathernews.jp/sakura/spot/54007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54007/
+    collections:
+      - weathernews
+  - id: wn-234
+    name_ja: 弥彦公園
+    location:
+      city_ja: 弥彦村
+      address_ja: 新潟県西蒲原郡弥彦村弥彦
+    geo:
+      lat: 37.6995
+      lng: 138.8301
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 弥彦駅前停車場通りの早咲き桜が春の訪れを告げ、弥彦の桜シーズンは駅前から始まります。例年3月下旬頃から淡いピンクの花が咲き、訪れた人を最初に迎えてくれるスポットです。その先に広がる弥彦公園では、ソメイヨシノが公園を取り囲むように咲き、特に外苑坂通りにある公園入口の“桜のアーチ”が人気です。また、淡い黄緑色の花を咲かせる珍しい桜「御衣黄（ぎょいこう）」も見ることができます。見頃の時期には「やひこマルシェ」も開催され、お花見と併せて楽しめます。18時〜21時にはライトアップが行われ、昼とは違う幻想的な夜桜が広がります。弥彦公園周辺のほかにも、彌彦神社桜苑では約50種もの桜が順に咲き、遅咲きの八重桜が4月下旬頃まで楽しめます。桜苑に最も近い駐車場周辺も、満開時には一帯が桜色に包まれる隠れた名所です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/234/1769393671_s.webp
+        source_url: https://weathernews.jp/sakura/spot/234/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/234/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/234/
+    collections:
+      - weathernews
+  - id: wn-54008
+    name_ja: 悠久山公園
+    location:
+      city_ja: 長岡市
+      address_ja: 新潟県長岡市御山町80-5
+    geo:
+      lat: 37.4301
+      lng: 138.8824
+    trees: 2500
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+      - シダレザクラ
+      - ウコン
+      - ギョイコウ
+    description_ja: ソメイヨシノやシダレザクラ、ヤエザクラなど約2500本の桜が咲き誇ります。淡黄緑色の花を咲かせるウコンは珍しいです。園内には小動物園や郷土史料館もあり楽しく過ごせます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/54008/1766457076_s.webp
+        source_url: https://weathernews.jp/sakura/spot/54008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/54008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/54008/
+    collections:
+      - weathernews

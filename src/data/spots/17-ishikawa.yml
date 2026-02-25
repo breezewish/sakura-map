@@ -1,0 +1,514 @@
+prefecture:
+  id: 17
+  name_ja: 石川県
+  name_en: Ishikawa
+spots:
+  - id: wn-256
+    name_ja: 芦城公園
+    location:
+      city_ja: 小松市
+      address_ja: 石川県小松市丸の内公園町19
+    geo:
+      lat: 36.4098
+      lng: 136.4478
+    trees: 130
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 芦城公園は加賀三代藩主前田利常の晩年の居城であった小松城の三の丸跡に作られた公園です。桜はソメイヨシノを中心に4種約130本植栽されています。※たき火、炭火等の使用、テント張り、縄ロープ張り、大音量カラオケ、音楽、騒音等、電気の引き込み使用等を禁止致します。ご協力お願いいたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-11/61924260.jpg
+        source_url: https://weathernews.jp/sakura/spot/256/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/256/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/256/
+    collections:
+      - weathernews
+  - id: wn-261
+    name_ja: 一本松総合運動公園
+    location:
+      city_ja: 輪島市
+      address_ja: 石川県輪島市河井町十三部ほか
+    geo:
+      lat: 37.3914
+      lng: 136.9087
+    trees: 1008
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 園内には1000本をこえる各種桜があります。園内立ち入り禁止区間がございますのでご注意ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-04-12/18421136.jpg
+        source_url: https://weathernews.jp/sakura/spot/261/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/261/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/261/
+    collections:
+      - weathernews
+  - id: wn-259
+    name_ja: 卯辰山公園
+    location:
+      city_ja: 金沢市
+      address_ja: 石川県金沢市末広町ほか
+    geo:
+      lat: 36.5731
+      lng: 136.6778
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 卯辰山公園は標高141mで金沢市街・白山を一望でき、4月上旬〜中旬にかけては、公園線道路沿線を車で走りながら桜並木を楽しめます。また園内の四百年の森では八重桜、しだれ桜、ソメイヨシノ等約300本の桜を楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-12/61951790.jpg
+        source_url: https://weathernews.jp/sakura/spot/259/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/259/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/259/
+    collections:
+      - weathernews
+  - id: wn-5602
+    name_ja: 加賀市中央公園
+    location:
+      city_ja: 加賀市
+      address_ja: 石川県加賀市山田町り245番地の2
+    geo:
+      lat: 36.322
+      lng: 136.3309
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1.8haの芝生広場と約1000本の桜並木があります。桜以外にもつつじ、さつき、ふじ、ぼたんなどもあります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-05/31644205.jpg
+        source_url: https://weathernews.jp/sakura/spot/5602/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5602/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5602/
+    collections:
+      - weathernews
+  - id: wn-56003
+    name_ja: 喜多家しだれ桜
+    location:
+      city_ja: かほく市
+      address_ja: 石川県かほく市上山田ハ15
+    geo:
+      lat: 36.7137
+      lng: 136.7247
+    species_ja:
+      - エドヒガンザクラ
+      - シダレザクラ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/56003/1767657579_s.webp
+        source_url: https://weathernews.jp/sakura/spot/56003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/56003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/56003/
+    collections:
+      - weathernews
+  - id: wn-56001
+    name_ja: 希望の丘公園
+    location:
+      city_ja: 七尾市
+      address_ja: 石川県七尾市万行町43-188
+    geo:
+      lat: 37.0305
+      lng: 136.9903
+    trees: 170
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: さくらの広場を囲むように桜が植えられています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82932603.jpg
+        source_url: https://weathernews.jp/sakura/spot/56001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/56001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/56001/
+    collections:
+      - weathernews
+  - id: wn-5606
+    name_ja: 倶利伽羅公園
+    location:
+      city_ja: 津幡町
+      address_ja: 石川県河北郡津幡町字倶利伽羅
+    geo:
+      lat: 36.6614
+      lng: 136.8157
+    trees: 6000
+    species_ja:
+      - ヤエザクラ
+    description_ja: 倶利伽羅峠にある当公園は源平古戦場や八重桜の名所として、多くの人々が集う公園となっています。毎年4月中旬から5月上旬にかけて、峠一帯の八重桜約6000本が咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5606/1766543197_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5606/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5606/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5606/
+    collections:
+      - weathernews
+  - id: wn-258
+    name_ja: 熊坂川河畔
+    location:
+      city_ja: 加賀市
+      address_ja: 石川県加賀市大聖寺越前町
+    geo:
+      lat: 36.3032
+      lng: 136.3087
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約1kmに渡って、200本ほどの桜並木が続きます。開花中はぼんぼりが灯され、しっとりと夜桜見物も楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-30/71116435.jpg
+        source_url: https://weathernews.jp/sakura/spot/258/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/258/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/258/
+    collections:
+      - weathernews
+  - id: wn-56002
+    name_ja: 志乎･桜の里 古墳公園
+    location:
+      city_ja: 宝達志水町
+      address_ja: 石川県羽咋郡宝達志水町石坂地内
+    geo:
+      lat: 36.8567
+      lng: 136.8161
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国指定史跡「散田金谷古墳」を含む約5.6ヘクタールの敷地に、6世紀後半に築造された6基の円墳群が整備されているだけでなく、36種類約1000本にも及ぶ桜も植樹されている全国的にも珍しい公園です。公園内には芝生広場や休憩所も配置してあり、訪れる人たちに憩いのひとときを感じさせてくれます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/56002/1767930599_s.webp
+        source_url: https://weathernews.jp/sakura/spot/56002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/56002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/56002/
+    collections:
+      - weathernews
+  - id: wn-5609
+    name_ja: 樹木公園(ケンロクエンキクザクラ)
+    location:
+      city_ja: 白山市
+      address_ja: 石川県白山市三宮町ホ1
+    geo:
+      lat: 36.4306
+      lng: 136.6407
+    trees: 900
+    species_ja:
+      - ケンロクエンキクザクラ
+      - ヒヨドリザクラ
+      - ソメイヨシノ
+    description_ja: 鵯桜(ひよどりざくら)、兼六園菊桜(けんろくえんきくざくら)など、石川県由来の菊咲きの品種を多数見ることができます。また、染井吉野(そめいよしの)は4月上旬頃から、八重咲きの桜は4月中旬頃から見頃になります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5609/1767586668_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5609/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5609/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307084/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5609/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307084/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-5611
+    name_ja: 樹木公園(ソメイヨシノ)
+    location:
+      city_ja: 白山市
+      address_ja: 石川県白山市三宮町ホ1
+    geo:
+      lat: 36.4306
+      lng: 136.6407
+    trees: 900
+    species_ja:
+      - ソメイヨシノ
+      - ヒヨドリザクラ
+      - ケンロクエンキクザクラ
+    description_ja: 鵯桜(ひよどりざくら)、兼六園菊桜(けんろくえんきくざくら)など、石川県由来の菊咲きの品種を多数見ることができます。また、染井吉野(そめいよしの)は4月上旬頃から、八重咲きの桜は4月中旬頃から見頃になります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5611/1767587090_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5611/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5611/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5611/
+    collections:
+      - weathernews
+  - id: wn-268
+    name_ja: 樹木公園(ヒヨドリザクラ)
+    location:
+      city_ja: 白山市
+      address_ja: 石川県白山市三宮町ホ1
+    geo:
+      lat: 36.4307
+      lng: 136.6407
+    trees: 900
+    species_ja:
+      - ヒヨドリザクラ
+      - ケンロクエンキクザクラ
+      - ソメイヨシノ
+    description_ja: 鵯桜(ひよどりざくら)、兼六園菊桜（けんろくえんきくざくら）など、石川県由来の菊咲きの品種を多数見ることができます。また、染井吉野(そめいよしの)は4月上旬頃から、八重咲きの桜は4月中旬頃から見頃になります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/268/1767586997_s.webp
+        source_url: https://weathernews.jp/sakura/spot/268/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/268/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/268/
+    collections:
+      - weathernews
+  - id: wn-56006
+    name_ja: 松任城址公園
+    location:
+      city_ja: 白山市
+      address_ja: 石川県白山市古城町42番地
+    geo:
+      lat: 36.525
+      lng: 136.5659
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 松任駅前にある旧松任城の本丸跡につくられた公園です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82700626.jpg
+        source_url: https://weathernews.jp/sakura/spot/56006/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/56006/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/56006/
+    collections:
+      - weathernews
+  - id: wn-5605
+    name_ja: 西川通り
+    location:
+      city_ja: 白山市
+      address_ja: 石川県白山市博労２丁目
+    geo:
+      lat: 36.5174
+      lng: 136.5684
+    trees: 110
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 西川通りの桜並木は、閑静な町並みをゆっくり歩きながら散策できます。近くには公園もあるので、小さなお子さま連れの方にもおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82721061.jpg
+        source_url: https://weathernews.jp/sakura/spot/5605/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5605/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5605/
+    collections:
+      - weathernews
+  - id: wn-262
+    name_ja: 大堰宮公園
+    location:
+      city_ja: 加賀市
+      address_ja: 石川県加賀市山代温泉11−49戌1
+    geo:
+      lat: 36.2859
+      lng: 136.3516
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノを中心に約200本の桜があります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/262/1768295267_s.webp
+        source_url: https://weathernews.jp/sakura/spot/262/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/262/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/262/
+    collections:
+      - weathernews
+  - id: wn-257
+    name_ja: 特別名勝兼六園
+    location:
+      city_ja: 金沢市
+      address_ja: 石川県金沢市兼六町1
+    geo:
+      lat: 36.5627
+      lng: 136.662
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日本三名園の1つ。サクラの本数約400本、ソメイヨシノ約190本、ヒガンザクラ約70本、サトザクラ約50本、ヤマザクラ系約40本、その他約50本(ケンロクエンキクザクラ、ケンロクエンクマガイ)あります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82687064.jpg
+        source_url: https://weathernews.jp/sakura/spot/257/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/257/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300985/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E5%85%BC%E5%85%AD%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/257/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300985/
+      wikipedia: https://ja.wikipedia.org/wiki/%E5%85%BC%E5%85%AD%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-5608
+    name_ja: 那谷寺(シダレザクラ)
+    location:
+      city_ja: 小松市
+      address_ja: 石川県小松市那谷町ユ122
+    geo:
+      lat: 36.3133
+      lng: 136.4206
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 桜はしだれ桜が中心で約50本ほどあります。717年泰澄法師によって開かれた那谷寺。自然あふれる広大な境内には、本殿・拝殿・唐門、書院、三重塔、護摩堂、鐘楼堂などの重要文化財があり、本殿は「胎内くぐり」の聖地となってます。苔の緑、木々の緑、季節ごとの花など、白山自然智の森を愉しんでいただければと思います。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-11/82852554.jpg
+        source_url: https://weathernews.jp/sakura/spot/5608/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5608/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/5608/
+    collections:
+      - weathernews
+  - id: wn-266
+    name_ja: 那谷寺(ソメイヨシノ)
+    location:
+      city_ja: 小松市
+      address_ja: 石川県小松市那谷町ユ122
+    geo:
+      lat: 36.3133
+      lng: 136.4206
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 桜はしだれ桜が中心で約50本ほどあります。717年泰澄法師によって開かれた那谷寺。自然あふれる広大な境内には、本殿・拝殿・唐門、書院、三重塔、護摩堂、鐘楼堂などの重要文化財があり、本殿は「胎内くぐり」の聖地となってます。苔の緑、木々の緑、季節ごとの花など、白山自然智の森を愉しんでいただければと思います。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/266/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/266/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/266/
+    collections:
+      - weathernews
+  - id: wn-263
+    name_ja: 能登さくら駅
+    location:
+      city_ja: 穴水町
+      address_ja: 石川県鳳珠郡穴水町字曽福
+    geo:
+      lat: 37.1799
+      lng: 136.8981
+    trees: 110
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 桜吹雪が舞う駅として名高く、約100本のソメイヨシノの木々がトンネルを造っています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/263/1766732339_s.webp
+        source_url: https://weathernews.jp/sakura/spot/263/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/263/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307125/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/263/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307125/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-265
+    name_ja: 末広緑地
+    location:
+      city_ja: 小松市
+      address_ja: 石川県小松市末広町73-1
+    geo:
+      lat: 36.4006
+      lng: 136.4355
+    trees: 32
+    species_ja:
+      - ソメイヨシノ
+    description_ja: たき火、炭火等の使用、テント張り、縄ロープ張り、大音量カラオケ、音楽、騒音等、電気の引き込み使用等を禁止致します。ご協力お願いいたします。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-02/71225303.jpg
+        source_url: https://weathernews.jp/sakura/spot/265/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/265/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/265/
+    collections:
+      - weathernews
+  - id: wn-56007
+    name_ja: 木場潟公園
+    location:
+      city_ja: 小松市
+      address_ja: 石川県小松市三谷町ら之部58
+    geo:
+      lat: 36.3666
+      lng: 136.4496
+    trees: 1700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: サクラの開花に合わせ中央園地のライトアップ、ぼんぼりを設置し夜の桜並木を散策できます。また昼間には一周6.4㎞の桜並木を散策していただけます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82708191.jpg
+        source_url: https://weathernews.jp/sakura/spot/56007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/56007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/56007/
+    collections:
+      - weathernews

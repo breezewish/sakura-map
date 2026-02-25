@@ -1,0 +1,455 @@
+prefecture:
+  id: 39
+  name_ja: 高知県
+  name_en: Kochi
+spots:
+  - id: wn-74002
+    name_ja: ひょうたん桜公園
+    location:
+      city_ja: 仁淀川町
+      address_ja: 高知県吾川郡仁淀川町桜994
+    geo:
+      lat: 33.5881
+      lng: 133.1695
+    trees: 100
+    species_ja:
+      - エドヒガン(ウバヒガン)
+      - ソメイヨシノ
+    description_ja: 樹齢約500年、樹高21m、根本廻り6m県の天然記念物にも指定されている桜の古木。つぼみの形がひょうたんに似ていることからいつしか「ひょうたん桜」と呼ばれるようになりました。また「ひょうたん桜」のある地区は元々「大藪(おおやぶ)」という名字でしたが、この桜にちなんで昭和33年に「桜」と改称されました。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-05/61783221.jpg
+        source_url: https://weathernews.jp/sakura/spot/74002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74002/
+    collections:
+      - weathernews
+  - id: wn-74004
+    name_ja: 鮎乃瀬公園
+    location:
+      city_ja: 奈半利町
+      address_ja: 高知県安芸郡奈半利町乙車瀬地区
+    geo:
+      lat: 33.438
+      lng: 134.0279
+    trees: 100
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 奈半利川沿いに約100本のソメイヨシノが並ぶ鮎乃瀬公園。花が咲くころには、家族連れ等大勢の花見客で賑わいます。桜が舞い散る中での園内遊歩道散策はまるで別世界に来たような錯覚を覚えることでしょう。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74004/1767748026_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74004/
+    collections:
+      - weathernews
+  - id: wn-7418
+    name_ja: 為松公園
+    location:
+      city_ja: 四万十市
+      address_ja: 高知県四万十市中村2358
+    geo:
+      lat: 32.9969
+      lng: 132.9294
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 為松公園は市街地を一望できる高台にあり、開花期間中の夜はボンボリを点灯し、夜桜を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2021-03-21/54572557.jpg
+        source_url: https://weathernews.jp/sakura/spot/7418/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7418/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7418/
+    collections:
+      - weathernews
+  - id: wn-74001
+    name_ja: 家地川公園
+    location:
+      city_ja: 四万十町
+      address_ja: 高知県高岡郡四万十町家地川
+    geo:
+      lat: 33.1614
+      lng: 133.0715
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノが約300本咲く家地川公園は堰止湖に映る桜と青空が映える。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/74001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74001/
+    collections:
+      - weathernews
+  - id: wn-74010
+    name_ja: 宮の前公園
+    location:
+      city_ja: 越知町
+      address_ja: 高知県高岡郡越知町越知町越知丙734-1
+    geo:
+      lat: 33.5361
+      lng: 133.2445
+    trees: 200
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 春の訪れとともに、宮の前公園では約200本のソメイヨシノが一斉に咲き誇り、辺り一面を華やかな薄紅色に染め上げます。広大な芝生広場では、桜の木の下でキャンプやBBQを贅沢に楽しむことができ、清流仁淀川のせせらぎとともに特別なひとときを過ごせるのが魅力です。そして、桜の見頃に合わせた3月の最終土曜日には、春のメインイベント「越知町ぼんぼり桜まつり」が開催されます。会場には約500個のぼんぼりが灯され、ステージイベントやビアガーデン、夜店が並び、お祭りの活気と夜桜の情緒が溶け合います。提灯の柔らかな光に照らされた夜桜は、息をのむほど幻想的で、訪れる人の心を優しく癒してくれるでしょう。大切な人とレジャーシートを広げ、川の音に耳を傾けながら見上げる夜桜――。それは、越知町でしか味わうことのできない、至福の春の体験です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74010/1770167211_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74010/
+    collections:
+      - weathernews
+  - id: wn-7417
+    name_ja: 鏡野公園
+    location:
+      city_ja: 香美市
+      address_ja: 高知県香美市土佐山田町宮ノ口
+    geo:
+      lat: 33.6191
+      lng: 133.7187
+    trees: 600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: さくら名所100選にも選ばれた高知県内有数の桜の名所です。ソメイヨシノやヤエザクラなど多種の桜を楽しむことができます。また、隣接する高知工科大学の桜も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7417/1766533588_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7417/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7417/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307029/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E9%8F%A1%E9%87%8E%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7417/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307029/
+      wikipedia: https://ja.wikipedia.org/wiki/%E9%8F%A1%E9%87%8E%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-74009
+    name_ja: 月光桜
+    location:
+      city_ja: 大月町
+      address_ja: 高知県幡多郡大月町弘見4852
+    geo:
+      lat: 32.8392
+      lng: 132.6995
+    trees: 1
+    species_ja:
+      - 足摺桜(アシズリザクラ)
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74009/1767926126_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74009/
+    collections:
+      - weathernews
+  - id: wn-7401
+    name_ja: 荒瀬山
+    location:
+      city_ja: 宿毛市
+      address_ja: 高知県宿毛市坂ノ下
+    geo:
+      lat: 32.9329
+      lng: 132.7352
+    trees: 450
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 温暖な気候に恵まれた宿毛市は、全国的に見ても桜の開花が早い場所です。荒瀬山は山頂への道沿いや展望台周辺に桜が植樹されており、車でも徒歩でも桜観賞を楽しむことができます。また、展望所は市街地が一望できるビュースポットです。※道幅が狭いので、車をご利用の際は運転にご注意ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-01/95606409.jpg
+        source_url: https://weathernews.jp/sakura/spot/7401/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7401/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7401/
+    collections:
+      - weathernews
+  - id: wn-426
+    name_ja: 高知公園
+    location:
+      city_ja: 高知市
+      address_ja: 高知県高知市丸ノ内1-2-1
+    geo:
+      lat: 33.5615
+      lng: 133.5307
+    trees: 180
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+      - センダイヤザクラ
+      - ボタンザクラ
+      - ツバキカンザクラ
+    description_ja: 土佐の花見はにぎやかです。ヤマザクラ、オオシマザクラ、センダイヤザクラ、ボタンザクラ、ソメイヨシノ、ツバキカンザクラの6種類が計180本あります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61725095.jpg
+        source_url: https://weathernews.jp/sakura/spot/426/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/426/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/426/
+    collections:
+      - weathernews
+  - id: wn-7419
+    name_ja: 四万十川桜づつみ公園
+    location:
+      city_ja: 四万十市
+      address_ja: 高知県四万十市入田
+    geo:
+      lat: 33.0027
+      lng: 132.9017
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 日本最後の清流四万十川沿いの入田地区では春になると満開の桜とヤナギの自然林を真っ黄色に染める1000万本の菜の花を楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2019-03-31/45572402.jpg
+        source_url: https://weathernews.jp/sakura/spot/7419/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7419/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7419/
+    collections:
+      - weathernews
+  - id: wn-74007
+    name_ja: 室戸広域公園
+    location:
+      city_ja: 室戸市
+      address_ja: 高知県室戸市領家800
+    geo:
+      lat: 33.289
+      lng: 134.1719
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - カワヅザクラ他多数
+    description_ja: 高知県立室戸広域公園には約2000本の桜が植えられています。複数の種類の桜で構成されているため、2月から4月中旬にかけて、お花見を楽しむことができます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74007/1769647753_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74007/
+    collections:
+      - weathernews
+  - id: wn-74005
+    name_ja: 宿毛天満宮
+    location:
+      city_ja: 宿毛市
+      address_ja: 高知県宿毛市桜町14-25
+    geo:
+      lat: 32.9419
+      lng: 132.7251
+    trees: 150
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 温暖な気候に恵まれた宿毛市は、全国的にみても桜の開花が早い場所です。宿毛天満宮は境内や参道沿いに桜が植樹され、満開時の神社の赤色と桜色との美しいコントラストが見どころです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/74005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74005/
+    collections:
+      - weathernews
+  - id: wn-7406
+    name_ja: 上街公園
+    location:
+      city_ja: 本山町
+      address_ja: 高知県長岡郡本山町本山
+    geo:
+      lat: 33.7573
+      lng: 133.5869
+    trees: 50
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 土居屋敷跡にある上街公園は、春が訪れると桜が咲きほこり、淡いピンク色に染まります。また、シーズン中には提灯が灯り、夜桜も楽しめます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/7406/1766470543_s.webp
+        source_url: https://weathernews.jp/sakura/spot/7406/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7406/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307056/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7406/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307056/
+    collections:
+      - weathernews
+      - navitime
+  - id: wn-7413
+    name_ja: 大渡ダム公園
+    location:
+      city_ja: 仁淀川町
+      address_ja: 高知県吾川郡仁淀川町高瀬3869
+    geo:
+      lat: 33.5409
+      lng: 133.1113
+    trees: 1600
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ダム湖沿いに桜が咲き乱れ、湖面や山の緑とのコントラストが映える県内有数の桜ロード。アスレチックや遊具もあり、ご家族で楽しめます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82451768.jpg
+        source_url: https://weathernews.jp/sakura/spot/7413/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/7413/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/7413/
+    collections:
+      - weathernews
+  - id: wn-74003
+    name_ja: 中越家のしだれ桜
+    location:
+      city_ja: 仁淀川町
+      address_ja: 高知県吾川郡仁淀川町別枝
+    geo:
+      lat: 33.5307
+      lng: 133.0541
+    trees: 1
+    species_ja:
+      - シダレザクラ
+      - エドヒガン(ウバヒガン)
+    description_ja: 樹齢約200年、樹高10m。かつて佐川領主の休息地とされている。山間にぽつんと立つ美しい、しだれ桜の雄大さは見事。※個人宅のため敷地内への入場は不可。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71046915.jpg
+        source_url: https://weathernews.jp/sakura/spot/74003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74003/
+    collections:
+      - weathernews
+  - id: wn-74011
+    name_ja: 定福寺
+    location:
+      city_ja: 大豊町
+      address_ja: 高知県長岡郡大豊町粟生158
+    geo:
+      lat: 33.7931
+      lng: 133.7692
+    trees: 2
+    species_ja:
+      - ウスズミザクラ
+      - ソメイヨシノ
+      - ヤマザクラ
+      - オオシマザクラ
+    description_ja: 薄墨桜は背景の山との対比で綺麗
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74011/1770604356_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74011/
+    collections:
+      - weathernews
+  - id: wn-427
+    name_ja: 牧野公園
+    location:
+      city_ja: 佐川町
+      address_ja: 高知県高岡郡佐川町甲2458
+    geo:
+      lat: 33.4974
+      lng: 133.289
+    trees: 350
+    species_ja:
+      - ソメイヨシノ
+      - センダイヤザクラ
+      - シュクガワマイザクラ
+    description_ja: 佐川町出身の植物学者・牧野富太郎博士にちなんで名付けられた公園で「日本さくら名所100選」の1つです。ぼんぼりに照らされた夜桜は必見です。現在、桜の再生事業と共に牧野博士ゆかりの山野草を植栽し、四季を通じて楽しめる公園へと生まれ変わっています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-30/82384704.jpg
+        source_url: https://weathernews.jp/sakura/spot/427/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/427/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307148/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%BD%90%E5%B7%9D%E7%94%BA
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/427/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307148/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%BD%90%E5%B7%9D%E7%94%BA
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-74008
+    name_ja: 野根川沿いの桜並木
+    location:
+      city_ja: 東洋町
+      address_ja: 高知県安芸郡東洋町町野根国道493号線
+    geo:
+      lat: 33.5042
+      lng: 134.2637
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 国道55号線から国道493号線に曲がると野根川沿いに見えるのは全長1kmにわたって咲き誇る約500本の桜並木。例年4月上旬に満開になるのでその時期に訪れるのがオススメ‼あまり人もいないのでゆっくりと桜並木を楽しめます‼河川敷にも下りられるので友達や家族、カップルなどでピクニックなどしてみてはいかがでしょうか？
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/74008/1766462370_s.webp
+        source_url: https://weathernews.jp/sakura/spot/74008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/74008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/74008/
+    collections:
+      - weathernews

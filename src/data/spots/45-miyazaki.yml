@@ -1,0 +1,542 @@
+prefecture:
+  id: 45
+  name_ja: 宮崎県
+  name_en: Miyazaki
+spots:
+  - id: wn-87011
+    name_ja: まきばの桜
+    location:
+      city_ja: 小林市
+      address_ja: 宮崎県小林市細野4178-113付近（細野中学校そば）
+    geo:
+      lat: 31.976
+      lng: 130.9636
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昭和の初め九州一の桜並木「軍馬の桜」として知られた桜の名所です。一度は壊滅状態にまでなった桜並木が地元関係者の努力によって復活しました。約2kmに及ぶ沿道にある約1000本のソメイヨシノの桜のトンネルは圧巻です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82428048.jpg
+        source_url: https://weathernews.jp/sakura/spot/87011/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87011/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87011/
+    collections:
+      - weathernews
+  - id: wn-489
+    name_ja: 旭化成(株)東海地区工場
+    location:
+      city_ja: 延岡市
+      address_ja: 宮崎県延岡市水尻町304
+    geo:
+      lat: 32.6133
+      lng: 131.7095
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノが700本〜800本あります。旭化成(株)東海地区工場敷地内に咲く桜です。1日のみ一般開放が行われ、多くの方が来られています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/489/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/489/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/489/
+    collections:
+      - weathernews
+  - id: wn-87008
+    name_ja: 綾の照葉大吊橋
+    location:
+      city_ja: 綾町
+      address_ja: 宮崎県東諸県郡綾町大字南俣5698
+    geo:
+      lat: 32.0296
+      lng: 131.1943
+    species_ja:
+      - ヤマザクラ
+    description_ja: 大吊橋の周辺などの照葉樹林地帯では、山桜の群生や点在が見られる桜の名所でもあります。ツヤツヤと輝く照葉樹の森に山桜の淡いピンク色が浮かび上がる様はこの時期だけの特別な眺めとなっています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/87008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87008/
+    collections:
+      - weathernews
+  - id: wn-488
+    name_ja: 延岡城跡・城山公園
+    location:
+      city_ja: 延岡市
+      address_ja: 宮崎県延岡市東本小路178外
+    geo:
+      lat: 32.5806
+      lng: 131.6619
+    trees: 250
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約250本の桜があります。「千人殺しの石垣」とよばれる高さ19ｍの石垣があります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-30/61629770.jpg
+        source_url: https://weathernews.jp/sakura/spot/488/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/488/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/488/
+    collections:
+      - weathernews
+  - id: wn-87003
+    name_ja: 遠見山森林公園
+    location:
+      city_ja: 門川町
+      address_ja: 宮崎県東臼杵郡門川町大字庵川5473-1
+    geo:
+      lat: 32.4891
+      lng: 131.7068
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 遠見半島にある標高308メートルの遠見山は、日向灘を眼下にし、木々の緑と海と空のコントラストが美しいところです。国の天然記念物カンムリウミスズメの世界最大の繁殖地「枇榔島」も見えます。ソメイヨシノとヤマザクラは中腹当たりからの並木道で見ることができます。低山だからこそ目視できる360度の景色、日向市から延岡市をお楽しみください。山頂展望台へは展望台駐車場から徒歩3分程。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/87003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87003/
+    collections:
+      - weathernews
+  - id: wn-492
+    name_ja: 花立公園
+    location:
+      city_ja: 日南市
+      address_ja: 宮崎県日南市北郷町郷之原甲2784
+    geo:
+      lat: 31.7129
+      lng: 131.3588
+    species_ja:
+      - ソメイヨシノ
+    description_ja: ソメイヨシノや山桜など1万本の桜が実に鮮やかに咲き誇ります。遊歩道や休憩所、展望台が完備してあり、ウォーキングや自然散策に最適です。展望台から広がるパノラマは絶好のロケーションです。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/492/1766544173_s.webp
+        source_url: https://weathernews.jp/sakura/spot/492/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/492/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307015/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/492/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307015/
+    collections:
+      - weathernews
+      - navitime
+    trees: 10000
+  - id: wn-8704
+    name_ja: 観音池公園
+    location:
+      city_ja: 都城市
+      address_ja: 宮崎県都城市高城町石山4195番地
+    geo:
+      lat: 31.8251
+      lng: 131.1372
+    trees: 5000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約2kmに及ぶ桜並木は、「ふるさとの坂道」全国30選に選定されました。約5000本の桜に加え、4～5月には約60000本のつつじが美しく咲きます。公園内には、温泉施設やバンガロー、グラススキー場、陶芸体験施設等もあり、１年中楽しむことができます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71031148.jpg
+        source_url: https://weathernews.jp/sakura/spot/8704/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8704/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8704/
+    collections:
+      - weathernews
+  - id: wn-87001
+    name_ja: 久峰総合公園
+    location:
+      city_ja: 宮崎市
+      address_ja: 宮崎県宮崎市佐土原町下那珂13754
+    geo:
+      lat: 32.0226
+      lng: 131.4612
+    trees: 700
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 園内中央の多目的広場周辺にソメイヨシノが咲き、山側の遊歩道のところどころでヤマザクラを見ることができます。園内は火気厳禁のためバーベキュー等はできません。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71183766.jpg
+        source_url: https://weathernews.jp/sakura/spot/87001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87001/
+    collections:
+      - weathernews
+  - id: wn-87005
+    name_ja: 原田家のしだれ桜
+    location:
+      city_ja: 五ヶ瀬町
+      address_ja: 宮崎県西臼杵郡五ヶ瀬町大字三ヶ所
+    geo:
+      lat: 32.6724
+      lng: 131.2121
+    trees: 1
+    species_ja:
+      - シダレザクラ
+    description_ja: ｢原田家のしだれ桜｣は、町天然記念物に指定されている浄専寺のシダレザクラの子だと言われています。【ご注意：民家のため庭先に入ることはできませんが、道路沿いから観賞が可能です。】
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/87005/1766469964_s.webp
+        source_url: https://weathernews.jp/sakura/spot/87005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87005/
+    collections:
+      - weathernews
+  - id: wn-87012
+    name_ja: 焼酎の里 霧島ファクトリーガーデン
+    location:
+      city_ja: 都城市
+      address_ja: 宮崎県都城市志比田町5480番地
+    geo:
+      lat: 31.7425
+      lng: 131.06
+    trees: 150
+    species_ja:
+      - しだれ桜
+      - 河津桜
+      - 寒緋桜
+      - 里桜
+      - ソメイヨシノ
+      - シダレザクラ
+    description_ja: 約150本のしだれ桜が場内を彩ります。都城市の新しいお花見スポットとして、来場いただいた皆様にテントやレジャーシートなどを自由に持ち込んでいただいてのお花見が可能です。レストランやベーカリーを併設しておりますので、ビールやお弁当、こだわりのパン、ピッツァのテイクアウトもOK！お酒・料理と一緒にしだれ桜を楽しむことができます。※ペットはアスファルトエリアはOK、芝生、花壇、砂場エリアはNG
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/87012/1766817225_s.webp
+        source_url: https://weathernews.jp/sakura/spot/87012/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87012/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87012/
+    collections:
+      - weathernews
+  - id: wn-490
+    name_ja: 浄専寺
+    location:
+      city_ja: 五ヶ瀬町
+      address_ja: 宮崎県西臼杵郡五ヶ瀬町大字三ヶ所宮の原
+    geo:
+      lat: 32.6711
+      lng: 131.2127
+    trees: 5
+    species_ja:
+      - シダレザクラ
+    description_ja: 例年3月下旬〜4月初旬に県天然記念物の樹齢約300年のしだれ桜が美しく咲き誇ります。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/490/1766469602_s.webp
+        source_url: https://weathernews.jp/sakura/spot/490/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/490/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/490/
+    collections:
+      - weathernews
+  - id: wn-485
+    name_ja: 垂水公園
+    location:
+      city_ja: 宮崎市
+      address_ja: 宮崎県宮崎市大字瓜生野5724-1
+    geo:
+      lat: 31.9904
+      lng: 131.4051
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ
+      - ヒガンザクラ
+    description_ja: 約1000本が咲き誇る桜の名所。公園に通じる市道沿い約1kmにわたる桜並木はチェリーロードと呼ばれ、訪れる人を華やかに迎えてくれます。桜を見ながらゆっくりと公園内を散策してみてはいかがでしょうか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-03-24/61467446.jpg
+        source_url: https://weathernews.jp/sakura/spot/485/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/485/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/485/
+    collections:
+      - weathernews
+  - id: wn-487
+    name_ja: 西都原古墳群
+    location:
+      city_ja: 西都市
+      address_ja: 宮崎県西都市大字三宅
+    geo:
+      lat: 32.1179
+      lng: 131.3887
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+      - ヤエザクラ
+    description_ja: 約2000本の桜があります。同時期に咲く菜の花30万本との競演が見事です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/487/1767840759_s.webp
+        source_url: https://weathernews.jp/sakura/spot/487/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/487/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/487/
+    collections:
+      - weathernews
+  - id: wn-87014
+    name_ja: 大坪の一本桜
+    location:
+      city_ja: 国富町
+      address_ja: 宮崎県東諸県郡国富町八代南俣2747
+    geo:
+      lat: 32.0325
+      lng: 131.294
+    trees: 1
+    species_ja:
+      - ヤマザクラ
+    description_ja: 地元の人から神木として崇められている高さ15m、樹齢150年の山桜。田園地帯にたたずむ一本桜を写真におさめようと多くの見物客が訪れます。ヤマザクラなので宮崎の開花宣言（ソメイヨシノ）が出たころに満開になります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-13/82943195.jpg
+        source_url: https://weathernews.jp/sakura/spot/87014/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87014/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87014/
+    collections:
+      - weathernews
+  - id: wn-87010
+    name_ja: 大淀川市民緑地（桜堤）
+    location:
+      city_ja: 宮崎市
+      address_ja: 宮崎市宮崎市鶴島～祇園
+    geo:
+      lat: 31.913
+      lng: 131.4074
+    trees: 270
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 大淀川沿い約4Ｋｍの桜並木
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-01/71188859.jpg
+        source_url: https://weathernews.jp/sakura/spot/87010/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87010/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87010/
+    collections:
+      - weathernews
+  - id: wn-8703
+    name_ja: 竹香園
+    location:
+      city_ja: 日南市
+      address_ja: 宮崎県日南市星倉5556
+    geo:
+      lat: 31.6268
+      lng: 131.364
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 竹香園は、元々明治時代の議員が所有していた別荘地であったものを、昭和32年に整備致しました。樹齢約50年のソメイヨシノが約1000本あり、春になると桜が咲き乱れ、沢山の花見客が訪れます。また、園内には、桃山式日本庭園があり、春の風景を楽しみながら散策してみるのもいかがでしょうか。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2012-04-01/5921372.jpg
+        source_url: https://weathernews.jp/sakura/spot/8703/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8703/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/8703/
+    collections:
+      - weathernews
+  - id: nt-90011-sak1307114
+    name_ja: 天ケ城運動公園
+    location:
+      address_ja: 宮崎県宮崎市高岡町
+    geo:
+      lat: 31.961029
+      lng: 131.293068
+    trees: 1300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 宮崎県宮崎市高岡町の「天ケ城」跡地を整備した公園で、大淀川の流れや市街、日向灘まで望める眺望が素晴らしい。約1300本のソメイヨシノは「千本桜」と呼ばれ、3月下旬から4月上旬にかけて一帯を桜色に染め上げる。4月中旬にはツツジが見ごろを迎え、薄紅から赤へとコントラストを変えていく。桜のシーズンには「天ケ城開門さくらまつり」を開催。トイレ・茶屋・駐車場あり。
+    photos:
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307114_01.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307114/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307114_02.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307114/
+        credit: NAVITIME
+      - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307114_03.jpg
+        source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307114/
+        credit: NAVITIME
+    sources:
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307114/
+    links:
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307114/
+    collections:
+      - navitime
+  - id: wn-483
+    name_ja: 天岩戸の湯
+    location:
+      city_ja: 高千穂町
+      address_ja: 宮崎県西臼杵郡高千穂町大字岩戸58
+    geo:
+      lat: 32.7257
+      lng: 131.3452
+    trees: 30
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 天岩戸の湯周辺の桜は特に美しいです。お風呂に入って！桜を見て！最高です！また、岩戸地区には天照大神を祀る天岩戸神社等の観光スポットもあります。※毎週水曜日は、天岩戸の湯が休館日のため、入口にコーンが設置してあり、車での進入は厳しいと思われます。ご理解ください。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-08/61845057.jpg
+        source_url: https://weathernews.jp/sakura/spot/483/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/483/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/483/
+    collections:
+      - weathernews
+  - id: wn-87009
+    name_ja: 天神山公園(宮崎市)
+    location:
+      city_ja: 宮崎市
+      address_ja: 宮崎県宮崎市天満町227
+    geo:
+      lat: 31.9026
+      lng: 131.4102
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-01/82475399.jpg
+        source_url: https://weathernews.jp/sakura/spot/87009/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87009/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87009/
+    collections:
+      - weathernews
+  - id: wn-87002
+    name_ja: 舞鶴公園(宮崎県)
+    location:
+      city_ja: 高鍋町
+      address_ja: 宮崎県児湯郡高鍋町大字上江1940
+    geo:
+      lat: 32.1233
+      lng: 131.5019
+    trees: 240
+    species_ja:
+      - ソメイヨシノ
+    description_ja: その地形が鶴の羽ばたく姿に似ているところから、舞鶴城と呼ばれた高鍋城。現在は史跡公園として整備され、年間を通してさまざまなイベント会場として親しまれています。石垣や城堀など一部は当時のまま残され、上から見る街並は絶景です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/87002/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87002/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87002/
+    collections:
+      - weathernews
+  - id: wn-486
+    name_ja: 母智丘公園
+    location:
+      city_ja: 都城市
+      address_ja: 宮崎県都城市横市町6633
+    geo:
+      lat: 31.7504
+      lng: 131.0125
+    trees: 2600
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+      - ヤエザクラ
+    description_ja: 宮崎県で唯一「日本のさくら名所100選」に選ばれ、長い歴史を持つ南九州随一の名所である母智丘公園の桜並木。公園内には、ソメイヨシノやヤマザクラ、ヤエザクラが約2600本植えられており、母智丘神社へと続く約2㎞に及ぶ並木は桜のトンネルのようで、見事な美しさに圧倒されます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95648804.jpg
+        source_url: https://weathernews.jp/sakura/spot/486/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/486/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307145/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%AF%8D%E6%99%BA%E4%B8%98%E3%83%BB%E9%96%A2%E4%B9%8B%E5%B0%BE%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/486/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307145/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%AF%8D%E6%99%BA%E4%B8%98%E3%83%BB%E9%96%A2%E4%B9%8B%E5%B0%BE%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-87007
+    name_ja: 堀切峠
+    location:
+      city_ja: 宮崎市
+      address_ja: 宮崎県宮崎市折生迫
+    geo:
+      lat: 31.7774
+      lng: 131.4812
+    species_ja:
+      - ヤマザクラ
+    description_ja: 堀切峠は眼下に広がる太平洋、海岸線に続く「鬼の洗濯板」と呼ばれる波状岩、フェニックス並木など日南海岸随一の雄大な景観が展望できる。山桜の名所としても人気。例年、3月上旬～中旬頃にかけてが、桜の見頃の時期となる。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/87007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/87007/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1600206/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/87007/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1600206/
+    collections:
+      - weathernews
+      - navitime

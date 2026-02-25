@@ -1,0 +1,380 @@
+prefecture:
+  id: 30
+  name_ja: 和歌山県
+  name_en: Wakayama
+spots:
+  - id: wn-356
+    name_ja: 紀三井寺
+    location:
+      city_ja: 和歌山市
+      address_ja: 和歌山県和歌山市紀三井寺1201
+    geo:
+      lat: 34.1844
+      lng: 135.1895
+    trees: 400
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 松尾芭蕉の句にも詠まれ、古くからの桜の名所です。ソメイヨシノ、ヒガンザクラなど約400本の桜が咲き、木々の間に朱色の多宝塔や鐘楼が点在し、華やかな雰囲気。開花に合わせて桜祭りがひらかれます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-05/82625563.jpg
+        source_url: https://weathernews.jp/sakura/spot/356/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/356/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307024/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E7%B4%80%E4%B8%89%E4%BA%95%E5%AF%BA
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/356/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307024/
+      wikipedia: https://ja.wikipedia.org/wiki/%E7%B4%80%E4%B8%89%E4%BA%95%E5%AF%BA
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-65001
+    name_ja: 亀池公園
+    location:
+      city_ja: 海南市
+      address_ja: 和歌山県海南市阪井806
+    geo:
+      lat: 34.1547
+      lng: 135.2611
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 亀池は海南市出身の井沢弥惣兵衛によって造られた県下最大級のため池です。毎年春には約2000本の桜が咲き誇り、池の周りの約4kmの遊歩道を散策しながらのんびり自然が味わえます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/65001/1766542403_s.webp
+        source_url: https://weathernews.jp/sakura/spot/65001/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65001/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65001/
+    collections:
+      - weathernews
+  - id: wn-6503
+    name_ja: 高野口公園
+    location:
+      city_ja: 橋本市
+      address_ja: 和歌山県橋本市高野口町名倉
+    geo:
+      lat: 34.3106
+      lng: 135.5575
+    trees: 500
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 約500本の桜が山一面に咲き乱れる高野口公園の「庚申山」は紀の川筋随一の桜の名所として有名です。夜間のライトアップもあり夜桜を楽しむこともできます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2018-03-30/41414819.jpg
+        source_url: https://weathernews.jp/sakura/spot/6503/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6503/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6503/
+    collections:
+      - weathernews
+  - id: wn-352
+    name_ja: 根來寺
+    location:
+      city_ja: 岩出市
+      address_ja: 和歌山県岩出市根来2286
+    geo:
+      lat: 34.287
+      lng: 135.3162
+    trees: 7000
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: ソメイヨシノ、ヤマザクラ古木(根来桜)、ボタンザクラ、シダレザクラなど約7000本といわれる桜が歴史ある境内を包む様子は見事です。※火気厳禁、桜の時期は混雑しますので電車、バス等のご利用をご検討下さい。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-04/61758635.jpg
+        source_url: https://weathernews.jp/sakura/spot/352/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/352/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400397/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E6%A0%B9%E6%9D%A5%E5%AF%BA
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/352/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2400397/
+      wikipedia: https://ja.wikipedia.org/wiki/%E6%A0%B9%E6%9D%A5%E5%AF%BA
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6504
+    name_ja: 七川ダム湖畔
+    location:
+      city_ja: 古座川町
+      address_ja: 和歌山県東牟婁郡古座川町佐田
+    geo:
+      lat: 33.5965
+      lng: 135.6966
+    trees: 3000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 昭和30年のダム完成に伴い、地域住民が約3000本を植栽しました。平成元年には日本さくら名所100選に選ばれ、花の開花時には、山々の緑と絶妙な調和をみせています。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2014-04-01/18220691.jpg
+        source_url: https://weathernews.jp/sakura/spot/6504/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6504/
+      - label: NAVITIME
+        url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307054/
+      - label: 日本さくら名所100選
+        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
+      - label: Wikipedia
+        url: https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B7%9D%E3%83%80%E3%83%A0
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6504/
+      navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307054/
+      wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B7%9D%E3%83%80%E3%83%A0
+    collections:
+      - weathernews
+      - navitime
+      - sakura100
+  - id: wn-6501
+    name_ja: 動鳴気峡(岩口池)
+    location:
+      city_ja: 田辺市
+      address_ja: 和歌山県田辺市稲成町1629（ふるさと自然公園センター）
+    geo:
+      lat: 33.7603
+      lng: 135.3864
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+      - ヤマザクラ
+    description_ja: 周辺には国民休養地としてふるさと自然公園センターや遊歩道が整備されています。近くにはひきがえるの群れが天を仰いでいるかのような「ひき岩群」と呼ばれる丘陵地帯もあり自然を満喫できます。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/6501/1766539610_s.webp
+        source_url: https://weathernews.jp/sakura/spot/6501/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6501/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6501/
+    collections:
+      - weathernews
+  - id: wn-65008
+    name_ja: 道の駅 紀の川万葉の里
+    location:
+      city_ja: かつらぎ町
+      address_ja: 和歌山県伊都郡かつらぎ町窪487-2
+    geo:
+      lat: 34.2846
+      lng: 135.465
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
+        source_url: https://weathernews.jp/sakura/spot/65008/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65008/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65008/
+    collections:
+      - weathernews
+  - id: wn-357
+    name_ja: 道成寺(エドヒガン)
+    location:
+      city_ja: 日高川町
+      address_ja: 和歌山県日高郡日高川町鐘巻1738
+    geo:
+      lat: 33.9145
+      lng: 135.1745
+    trees: 250
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+    description_ja: エドヒガンやソメイヨシノがおよそ250本あります。歌舞伎｢京鹿子娘道成寺｣などで知られる桜の名所です。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/357/1766463666_s.webp
+        source_url: https://weathernews.jp/sakura/spot/357/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/357/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/357/
+    collections:
+      - weathernews
+  - id: wn-65004
+    name_ja: 道成寺(ソメイヨシノ)
+    location:
+      city_ja: 日高川町
+      address_ja: 和歌山県日高郡日高川町鐘巻1738
+    geo:
+      lat: 33.9145
+      lng: 135.1745
+    trees: 250
+    species_ja:
+      - エドヒガン
+      - ソメイヨシノ
+    description_ja: エドヒガンやソメイヨシノがおよそ250本あります。歌舞伎｢京鹿子娘道成寺｣などで知られる桜の名所です。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95807698.jpg
+        source_url: https://weathernews.jp/sakura/spot/65004/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65004/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65004/
+    collections:
+      - weathernews
+  - id: wn-65005
+    name_ja: 二川ダム湖
+    location:
+      city_ja: 有田川町
+      address_ja: 和歌山県有田郡有田川町
+    geo:
+      lat: 34.0803
+      lng: 135.3586
+    trees: 1000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 二川ダム湖周辺、国道480号沿いに約4kmにかけて桜並木が続きます。ダム湖と桜の織り成す景観は大変美しく、湖面に架かる蔵王橋の上からは周囲一面の桜が見渡せます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-03-31/82443098.jpg
+        source_url: https://weathernews.jp/sakura/spot/65005/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65005/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65005/
+    collections:
+      - weathernews
+  - id: wn-353
+    name_ja: 粉河寺
+    location:
+      city_ja: 紀の川市
+      address_ja: 和歌山県紀の川市粉河2787
+    geo:
+      lat: 34.2807
+      lng: 135.4058
+    trees: 300
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 広大な境内に、ソメイヨシノなど300本の桜が咲き誇ります。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-28/71040393.jpg
+        source_url: https://weathernews.jp/sakura/spot/353/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/353/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/353/
+    collections:
+      - weathernews
+  - id: wn-6502
+    name_ja: 平草原公園
+    location:
+      city_ja: 白浜町
+      address_ja: 和歌山県西牟婁郡白浜町2054-1
+    geo:
+      lat: 33.6701
+      lng: 135.3494
+    trees: 2000
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 白浜温泉街を一望できる高台にある公園です。園内には約2000本の桜の木があり、また季節ごとに水仙、つつじ、バラなどの四季折々の花が咲き乱れます。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-04/82589877.jpg
+        source_url: https://weathernews.jp/sakura/spot/6502/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6502/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/6502/
+    collections:
+      - weathernews
+  - id: wn-65007
+    name_ja: 明恵峡
+    location:
+      city_ja: 有田川町
+      address_ja: 和歌山県有田郡有田川町修理川81-3
+    geo:
+      lat: 34.0378
+      lng: 135.2741
+    species_ja:
+      - ソメイヨシノ
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/65007/1770163651_s.webp
+        source_url: https://weathernews.jp/sakura/spot/65007/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65007/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65007/
+    collections:
+      - weathernews
+  - id: wn-65003
+    name_ja: 和歌の浦(高津子山)
+    location:
+      city_ja: 和歌山市
+      address_ja: 和歌山県和歌山市新和歌浦
+    geo:
+      lat: 34.1873
+      lng: 135.1564
+    species_ja:
+      - ソメイヨシノ
+    description_ja: 高さ136mの山頂に設置された展望台からは360度見渡せ、和歌浦の美しい海や小島、行き交う船などの風景、海岸線の遠望は素晴らしく、ここから見える景色は和歌山県の朝日夕日百選にも選ばれています。桜の季節にはソメイヨシノが咲き乱れ、花見スポットとして知られています。
+    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/65003/1768285854_s.webp
+        source_url: https://weathernews.jp/sakura/spot/65003/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/65003/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/65003/
+    collections:
+      - weathernews
+  - id: wn-354
+    name_ja: 和歌山城
+    location:
+      city_ja: 和歌山市
+      address_ja: 和歌山県和歌山市一番丁3番地
+    geo:
+      lat: 34.2278
+      lng: 135.172
+    trees: 450
+    species_ja:
+      - ソメイヨシノなど
+      - ソメイヨシノ
+    description_ja: 和歌山城公園内にはソメイヨシノなどを中心に約450本の桜が咲き乱れ、岡口門から二の丸庭園まで続く桜並木はとてもキレイでおすすめです。
+    photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82719092.jpg
+        source_url: https://weathernews.jp/sakura/spot/354/
+        credit: Weathernews
+    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/354/
+    links:
+      weathernews: https://weathernews.jp/sakura/spot/354/
+    collections:
+      - weathernews
