@@ -628,11 +628,21 @@ export function JapanPrefectureMap({
         )
         onSelectedSpotChangeRef.current?.(picked)
       } else if (panSamples.length >= 2) {
-        const first = panSamples[0]
+        const now = performance.now()
         const last = panSamples[panSamples.length - 1]
-        const dt = last.time - first.time
-        if (dt > 0) {
-          startInertia({ x: (last.x - first.x) / dt, y: (last.y - first.y) / dt })
+
+        const idleMs = now - last.time
+        // If the pointer stayed still briefly before release, treat it as a "stop"
+        // and skip inertia to avoid the map drifting unexpectedly.
+        if (idleMs < 64) {
+          const first = panSamples[0]
+          const dt = last.time - first.time
+          if (dt > 0) {
+            startInertia({
+              x: (last.x - first.x) / dt,
+              y: (last.y - first.y) / dt,
+            })
+          }
         }
       }
 
