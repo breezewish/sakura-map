@@ -704,7 +704,7 @@ export function JapanPrefectureMap({
             side="top"
             align="center"
             sideOffset={12}
-            className="w-[420px] rounded-2xl bg-white p-4 shadow-lg ring-1 ring-black/5"
+            className="w-[420px] rounded-2xl bg-white p-4 shadow-xl"
           >
             <div className="grid gap-3">
               <div className="grid gap-1">
@@ -720,13 +720,13 @@ export function JapanPrefectureMap({
               </div>
 
               <div className="grid grid-cols-2 gap-2 text-xs">
-                <div className="rounded-md bg-neutral-50 px-2 py-1 ring-1 ring-black/5">
+                <div className="rounded-md bg-neutral-50 px-2 py-1">
                   樱花棵树：{" "}
                   {typeof selectedSpot.trees === "number"
                     ? new Intl.NumberFormat().format(selectedSpot.trees)
                     : "未知"}
                 </div>
-                <div className="rounded-md bg-neutral-50 px-2 py-1 ring-1 ring-black/5">
+                <div className="rounded-md bg-neutral-50 px-2 py-1">
                   <div className="flex flex-wrap items-center gap-1">
                     <span>集合：</span>
                     {selectedSpot.collections?.includes("sakura100") ? (
@@ -743,21 +743,21 @@ export function JapanPrefectureMap({
                       <span className="rounded bg-emerald-400/15 px-1.5 py-0.5 text-[11px] text-emerald-700">
                         Weathernews
                       </span>
-                    ) : null}
-                    {!selectedSpot.collections?.length ? <span>—</span> : null}
+                      ) : null}
+                      {!selectedSpot.collections?.length ? <span>—</span> : null}
+                    </div>
                   </div>
                 </div>
-              </div>
 
               {selectedSpotPhotos.length > 0 ? (
                 <Carousel
                   opts={{ loop: selectedSpotPhotos.length > 1 }}
                   className="w-full"
                 >
-                  <CarouselContent className="-ml-2">
+                      <CarouselContent className="-ml-2">
                     {selectedSpotPhotos.map((photo, index) => (
                       <CarouselItem key={`${selectedSpot.id}-${index}`} className="pl-2">
-                        <div className="overflow-hidden rounded-lg border bg-muted/20">
+                        <div className="overflow-hidden rounded-lg bg-muted/20 shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]">
                           <div className="relative aspect-[16/10] w-full">
                             <img
                               src={photo.url}
@@ -796,7 +796,7 @@ export function JapanPrefectureMap({
                   ) : null}
                 </Carousel>
               ) : (
-                <div className="rounded-md bg-neutral-50 px-2 py-2 text-xs text-muted-foreground ring-1 ring-black/5">
+                <div className="rounded-md bg-neutral-50 px-2 py-2 text-xs text-muted-foreground">
                   暂无照片
                 </div>
               )}
@@ -843,11 +843,11 @@ export function JapanPrefectureMap({
         </Popover>
       )}
 
-      <div className="absolute bottom-2 left-2 rounded-lg bg-white/90 px-3 py-1.5 text-[11px] text-neutral-600 shadow-sm ring-1 ring-black/5">
+      <div className="absolute bottom-2 left-2 rounded-lg bg-white/90 px-3 py-1.5 text-[11px] text-neutral-600 shadow-sm">
         底图：地球地図日本（都道府県境界） · 拖动平移 / 滚轮缩放
       </div>
 
-      <div className="absolute bottom-3 right-3 z-10 grid gap-2 rounded-xl bg-white/90 p-2 shadow-sm ring-1 ring-black/5">
+      <div className="absolute bottom-3 right-3 z-10 grid gap-2 rounded-xl bg-white/90 p-2 shadow-sm">
         <Button
           type="button"
           size="icon"

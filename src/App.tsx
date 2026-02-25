@@ -93,7 +93,7 @@ function App() {
         />
       </Suspense>
 
-      <div className="absolute left-4 top-4 z-10 w-[320px] rounded-xl bg-white/95 p-4 shadow-sm ring-1 ring-black/5">
+      <div className="absolute left-4 top-4 z-10 w-[320px] rounded-xl bg-white/95 p-4 shadow-sm">
         <div className="flex items-center gap-3">
           <div className="grid h-9 w-9 place-items-center rounded-lg bg-[#D4AF37]/15 text-[#8a6d1f]">
             <Flower2 className="h-4 w-4" />
