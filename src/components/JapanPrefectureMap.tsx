@@ -26,6 +26,17 @@ import { Popover, PopoverAnchor, PopoverContent } from "@/components/ui/popover"
 import { Button } from "@/components/ui/button"
 import { ExternalLink, Minus, Plus, Ribbon, RotateCcw } from "lucide-react"
 
+function formatIsoDateToJaMd(isoDate: string): string {
+  const match = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/)
+  if (!match) return isoDate
+
+  const month = Number(match[2])
+  const day = Number(match[3])
+  if (!Number.isInteger(month) || !Number.isInteger(day)) return isoDate
+
+  return `${month}月${day}日`
+}
+
 type PrefectureProperties = GeoJsonProperties & {
   nam?: string
   nam_ja?: string
@@ -203,6 +214,23 @@ export function JapanPrefectureMap({
   }, [selectedSpotBasePoint])
 
   const selectedSpotPhotos = selectedSpot?.photos ?? []
+
+  const selectedSpotPredictLine = useMemo(() => {
+    const p = selectedSpot?.predict
+    if (!p) return null
+
+    const parts: string[] = []
+    if (p.first_bloom_date) parts.push(`初开 ${formatIsoDateToJaMd(p.first_bloom_date)}`)
+    if (p.full_bloom_date) parts.push(`满开 ${formatIsoDateToJaMd(p.full_bloom_date)}`)
+    if (p.fubuki_date) parts.push(`樱吹雪 ${formatIsoDateToJaMd(p.fubuki_date)}`)
+    if (parts.length === 0) return null
+
+    const suffix = p.forecasted_at
+      ? ` (预测于 ${formatIsoDateToJaMd(p.forecasted_at)})`
+      : ""
+
+    return `${parts.join("  ")}${suffix}`
+  }, [selectedSpot])
 
   const prefecturePaths = useMemo(() => {
     if (loadState.status !== "ready") return []
@@ -888,6 +916,12 @@ export function JapanPrefectureMap({
                     <span className="text-xs text-muted-foreground">—</span>
                   ) : null}
                 </div>
+
+                {selectedSpotPredictLine ? (
+                  <div className="rounded-lg bg-neutral-500/5 px-3 py-2 text-xs text-neutral-700">
+                    {selectedSpotPredictLine}
+                  </div>
+                ) : null}
 
                 <div className="flex flex-wrap items-center gap-2">
                   {selectedSpot.links?.weathernews ? (

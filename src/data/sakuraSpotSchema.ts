@@ -1,5 +1,7 @@
 import { z } from "zod"
 
+import type { SakuraSpotPrediction } from "@/data/sakuraSpotPredictSchema"
+
 export const sakuraCollectionSchema = z.enum([
   "sakura100",
   "navitime",
@@ -67,4 +69,5 @@ export type SakuraSpotInPrefectureFile = z.infer<
 
 export type SakuraSpot = SakuraSpotInPrefectureFile & {
   prefecture: SakuraPrefectureFile["prefecture"]
+  predict?: SakuraSpotPrediction
 }
