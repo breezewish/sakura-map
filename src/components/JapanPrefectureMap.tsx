@@ -102,7 +102,7 @@ export function JapanPrefectureMap({
 
   const scheduleClosePopover = useCallback(
     (delayMs = 160) => {
-      clearClosePopoverTimeout()
+      if (closePopoverTimeoutRef.current != null) return
       closePopoverTimeoutRef.current = window.setTimeout(() => {
         closePopoverTimeoutRef.current = null
         if (popoverHoverRef.current) return
@@ -110,7 +110,7 @@ export function JapanPrefectureMap({
         closePopover()
       }, delayMs)
     },
-    [clearClosePopoverTimeout, closePopover],
+    [closePopover],
   )
 
   useEffect(() => {
