@@ -192,6 +192,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/503/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-455
     name_ja: 岡城跡
     location:
@@ -224,6 +225,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%9F%8E_(%E8%B1%8A%E5%BE%8C%E5%9B%BD)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-505
@@ -273,6 +275,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8303/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307040
     name_ja: 御岳県立自然公園
     location:
@@ -414,6 +417,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8308/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8301
     name_ja: 大分城址公園
     location:
@@ -437,6 +441,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8301/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-83004
     name_ja: 大分縣護國神社
     location:
@@ -563,6 +568,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/83006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-83005
     name_ja: 長湯温泉　しだれ桜の里(ヤエベニシダレザクラ)
     location:
@@ -592,6 +598,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/83005/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-452
     name_ja: 萩尾公園
     location:
@@ -665,6 +672,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/454/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8312
     name_ja: 並石ダムグリーンランド
     location:
@@ -710,6 +718,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/83010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-83002
     name_ja: 由布院・大分川沿いの桜並木
     location:
@@ -733,3 +742,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/83002/
     collections:
       - weathernews
+      - weathernews_top10

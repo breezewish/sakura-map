@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/87011/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-489
     name_ja: 旭化成(株)東海地区工場
     location:
@@ -94,6 +95,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/488/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87003
     name_ja: 遠見山森林公園
     location:
@@ -142,6 +144,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307015/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
     trees: 10000
   - id: wn-8704
@@ -167,6 +170,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8704/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87001
     name_ja: 久峰総合公園
     location:
@@ -265,6 +269,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/490/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-485
     name_ja: 垂水公園
     location:
@@ -291,6 +296,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/485/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-487
     name_ja: 西都原古墳群
     location:
@@ -315,6 +321,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/487/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87014
     name_ja: 大坪の一本桜
     location:
@@ -435,6 +442,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/483/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87009
     name_ja: 天神山公園(宮崎市)
     location:
@@ -456,6 +464,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/87009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87002
     name_ja: 舞鶴公園(宮崎県)
     location:
@@ -512,6 +521,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%AF%8D%E6%99%BA%E4%B8%98%E3%83%BB%E9%96%A2%E4%B9%8B%E5%B0%BE%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-87007

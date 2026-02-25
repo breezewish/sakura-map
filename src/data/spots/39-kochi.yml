@@ -27,6 +27,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/74002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-74004
     name_ja: 鮎乃瀬公園
     location:
@@ -150,6 +151,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%8F%A1%E9%87%8E%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-74009
@@ -174,6 +176,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/74009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7401
     name_ja: 荒瀬山
     location:
@@ -197,6 +200,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7401/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-426
     name_ja: 高知公園
     location:
@@ -225,6 +229,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/426/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7419
     name_ja: 四万十川桜づつみ公園
     location:
@@ -248,6 +253,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7419/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-74007
     name_ja: 室戸広域公園
     location:
@@ -295,6 +301,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/74005/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7406
     name_ja: 上街公園
     location:
@@ -345,6 +352,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7413/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-74003
     name_ja: 中越家のしだれ桜
     location:
@@ -369,6 +377,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/74003/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-74011
     name_ja: 定福寺
     location:
@@ -428,6 +437,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%BD%90%E5%B7%9D%E7%94%BA
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-74008

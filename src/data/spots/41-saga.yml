@@ -49,6 +49,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8503/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85013
     name_ja: 横竹ダム
     location:
@@ -120,6 +121,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8501/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8507
     name_ja: 御船山楽園
     location:
@@ -145,6 +147,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8507/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85009
     name_ja: 佐賀城公園
     location:
@@ -170,6 +173,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/85009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85012
     name_ja: 徐福サイクルロード
     location:
@@ -193,6 +197,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/85012/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-470
     name_ja: 小城公園
     location:
@@ -224,6 +229,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-85007
@@ -322,6 +328,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/85010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85014
     name_ja: 庭木ダム
     location:
@@ -367,6 +374,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/468/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-466
     name_ja: 唐津城(舞鶴公園)
     location:
@@ -392,6 +400,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/466/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85001
     name_ja: 陶山神社
     location:
@@ -465,6 +474,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/85003/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-85005
     name_ja: 宝珠寺
     location:

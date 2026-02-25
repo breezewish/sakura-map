@@ -52,6 +52,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1600376/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-472
     name_ja: 熊本城
@@ -82,6 +83,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-474
     name_ja: 高森峠千本桜
@@ -107,6 +109,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/474/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8608
     name_ja: 桜ヶ丘グラウンド
     location:
@@ -160,6 +163,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B8%82%E6%88%BF%E3%83%80%E3%83%A0
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     trees: 10000
@@ -209,6 +213,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8605/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-475
     name_ja: 城山公園
     location:
@@ -255,6 +260,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/478/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-86002
     name_ja: 水前寺成趣園
     location:
@@ -280,6 +286,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/86002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-86005
     name_ja: 千巌山
     location:
@@ -397,6 +404,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/477/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307119
     name_ja: 湯の児チェリーライン(水俣市チェリーライン)
     location:
@@ -456,6 +464,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/476/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8606
     name_ja: 立岡自然公園
     location:
@@ -479,6 +488,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8606/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8611
     name_ja: 竜北公園
     location:

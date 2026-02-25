@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/84013/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-84014
     name_ja: しまばら火張山花公園
     location:
@@ -120,6 +121,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/464/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-84012
     name_ja: 郡川の桜並木
     location:
@@ -233,6 +235,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/84009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-84007
     name_ja: 佐世保公園
     location:
@@ -358,6 +361,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-460
     name_ja: 大村公園(ソメイヨシノ)
@@ -389,6 +393,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: nt-90011-sak1307102
     name_ja: 大村公園(大村神社)
@@ -455,6 +460,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/84015/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-461
     name_ja: 長崎県立西海橋公園(ソメイヨシノ)
     location:
@@ -479,6 +485,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/461/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-465
     name_ja: 島原城
     location:
@@ -502,6 +509,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/465/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307136
     name_ja: 眉山治山祈念公苑
     location:
@@ -559,6 +567,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/84006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-462
     name_ja: 立山公園
     location:
@@ -583,3 +592,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/462/
     collections:
       - weathernews
+      - weathernews_top10
