@@ -102,7 +102,7 @@ export function JapanPrefectureMap({
 
     async function load() {
       try {
-        const response = await fetch("/maps/japan.topojson", {
+        const response = await fetch(`${import.meta.env.BASE_URL}maps/japan.topojson`, {
           signal: abortController.signal,
         })
         if (!response.ok) {
