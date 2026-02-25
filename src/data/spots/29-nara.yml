@@ -94,6 +94,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6408/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-346
     name_ja: 吉野山(下千本)
     location:
@@ -119,6 +120,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307162/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
     trees: 30000
   - id: wn-344
@@ -151,6 +153,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     trees: 30000
@@ -184,6 +187,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     trees: 30000
@@ -232,6 +236,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/64015/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-64008
     name_ja: 三室山（県立竜田公園内）
     location:
@@ -287,6 +292,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E5%9F%8E_(%E5%A4%A7%E5%92%8C%E5%9B%BD)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-342
@@ -444,6 +450,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301166/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-64014
     name_ja: 壷阪寺
@@ -468,6 +475,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/64014/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-338
     name_ja: 奈良公園(ナラココノエザクラ)
     location:
@@ -499,6 +507,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-64013
@@ -548,6 +557,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6412/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-64010
     name_ja: 柳生芳徳禅寺
     location:

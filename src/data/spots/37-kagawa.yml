@@ -51,6 +51,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/412/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7209
     name_ja: 亀鶴公園
     location:
@@ -77,6 +78,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307026/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-7211
     name_ja: 琴弾公園
@@ -110,6 +112,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-411
@@ -138,6 +141,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300462/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-72004
     name_ja: 戸川ダム公園
@@ -188,6 +192,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7202/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-72001
     name_ja: 史跡高松城跡玉藻公園
     location:
@@ -212,6 +217,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/72001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7207
     name_ja: 紫雲出山山頂園地
     location:
@@ -239,6 +245,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7207/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-72002
     name_ja: 朝日山森林公園
     location:
@@ -262,6 +269,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/72002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7205
     name_ja: 桃陵公園
     location:
@@ -285,6 +293,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7205/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-366
     name_ja: 特別名勝栗林公園
     location:
@@ -313,6 +322,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300465/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-7210
     name_ja: 萩の丘公園周辺

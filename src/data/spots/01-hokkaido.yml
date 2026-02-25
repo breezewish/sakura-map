@@ -218,6 +218,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/14001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-17002
     name_ja: 金刀比羅さくら公園
     location:
@@ -289,6 +290,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300031/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-19001
     name_ja: 子野日公園
@@ -414,6 +416,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/23002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-2304
     name_ja: 松前公園(ソメイヨシノ)
     location:
@@ -476,6 +479,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-23004
     name_ja: 松前藩戸切地陣屋跡桜並木トンネル
@@ -688,6 +692,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/14006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-23006
     name_ja: 大野川沿い桜並木
     location:
@@ -757,6 +762,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/23010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5
     name_ja: 朝日ヶ丘公園
     location:
@@ -780,6 +786,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-17001
     name_ja: 天都山桜公園
     location:
@@ -927,6 +934,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E9%96%93%E9%81%93%E8%B7%AF%E6%A1%9C%E4%B8%A6%E6%9C%A8
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-23001
@@ -953,6 +961,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/23001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-23012
     name_ja: 百想園・小樽朝里川遊歩道(エゾヤマザクラ)
     location:
@@ -1047,6 +1056,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-1704
     name_ja: 北見フラワーパラダイス
     location:

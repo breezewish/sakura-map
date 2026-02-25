@@ -71,6 +71,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/243/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-251
     name_ja: 宮野運動公園
     location:
@@ -117,6 +118,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/255/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-55003
     name_ja: 倶利伽羅県定公園
     location:
@@ -195,6 +197,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-254
@@ -223,6 +226,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/254/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-249
     name_ja: 寺家公園
     location:
@@ -269,6 +273,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5504/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5503
     name_ja: 小矢部川公園
     location:
@@ -317,6 +322,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/245/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-250
     name_ja: 松川べり(松川公園・磯部堤・城址公園)
     location:
@@ -348,6 +354,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B7%9D%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-5501
@@ -466,6 +473,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/55004/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-246
     name_ja: 朝日山公園
     location:
@@ -489,6 +497,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/246/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-55005
     name_ja: 内川周辺の桜並木
     location:
@@ -534,6 +543,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5505/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1301013
     name_ja: 富山市民俗民芸村
     location:

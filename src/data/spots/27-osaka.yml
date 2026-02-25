@@ -79,6 +79,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/62012/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-319
     name_ja: 岸和田城
     location:
@@ -128,6 +129,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/62009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-323
     name_ja: 五月山緑地
     location:
@@ -227,6 +229,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/351/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-62008
     name_ja: 勝尾寺
     location:
@@ -340,6 +343,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%A1%9C%E3%81%AE%E9%80%9A%E3%82%8A%E6%8A%9C%E3%81%91_(%E5%A4%A7%E9%98%AA%E9%80%A0%E5%B9%A3%E5%B1%80)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-62006
@@ -397,6 +401,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-62007
@@ -446,6 +451,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/62010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6207
     name_ja: 長居公園(長居植物園)
     location:
@@ -470,6 +476,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6207/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-62014
     name_ja: 長野公園(奥河内さくら公園)
     location:
@@ -564,6 +571,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/62018/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-313
     name_ja: 万博記念公園
     location:
@@ -598,6 +606,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%87%E5%8D%9A%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-62002
@@ -685,6 +694,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/315/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-62017
     name_ja: 彌榮神社
     location:

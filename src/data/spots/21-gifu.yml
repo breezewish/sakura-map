@@ -226,6 +226,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5201/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-52012
     name_ja: 笠松みなと公園
     location:
@@ -389,6 +390,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2500706/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-5222
     name_ja: 虎渓公園
@@ -490,6 +492,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%B0%BE%E8%B0%B7%E3%83%BB%E6%B7%A1%E5%A2%A8%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-5227
@@ -638,6 +641,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: nt-90011-sak1307070
     name_ja: 新境川堤
@@ -813,6 +817,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5214/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5205
     name_ja: 大垣船町川湊(奥の細道むすびの地)
     location:
@@ -836,6 +841,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5205/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-52010
     name_ja: 大榑川桜並木
     location:
@@ -883,6 +889,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/218/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5218
     name_ja: 中将姫誓願桜
     location:
@@ -998,6 +1005,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5226/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5229
     name_ja: 苗代桜
     location:
@@ -1091,6 +1099,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5216/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-52007
     name_ja: 本町公園
     location:
@@ -1209,4 +1218,5 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307158/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime

@@ -209,6 +209,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%95%E3%81%AE%E9%A0%AD%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-111
@@ -539,6 +540,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     description_ja: 隅田川の両岸約1kmにわたって桜並木が続き、「日本さくら名所100選」にも選ばれた都内有数の花見スポット。3月下旬から4月上旬を中心に、ソメイヨシノやヤエベニシダレ約42種もの桜が見ごろを迎える。東京スカイツリー(R)の足元に桜が咲き乱れる風景は必見。屋形船や水上バスからの風景も美しく、開花にあわせてライトアップイベントや屋台の出店が行われる。トイレ、駐車場あり。最寄は浅草駅。
@@ -666,6 +668,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300597/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-44037
     name_ja: 国立市大学通り・さくら通りの桜
@@ -950,6 +953,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E6%81%A9%E8%B3%9C%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-44062
@@ -1014,6 +1018,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-4429
     name_ja: 新宿中央公園
@@ -1360,6 +1365,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307165/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-4401
     name_ja: 洗足池公園
@@ -1479,6 +1485,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4481/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-44003
     name_ja: 辰巳の森緑道公園
     location:
@@ -1719,6 +1726,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4445/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4425
     name_ja: 浜離宮恩賜庭園
     location:
@@ -1932,6 +1940,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/115/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4417
     name_ja: 六義園
     location:
@@ -1959,4 +1968,5 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300525/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime

@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/68004/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-68001
     name_ja: 愛宕山公園
     location:
@@ -72,6 +73,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/396/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-68003
     name_ja: 安来清水寺
     location:
@@ -144,6 +146,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/394/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-68014
     name_ja: 因原堤防
     location:
@@ -190,6 +193,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6809/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-68010
     name_ja: 金谷城山桜
     location:
@@ -235,6 +239,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6802/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6803
     name_ja: 三刀屋川河川敷(ソメイヨシノ)
     location:
@@ -258,6 +263,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6803/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6810
     name_ja: 三刀屋川河川敷(御衣黄)
     location:
@@ -281,6 +287,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6810/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-395
     name_ja: 松江城山公園
     location:
@@ -312,6 +319,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-68011
@@ -368,6 +376,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%96%90%E4%BC%8A%E5%B7%9D%E5%A0%A4%E9%98%B2%E6%A1%9C%E4%B8%A6%E6%9C%A8
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-397
@@ -461,6 +470,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/680010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-68002
     name_ja: 鷲原公園
     location:

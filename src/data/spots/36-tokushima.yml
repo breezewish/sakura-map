@@ -27,6 +27,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/71004/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7105
     name_ja: 岩脇公園(桜のトンネル)
     location:
@@ -52,6 +53,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7105/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-71003
     name_ja: 吉良のエドヒガン桜
     location:
@@ -75,6 +77,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/71003/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-71007
     name_ja: 向麻山公園
     location:
@@ -128,6 +131,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-7118
     name_ja: 津峯公園
@@ -152,6 +156,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7118/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7101
     name_ja: 徳島中央公園
     location:
@@ -176,6 +181,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7101/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-7104
     name_ja: 日和佐城
     location:
@@ -202,6 +208,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7104/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-406
     name_ja: 眉山公園
     location:
@@ -229,6 +236,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307135/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-7109
     name_ja: 妙見山公園
@@ -253,3 +261,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7109/
     collections:
       - weathernews
+      - weathernews_top10

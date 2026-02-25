@@ -1,6 +1,7 @@
 # Local agent tooling
 .codex/
 .codexpotter/
+.playwright/
 .playwright-cli/
 
 # Logs

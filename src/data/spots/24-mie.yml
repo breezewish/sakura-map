@@ -28,6 +28,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/53007/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-220
     name_ja: 伊勢神宮(内宮)
     location:
@@ -52,6 +53,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/220/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307025
     name_ja: 亀山公園
     location:
@@ -113,6 +115,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B7%9D_(%E4%B8%89%E9%87%8D%E7%9C%8C)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-53019
@@ -163,6 +166,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5305/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5306
     name_ja: 君ヶ野ダムの桜
     location:
@@ -186,6 +190,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5306/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-53003
     name_ja: 五十鈴川堤
     location:
@@ -208,6 +213,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/53003/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5304
     name_ja: 三多気の桜
     location:
@@ -239,6 +245,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B8%82
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-53002
@@ -287,6 +294,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/222/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-53005
     name_ja: 大滝峡自然公園
     location:
@@ -359,6 +367,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307111/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-53006
     name_ja: 田丸城跡
@@ -459,3 +468,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/221/
     collections:
       - weathernews
+      - weathernews_top10

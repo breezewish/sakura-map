@@ -422,6 +422,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4611/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-46057
     name_ja: 孝道山
     location:
@@ -491,6 +492,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/46001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-46003
     name_ja: 皇室ゆかりの地「恩賜箱根公園」
     location:
@@ -564,6 +566,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/46006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-149
     name_ja: 三ツ沢公園
     location:
@@ -639,6 +642,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300875/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-46007
     name_ja: 山北鉄道公園（JR御殿場線沿い桜並木の通り）
@@ -716,6 +720,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-46009
@@ -796,6 +801,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E4%B8%89%E3%83%84%E6%B1%A0%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-46025
@@ -1090,6 +1096,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4619/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-46050
     name_ja: 大山桜
     location:
@@ -1207,6 +1214,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4602/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-142
     name_ja: 鶴岡八幡宮
     location:
@@ -1231,6 +1239,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/142/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-46069
     name_ja: 東原桜並木
     location:
@@ -1275,6 +1284,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/46008/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-147
     name_ja: 柏尾川プロムナード桜並木
     location:

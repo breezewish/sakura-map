@@ -137,6 +137,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E5%9F%8E%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-208
@@ -185,6 +186,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/201/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-51009
     name_ja: 亀城公園
     location:
@@ -412,6 +414,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5106/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5125
     name_ja: 佐奈川堤
     location:
@@ -538,6 +541,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5103/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-51012
     name_ja: 史跡小牧山
     location:
@@ -785,6 +789,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%88%9E%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-51004
@@ -864,6 +869,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/202/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-51002
     name_ja: 東谷山フルーツパーク
     location:
@@ -981,6 +987,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/51014/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-205
     name_ja: 名古屋城
     location:
@@ -1007,6 +1014,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/205/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-51005
     name_ja: 明石公園
     location:
@@ -1056,6 +1064,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/207/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-51018
     name_ja: 落合公園
     location:
@@ -1078,3 +1087,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/51018/
     collections:
       - weathernews
+      - weathernews_top10

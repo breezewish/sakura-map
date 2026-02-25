@@ -172,6 +172,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3309/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-33005
     name_ja: 舘山公園
     location:
@@ -246,6 +247,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300216/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-42
     name_ja: 碁石海岸
@@ -300,6 +302,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-33015
     name_ja: 桜の回廊（国道397号線の桜並木）
@@ -372,6 +375,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/33002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-36
     name_ja: 小岩井農場
     location:
@@ -396,6 +400,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/36/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-33007
     name_ja: 上坊牧野の一本桜
     location:
@@ -466,6 +471,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/41/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-35
     name_ja: 盛岡城跡公園(岩手公園)
     location:
@@ -492,6 +498,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300248/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-3316
     name_ja: 西行桜の森
@@ -540,6 +547,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/39/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307105
     name_ja: 達谷窟毘沙門堂
     location:
@@ -696,6 +704,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/37/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-34
     name_ja: 北上展勝地
     location:
@@ -723,6 +732,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: nt-90011-sak1307147
     name_ja: 北上展勝地

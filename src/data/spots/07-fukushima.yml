@@ -49,6 +49,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3607/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307014
     name_ja: 花と歴史の郷 蛇の鼻
     location:
@@ -109,6 +110,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3634/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3603
     name_ja: 霞ヶ城公園
     location:
@@ -140,6 +142,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-69
@@ -165,6 +168,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/69/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3614
     name_ja: 観音寺川の桜
     location:
@@ -189,6 +193,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3614/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3605
     name_ja: 亀ヶ城公園
     location:
@@ -337,6 +342,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%89%E6%98%A5%E6%BB%9D%E6%A1%9C
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-3601
@@ -608,6 +614,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9D%BE%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-73
@@ -633,6 +640,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/73/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-36002
     name_ja: 日中線しだれ桜並木
     location:
@@ -657,6 +665,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/36002/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-67
     name_ja: 馬陵公園(中村城跡)
     location:
@@ -749,6 +758,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/36001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307156
     name_ja: 矢祭山公園
     location:

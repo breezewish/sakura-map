@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4530/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-45025
     name_ja: おゆみ野さくら公園・春の道
     location:
@@ -96,6 +97,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45024/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-45029
     name_ja: におどり公園
     location:
@@ -239,6 +241,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45023/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-131
     name_ja: 笠森観音周辺
     location:
@@ -285,6 +288,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45032/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-45003
     name_ja: 香取神宮
     location:
@@ -584,6 +588,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45016/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-45012
     name_ja: 真間山弘法寺
     location:
@@ -686,6 +691,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/123/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4531
     name_ja: 成田市さくらの山
     location:
@@ -712,6 +718,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4531/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-136
     name_ja: 清水公園
     location:
@@ -743,6 +750,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-45046
@@ -1281,6 +1289,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%8C%82%E5%8E%9F%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-45014
@@ -1307,6 +1316,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45014/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-45052
     name_ja: 六高台さくら通り
     location:

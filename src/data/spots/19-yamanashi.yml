@@ -49,6 +49,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4911/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4912
     name_ja: 河口湖北岸円形ホール付近
     location:
@@ -72,6 +73,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4912/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-49004
     name_ja: 岩殿山丸山公園
     location:
@@ -168,6 +170,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4902/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4909
     name_ja: 山梨県護国神社
     location:
@@ -214,6 +217,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4904/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-49014
     name_ja: 信玄堤公園
     location:
@@ -261,6 +265,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/49009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-49013
     name_ja: 新名庄川・お宮橋
     location:
@@ -283,6 +288,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/49013/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4910
     name_ja: 身延山久遠寺
     location:
@@ -306,6 +312,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4910/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4907
     name_ja: 甚六桜
     location:
@@ -329,6 +336,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4907/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4901
     name_ja: 清春芸術村の桜群
     location:
@@ -407,6 +415,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B3%95%E5%B8%AB%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-49008
@@ -606,3 +615,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/49011/
     collections:
       - weathernews
+      - weathernews_top10

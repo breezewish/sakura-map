@@ -50,6 +50,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/34010/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-34009
     name_ja: 加護坊山の二千本桜
     location:
@@ -75,6 +76,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/34009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3407
     name_ja: 三神峯公園
     location:
@@ -98,6 +100,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3407/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-34002
     name_ja: 七ヶ宿公園
     location:
@@ -144,6 +147,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/53/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-34001
     name_ja: 西行戻しの松公園
     location:
@@ -168,6 +172,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/34001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-49
     name_ja: 船岡城址公園
     location:
@@ -199,6 +204,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%88%B9%E5%B2%A1%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-34003
@@ -276,6 +282,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/52/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3403
     name_ja: 白石川堤一目千本桜
     location:
@@ -299,6 +306,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3403/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307126
     name_ja: 白石川堤一目千本桜
     location:
@@ -430,6 +438,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/47/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-55
     name_ja: 榴岡公園
     location:
@@ -454,3 +463,4 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/55/
     collections:
       - weathernews
+      - weathernews_top10

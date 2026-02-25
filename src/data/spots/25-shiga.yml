@@ -59,6 +59,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/60019/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-60011
     name_ja: にごり池自然公園
     location:
@@ -105,6 +106,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/60017/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-60012
     name_ja: 雨山文化運動公園
     location:
@@ -174,6 +176,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-288
     name_ja: 海津大崎
     location:
@@ -205,6 +208,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%A5%E5%A4%A7%E5%B4%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-6002
@@ -363,6 +367,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301135/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-60006
     name_ja: 滋賀県醒井養鱒場
@@ -484,6 +489,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301136/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-6001
     name_ja: 八幡公園・八幡堀
@@ -508,6 +514,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-60001
     name_ja: 比叡山延暦寺
     location:
@@ -568,6 +575,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/60004/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-285
     name_ja: 彦根城
     location:
@@ -594,6 +602,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301138/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-284
     name_ja: 豊公園
@@ -627,6 +636,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E5%9F%8E_(%E8%BF%91%E6%B1%9F%E5%9B%BD)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-60018

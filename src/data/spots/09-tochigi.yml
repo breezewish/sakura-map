@@ -50,6 +50,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/41006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4103
     name_ja: 烏ヶ森公園
     location:
@@ -141,6 +142,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/41001/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-41017
     name_ja: 宮の桜堤
     location:
@@ -189,6 +191,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4114/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4104
     name_ja: 根本山
     location:
@@ -258,6 +261,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/41013/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-41007
     name_ja: 小山総合公園
     location:
@@ -282,6 +286,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/41007/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4111
     name_ja: 城山公園(佐野市)
     location:
@@ -454,6 +459,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E5%B1%B1%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92_(%E6%A0%83%E6%9C%A8%E7%9C%8C)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-41002
@@ -503,6 +509,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4106/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-41005
     name_ja: 東雲公園
     location:
@@ -580,6 +587,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%97%A5%E5%85%89%E8%A1%97%E9%81%93
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-4108
@@ -605,6 +613,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4108/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-82
     name_ja: 八幡山公園
     location:
@@ -628,6 +637,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/82/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4102
     name_ja: 龍城公園
     location:

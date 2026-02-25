@@ -173,6 +173,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%87%A5%E7%AB%9C%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: nt-90011-sak1307033
@@ -228,6 +229,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/48009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-48008
     name_ja: 光前寺
     location:
@@ -307,6 +309,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%AB%98%E9%81%A0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-4805
@@ -333,6 +336,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4805/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4820
     name_ja: 春日公園
     location:
@@ -357,6 +361,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4820/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-162
     name_ja: 小諸城址懐古園
     location:
@@ -388,6 +393,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%AB%B8%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-4802
@@ -437,6 +443,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4807/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-163
     name_ja: 松本城山公園
     location:
@@ -514,6 +521,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2000233/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-4804
     name_ja: 寝覚の床
@@ -561,6 +569,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/167/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-166
     name_ja: 水月公園
     location:
@@ -865,6 +874,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/172/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4821
     name_ja: 薄川堤防
     location:

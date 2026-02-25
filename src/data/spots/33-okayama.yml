@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/66101/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-66004
     name_ja: たけべの森公園
     location:
@@ -75,6 +76,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307005/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-6613
     name_ja: 旭川さくらみち
@@ -99,6 +101,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6613/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6611
     name_ja: 井原堤
     location:
@@ -122,6 +125,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6611/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-66002
     name_ja: 岡山・RSKバラ園
     location:
@@ -198,6 +202,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300296/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-66003
     name_ja: 岡山市半田山植物園
@@ -433,6 +438,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6608/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-66103
     name_ja: 種松山公園西園地
     location:
@@ -457,6 +463,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/66103/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-363
     name_ja: 酒津公園
     location:
@@ -481,6 +488,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/363/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6601
     name_ja: 城山公園
     location:
@@ -575,6 +583,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/6602/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-66010
     name_ja: 池田動物園
     location:
@@ -629,6 +638,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B1%B1%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-66018

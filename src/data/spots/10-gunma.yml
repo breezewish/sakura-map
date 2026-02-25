@@ -27,6 +27,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/42007/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-4203
     name_ja: 伊勢崎市華蔵寺公園
     location:
@@ -50,6 +51,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4203/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-88
     name_ja: 楽歩堂前橋公園
     location:
@@ -73,6 +75,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/88/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-87
     name_ja: 観音山
     location:
@@ -120,6 +123,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/42009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307037
     name_ja: 県立森林公園さくらの里
     location:
@@ -203,6 +207,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/42003/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-91
     name_ja: 桜山公園
     location:
@@ -234,6 +239,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B1%B1_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     trees: 10000
@@ -284,6 +290,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4209/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-42005
     name_ja: 城之内公園
     location:
@@ -364,6 +371,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9F%8E%E5%8D%97%E9%9D%A2%E5%8D%83%E6%9C%AC%E6%A1%9C
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-42004
@@ -437,6 +445,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4206/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-89
     name_ja: 未来へはばたけ　山田製作所 桐生が岡動物園
     location:
@@ -484,6 +493,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4201/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-42002
     name_ja: 老神温泉
     location:

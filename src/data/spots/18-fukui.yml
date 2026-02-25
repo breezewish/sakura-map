@@ -25,6 +25,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/57008/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-273
     name_ja: 芦山公園
     location:
@@ -122,6 +123,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - sakura100
   - id: wn-279
     name_ja: 亀山公園
@@ -169,6 +171,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/272/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-57003
     name_ja: 九頭竜湖
     location:
@@ -197,6 +200,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307030/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-57004
     name_ja: 若狭駒ヶ岳桜並木
@@ -243,6 +247,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/278/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-271
     name_ja: 小浜公園
     location:
@@ -266,6 +271,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/271/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-5701
     name_ja: 城山公園
     location:
@@ -337,6 +343,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307080/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-276
     name_ja: 足羽山公園
@@ -365,6 +372,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307093/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-5703
     name_ja: 足羽川桜並木
@@ -397,6 +405,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%BE%BD%E5%B7%9D%E6%A1%9C%E4%B8%A6%E6%9C%A8
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-57012
@@ -470,6 +479,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/57006/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-57005
     name_ja: 妙祐寺
     location:

@@ -62,6 +62,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B8%BD%E5%AD%90%E5%B1%B1%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-62
@@ -87,6 +88,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/62/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-35002
     name_ja: 寒河江公園
     location:
@@ -138,6 +140,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/59/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3509
     name_ja: 最上川堤防千本桜
     location:
@@ -161,6 +164,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3509/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3519
     name_ja: 楯山公園
     location:
@@ -207,6 +211,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/64/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-3518
     name_ja: 倉津川枝垂桜
     location:
@@ -230,6 +235,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/3518/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-35001
     name_ja: 草岡の大明神ザクラ
     location:
@@ -307,6 +313,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-60
@@ -332,6 +339,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/60/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-58
     name_ja: 日和山公園
     location:
@@ -355,6 +363,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/58/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-61
     name_ja: 馬見ヶ崎さくらライン
     location:
@@ -378,6 +387,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/61/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-35006
     name_ja: 馬渡の桜並木
     location:

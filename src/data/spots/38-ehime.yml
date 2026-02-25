@@ -72,6 +72,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7307/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73001
     name_ja: 祇園公園
     location:
@@ -118,6 +119,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/7303/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73012
     name_ja: 広瀬公園
     location:
@@ -195,6 +197,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1%E5%85%AC%E5%9C%92_(%E6%9D%BE%E5%B1%B1%E5%B8%82)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-73002
@@ -272,6 +275,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/73005/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73009
     name_ja: 積善山三千本桜
     location:
@@ -301,6 +305,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/73009/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73011
     name_ja: 赤坂泉公園
     location:
@@ -325,6 +330,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/73011/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73006
     name_ja: 滝の宮公園
     location:
@@ -417,6 +423,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/416/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-73019
     name_ja: 頓田川河川敷
     location:
@@ -509,6 +516,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/73007/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-419
     name_ja: 武丈公園
     location:
@@ -535,6 +543,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307140/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-421
     name_ja: 野福峠
@@ -559,6 +568,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/421/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307155
     name_ja: 野福峠
     location:

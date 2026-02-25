@@ -80,6 +80,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E5%85%AC%E5%9C%92_(%E5%AE%87%E9%83%A8%E5%B8%82)
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-8104
@@ -105,6 +106,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8104/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-81007
     name_ja: 王子山公園
     location:
@@ -154,6 +156,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/431/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-81003
     name_ja: 花岡八幡宮
     location:
@@ -231,6 +234,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%90%89%E9%A6%99%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-8112
@@ -256,6 +260,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8112/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8105
     name_ja: 功山寺
     location:
@@ -306,6 +311,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8118/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-434
     name_ja: 香山公園
     location:
@@ -494,6 +500,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8120/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8124
     name_ja: 草山公園
     location:
@@ -620,6 +627,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8101/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-429
     name_ja: 日和山公園
     location:
@@ -669,6 +677,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/435/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-81004
     name_ja: 防府天満宮
     location:
@@ -747,6 +756,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/430/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-8122
     name_ja: 緑と文化のプロムナード
     location:

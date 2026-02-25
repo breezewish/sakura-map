@@ -30,6 +30,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/63016/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-63009
     name_ja: かみかわ桜の山桜華園
     location:
@@ -259,6 +260,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%99%E5%B7%9D%E6%B2%B3%E5%B7%9D%E6%95%B7%E7%B7%91%E5%9C%B0
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-6301
@@ -358,6 +360,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/325/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-63024
     name_ja: 神戸市立森林植物園
     location:
@@ -429,6 +432,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/327/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307073
     name_ja: 須磨寺
     location:
@@ -530,6 +534,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/333/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-63014
     name_ja: 善福寺
     location:
@@ -646,6 +651,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/63012/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-6302
     name_ja: 播磨中央公園・桜の園
     location:
@@ -739,6 +745,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E5%9F%8E
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-63017
@@ -764,6 +771,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/63017/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-328
     name_ja: 明石公園
     location:
@@ -796,6 +804,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E6%98%8E%E7%9F%B3%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-326
@@ -821,6 +830,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/326/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-63001
     name_ja: 立雲峡
     location:

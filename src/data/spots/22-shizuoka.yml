@@ -34,6 +34,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E9%87%8C
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-190
@@ -110,6 +111,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/193/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50008
     name_ja: 粟ヶ岳
     location:
@@ -162,6 +164,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/183/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50017
     name_ja: 奥山公園
     location:
@@ -234,6 +237,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5024/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50015
     name_ja: 河原町旧堤防
     location:
@@ -656,6 +660,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/189/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50026
     name_ja: 潤井川龍巌淵
     location:
@@ -679,6 +684,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/50026/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50006
     name_ja: 勝間田川沿い
     location:
@@ -949,6 +955,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/50013/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50020
     name_ja: 秩父宮記念公園
     location:
@@ -1117,6 +1124,7 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307138/
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-50023
     name_ja: 富士桜自然墓地公園
@@ -1142,6 +1150,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/50023/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-50021
     name_ja: 富士山本宮浅間大社
     location:
@@ -1197,6 +1206,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E9%9C%8A%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-50014

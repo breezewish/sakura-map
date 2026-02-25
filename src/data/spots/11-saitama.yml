@@ -26,6 +26,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4320/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43016
     name_ja: さくらの山公園
     location:
@@ -292,6 +293,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E6%A1%9C%E5%A0%A4
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-4311
@@ -388,6 +390,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4301/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43022
     name_ja: 高尾さくら公園(北本総合公園)
     location:
@@ -474,6 +477,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4322/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43027
     name_ja: 彩の森入間公園
     location:
@@ -639,6 +643,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/100/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43020
     name_ja: 沼辺公園
     location:
@@ -848,6 +853,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/43008/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43041
     name_ja: 草加葛西用水
     location:
@@ -928,6 +934,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%AE%AE%E5%85%AC%E5%9C%92
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
     trees: 1000
@@ -1010,6 +1017,7 @@ spots:
       wikipedia: https://ja.wikipedia.org/wiki/%E9%95%B7%E7%80%9E%E6%B8%93%E8%B0%B7
     collections:
       - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-43011
@@ -1290,6 +1298,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/4304/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43018
     name_ja: 北浅羽桜堤公園
     location:
@@ -1313,6 +1322,7 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/43018/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-43013
     name_ja: 無線山桜並木
     location:
