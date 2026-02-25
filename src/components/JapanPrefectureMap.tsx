@@ -710,70 +710,27 @@ export function JapanPrefectureMap({
             side="top"
             align="center"
             sideOffset={12}
-            className="w-[420px] rounded-2xl bg-white p-4 shadow-xl"
+            className="w-[420px] overflow-hidden rounded-2xl bg-white p-0 shadow-xl"
           >
-            <div className="grid gap-3">
-              <div className="grid gap-1">
-                <div className="text-sm font-semibold leading-tight">
-                  {selectedSpot.name_ja}
-                </div>
-                <div className="text-xs text-muted-foreground">
-                  {selectedSpot.prefecture.name_ja}
-                  {selectedSpot.location?.city_ja
-                    ? ` · ${selectedSpot.location.city_ja}`
-                    : ""}
-                </div>
-              </div>
-
-              <div className="grid grid-cols-2 gap-2 text-xs">
-                <div className="rounded-md bg-neutral-50 px-2 py-1">
-                  樱花棵树：{" "}
-                  {typeof selectedSpot.trees === "number"
-                    ? new Intl.NumberFormat().format(selectedSpot.trees)
-                    : "未知"}
-                </div>
-                <div className="rounded-md bg-neutral-50 px-2 py-1">
-                  <div className="flex flex-wrap items-center gap-1">
-                    <span>集合：</span>
-                    {selectedSpot.collections?.includes("sakura100") ? (
-                      <span className="rounded bg-pink-400/15 px-1.5 py-0.5 text-[11px] text-pink-700">
-                        日本さくら名所100選
-                      </span>
-                    ) : null}
-                    {selectedSpot.collections?.includes("navitime") ? (
-                      <span className="rounded bg-blue-400/15 px-1.5 py-0.5 text-[11px] text-blue-700">
-                        NAVITIME
-                      </span>
-                    ) : null}
-                    {selectedSpot.collections?.includes("weathernews") ? (
-                      <span className="rounded bg-emerald-400/15 px-1.5 py-0.5 text-[11px] text-emerald-700">
-                        Weathernews
-                      </span>
-                      ) : null}
-                      {!selectedSpot.collections?.length ? <span>—</span> : null}
-                    </div>
-                  </div>
-                </div>
-
+            <div className="grid">
               {selectedSpotPhotos.length > 0 ? (
                 <Carousel
                   opts={{ loop: selectedSpotPhotos.length > 1 }}
                   className="w-full"
                 >
-                      <CarouselContent className="-ml-2">
+                  <CarouselContent className="!ml-0">
                     {selectedSpotPhotos.map((photo, index) => (
-                      <CarouselItem key={`${selectedSpot.id}-${index}`} className="pl-2">
-                        <div className="overflow-hidden rounded-lg bg-muted/20 shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]">
-                          <div className="relative aspect-[16/10] w-full">
-                            <img
-                              src={photo.url}
-                              alt={`${selectedSpot.name_ja} ${index + 1}`}
-                              className="h-full w-full object-cover transition-transform duration-500 ease-out"
-                              loading="lazy"
-                            />
-                          </div>
-                          {(photo.credit || photo.source_url) && (
-                            <div className="flex items-center justify-between gap-2 px-2 py-1 text-[11px] text-muted-foreground">
+                      <CarouselItem key={`${selectedSpot.id}-${index}`} className="!pl-0">
+                        <div className="relative aspect-[16/10] w-full bg-muted/20">
+                          <img
+                            src={photo.url}
+                            alt={`${selectedSpot.name_ja} ${index + 1}`}
+                            className="h-full w-full object-cover"
+                            loading="lazy"
+                          />
+
+                          {photo.credit || photo.source_url ? (
+                            <div className="absolute inset-x-0 bottom-0 flex items-center justify-between gap-2 bg-gradient-to-t from-black/60 to-transparent px-3 py-2 text-[11px] text-white/90">
                               <div className="min-w-0 truncate">
                                 {photo.credit ?? "Photo"}
                               </div>
@@ -788,7 +745,7 @@ export function JapanPrefectureMap({
                                 </a>
                               ) : null}
                             </div>
-                          )}
+                          ) : null}
                         </div>
                       </CarouselItem>
                     ))}
@@ -796,53 +753,96 @@ export function JapanPrefectureMap({
 
                   {selectedSpotPhotos.length > 1 ? (
                     <>
-                      <CarouselPrevious className="left-2 top-[45%] h-8 w-8" />
-                      <CarouselNext className="right-2 top-[45%] h-8 w-8" />
+                      <CarouselPrevious className="!left-2 !top-1/2 h-8 w-8 !-translate-y-1/2 bg-white/80 hover:bg-white" />
+                      <CarouselNext className="!right-2 !top-1/2 h-8 w-8 !-translate-y-1/2 bg-white/80 hover:bg-white" />
                     </>
                   ) : null}
                 </Carousel>
               ) : (
-                <div className="rounded-md bg-neutral-50 px-2 py-2 text-xs text-muted-foreground">
+                <div className="grid aspect-[16/10] w-full place-items-center bg-muted/20 text-xs text-muted-foreground">
                   暂无照片
                 </div>
               )}
 
-              <div className="flex flex-wrap items-center gap-2">
-                {selectedSpot.links?.wikipedia ? (
-                  <Button asChild variant="outline" size="sm">
-                    <a
-                      href={selectedSpot.links.wikipedia}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Wikipedia <ExternalLink className="ml-1 h-3 w-3" />
-                    </a>
-                  </Button>
-                ) : null}
+              <div className="grid gap-3 p-4">
+                <div className="flex items-baseline justify-between gap-4">
+                  <div className="flex min-w-0 flex-wrap items-baseline gap-x-2 gap-y-1">
+                    <div className="text-sm font-semibold leading-tight">
+                      {selectedSpot.name_ja}
+                    </div>
+                    <div className="text-xs text-muted-foreground">
+                      {selectedSpot.prefecture.name_ja}
+                      {selectedSpot.location?.city_ja
+                        ? ` · ${selectedSpot.location.city_ja}`
+                        : ""}
+                    </div>
+                  </div>
 
-                {selectedSpot.links?.navitime ? (
-                  <Button asChild variant="outline" size="sm">
-                    <a
-                      href={selectedSpot.links.navitime}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      NAVITIME <ExternalLink className="ml-1 h-3 w-3" />
-                    </a>
-                  </Button>
-                ) : null}
+                  <div className="shrink-0 text-xs text-muted-foreground">
+                    {typeof selectedSpot.trees === "number"
+                      ? `${new Intl.NumberFormat().format(selectedSpot.trees)} 棵`
+                      : "—"}
+                  </div>
+                </div>
 
-                {selectedSpot.links?.weathernews ? (
-                  <Button asChild variant="outline" size="sm">
-                    <a
-                      href={selectedSpot.links.weathernews}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Weathernews <ExternalLink className="ml-1 h-3 w-3" />
-                    </a>
-                  </Button>
-                ) : null}
+                <div className="flex flex-wrap items-center gap-1.5">
+                  {selectedSpot.collections?.includes("sakura100") ? (
+                    <span className="rounded bg-pink-400/15 px-2 py-0.5 text-[11px] text-pink-700">
+                      日本さくら名所100選
+                    </span>
+                  ) : null}
+                  {selectedSpot.collections?.includes("navitime") ? (
+                    <span className="rounded bg-blue-400/15 px-2 py-0.5 text-[11px] text-blue-700">
+                      NAVITIME
+                    </span>
+                  ) : null}
+                  {selectedSpot.collections?.includes("weathernews") ? (
+                    <span className="rounded bg-emerald-400/15 px-2 py-0.5 text-[11px] text-emerald-700">
+                      Weathernews
+                    </span>
+                  ) : null}
+                  {!selectedSpot.collections?.length ? (
+                    <span className="text-xs text-muted-foreground">—</span>
+                  ) : null}
+                </div>
+
+                <div className="flex flex-wrap items-center gap-2">
+                  {selectedSpot.links?.weathernews ? (
+                    <Button asChild variant="outline" size="sm">
+                      <a
+                        href={selectedSpot.links.weathernews}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Weathernews <ExternalLink className="ml-1 h-3 w-3" />
+                      </a>
+                    </Button>
+                  ) : null}
+
+                  {selectedSpot.links?.navitime ? (
+                    <Button asChild variant="outline" size="sm">
+                      <a
+                        href={selectedSpot.links.navitime}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        NAVITIME <ExternalLink className="ml-1 h-3 w-3" />
+                      </a>
+                    </Button>
+                  ) : null}
+
+                  {selectedSpot.links?.wikipedia ? (
+                    <Button asChild variant="outline" size="sm">
+                      <a
+                        href={selectedSpot.links.wikipedia}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Wikipedia <ExternalLink className="ml-1 h-3 w-3" />
+                      </a>
+                    </Button>
+                  ) : null}
+                </div>
               </div>
             </div>
           </PopoverContent>
