@@ -551,36 +551,16 @@ spots:
       city_ja: 西予市
       address_ja: 愛媛県西予市明浜町俵津
     geo:
-      lat: 33.3298
-      lng: 132.4983
-    trees: 400
-    species_ja:
-      - ソメイヨシノ
-    description_ja: 野福峠はリアス海岸の美しい風景を望むドライブコースで、約7kmのつづら折りの沿道にソメイヨシノが咲く。春には、宇和海と桜が調和して更に美しい。また、約400本の桜並木と全面に広がる宇和海とみかん畑の調和が絶景です。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/421/1766461162_s.webp
-        source_url: https://weathernews.jp/sakura/spot/421/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/421/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/421/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: nt-90011-sak1307155
-    name_ja: 野福峠
-    location:
-      address_ja: 愛媛県西予市明浜町
-    geo:
       lat: 33.334711
       lng: 132.511356
     trees: 400
     species_ja:
       - ソメイヨシノ
-    description_ja: 愛媛県西予市明浜町と宇和町をつなぐ海抜230m上の峠で、変化に富んだリアス式海岸の絶景が楽しめるスポット。つづら折りの道路沿いには約400本のソメイヨシノが植えられ、毎年3月下旬から4月上旬ごろに見事な花を咲かせる。ドライブコースとして人気があるほか、見ごろの日曜日には「野福峠さくら祭り」を開催。文楽の公演や各種イベント、特産品の販売などが行われ、多数の花見客で賑わう。駐車場あり。
+    description_ja: 野福峠はリアス海岸の美しい風景を望むドライブコースで、約7kmのつづら折りの沿道にソメイヨシノが咲く。春には、宇和海と桜が調和して更に美しい。また、約400本の桜並木と全面に広がる宇和海とみかん畑の調和が絶景です。見ごろの日曜日には「野福峠さくら祭り」が開催されます。
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/421/1766461162_s.webp
+        source_url: https://weathernews.jp/sakura/spot/421/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307155_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
         credit: NAVITIME
@@ -591,11 +571,16 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/421/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
     links:
+      weathernews: https://weathernews.jp/sakura/spot/421/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307155/
     collections:
+      - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-423
     name_ja: 和霊神社

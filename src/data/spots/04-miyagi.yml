@@ -289,29 +289,6 @@ spots:
       city_ja: 大河原町
       address_ja: 宮城県柴田郡大河原町大谷(白石川堤)
     geo:
-      lat: 38.0486
-      lng: 140.7377
-    trees: 1200
-    species_ja:
-      - ソメイヨシノ
-    description_ja: 桜の開花時期には、残雪戴く蔵王連峰と絢爛に咲き誇る1200本の「桜のトンネル」が清流の白石川に映り、絶妙な調和を見せています。読売新聞社より「新・日本街路樹100景」・「遊歩百選」に認定され、現在では全国各地・世界各国からの観桜を楽しむ人々で賑わいます。
-    photos:
-      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-21/96380343.jpg
-        source_url: https://weathernews.jp/sakura/spot/3403/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/3403/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/3403/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: nt-90011-sak1307126
-    name_ja: 白石川堤一目千本桜
-    location:
-      address_ja: 宮城県柴田郡大河原町大谷
-    geo:
       lat: 38.055539
       lng: 140.746895
     trees: 1200
@@ -320,8 +297,11 @@ spots:
       - シロヤマザクラ
       - ヤエザクラ
       - センダイヨシノ
-    description_ja: 大正12年に、高山開治郎氏の寄贈により、約1,200本もの桜が植樹された桜の名所。白石川の清涼な流れや蔵王連峰の雄大な山々、見事に咲き誇る桜の花とが織り成す景観がすばらしく、例年多くの花見客で賑わう。開花時期に合わせて桜まつりが開催され、夜桜ライトアップやお花見屋形船の運航、出店、お花見弁当の販売等が行われる。
+    description_ja: 桜の開花時期には、残雪戴く蔵王連峰と絢爛に咲き誇る1200本の「桜のトンネル」が清流の白石川に映り、絶妙な調和を見せています。開花時期に合わせて桜まつりが開催され、夜桜ライトアップやお花見屋形船の運航、出店、お花見弁当の販売等が行われます。
     photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-21/96380343.jpg
+        source_url: https://weathernews.jp/sakura/spot/3403/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307126_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
         credit: NAVITIME
@@ -332,11 +312,16 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/3403/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
     links:
+      weathernews: https://weathernews.jp/sakura/spot/3403/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307126/
     collections:
+      - weathernews
+      - weathernews_top10
       - navitime
   - id: wn-34007
     name_ja: 八木山ベニーランド

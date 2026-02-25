@@ -263,7 +263,7 @@ spots:
     collections:
       - weathernews
   - id: wn-60003
-    name_ja: 湖東三山西明寺(ソメイヨシノ)
+    name_ja: 湖東三山西明寺
     location:
       city_ja: 甲良町
       address_ja: 滋賀県犬上郡甲良町池寺26
@@ -283,38 +283,16 @@ spots:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60003/1771033773_s.webp
         source_url: https://weathernews.jp/sakura/spot/60003/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/60003/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/60003/
-    collections:
-      - weathernews
-  - id: wn-60020
-    name_ja: 湖東三山西明寺(フダンザクラ)
-    location:
-      city_ja: 甲良町
-      address_ja: 滋賀県犬上郡甲良町池寺26
-    geo:
-      lat: 35.1839
-      lng: 136.2843
-    trees: 60
-    species_ja:
-      - フダンザクラ
-      - シダレザクラ
-      - ソメイヨシノヤマザクラ
-      - オカメフジザクラ
-      - カンヒザクラ
-    description_ja: 西明寺は平安時代834年に仁明天皇の勅願により開かれた天台宗の寺院で、湖東三山のひとつです。本堂は鎌倉時代の代表的建築物で国宝第1号に指定されています。また三重塔も国宝指定で、初層内部に極彩色の壁画が画かれ、鎌倉時代の壁画としては国内唯一のものです。樹齢約280年のものもある滋賀県唯一の天然記念物に指定される「不断桜(フダンザクラ)」や樹齢約230年の枝垂れ桜などといった花々が境内を彩ります。『近江の苔寺』としても有名で、苔と桜のコントラストも美しいです。
-    photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/60020/1771033633_s.webp
         source_url: https://weathernews.jp/sakura/spot/60020/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/60003/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/60020/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/60020/
+      weathernews: https://weathernews.jp/sakura/spot/60003/
     collections:
       - weathernews
   - id: wn-60005

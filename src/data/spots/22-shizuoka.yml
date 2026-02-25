@@ -375,8 +375,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5025/
     collections:
       - weathernews
-  - id: wn-50054
-    name_ja: 御殿場高原時之栖(カワヅザクラ)
+  - id: wn-5002
+    name_ja: 御殿場高原時之栖
     location:
       city_ja: 御殿場市
       address_ja: 静岡県御殿場市神山719
@@ -386,37 +386,22 @@ spots:
     trees: 3810
     species_ja:
       - カワヅザクラ
+      - ソメイヨシノ
+      - ヤエザクラ
+      - 御衣黄
     description_ja: 2月中旬から4月中旬まで、河津桜・ソメイヨシノ・遅咲き桜（八重桜や御衣黄）など開花時期の異なる桜が植えられており、「時之栖の桜リレー」をお楽しみいただけます。2月下旬～3810本の河津桜が、3月下旬～は約1260本の「ソメイヨシノ」が園内広場に多く咲き、300ｍの桜の並木道が皆様を桜の世界へと導きます。小高い｢ありがた山｣からは桜を枝下に富士山を眺められ、この時期に同じく、クリスマスローズやチューリップなど春の花々が色とりどりに咲き、ソメイヨシノとの共演をお楽しみいただけます。壮大な桜を眺めながらお気に入りのいちごスイーツも探してみてはいかがでしょうか。
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5002/1766638489_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5002/
+        credit: Weathernews
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/50054/1766808296_s.webp
         source_url: https://weathernews.jp/sakura/spot/50054/
         credit: Weathernews
     sources:
       - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/50054/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/50054/
-    collections:
-      - weathernews
-  - id: wn-5002
-    name_ja: 御殿場高原時之栖(ソメイヨシノ)
-    location:
-      city_ja: 御殿場市
-      address_ja: 静岡県御殿場市神山719
-    geo:
-      lat: 35.236
-      lng: 138.9255
-    trees: 1260
-    species_ja:
-      - ソメイヨシノ
-    description_ja: 2月中旬から4月中旬まで、河津桜・ソメイヨシノ・遅咲き桜(八重桜や御衣黄)など開花時期の異なる桜が植えられており、「時之栖の桜リレー」をお楽しみいただけます。3月下旬～は約1260本の「ソメイヨシノ」が園内広場に多く咲き、300ｍの桜の並木道が皆様を桜の世界へと導きます。小高い｢ありがた山｣からは桜を枝下に富士山を眺められ、この時期に同じく、クリスマスローズやチューリップなど春の花々が色とりどりに咲き、ソメイヨシノとの共演をお楽しみいただけます。壮大な桜を眺めながらお気に入りのいちごスイーツも探してみてはいかがでしょうか。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5002/1766638489_s.webp
-        source_url: https://weathernews.jp/sakura/spot/5002/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5002/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/50054/
     links:
       weathernews: https://weathernews.jp/sakura/spot/5002/
     collections:

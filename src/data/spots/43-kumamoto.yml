@@ -383,42 +383,20 @@ spots:
     name_ja: 湯の児チェリーライン
     location:
       city_ja: 水俣市
-      address_ja: 熊本県水俣市(海岸道路桜並木)
-    geo:
-      lat: 32.2304
-      lng: 130.407
-    trees: 500
-    species_ja:
-      - ソメイヨシノ
-      - サトザクラ
-      - ヤマザクラ
-    description_ja: 3月下旬から4月上旬にかけて、湯の児海岸道路沿いに約500本の桜が咲き誇ります。チェリーラインという名の通り約2kmにわたって桜並木が続き、桜のトンネルを作り出します。ドライブやウォーキングで桜を楽しめるのはもちろん、開花期間中には海上花見船(事前予約制)が出航するため、海上から桜を楽しむこともできます。ご予約、お問い合わせは湯の児釣り船組合(0966-62-4210)まで
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/477/1767080971_s.webp
-        source_url: https://weathernews.jp/sakura/spot/477/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/477/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/477/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: nt-90011-sak1307119
-    name_ja: 湯の児チェリーライン(水俣市チェリーライン)
-    location:
-      address_ja: 熊本県水俣市浜
+      address_ja: 熊本県水俣市浜(海岸道路桜並木)
     geo:
       lat: 32.227122
       lng: 130.395051
     trees: 500
     species_ja:
       - ソメイヨシノ
-      - ヤマザクラ
       - サトザクラ
-    description_ja: 「日本さくら名所100選」の一つとして知られる道路で、景観の美しい人気のドライビングスポット。なかでも湯の児海岸沿い約5km間に渡る「湯の児チェリーライン」は、ソメイヨシノやヤマザクラ等、約500本もの桜並木が連なり、花の満開時には一帯が桜のトンネルのようになる。新緑の中に映える桜の淡いピンク色と、不知火海の深い紺碧とが織り成すコントラストが美しい。毎年開花時期には湯の児桜まつりが開催されているほか、海上花見船(※要予約)も運航される。
+      - ヤマザクラ
+    description_ja: 3月下旬から4月上旬にかけて、湯の児海岸道路沿いに約500本の桜が咲き誇ります。チェリーラインという名の通り約2kmにわたって桜並木が続き、桜のトンネルを作り出します。ドライブやウォーキングで桜を楽しめるのはもちろん、開花期間中には海上花見船(事前予約制)が出航するため、海上から桜を楽しむこともできます。毎年開花時期には湯の児桜まつりが開催されることもあります。ご予約、お問い合わせは湯の児釣り船組合(0966-62-4210)まで
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/477/1767080971_s.webp
+        source_url: https://weathernews.jp/sakura/spot/477/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307119_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
         credit: NAVITIME
@@ -429,16 +407,18 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/477/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
       - label: 日本さくら名所100選
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%BF%A3%E5%B8%82
     links:
+      weathernews: https://weathernews.jp/sakura/spot/477/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307119/
-      wikipedia: https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%BF%A3%E5%B8%82
     collections:
+      - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-476

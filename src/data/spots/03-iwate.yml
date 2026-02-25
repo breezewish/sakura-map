@@ -4,31 +4,7 @@ prefecture:
   name_en: Iwate
 spots:
   - id: wn-33014
-    name_ja: Ark館ヶ森(ソメイヨシノ)
-    location:
-      city_ja: 一関市
-      address_ja: 岩手県一関市藤沢町黄海衣井沢山9-15
-    geo:
-      lat: 38.8175
-      lng: 141.274
-    trees: 100
-    species_ja:
-      - ソメイヨシノ
-      - ヤエザクラ
-    description_ja: Ark館ヶ森は、100ヘクタールの広大な敷地に、季節の花々や様々な動物とのふれあいが楽しめる牧場です。春のハイライトは「チューリップと桜の共演」そして「桜のトンネル」です。「食といのちと自然」をテーマとした牧場で、桜を楽しみ牧場産の食事を楽しみ、春を満喫することができます。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33014/1768285529_s.webp
-        source_url: https://weathernews.jp/sakura/spot/33014/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/33014/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/33014/
-    collections:
-      - weathernews
-  - id: wn-33013
-    name_ja: Ark館ヶ森(ヤエザクラ)
+    name_ja: Ark館ヶ森
     location:
       city_ja: 一関市
       address_ja: 岩手県一関市藤沢町黄海衣井沢山9-15
@@ -37,18 +13,23 @@ spots:
       lng: 141.274
     trees: 200
     species_ja:
-      - ヤエザクラ
       - ソメイヨシノ
-    description_ja: Ark館ヶ森は、100ヘクタールの広大な敷地に、季節の花々や様々な動物とのふれあいが楽しめる牧場です。ソメイヨシノが散り始める頃、花の勢いを増してくるのがヤエザクラです。正門からツリーハウスに向かう並木道と牧場中心地にまっすぐ伸びる「八重桜の並木道」の2か所が名所となっています。濃いピンク色の花の存在感は圧倒的で、咲き始めから満開の頃合いだけでなく、その散り際に風に舞う花びらで道がピンク色に染まる光景は息を呑む美しさがあります。「食といのちと自然」をテーマとした牧場で、桜を楽しみ牧場産の食事を楽しみ、春を満喫することができます。
+      - ヤエザクラ
+    description_ja: Ark館ヶ森は、100ヘクタールの広大な敷地に、季節の花々や様々な動物とのふれあいが楽しめる牧場です。春のハイライトは「チューリップと桜の共演」そして「桜のトンネル」です。ソメイヨシノが散り始める頃にはヤエザクラも見頃を迎えます。「食といのちと自然」をテーマとした牧場で、桜を楽しみ牧場産の食事を楽しみ、春を満喫することができます。
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33014/1768285529_s.webp
+        source_url: https://weathernews.jp/sakura/spot/33014/
+        credit: Weathernews
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/33013/1768287543_s.webp
         source_url: https://weathernews.jp/sakura/spot/33013/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/33014/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/33013/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/33013/
+      weathernews: https://weathernews.jp/sakura/spot/33014/
     collections:
       - weathernews
   - id: wn-3301
@@ -709,34 +690,6 @@ spots:
     name_ja: 北上展勝地
     location:
       city_ja: 北上市
-      address_ja: 岩手県北上市立花付近
-    geo:
-      lat: 39.275
-      lng: 141.1266
-    species_ja:
-      - ソメイヨシノ
-    description_ja: 「さくらの名所100選」「みちのく三大桜名所」に数えられる北上市立公園展勝地は、2021年に開園100周年を迎えました。広大な公園内には150種の様々な桜が1万本あると言われ、約2kmに亘る北上川沿いの桜並木は圧巻です。また、12種類の桜が咲き誇る「みちのく民俗村」もお楽しみいただけます。
-    photos:
-      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96443955.jpg
-        source_url: https://weathernews.jp/sakura/spot/34/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/34/
-      - label: 日本さくら名所100選
-        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/34/
-      wikipedia: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
-    collections:
-      - weathernews
-      - weathernews_top10
-      - sakura100
-  - id: nt-90011-sak1307147
-    name_ja: 北上展勝地
-    location:
       address_ja: 岩手県北上市立花
     geo:
       lat: 39.281002
@@ -746,8 +699,11 @@ spots:
       - ソメイヨシノ
       - ベニヤマザクラ
       - カスミザクラ等
-    description_ja: 北上川沿い約2kmに渡り、約10,000本もの桜並木が連なる桜の名所。さくらの名所100選に選定されており、青森県弘前市、秋田県角館町と並ぶ「みちのく三大桜名所」として知られる。毎年開花時期になると、観光遊覧船や渡し舟、観光馬車が運行されるほか、夜間には桜のライトアップも実施される。川面に映し出される満開の夜桜の幻想的な美しさは、一見の価値あり。
+    description_ja: 「さくらの名所100選」「みちのく三大桜名所」に数えられる北上市立公園展勝地は、2021年に開園100周年を迎えました。広大な公園内には150種の様々な桜が1万本あると言われ、約2kmに亘る北上川沿いの桜並木は圧巻です。また、12種類の桜が咲き誇る「みちのく民俗村」もお楽しみいただけます。毎年開花時期になると観光遊覧船や渡し舟、観光馬車が運行され、夜間にはライトアップも実施されます。
     photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-22/96443955.jpg
+        source_url: https://weathernews.jp/sakura/spot/34/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307147_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
         credit: NAVITIME
@@ -764,6 +720,8 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/34/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
       - label: 日本さくら名所100選
@@ -771,9 +729,12 @@ spots:
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
     links:
+      weathernews: https://weathernews.jp/sakura/spot/34/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307147/
       wikipedia: https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B8%82%E7%AB%8B%E5%85%AC%E5%9C%92%E5%B1%95%E5%8B%9D%E5%9C%B0
     collections:
+      - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-33003

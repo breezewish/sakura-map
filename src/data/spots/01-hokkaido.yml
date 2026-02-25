@@ -417,23 +417,29 @@ spots:
     collections:
       - weathernews
       - weathernews_top10
-  - id: wn-2304
-    name_ja: 松前公園(ソメイヨシノ)
+  - id: wn-1
+    name_ja: 松前公園
     location:
       city_ja: 松前町
       address_ja: 北海道松前郡松前町字松城(松前公園内)
     geo:
       lat: 41.4299
       lng: 140.1089
+    trees: 10000
     species_ja:
-      - ソメイヨシノ(染井吉野)
       - ソメイヨシノ
+      - ナデン(南殿)
     description_ja: 松前公園は「日本さくら名所100選」に認定されており、春になると約250品種1万本の桜が早・中・遅咲きと開花リレーを繰り広げ、1ヶ月間花見を楽しめる。
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1/1768289541_s.webp
+        source_url: https://weathernews.jp/sakura/spot/1/
+        credit: Weathernews
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/2304/1768289544_s.webp
         source_url: https://weathernews.jp/sakura/spot/2304/
         credit: Weathernews
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/1/
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/2304/
       - label: NAVITIME
@@ -443,43 +449,13 @@ spots:
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
     links:
-      weathernews: https://weathernews.jp/sakura/spot/2304/
+      weathernews: https://weathernews.jp/sakura/spot/1/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307067/
       wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
     collections:
       - weathernews
-      - navitime
-      - sakura100
-    trees: 10000
-  - id: wn-1
-    name_ja: 松前公園(ナデン)
-    location:
-      city_ja: 松前町
-      address_ja: 北海道松前郡松前町字松城(松前公園内)
-    geo:
-      lat: 41.4299
-      lng: 140.1089
-    species_ja:
-      - ナデン(南殿)
-      - ナデン
-    description_ja: 松前公園は「日本さくら名所100選」に認定されており、春になると約250品種1万本の桜が早・中・遅咲きと開花リレーを繰り広げ、1ヶ月間花見を楽しめる。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/1/1768289541_s.webp
-        source_url: https://weathernews.jp/sakura/spot/1/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/1/
-      - label: 日本さくら名所100選
-        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/1/
-      wikipedia: https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E5%9F%8E
-    collections:
-      - weathernews
       - weathernews_top10
+      - navitime
       - sakura100
   - id: wn-23004
     name_ja: 松前藩戸切地陣屋跡桜並木トンネル
@@ -962,32 +938,8 @@ spots:
     collections:
       - weathernews
       - weathernews_top10
-  - id: wn-23012
-    name_ja: 百想園・小樽朝里川遊歩道(エゾヤマザクラ)
-    location:
-      city_ja: 小樽市
-      address_ja: 北海道小樽市新光5丁目5-7
-    geo:
-      lat: 43.1632
-      lng: 141.0463
-    trees: 250
-    species_ja:
-      - エゾヤマザクラ
-      - カンザン他
-    description_ja: 百想園は桜とアジサイの見本園で多品種の桜があります。隣接する朝里川沿いの遊歩道にはエゾヤマザクラが150本ほどの並木をつくります。百想園内ではエゾヤマザクラの他に、4月下旬には早咲き品種の冬桜や千島桜、中咲きの紅豊や御殿場桜をはさんで、5月中旬のカンザンをはじめとする多種の八重咲き、そして超遅咲きの菊桜とウワミズザクラは5月下旬まで長く花見ができます。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23012/1766543408_s.webp
-        source_url: https://weathernews.jp/sakura/spot/23012/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/23012/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/23012/
-    collections:
-      - weathernews
   - id: wn-23011
-    name_ja: 百想園・小樽朝里川遊歩道(カンザン)
+    name_ja: 百想園・小樽朝里川遊歩道
     location:
       city_ja: 小樽市
       address_ja: 北海道小樽市新光5丁目5-7
@@ -997,15 +949,26 @@ spots:
     trees: 250
     species_ja:
       - カンザン
-      - エゾヤマザクラ他
-    description_ja: 百想園は桜とアジサイの見本園なのでカンザンは2本ですが、朝里川沿いの遊歩道には約80本のカンザン並木があります。早咲きのエゾヤマザクラの並木は150本ほどになります。4月下旬には早咲き品種の冬桜や千島桜、中咲きの紅豊や御殿場桜をはさんで、5月中旬のカンザンをはじめとする多種の八重咲き、そして超遅咲きの菊桜とウワミズザクラは5月下旬まで長く花見ができます。
+      - エゾヤマザクラ
+      - 冬桜
+      - チシマザクラ
+      - 紅豊
+      - 御殿場桜
+      - 菊桜
+      - ウワミズザクラ
+    description_ja: 百想園は桜とアジサイの見本園で多品種の桜があります。隣接する朝里川沿いの遊歩道にはエゾヤマザクラが150本ほどの並木をつくります。百想園内ではエゾヤマザクラの他に、4月下旬には早咲き品種の冬桜や千島桜、中咲きの紅豊や御殿場桜をはさんで、5月中旬のカンザンをはじめとする多種の八重咲き、そして超遅咲きの菊桜とウワミズザクラは5月下旬まで長く花見ができます。
     photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23011/1766541760_s.webp
         source_url: https://weathernews.jp/sakura/spot/23011/
         credit: Weathernews
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/23012/1766543408_s.webp
+        source_url: https://weathernews.jp/sakura/spot/23012/
+        credit: Weathernews
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/23011/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/23012/
     links:
       weathernews: https://weathernews.jp/sakura/spot/23011/
     collections:

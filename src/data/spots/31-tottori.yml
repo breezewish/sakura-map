@@ -77,7 +77,7 @@ spots:
       - weathernews
       - weathernews_top10
   - id: wn-69005
-    name_ja: 船上山万本桜公園(ソメイヨシノ)
+    name_ja: 船上山万本桜公園
     location:
       city_ja: 琴浦町
       address_ja: 鳥取県東伯郡琴浦町山川
@@ -91,12 +91,14 @@ spots:
       - ヤマザクラ
     description_ja: 隠岐の島を脱出した御醍醐天皇が立てこもり、建武の新政の礎となった歴史ある山で、ソメイヨシノ、シダレザクラなど彩り豊かに咲き乱れ、公園を明るく賑やかな雰囲気に染めます。ゴールデンウィークの始まりまで楽しめる遅咲きのヤエザクラも艶やかです。豊かな自然を堪能できるハイキングコースもあります。
     photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/69005/
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-07/31679620.jpg
+        source_url: https://weathernews.jp/sakura/spot/6904/
         credit: Weathernews
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/69005/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6904/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307092/
     links:
@@ -104,33 +106,8 @@ spots:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307092/
     collections:
       - weathernews
-      - navitime
-  - id: wn-6904
-    name_ja: 船上山万本桜公園(ヤエザクラ)
-    location:
-      city_ja: 琴浦町
-      address_ja: 鳥取県東伯郡琴浦町山川
-    geo:
-      lat: 35.4297
-      lng: 133.6076
-    trees: 4000
-    species_ja:
-      - ヤエザクラ
-      - ソメイヨシノ
-      - ヤマザクラ
-    description_ja: 隠岐の島を脱出した御醍醐天皇が立てこもり、建武の新政の礎となった歴史ある山で、ソメイヨシノ、シダレザクラなど彩り豊かに咲き乱れ、公園を明るく賑やかな雰囲気に染めます。ゴールデンウィークの始まりまで楽しめる遅咲きのヤエザクラも艶やかです。豊かな自然を堪能できるハイキングコースもあります。
-    photos:
-      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2016-04-07/31679620.jpg
-        source_url: https://weathernews.jp/sakura/spot/6904/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/6904/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/6904/
-    collections:
-      - weathernews
       - weathernews_top10
+      - navitime
   - id: wn-402
     name_ja: 打吹公園
     location:

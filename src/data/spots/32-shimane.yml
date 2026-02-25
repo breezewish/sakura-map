@@ -241,7 +241,7 @@ spots:
       - weathernews
       - weathernews_top10
   - id: wn-6803
-    name_ja: 三刀屋川河川敷(ソメイヨシノ)
+    name_ja: 三刀屋川河川敷
     location:
       city_ja: 雲南市
       address_ja: 島根県雲南市三刀屋町三刀屋
@@ -251,40 +251,22 @@ spots:
     trees: 800
     species_ja:
       - ソメイヨシノ
+      - ギョイコウ
     description_ja: 三刀屋川堤防両岸を中心に、2kmに渡って約800本の桜、また中旬以降には緑の桜「ギョイコウ」が咲き誇り、雲南市内で2回の花見が楽しめます。
     photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-03-29/71063820.jpg
         source_url: https://weathernews.jp/sakura/spot/6803/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/6803/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/6803/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: wn-6810
-    name_ja: 三刀屋川河川敷(御衣黄)
-    location:
-      city_ja: 雲南市
-      address_ja: 島根県雲南市三刀屋町三刀屋
-    geo:
-      lat: 35.2934
-      lng: 132.879
-    trees: 800
-    species_ja:
-      - ギョイコウ
-    description_ja: 三刀屋川堤防両岸を中心に、ソメイヨシノに遅れること約2週間、緑の桜「ギョイコウ」が咲き誇り、雲南市内で2回目の花見が楽しめます。
-    photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2023-04-09/71439813.jpg
         source_url: https://weathernews.jp/sakura/spot/6810/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6803/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/6810/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/6810/
+      weathernews: https://weathernews.jp/sakura/spot/6803/
     collections:
       - weathernews
       - weathernews_top10

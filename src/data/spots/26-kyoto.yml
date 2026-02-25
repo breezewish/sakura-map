@@ -58,7 +58,7 @@ spots:
     collections:
       - weathernews
   - id: wn-61018
-    name_ja: 引揚記念公園(ソメイヨシノ)
+    name_ja: 引揚記念公園
     location:
       city_ja: 舞鶴市
       address_ja: 京都府舞鶴市字平1584番地
@@ -77,32 +77,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/61018/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/61018/
-    collections:
-      - weathernews
-  - id: wn-61037
-    name_ja: 引揚記念公園(ヤエザクラ)
-    location:
-      city_ja: 舞鶴市
-      address_ja: 京都府舞鶴市字平1584番地
-    geo:
-      lat: 35.5095
-      lng: 135.3959
-    trees: 170
-    species_ja:
-      - ヤエザクラ
-      - ソメイヨシノ
-    description_ja: 頂上広場へと続く園路沿いには第二次大戦後、舞鶴へ引き揚げてこられた方々をはじめ、その親族・関係者などによりヤエザクラが植樹されています。恒久平和を願って植えられた桜の数は100本を超えています。毎年4月中旬から下旬にかけて咲き誇るヤエザクラの並木道。桜の成長と共に平和な時が刻まれています。※トイレは駐車場にあります。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/61037/
-        credit: Weathernews
-    sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/61037/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/61037/
+      weathernews: https://weathernews.jp/sakura/spot/61018/
     collections:
       - weathernews
   - id: wn-337
@@ -131,31 +109,7 @@ spots:
     collections:
       - weathernews
   - id: wn-61015
-    name_ja: 宇治市植物公園(シダレザクラ）
-    location:
-      city_ja: 宇治市
-      address_ja: 京都府宇治市広野町八軒屋谷25-1
-    geo:
-      lat: 34.8713
-      lng: 135.795
-    trees: 190
-    species_ja:
-      - シダレザクラ
-      - ヤエザクラ（関山）
-    description_ja: 樹齢約80年のシダレザクラが見頃の時期はライトアップを行い、夜間のみ無料で開放します（昼間は有料）。ソメイヨシノより早くに花が咲く、河津桜や修善寺寒桜、コシノヒガンなどもあわせて見ることができます。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61015/1767483833_s.webp
-        source_url: https://weathernews.jp/sakura/spot/61015/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/61015/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/61015/
-    collections:
-      - weathernews
-  - id: wn-61036
-    name_ja: 宇治市植物公園(ヤエザクラ)
+    name_ja: 宇治市植物公園
     location:
       city_ja: 宇治市
       address_ja: 京都府宇治市広野町八軒屋谷25-1
@@ -167,16 +121,21 @@ spots:
       - シダレザクラ
       - ヤエザクラ（関山）
       - ヤエザクラ
-    description_ja: ソメイヨシノが終わる頃から約20品種130本のヤエザクラが咲き誇ります。
+    description_ja: 樹齢約80年のシダレザクラが見頃の時期はライトアップを行い、夜間のみ無料で開放します（昼間は有料）。ソメイヨシノより早くに花が咲く、河津桜や修善寺寒桜、コシノヒガンなどもあわせて見ることができます。ソメイヨシノが終わる頃からはヤエザクラも楽しめます。
     photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61015/1767483833_s.webp
+        source_url: https://weathernews.jp/sakura/spot/61015/
+        credit: Weathernews
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/61036/1767483455_s.webp
         source_url: https://weathernews.jp/sakura/spot/61036/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61015/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/61036/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/61036/
+      weathernews: https://weathernews.jp/sakura/spot/61015/
     collections:
       - weathernews
   - id: wn-305
@@ -364,7 +323,7 @@ spots:
       - weathernews
       - navitime
   - id: wn-6113
-    name_ja: 京都御苑(シダレザクラ)
+    name_ja: 京都御苑
     location:
       city_ja: 京都市上京区
       address_ja: 京都府京都市上京区京都御苑3
@@ -376,45 +335,25 @@ spots:
       - シダレザクラ
       - ヤマザクラ
       - サトザクラ他
+      - ヤエベニシダレ
     description_ja: 3月中旬からは北西部「近衞邸跡」や南西部「出水の小川」のシダレザクラ、ヤマザクラ､4月には「出水の小川」で「御衣黄」、「関山」など約10種のサトザクラが咲きます。東部「学習院発祥の地」には、マツの幹に生えたサクラ、通称「桜松」が、マツの木が倒れた現在も咲き続けています。※花(桜)を観賞する場であり、宴会等はできません。ご来苑の皆様が快適にお花見を楽しめるよう節度を持ってご利用下さい。
     photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/6113/1736148856_s.webp
         source_url: https://weathernews.jp/sakura/spot/6113/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/6113/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/6113/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: wn-61040
-    name_ja: 京都御苑(ヤエベニシダレ)
-    location:
-      city_ja: 京都市上京区
-      address_ja: 京都府京都市上京区京都御苑3
-    geo:
-      lat: 35.0283
-      lng: 135.7617
-    trees: 1000
-    species_ja:
-      - シダレザクラ
-      - ヤマザクラ
-      - サトザクラ他
-      - ヤエベニシダレ
-    description_ja: 3月中旬からは北西部「近衞邸跡」のシダレザクラ、ヤマザクラ､4月には南西部「出水の小川」で「御衣黄」、「関山」など約10種のサトザクラが咲きます。東部「学習院発祥の地」には、マツの幹に生えたサクラ、通称「桜松」が、マツの木が倒れた現在も咲き続けています。※花(桜)を観賞する場であり、宴会等はできません。ご来苑の皆様が快適にお花見を楽しめるよう節度を持ってご利用下さい。
-    photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2025/61040/1736148933_s.webp
         source_url: https://weathernews.jp/sakura/spot/61040/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/6113/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/61040/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/61040/
+      weathernews: https://weathernews.jp/sakura/spot/6113/
     collections:
       - weathernews
+      - weathernews_top10
   - id: nt-90011-sak1307020
     name_ja: 京都府立笠置自然公園(笠置キャンプ場)
     location:
@@ -1011,26 +950,6 @@ spots:
     name_ja: 哲学の道
     location:
       city_ja: 京都市左京区
-      address_ja: 京都府京都市左京区王子橋から浄土寺橋
-    geo:
-      lat: 35.0269
-      lng: 135.7954
-    species_ja:
-      - ソメイヨシノ
-    photos:
-      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-10/95990445.jpg
-        source_url: https://weathernews.jp/sakura/spot/61005/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/61005/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/61005/
-    collections:
-      - weathernews
-  - id: nt-90011-sak1700017
-    name_ja: 哲学の道
-    location:
       address_ja: 京都府京都市左京区若王子橋-浄土寺橋
     geo:
       lat: 35.019955
@@ -1044,15 +963,22 @@ spots:
       - シダレザクラ
     description_ja: 京都府京都市左京区の若王子神社から銀閣寺参道まで続く約2kmの散策道で、かつて哲学者の西田幾多郎らに愛されたことが名前の由来。毎年4月上旬ごろには疏水沿いに植えられたソメイヨシノなど数百本もの桜が美しいトンネルをつくり、情緒豊かな風景が楽しめる。中でも、開花とともに若葉が芽吹く日本画家・橋本関雪ゆかりの桜「関雪桜」が有名。近隣に駐車場あり。
     photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-10/95990445.jpg
+        source_url: https://weathernews.jp/sakura/spot/61005/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1700017_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/61005/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
     links:
+      weathernews: https://weathernews.jp/sakura/spot/61005/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700017/
     collections:
+      - weathernews
       - navitime
   - id: wn-61028
     name_ja: 天橋立傘松公園

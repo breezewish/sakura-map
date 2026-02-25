@@ -619,42 +619,16 @@ spots:
       city_ja: 各務原市
       address_ja: 岐阜県各務原市蘇原大島町〜那加門前町周辺
     geo:
-      lat: 35.3993
-      lng: 136.8407
-    trees: 1000
-    species_ja:
-      - ソメイヨシノ
-    description_ja: 新境川堤の両岸に約1000本の桜が続く、美しく見ごたえのある並木道です。日本さくらの会選定の「さくらの名所100選」にも選ばれており、地元では、桜を寄贈した歌舞伎役者・市川百十郎の名前にちなみ、「百十郎桜」として親しまれています。
-    photos:
-      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61726094.jpg
-        source_url: https://weathernews.jp/sakura/spot/209/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/209/
-      - label: 日本さくら名所100選
-        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/209/
-      wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
-    collections:
-      - weathernews
-      - weathernews_top10
-      - sakura100
-  - id: nt-90011-sak1307070
-    name_ja: 新境川堤
-    location:
-      address_ja: 岐阜県各務原市那加門前町外
-    geo:
       lat: 35.411919
       lng: 136.843564
     trees: 1200
     species_ja:
       - ソメイヨシノ
-    description_ja: 岐阜県各務原市を流れる川で、「日本さくら名所100選」に選ばれている。両岸に植栽された約1200本ものソメイヨシノの桜並木は、地元出身の歌舞伎役者・市川百十郎が寄贈したもの。「百十郎桜」の呼名で愛され、3月下旬から4月上旬の開花シーズンにはライトアップされた夜桜も楽しめる。4月初旬には周辺で「各務原市桜まつり」が開催される。トイレ・売店・有料駐車場あり。
+    description_ja: 新境川堤の両岸に約1200本の桜が続く、美しく見ごたえのある並木道です。日本さくらの会選定の「さくらの名所100選」にも選ばれており、地元では、桜を寄贈した歌舞伎役者・市川百十郎の名前にちなみ、「百十郎桜」として親しまれています。開花シーズンにはライトアップされた夜桜も楽しめ、4月初旬には周辺で「各務原市桜まつり」が開催されます。
     photos:
+      - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-03/61726094.jpg
+        source_url: https://weathernews.jp/sakura/spot/209/
+        credit: Weathernews
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307070_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
         credit: NAVITIME
@@ -665,6 +639,8 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/209/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
       - label: 日本さくら名所100選
@@ -672,9 +648,12 @@ spots:
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
     links:
+      weathernews: https://weathernews.jp/sakura/spot/209/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307070/
       wikipedia: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A2%83%E5%B7%9D
     collections:
+      - weathernews
+      - weathernews_top10
       - navitime
       - sakura100
   - id: wn-5225

@@ -60,7 +60,7 @@ spots:
     collections:
       - weathernews
   - id: wn-40016
-    name_ja: ネーブルパーク(ソメイヨシノ)
+    name_ja: ネーブルパーク
     location:
       city_ja: 古河市
       address_ja: 茨城県古河市駒羽根620
@@ -79,32 +79,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/40016/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/40016/
-    collections:
-      - weathernews
-  - id: wn-40017
-    name_ja: ネーブルパーク(ヤエザクラ)
-    location:
-      city_ja: 古河市
-      address_ja: 茨城県古河市駒羽根620
-    geo:
-      lat: 36.1664
-      lng: 139.7535
-    trees: 410
-    species_ja:
-      - ソメイヨシノ
-      - ヤエザクラ
-    description_ja: ネーブルパークはソメイヨシノが約130本、八重桜が約280本植えられている茨城県でも有数の桜の名所です。4月初旬でソメイヨシノが終わると、八重桜が咲き始めます。八重桜はポニー牧場の周囲とつり堀の周囲と間の川沿いに植えられています。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/40017/
-        credit: Weathernews
-    sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/40017/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/40017/
+      weathernews: https://weathernews.jp/sakura/spot/40016/
     collections:
       - weathernews
   - id: wn-40020

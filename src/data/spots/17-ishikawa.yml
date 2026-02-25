@@ -216,7 +216,7 @@ spots:
     collections:
       - weathernews
   - id: wn-5609
-    name_ja: 樹木公園(ケンロクエンキクザクラ)
+    name_ja: 樹木公園
     location:
       city_ja: 白山市
       address_ja: 石川県白山市三宮町ホ1
@@ -233,9 +233,19 @@ spots:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5609/1767586668_s.webp
         source_url: https://weathernews.jp/sakura/spot/5609/
         credit: Weathernews
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5611/1767587090_s.webp
+        source_url: https://weathernews.jp/sakura/spot/5611/
+        credit: Weathernews
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/268/1767586997_s.webp
+        source_url: https://weathernews.jp/sakura/spot/268/
+        credit: Weathernews
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5609/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/5611/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/268/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307084/
     links:
@@ -244,56 +254,6 @@ spots:
     collections:
       - weathernews
       - navitime
-  - id: wn-5611
-    name_ja: 樹木公園(ソメイヨシノ)
-    location:
-      city_ja: 白山市
-      address_ja: 石川県白山市三宮町ホ1
-    geo:
-      lat: 36.4306
-      lng: 136.6407
-    trees: 900
-    species_ja:
-      - ソメイヨシノ
-      - ヒヨドリザクラ
-      - ケンロクエンキクザクラ
-    description_ja: 鵯桜(ひよどりざくら)、兼六園菊桜(けんろくえんきくざくら)など、石川県由来の菊咲きの品種を多数見ることができます。また、染井吉野(そめいよしの)は4月上旬頃から、八重咲きの桜は4月中旬頃から見頃になります。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/5611/1767587090_s.webp
-        source_url: https://weathernews.jp/sakura/spot/5611/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/5611/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/5611/
-    collections:
-      - weathernews
-  - id: wn-268
-    name_ja: 樹木公園(ヒヨドリザクラ)
-    location:
-      city_ja: 白山市
-      address_ja: 石川県白山市三宮町ホ1
-    geo:
-      lat: 36.4307
-      lng: 136.6407
-    trees: 900
-    species_ja:
-      - ヒヨドリザクラ
-      - ケンロクエンキクザクラ
-      - ソメイヨシノ
-    description_ja: 鵯桜(ひよどりざくら)、兼六園菊桜（けんろくえんきくざくら）など、石川県由来の菊咲きの品種を多数見ることができます。また、染井吉野(そめいよしの)は4月上旬頃から、八重咲きの桜は4月中旬頃から見頃になります。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/268/1767586997_s.webp
-        source_url: https://weathernews.jp/sakura/spot/268/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/268/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/268/
-    collections:
-      - weathernews
   - id: wn-56006
     name_ja: 松任城址公園
     location:
@@ -399,7 +359,7 @@ spots:
       - navitime
       - sakura100
   - id: wn-5608
-    name_ja: 那谷寺(シダレザクラ)
+    name_ja: 那谷寺
     location:
       city_ja: 小松市
       address_ja: 石川県小松市那谷町ユ122
@@ -418,35 +378,13 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5608/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/266/
     links:
       weathernews: https://weathernews.jp/sakura/spot/5608/
     collections:
       - weathernews
       - weathernews_top10
-  - id: wn-266
-    name_ja: 那谷寺(ソメイヨシノ)
-    location:
-      city_ja: 小松市
-      address_ja: 石川県小松市那谷町ユ122
-    geo:
-      lat: 36.3133
-      lng: 136.4206
-    trees: 50
-    species_ja:
-      - ソメイヨシノ
-      - シダレザクラ
-    description_ja: 桜はしだれ桜が中心で約50本ほどあります。717年泰澄法師によって開かれた那谷寺。自然あふれる広大な境内には、本殿・拝殿・唐門、書院、三重塔、護摩堂、鐘楼堂などの重要文化財があり、本殿は「胎内くぐり」の聖地となってます。苔の緑、木々の緑、季節ごとの花など、白山自然智の森を愉しんでいただければと思います。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/266/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/266/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/266/
-    collections:
-      - weathernews
   - id: wn-263
     name_ja: 能登さくら駅
     location:

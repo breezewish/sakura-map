@@ -200,7 +200,7 @@ spots:
     collections:
       - weathernews
   - id: wn-357
-    name_ja: 道成寺(エドヒガン)
+    name_ja: 道成寺
     location:
       city_ja: 日高川町
       address_ja: 和歌山県日高郡日高川町鐘巻1738
@@ -216,38 +216,19 @@ spots:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/357/1766463666_s.webp
         source_url: https://weathernews.jp/sakura/spot/357/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/357/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/357/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: wn-65004
-    name_ja: 道成寺(ソメイヨシノ)
-    location:
-      city_ja: 日高川町
-      address_ja: 和歌山県日高郡日高川町鐘巻1738
-    geo:
-      lat: 33.9145
-      lng: 135.1745
-    trees: 250
-    species_ja:
-      - エドヒガン
-      - ソメイヨシノ
-    description_ja: エドヒガンやソメイヨシノがおよそ250本あります。歌舞伎｢京鹿子娘道成寺｣などで知られる桜の名所です。
-    photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-06/95807698.jpg
         source_url: https://weathernews.jp/sakura/spot/65004/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/357/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/65004/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/65004/
+      weathernews: https://weathernews.jp/sakura/spot/357/
     collections:
       - weathernews
+      - weathernews_top10
   - id: wn-65005
     name_ja: 二川ダム湖
     location:

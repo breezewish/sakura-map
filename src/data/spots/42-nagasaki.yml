@@ -332,7 +332,7 @@ spots:
     collections:
       - weathernews
   - id: wn-8406
-    name_ja: 大村公園(オオムラザクラ)
+    name_ja: 大村公園
     location:
       city_ja: 大村市
       address_ja: 長崎県大村市玖島1丁目43
@@ -343,73 +343,16 @@ spots:
     species_ja:
       - オオムラザクラ
       - ソメイヨシノ
-      - クシマザクラを含むヤエザクラ
-    description_ja: 「日本さくら名所100選」の地、大村公園は3月下旬から4月中旬にかけて、20種類以上のさまざまな桜が順次開花し、公園一帯をピンク色に染めます。中でもオオムラザクラは八重桜が2つ重なったように咲く「二段咲き」が特徴で花弁が60枚から200枚になるものもあり、優美で気高くサトザクラ系の名桜と言われます。園内にある「大村神社のオオムラザクラ」は国指定天然記念物にもなっています。
+      - クシマザクラ
+      - ヤエザクラ
+    description_ja: 「日本さくら名所100選」の地、大村公園は3月下旬から4月中旬にかけて、20種類以上のさまざまな桜が順次開花し、公園一帯をピンク色に染めます。中でもオオムラザクラは八重桜が2つ重なったように咲く「二段咲き」が特徴で花弁が60枚から200枚になるものもあり、優美で気高くサトザクラ系の名桜と言われます。また大村公園は大村藩主の居城であった玖島城跡にあり、城の南堀に面した石垣と桜が織りなす景色も見どころです。
     photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8406/1766725995_s.webp
         source_url: https://weathernews.jp/sakura/spot/8406/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/8406/
-      - label: 日本さくら名所100選
-        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/8406/
-      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
-    collections:
-      - weathernews
-      - weathernews_top10
-      - sakura100
-  - id: wn-460
-    name_ja: 大村公園(ソメイヨシノ)
-    location:
-      city_ja: 大村市
-      address_ja: 長崎県大村市玖島1丁目43
-    geo:
-      lat: 32.8992
-      lng: 129.959
-    trees: 2000
-    species_ja:
-      - ソメイヨシノ
-      - オオムラザクラ
-      - クシマザクラを含むヤエザクラ
-    description_ja: 「日本さくら名所100選」の地、大村公園は3月下旬から4月中旬にかけて、20種類以上のさまざまな桜が順次開花し、公園一帯をピンク色に染めます。また「日本の歴史公園100選」の地にも選定されている大村公園は、大村藩主の居城であった玖島城跡にあります。城の南堀に面した美しい石垣の勾配とソメイヨシノが織りなす景色は、桜の季節ならではの城下町の風情が漂います。
-    photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/460/1766726069_s.webp
         source_url: https://weathernews.jp/sakura/spot/460/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/460/
-      - label: 日本さくら名所100選
-        url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
-      - label: Wikipedia
-        url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/460/
-      wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
-    collections:
-      - weathernews
-      - weathernews_top10
-      - sakura100
-  - id: nt-90011-sak1307102
-    name_ja: 大村公園(大村神社)
-    location:
-      address_ja: 長崎県大村市玖島1-43
-    geo:
-      lat: 32.897635
-      lng: 129.956667
-    trees: 2000
-    species_ja:
-      - ソメイヨシノ
-      - オオムラザクラ
-      - クシマザクラ
-      - ヤエザクラ
-    description_ja: 長崎県大村市玖島の「玖島城」跡を利用して整備された総合公園で、「日本のさくら名所100選」に選ばれた花見の名所。園内には約2000本の桜が植栽され、60枚から200枚もの花びらをもつ国指定天然記念物「オオムラザクラ」や県指定天然記念物「クシマザクラ」も見ることができる。ソメイヨシノは3月下旬から、オオムラザクラとクシマザクラは4月上旬からが見ごろ。開花シーズン中は夜桜のライトアップが行われるほか、4月上旬に桜まつりが開催される。トイレ・売店・駐車場あり。
-    photos:
       - url: https://data-dev.pcstrg.cld.navitime.jp/event/sakura/90011_sak1307102_01.jpg
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
         credit: NAVITIME
@@ -423,6 +366,10 @@ spots:
         source_url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
         credit: NAVITIME
     sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/8406/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/460/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
       - label: 日本さくら名所100選
@@ -430,39 +377,16 @@ spots:
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
     links:
+      weathernews: https://weathernews.jp/sakura/spot/8406/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
     collections:
-      - navitime
-      - sakura100
-  - id: wn-84015
-    name_ja: 長崎県立西海橋公園(カワヅザクラ)
-    location:
-      city_ja: 西海市
-      address_ja: 長崎県佐世保市針尾東町2678
-    geo:
-      lat: 33.0518
-      lng: 129.754
-    trees: 35
-    species_ja:
-      - カワヅザクラ
-      - ソメイヨシノ
-      - オオシマザクラ
-    description_ja: ソメイヨシノより濃く、華やかな桃色の桜の開花と橋の下を流れるうず潮の見頃が重なった時は、美しいコントラストを描く。※火気の使用はできません。ソリゲレンデなど多数の遊具有り。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/84015/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/84015/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/84015/
-    collections:
       - weathernews
       - weathernews_top10
+      - navitime
+      - sakura100
   - id: wn-461
-    name_ja: 長崎県立西海橋公園(ソメイヨシノ)
+    name_ja: 長崎県立西海橋公園
     location:
       city_ja: 佐世保市
       address_ja: 長崎県佐世保市針尾東町2678
@@ -473,7 +397,8 @@ spots:
     species_ja:
       - ソメイヨシノ
       - オオシマザクラ
-    description_ja: うす桃色の桜の開花と橋の下を流れるうず潮の見頃が重なり、美しいコントラストを描く。※火気の使用はできません。ソリゲレンデなど多数の遊具有り。
+      - カワヅザクラ
+    description_ja: ソメイヨシノやオオシマザクラ、カワヅザクラなどが楽しめます。桜の開花と橋の下を流れるうず潮の見頃が重なった時は、美しいコントラストを描きます。※火気の使用はできません。ソリゲレンデなど多数の遊具有り。
     photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-01/61681192.jpg
         source_url: https://weathernews.jp/sakura/spot/461/
@@ -481,6 +406,8 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/461/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/84015/
     links:
       weathernews: https://weathernews.jp/sakura/spot/461/
     collections:

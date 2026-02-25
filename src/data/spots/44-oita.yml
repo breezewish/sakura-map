@@ -511,36 +511,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8314/
     collections:
       - weathernews
-  - id: wn-83007
-    name_ja: 長湯温泉　しだれ桜の里(コマツオトメ)
-    location:
-      city_ja: 竹田市
-      address_ja: 大分県竹田市直入町大字長湯3142番地15
-    geo:
-      lat: 33.0703
-      lng: 131.3704
-    trees: 450
-    species_ja:
-      - 大漁桜
-      - コマツオトメ
-      - 八重紅しだれ
-      - ヨウコウザクラ
-      - オモイカワザクラ
-      - ぼたん桜
-    description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83007/1770701353_s.webp
-        source_url: https://weathernews.jp/sakura/spot/83007/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/83007/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/83007/
-    collections:
-      - weathernews
   - id: wn-83006
-    name_ja: 長湯温泉　しだれ桜の里(タイリョウザクラ)
+    name_ja: 長湯温泉　しだれ桜の里
     location:
       city_ja: 竹田市
       address_ja: 大分県竹田市直入町大字長湯3142番地15
@@ -556,46 +528,27 @@ spots:
       - オモイカワザクラ
       - ぼたん桜
       - タイリョウザクラ
+      - ヤエベニシダレ
     description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
     photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2025-04-02/95654786.jpg
         source_url: https://weathernews.jp/sakura/spot/83006/
         credit: Weathernews
-    sources:
-      - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/83006/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/83006/
-    collections:
-      - weathernews
-      - weathernews_top10
-  - id: wn-83005
-    name_ja: 長湯温泉　しだれ桜の里(ヤエベニシダレザクラ)
-    location:
-      city_ja: 竹田市
-      address_ja: 大分県竹田市直入町大字長湯3142番地15
-    geo:
-      lat: 33.0703
-      lng: 131.3704
-    trees: 300
-    species_ja:
-      - 大漁桜
-      - コマツオトメ
-      - 八重紅しだれ
-      - ヨウコウザクラ
-      - オモイカワザクラ
-      - ぼたん桜
-      - ヤエベニシダレ
-    description_ja: 【6品種の桜】大漁桜・コマツオトメ・八重紅しだれ・ヨウコウザクラ・オモイカワザクラ・ぼたん桜、竹田市直入町長湯に令和3年3月に６種類の桜を楽しめる公園「しだれ桜の里」がプレオープン。花期の異なる計約2600本が、3万坪の里山を彩ります。早咲きの大漁桜1500本は3月初旬に開花予定。公園はNPO法人しだれの里を創る会を筆頭に15年前から整備を進めました。
-    photos:
+      - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/83007/1770701353_s.webp
+        source_url: https://weathernews.jp/sakura/spot/83007/
+        credit: Weathernews
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-10/82828003.jpg
         source_url: https://weathernews.jp/sakura/spot/83005/
         credit: Weathernews
     sources:
       - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83006/
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/83007/
+      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/83005/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/83005/
+      weathernews: https://weathernews.jp/sakura/spot/83006/
     collections:
       - weathernews
       - weathernews_top10

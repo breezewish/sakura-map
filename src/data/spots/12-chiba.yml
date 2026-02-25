@@ -1364,8 +1364,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/45027/
     collections:
       - weathernews
-  - id: wn-45034
-    name_ja: 櫻木神社（カワヅザクラ）
+  - id: wn-45037
+    name_ja: 櫻木神社
     location:
       city_ja: 野田市
       address_ja: 千葉県野田市桜台210-1
@@ -1387,64 +1387,12 @@ spots:
         credit: Weathernews
     sources:
       - label: Weathernews
-        url: https://weathernews.jp/sakura/spot/45034/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/45034/
-    collections:
-      - weathernews
-  - id: wn-45037
-    name_ja: 櫻木神社(ソメイヨシノ）
-    location:
-      city_ja: 野田市
-      address_ja: 千葉県野田市桜台210-1
-    geo:
-      lat: 35.9374
-      lng: 139.8749
-    trees: 300
-    species_ja:
-      - ソメイヨシノ
-      - カワヅザクラ
-      - ヤエザクラ
-      - 10月桜
-      - シダレザクラ
-      - カンザクラ他
-    description_ja: 日本三大桜の福島県三春桜の子孫「三春小桜」のしだれ桜が大鳥居の横に植えられています。4月には遅咲きの「鎌足桜」が満開となります。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/45037/
-        credit: Weathernews
-    sources:
-      - label: Weathernews
         url: https://weathernews.jp/sakura/spot/45037/
-    links:
-      weathernews: https://weathernews.jp/sakura/spot/45037/
-    collections:
-      - weathernews
-  - id: wn-45038
-    name_ja: 櫻木神社(ヤエザクラ）
-    location:
-      city_ja: 野田市
-      address_ja: 千葉県野田市桜台210-1
-    geo:
-      lat: 35.9374
-      lng: 139.8749
-    trees: 300
-    species_ja:
-      - ソメイヨシノ
-      - カワヅザクラ
-      - ヤエザクラ
-      - 10月桜
-      - シダレザクラ
-      - カンザクラ他
-    description_ja: 日本三大桜の福島県三春桜の子孫「三春小桜」のしだれ桜が大鳥居の横に植えられています。4月には遅咲きの「鎌足桜」が満開となります。
-    photos:
-      - url: https://gvs.weathernews.jp/s/sakura/img/noimage.jpg
-        source_url: https://weathernews.jp/sakura/spot/45038/
-        credit: Weathernews
-    sources:
+      - label: Weathernews
+        url: https://weathernews.jp/sakura/spot/45034/
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/45038/
     links:
-      weathernews: https://weathernews.jp/sakura/spot/45038/
+      weathernews: https://weathernews.jp/sakura/spot/45037/
     collections:
       - weathernews
