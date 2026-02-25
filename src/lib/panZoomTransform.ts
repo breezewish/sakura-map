@@ -20,7 +20,7 @@ export function zoomTransformAtPoint(
   options?: { minScale?: number; maxScale?: number },
 ): PanZoomTransform {
   const minScale = options?.minScale ?? 1
-  const maxScale = options?.maxScale ?? 8
+  const maxScale = options?.maxScale ?? 16
 
   const k0 = transform.k
   const k1 = clamp(nextScale, minScale, maxScale)
@@ -36,4 +36,3 @@ export function zoomTransformAtPoint(
 
   return { x: x1, y: y1, k: k1 }
 }
-
