@@ -2,7 +2,6 @@ import { lazy, Suspense, useCallback, useEffect, useMemo, useState } from "react
 
 import type { SakuraSpotsData } from "@/data/loadSakuraSpots"
 import type { SakuraCollection, SakuraSpot } from "@/data/sakuraSpotSchema"
-import { Label } from "@/components/ui/label"
 import {
   Select,
   SelectContent,
@@ -118,16 +117,15 @@ function App() {
 
         <div className="mt-4 grid gap-4">
           <div className="grid gap-2">
-            <Label className="text-xs text-muted-foreground">集合</Label>
             <Select
               value={collectionFilter}
               onValueChange={handleCollectionFilterChange}
             >
               <SelectTrigger>
-                <SelectValue placeholder="全部" />
+                <SelectValue placeholder="全部集合" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="all">全部</SelectItem>
+                <SelectItem value="all">全部集合</SelectItem>
                 <SelectItem value="sakura100">日本さくら名所100選</SelectItem>
                 <SelectItem value="navitime">NAVITIME</SelectItem>
                 <SelectItem value="weathernews">Weathernews</SelectItem>
@@ -137,16 +135,15 @@ function App() {
           </div>
 
           <div className="grid gap-2">
-            <Label className="text-xs text-muted-foreground">县</Label>
             <Select
               value={prefectureFilter}
               onValueChange={handlePrefectureFilterChange}
             >
               <SelectTrigger>
-                <SelectValue placeholder="全部" />
+                <SelectValue placeholder="全部县" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="all">全部</SelectItem>
+                <SelectItem value="all">全部县</SelectItem>
                 {data?.prefectures.map((pref) => (
                   <SelectItem key={pref.id} value={String(pref.id)}>
                     {pref.name_ja}
@@ -162,7 +159,6 @@ function App() {
                 显示 <span className="font-medium text-foreground">{filteredSpots.length}</span>{" "}
                 / {data?.spots.length ?? 0} 个景点
               </div>
-              <div className="text-[#8a6d1f]">地图可拖动缩放</div>
             </div>
 
             <div className="flex flex-wrap items-center gap-3 text-[11px] text-muted-foreground">
