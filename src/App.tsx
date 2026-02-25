@@ -68,7 +68,7 @@ function App() {
   }, [collectionFilter, data, prefectureFilter])
 
   const handleSelectedSpotChange = useCallback((spot: SakuraSpot | null) => {
-    setSelectedSpot((prev) => (prev?.id === spot?.id ? null : spot))
+    setSelectedSpot(spot)
   }, [])
 
   const handleCollectionFilterChange = useCallback((value: string) => {

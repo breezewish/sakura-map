@@ -85,10 +85,47 @@ export function JapanPrefectureMap({
     onSelectedSpotChange,
   )
   const didPanRef = useRef(false)
+  const popoverHoverRef = useRef(false)
+  const closePopoverTimeoutRef = useRef<number | null>(null)
+
+  const clearClosePopoverTimeout = useCallback(() => {
+    if (closePopoverTimeoutRef.current == null) return
+    window.clearTimeout(closePopoverTimeoutRef.current)
+    closePopoverTimeoutRef.current = null
+  }, [])
+
+  const closePopover = useCallback(() => {
+    if (!selectedSpotRef.current) return
+    onSelectedSpotChangeRef.current?.(null)
+    selectedSpotRef.current = null
+  }, [])
+
+  const scheduleClosePopover = useCallback(
+    (delayMs = 160) => {
+      clearClosePopoverTimeout()
+      closePopoverTimeoutRef.current = window.setTimeout(() => {
+        closePopoverTimeoutRef.current = null
+        if (popoverHoverRef.current) return
+        if (hoveredSpotIdRef.current != null) return
+        closePopover()
+      }, delayMs)
+    },
+    [clearClosePopoverTimeout, closePopover],
+  )
 
   useEffect(() => {
     selectedSpotRef.current = selectedSpot ?? null
-  }, [selectedSpot])
+    if (!selectedSpot) {
+      popoverHoverRef.current = false
+      clearClosePopoverTimeout()
+    }
+  }, [clearClosePopoverTimeout, selectedSpot])
+
+  useEffect(() => {
+    return () => {
+      clearClosePopoverTimeout()
+    }
+  }, [clearClosePopoverTimeout])
 
   useEffect(() => {
     sizeRef.current = size
@@ -495,6 +532,7 @@ export function JapanPrefectureMap({
       if (!event.isPrimary) return
 
       stopTransformAnimation()
+      clearClosePopoverTimeout()
       isPointerDown = true
       activePointerId = event.pointerId
       start = { x: event.clientX, y: event.clientY }
@@ -528,6 +566,16 @@ export function JapanPrefectureMap({
           canvas.classList.toggle("cursor-grab", hoveredId == null)
           canvas.classList.toggle("cursor-pointer", hoveredId != null)
           drawMarkers()
+        }
+
+        if (hovered) {
+          clearClosePopoverTimeout()
+          if (selectedSpotRef.current?.id !== hovered.id) {
+            onSelectedSpotChangeRef.current?.(hovered)
+            selectedSpotRef.current = hovered
+          }
+        } else {
+          scheduleClosePopover()
         }
         return
       }
@@ -593,11 +641,15 @@ export function JapanPrefectureMap({
     }
 
     const handlePointerLeave = () => {
-      if (hoveredSpotIdRef.current == null) return
+      if (hoveredSpotIdRef.current == null) {
+        scheduleClosePopover()
+        return
+      }
       hoveredSpotIdRef.current = null
       canvas.classList.add("cursor-grab")
       canvas.classList.remove("cursor-pointer")
       drawMarkers()
+      scheduleClosePopover()
     }
 
     const handleWheel = (event: WheelEvent) => {
@@ -645,7 +697,14 @@ export function JapanPrefectureMap({
       }
       stopTransformAnimation()
     }
-  }, [drawMarkers, loadState.status, path, stopTransformAnimation])
+  }, [
+    clearClosePopoverTimeout,
+    drawMarkers,
+    loadState.status,
+    path,
+    scheduleClosePopover,
+    stopTransformAnimation,
+  ])
 
   return (
     <div ref={ref} className="relative h-full w-full bg-[#F4F5F7]">
@@ -711,6 +770,14 @@ export function JapanPrefectureMap({
             align="center"
             sideOffset={12}
             className="w-[420px] overflow-hidden rounded-2xl bg-white p-0 shadow-xl"
+            onPointerEnter={() => {
+              popoverHoverRef.current = true
+              clearClosePopoverTimeout()
+            }}
+            onPointerLeave={() => {
+              popoverHoverRef.current = false
+              if (hoveredSpotIdRef.current == null) scheduleClosePopover()
+            }}
           >
             <div className="grid">
               {selectedSpotPhotos.length > 0 ? (
