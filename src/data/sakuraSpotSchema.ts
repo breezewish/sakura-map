@@ -4,6 +4,7 @@ export const sakuraCollectionSchema = z.enum([
   "sakura100",
   "navitime",
   "weathernews",
+  "weathernews_top10",
 ])
 
 export const sakuraPhotoSchema = z.object({
@@ -67,4 +68,3 @@ export type SakuraSpotInPrefectureFile = z.infer<
 export type SakuraSpot = SakuraSpotInPrefectureFile & {
   prefecture: SakuraPrefectureFile["prefecture"]
 }
-

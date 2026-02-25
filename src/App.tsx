@@ -11,7 +11,11 @@ import {
   SelectValue,
 } from "@/components/ui/select"
 import { filterSakuraSpots } from "@/lib/sakuraSpotFilters"
-import { OTHER_MARKER_COLOR, SAKURA100_MARKER_COLOR } from "@/lib/spotMarker"
+import {
+  OTHER_MARKER_COLOR,
+  SAKURA100_MARKER_COLOR,
+  WEATHERNEWS_TOP10_MARKER_COLOR,
+} from "@/lib/spotMarker"
 import { Flower2 } from "lucide-react"
 
 const JapanPrefectureMap = lazy(() =>
@@ -127,6 +131,7 @@ function App() {
                 <SelectItem value="sakura100">日本さくら名所100選</SelectItem>
                 <SelectItem value="navitime">NAVITIME</SelectItem>
                 <SelectItem value="weathernews">Weathernews</SelectItem>
+                <SelectItem value="weathernews_top10">Weathernews Top10</SelectItem>
               </SelectContent>
             </Select>
           </div>
@@ -167,6 +172,13 @@ function App() {
                   style={{ backgroundColor: SAKURA100_MARKER_COLOR }}
                 />
                 <span>名所100选</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <span
+                  className="h-2 w-2 rounded-full"
+                  style={{ backgroundColor: WEATHERNEWS_TOP10_MARKER_COLOR }}
+                />
+                <span>Weathernews Top10</span>
               </div>
               <div className="flex items-center gap-1.5">
                 <span

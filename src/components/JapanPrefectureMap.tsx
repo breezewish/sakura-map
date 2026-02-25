@@ -11,6 +11,7 @@ import {
   isSakura100Spot,
   OTHER_MARKER_COLOR,
   SAKURA100_MARKER_COLOR,
+  WEATHERNEWS_TOP10_MARKER_COLOR,
 } from "@/lib/spotMarker"
 import { zoomTransformAtPoint } from "@/lib/panZoomTransform"
 import { pickSpotAtPoint, type ProjectedSpotMarker } from "@/lib/spotHitTest"
@@ -50,7 +51,7 @@ const SELECTED_RING_COLOR = "rgba(0,0,0,0.4)"
 const HOVER_RING_COLOR = "rgba(0,0,0,0.25)"
 
 type ProjectedSpot = ProjectedSpotMarker & {
-  isSakura100: boolean
+  markerKind: "sakura100" | "weathernews_top10" | "other"
 }
 
 export type JapanPrefectureMapProps = {
@@ -213,7 +214,11 @@ export function JapanPrefectureMap({
           x,
           y,
           r: getSpotMarkerRadius(spot),
-          isSakura100: isSakura100Spot(spot),
+          markerKind: isSakura100Spot(spot)
+            ? "sakura100"
+            : spot.collections?.includes("weathernews_top10")
+              ? "weathernews_top10"
+              : "other",
         },
       ]
     })
@@ -264,10 +269,10 @@ export function JapanPrefectureMap({
     ctx.lineWidth = 1.5
     ctx.strokeStyle = MARKER_STROKE_COLOR
 
-    const drawGroup = (isSakura100: boolean, fill: string) => {
+    const drawGroup = (kind: ProjectedSpot["markerKind"], fill: string) => {
       ctx.beginPath()
       for (const marker of markers) {
-        if (marker.isSakura100 !== isSakura100) continue
+        if (marker.markerKind !== kind) continue
 
         const cx = marker.x * t.k + t.x
         const cy = marker.y * t.k + t.y
@@ -284,8 +289,9 @@ export function JapanPrefectureMap({
       ctx.stroke()
     }
 
-    drawGroup(false, OTHER_MARKER_COLOR)
-    drawGroup(true, SAKURA100_MARKER_COLOR)
+    drawGroup("other", OTHER_MARKER_COLOR)
+    drawGroup("weathernews_top10", WEATHERNEWS_TOP10_MARKER_COLOR)
+    drawGroup("sakura100", SAKURA100_MARKER_COLOR)
 
     ctx.globalAlpha = 1
     const selected = selectedSpotRef.current
