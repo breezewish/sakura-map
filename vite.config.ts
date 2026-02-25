@@ -8,8 +8,10 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig(({ command }) => {
   const rootDir = path.dirname(fileURLToPath(import.meta.url))
   const srcDir = path.resolve(rootDir, './src')
+  const base = command === 'build' ? process.env.VITE_BASE ?? '/' : '/'
 
   return {
+    base,
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: [
