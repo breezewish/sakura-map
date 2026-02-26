@@ -914,7 +914,7 @@ export function JapanPrefectureMap({
                 ) : null}
 
                 {selectedSpotPredict ? (
-                  <div className="rounded-xl border border-border bg-muted/30 px-3 py-2.5">
+                  <div className="rounded-xl bg-muted/30 px-3 py-2.5">
                     <div className="flex items-center justify-between gap-3">
                       <div className="flex items-center gap-2 text-xs font-medium text-foreground">
                         <CalendarClock className="h-4 w-4 text-muted-foreground" />
@@ -928,7 +928,7 @@ export function JapanPrefectureMap({
                     </div>
 
                     <div className="mt-2 grid grid-cols-3 gap-2">
-                      <div className="rounded-lg border border-border bg-background px-2 py-2">
+                      <div className="rounded-lg bg-background/60 px-2 py-2">
                         <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
                           <Sprout className="h-3.5 w-3.5 text-emerald-700" />
                           初开
@@ -944,7 +944,7 @@ export function JapanPrefectureMap({
                         </div>
                       </div>
 
-                      <div className="rounded-lg border border-border bg-background px-2 py-2">
+                      <div className="rounded-lg bg-background/60 px-2 py-2">
                         <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
                           <Flower2 className="h-3.5 w-3.5 text-pink-700" />
                           满开
@@ -960,7 +960,7 @@ export function JapanPrefectureMap({
                         </div>
                       </div>
 
-                      <div className="rounded-lg border border-border bg-background px-2 py-2">
+                      <div className="rounded-lg bg-background/60 px-2 py-2">
                         <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
                           <Wind className="h-3.5 w-3.5 text-sky-700" />
                           樱吹雪
