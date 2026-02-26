@@ -32,6 +32,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/185/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2100078/
       wikipedia: https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E9%87%8C
+    top:
+      weathernews: 7
     collections:
       - weathernews
       - weathernews_top10
@@ -109,6 +111,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/193/
     links:
       weathernews: https://weathernews.jp/sakura/spot/193/
+    top:
+      weathernews: 5
     collections:
       - weathernews
       - weathernews_top10
@@ -162,6 +166,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/183/
     links:
       weathernews: https://weathernews.jp/sakura/spot/183/
+    top:
+      weathernews: 2
     collections:
       - weathernews
       - weathernews_top10
@@ -235,6 +241,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/5024/
     links:
       weathernews: https://weathernews.jp/sakura/spot/5024/
+    top:
+      weathernews: 3
     collections:
       - weathernews
       - weathernews_top10
@@ -643,6 +651,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/189/
     links:
       weathernews: https://weathernews.jp/sakura/spot/189/
+    top:
+      weathernews: 8
     collections:
       - weathernews
       - weathernews_top10
@@ -667,6 +677,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/50026/
     links:
       weathernews: https://weathernews.jp/sakura/spot/50026/
+    top:
+      weathernews: 4
     collections:
       - weathernews
       - weathernews_top10
@@ -938,6 +950,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/50013/
     links:
       weathernews: https://weathernews.jp/sakura/spot/50013/
+    top:
+      weathernews: 9
     collections:
       - weathernews
       - weathernews_top10
@@ -1107,6 +1121,8 @@ spots:
     links:
       weathernews: https://weathernews.jp/sakura/spot/5022/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307138/
+    top:
+      weathernews: 6
     collections:
       - weathernews
       - weathernews_top10
@@ -1133,6 +1149,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/50023/
     links:
       weathernews: https://weathernews.jp/sakura/spot/50023/
+    top:
+      weathernews: 10
     collections:
       - weathernews
       - weathernews_top10
@@ -1189,6 +1207,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/5026/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307139/
       wikipedia: https://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E9%9C%8A%E5%9C%92
+    top:
+      weathernews: 1
     collections:
       - weathernews
       - weathernews_top10

@@ -24,6 +24,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/84013/
     links:
       weathernews: https://weathernews.jp/sakura/spot/84013/
+    top:
+      weathernews: 9
     collections:
       - weathernews
       - weathernews_top10
@@ -119,6 +121,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/464/
     links:
       weathernews: https://weathernews.jp/sakura/spot/464/
+    top:
+      weathernews: 6
     collections:
       - weathernews
       - weathernews_top10
@@ -233,6 +237,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/84009/
     links:
       weathernews: https://weathernews.jp/sakura/spot/84009/
+    top:
+      weathernews: 5
     collections:
       - weathernews
       - weathernews_top10
@@ -380,6 +386,8 @@ spots:
       weathernews: https://weathernews.jp/sakura/spot/8406/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307102/
       wikipedia: https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%85%AC%E5%9C%92
+    top:
+      weathernews: 3
     collections:
       - weathernews
       - weathernews_top10
@@ -410,6 +418,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/84015/
     links:
       weathernews: https://weathernews.jp/sakura/spot/461/
+    top:
+      weathernews: 2
     collections:
       - weathernews
       - weathernews_top10
@@ -434,6 +444,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/465/
     links:
       weathernews: https://weathernews.jp/sakura/spot/465/
+    top:
+      weathernews: 10
     collections:
       - weathernews
       - weathernews_top10
@@ -492,6 +504,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/84006/
     links:
       weathernews: https://weathernews.jp/sakura/spot/84006/
+    top:
+      weathernews: 7
     collections:
       - weathernews
       - weathernews_top10
@@ -517,6 +531,8 @@ spots:
         url: https://weathernews.jp/sakura/spot/462/
     links:
       weathernews: https://weathernews.jp/sakura/spot/462/
+    top:
+      weathernews: 4
     collections:
       - weathernews
       - weathernews_top10
