@@ -890,32 +890,23 @@ export function JapanPrefectureMap({
                   </div>
                 </div>
 
-                <div className="flex flex-wrap items-center gap-1.5">
-                  {selectedSpot.collections?.includes("sakura100") ? (
-                    <span className="inline-flex items-center gap-1 rounded-full bg-pink-400/15 px-2 py-0.5 text-[11px] text-pink-700">
-                      <Ribbon className="h-3 w-3" />
-                      日本さくら名所100選
-                    </span>
-                  ) : null}
-                  {selectedSpot.collections?.includes("weathernews_top10") ? (
-                    <span className="inline-flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5 text-[11px] text-amber-800">
-                      <Ribbon className="h-3 w-3" />
-                      Weathernews Top10
-                    </span>
-                  ) : selectedSpot.collections?.includes("weathernews") ? (
-                    <span className="inline-flex items-center rounded-full bg-neutral-500/10 px-2 py-0.5 text-[11px] text-neutral-700">
-                      Weathernews
-                    </span>
-                  ) : null}
-                  {selectedSpot.collections?.includes("navitime") ? (
-                    <span className="inline-flex items-center rounded-full bg-neutral-500/10 px-2 py-0.5 text-[11px] text-neutral-700">
-                      NAVITIME
-                    </span>
-                  ) : null}
-                  {!selectedSpot.collections?.length ? (
-                    <span className="text-xs text-muted-foreground">—</span>
-                  ) : null}
-                </div>
+                {selectedSpot.collections?.includes("sakura100") ||
+                selectedSpot.collections?.includes("weathernews_top10") ? (
+                  <div className="flex flex-wrap items-center gap-1.5">
+                    {selectedSpot.collections?.includes("sakura100") ? (
+                      <span className="inline-flex items-center gap-1 rounded-full bg-pink-400/15 px-2 py-0.5 text-[11px] text-pink-700">
+                        <Ribbon className="h-3 w-3" />
+                        日本さくら名所100選
+                      </span>
+                    ) : null}
+                    {selectedSpot.collections?.includes("weathernews_top10") ? (
+                      <span className="inline-flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5 text-[11px] text-amber-800">
+                        <Ribbon className="h-3 w-3" />
+                        Weathernews Top10
+                      </span>
+                    ) : null}
+                  </div>
+                ) : null}
 
                 {selectedSpotPredictLine ? (
                   <div className="rounded-lg bg-neutral-500/5 px-3 py-2 text-xs text-neutral-700">
