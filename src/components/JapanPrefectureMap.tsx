@@ -826,11 +826,11 @@ export function JapanPrefectureMap({
                   <CarouselContent className="!ml-0">
                     {selectedSpotPhotos.map((photo, index) => (
                       <CarouselItem key={`${selectedSpot.id}-${index}`} className="!pl-0">
-                        <div className="relative aspect-[16/10] w-full bg-muted/20">
+                        <div className="relative aspect-[16/10] w-full overflow-hidden bg-muted/20">
                           <img
                             src={photo.url}
                             alt={`${selectedSpot.name_ja} ${index + 1}`}
-                            className="h-full w-full object-cover"
+                            className="h-full w-full object-cover scale-[1.02]"
                             loading="lazy"
                           />
 
