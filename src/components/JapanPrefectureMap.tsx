@@ -25,12 +25,12 @@ import {
 import { Popover, PopoverAnchor, PopoverContent } from "@/components/ui/popover"
 import { Button } from "@/components/ui/button"
 import {
+  Award,
   CalendarClock,
   ExternalLink,
   Flower2,
   Minus,
   Plus,
-  Ribbon,
   RotateCcw,
   Sprout,
   Wind,
@@ -900,13 +900,13 @@ export function JapanPrefectureMap({
                   <div className="flex flex-wrap items-center gap-1.5">
                     {selectedSpot.collections?.includes("sakura100") ? (
                       <span className="inline-flex items-center gap-1 rounded-full bg-pink-400/15 px-2 py-0.5 text-[11px] text-pink-700">
-                        <Ribbon className="h-3 w-3" />
+                        <Award className="h-3 w-3" />
                         日本さくら名所100選
                       </span>
                     ) : null}
                     {selectedSpot.collections?.includes("weathernews_top10") ? (
                       <span className="inline-flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5 text-[11px] text-amber-800">
-                        <Ribbon className="h-3 w-3" />
+                        <Award className="h-3 w-3" />
                         Weathernews Top10
                       </span>
                     ) : null}
