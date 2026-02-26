@@ -907,7 +907,9 @@ export function JapanPrefectureMap({
                     {selectedSpot.collections?.includes("weathernews_top10") ? (
                       <span className="inline-flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5 text-[11px] text-amber-800">
                         <Award className="h-3 w-3" />
-                        Weathernews Top10
+                        {typeof selectedSpot.top?.weathernews === "number"
+                          ? `Weathernews 当地 Top${selectedSpot.top.weathernews}`
+                          : "Weathernews 当地 Top10"}
                       </span>
                     ) : null}
                   </div>
