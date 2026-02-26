@@ -10,6 +10,9 @@
 **Generated:** 2026-02-25 17:32:25
 **Category:** SaaS (General)
 
+> **Note:** The UI design language for this repo is fixed in `design-system/樱花地图/DESIGN_LANGUAGE.md`.
+> If any generated guidance below conflicts with it, follow `DESIGN_LANGUAGE.md`.
+
 ---
 
 ## Global Rules

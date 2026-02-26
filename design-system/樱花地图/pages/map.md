@@ -11,6 +11,8 @@
 
 ## Page-Specific Rules
 
+> **Design Language:** See `design-system/樱花地图/DESIGN_LANGUAGE.md` (borderless, flat).
+
 ### Layout Overrides
 
 - **Max Width:** 800px (narrow, focused)

@@ -46,3 +46,7 @@ node scripts/build-spots-json.mjs
 ```bash
 git add src/data/spots_predict
 ```
+
+## UI 设计语言
+
+界面遵循「无边框、扁平化」设计语言，具体规则见：`design-system/樱花地图/DESIGN_LANGUAGE.md`。
