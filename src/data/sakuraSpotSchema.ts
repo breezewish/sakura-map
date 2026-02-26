@@ -48,6 +48,11 @@ export const sakuraSpotInPrefectureFileSchema = z.object({
       wikipedia: z.string().min(1).optional(),
     })
     .optional(),
+  top: z
+    .object({
+      weathernews: z.number().int().min(1).max(10).optional(),
+    })
+    .optional(),
   collections: z.array(sakuraCollectionSchema).optional(),
   note: z.string().min(1).optional(),
 })
