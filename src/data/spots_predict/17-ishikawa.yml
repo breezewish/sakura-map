@@ -5,39 +5,39 @@ prefecture:
 spots:
   - id: wn-256
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-03
       full_bloom_date: 2026-04-09
       fubuki_date: 2026-04-15
   - id: wn-261
   - id: wn-259
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-05
       full_bloom_date: 2026-04-12
       fubuki_date: 2026-04-17
   - id: wn-5602
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-04
       full_bloom_date: 2026-04-10
       fubuki_date: 2026-04-16
   - id: wn-56003
   - id: wn-56001
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-04
       full_bloom_date: 2026-04-09
       fubuki_date: 2026-04-15
   - id: wn-5606
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-20
       full_bloom_date: 2026-04-26
       fubuki_date: 2026-04-30
   - id: wn-258
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-03
       full_bloom_date: 2026-04-09
       fubuki_date: 2026-04-14
@@ -49,49 +49,49 @@ spots:
       fubuki_date: 2026-04-17
   - id: wn-5609
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-24
       full_bloom_date: 2026-05-01
       fubuki_date: 2026-05-10
   - id: wn-56006
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-04
       full_bloom_date: 2026-04-10
       fubuki_date: 2026-04-15
   - id: wn-5605
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-04
       full_bloom_date: 2026-04-10
       fubuki_date: 2026-04-15
   - id: wn-262
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-04
       full_bloom_date: 2026-04-09
       fubuki_date: 2026-04-15
   - id: wn-257
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-02
       full_bloom_date: 2026-04-07
       fubuki_date: 2026-04-12
   - id: wn-5608
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-09
       full_bloom_date: 2026-04-13
       fubuki_date: 2026-04-24
   - id: wn-263
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-07
       full_bloom_date: 2026-04-13
       fubuki_date: 2026-04-18
   - id: wn-265
     predict:
-      forecasted_at: 2026-02-28
+      forecasted_at: 2026-01-29
       first_bloom_date: 2026-04-03
       full_bloom_date: 2026-04-09
       fubuki_date: 2026-04-15

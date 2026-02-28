@@ -36,6 +36,13 @@ function extractDtDdText(html, label) {
   return match[1].trim()
 }
 
+function extractKaikaStatusDateText(html) {
+  const match = html.match(
+    /<p[^>]*class="[^"]*kaikaStatus__date[^"]*"[^>]*>\s*([^<]+?)\s*<\/p>/,
+  )
+  return match ? match[1].trim() : null
+}
+
 export function parseWeathernewsSpotForecastHtml(html) {
   if (typeof html !== "string" || html.length === 0) return null
 
@@ -44,10 +51,7 @@ export function parseWeathernewsSpotForecastHtml(html) {
 
   const result = {}
 
-  const forecastedText = (() => {
-    const match = html.match(/最終取材日：\s*([^<]+)/)
-    return match ? match[1].trim() : null
-  })()
+  const forecastedText = extractKaikaStatusDateText(html)
   if (forecastedText) {
     const md = parseMonthDay(forecastedText)
     if (md) result.forecasted_at = toIsoDate(year, md.month, md.day)
@@ -81,4 +85,3 @@ export function parseWeathernewsSpotForecastHtml(html) {
 
   return result
 }
-

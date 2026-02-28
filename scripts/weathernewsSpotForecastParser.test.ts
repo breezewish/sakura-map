@@ -38,6 +38,31 @@ describe("parseWeathernewsSpotForecastHtml", () => {
     })
   })
 
+  it("parses forecasted_at from estimated status text", () => {
+    const html = `
+<!doctype html>
+<html lang="ja">
+  <head>
+    <title>山北鉄道公園の花見・桜名所【2026】- ウェザーニュース - ウェザーニュース</title>
+  </head>
+  <body>
+    <p class="kaikaStatus__date">2月28日の推定状況</p>
+    <dl class="kaikaList">
+      <div class="kaikaList__item">
+        <dt class="kaikaList__title color"> 開花予想日 </dt>
+        <dd class="kaikaList__content">3月23日</dd>
+      </div>
+    </dl>
+  </body>
+</html>
+`
+
+    expect(parseWeathernewsSpotForecastHtml(html)).toEqual({
+      forecasted_at: "2026-02-28",
+      first_bloom_date: "2026-03-23",
+    })
+  })
+
   it("returns null for non-spot pages", () => {
     const html = `
 <!doctype html>
@@ -52,4 +77,3 @@ describe("parseWeathernewsSpotForecastHtml", () => {
     expect(parseWeathernewsSpotForecastHtml(html)).toBeNull()
   })
 })
-

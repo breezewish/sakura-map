@@ -66,7 +66,7 @@ async function mapWithConcurrency(items, concurrency, fn) {
   return results
 }
 
-async function buildPrefecturePredictFile({ fileName, raw, forecastedAt }) {
+async function buildPrefecturePredictFile({ fileName, raw }) {
   const parsed = parseYaml(raw)
   assert(isPlainObject(parsed), `Invalid YAML root object in ${fileName}`)
   assert(isPlainObject(parsed.prefecture), `Missing "prefecture" in ${fileName}`)
@@ -96,12 +96,7 @@ async function buildPrefecturePredictFile({ fileName, raw, forecastedAt }) {
 
       return {
         id: task.id,
-        predict: {
-          forecasted_at: forecastedAt,
-          first_bloom_date: parsedPredict.first_bloom_date,
-          full_bloom_date: parsedPredict.full_bloom_date,
-          fubuki_date: parsedPredict.fubuki_date,
-        },
+        predict: parsedPredict,
       }
     } catch (error) {
       console.warn(
@@ -126,7 +121,7 @@ async function buildPrefecturePredictFile({ fileName, raw, forecastedAt }) {
 async function main() {
   const spotsDir = path.join(process.cwd(), "src", "data", "spots")
   const outputDir = path.join(process.cwd(), "src", "data", "spots_predict")
-  const forecastedAt = todayIsoUtc()
+  const fetchedAt = todayIsoUtc()
 
   const fileNames = (await readdir(spotsDir)).filter((f) => f.endsWith(".yml")).sort()
   assert(fileNames.length === 47, `Expected 47 spots yml files, got ${fileNames.length}`)
@@ -144,7 +139,6 @@ async function main() {
     const predictFile = await buildPrefecturePredictFile({
       fileName,
       raw,
-      forecastedAt,
     })
 
     const outPath = path.join(outputDir, fileName)
@@ -161,7 +155,7 @@ async function main() {
   }
 
   console.log(
-    `Done: ${prefectureCount} prefectures, ${spotCount} spots, ${predictedSpotCount} predictions (forecasted_at=${forecastedAt})`,
+    `Done: ${prefectureCount} prefectures, ${spotCount} spots, ${predictedSpotCount} predictions (fetched_at=${fetchedAt})`,
   )
 }
 
@@ -171,4 +165,3 @@ try {
   console.error(error instanceof Error ? error.message : String(error))
   process.exitCode = 1
 }
-
