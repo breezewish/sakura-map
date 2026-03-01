@@ -15,6 +15,11 @@ spots:
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
   - id: wn-261
+    predict:
+      jmc:
+        forecasted_at: 2026-02-26
+        first_bloom_date: 2026-04-07
+        full_bloom_date: 2026-04-12
   - id: wn-259
     predict:
       weathernews:

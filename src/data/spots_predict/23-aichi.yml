@@ -50,6 +50,10 @@ spots:
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-07
+      jmc:
+        forecasted_at: 2026-02-26
+        first_bloom_date: 2026-03-23
+        full_bloom_date: 2026-04-01
   - id: wn-208
     predict:
       weathernews:
