@@ -1,0 +1,2415 @@
+source:
+  jmc_region_selector_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_al?yosou=1
+prefectures:
+  - id: 1
+    name_ja: 北海道
+    name_en: Hokkaido
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=01
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=01&sort_code=0
+    api_area_name: 北海道
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "01370030"
+        name_ja: えりも町庶野さくら公園
+      - code: "01370055"
+        name_ja: オニウシ公園
+      - code: "01370046"
+        name_ja: さらんべ公園
+      - code: "01370032"
+        name_ja: モエレ沼公園
+      - code: "01370015"
+        name_ja: 円山公園
+      - code: "01370041"
+        name_ja: 熊石休養村(ソメイヨシノ)
+      - code: "01370061"
+        name_ja: 熊石休養村(ヤエザクラ)
+      - code: "01370022"
+        name_ja: 五稜郭公園
+      - code: "01370017"
+        name_ja: 小樽公園
+      - code: "01370056"
+        name_ja: 松前藩戸切地陣屋跡
+      - code: "01370024"
+        name_ja: 青葉ヶ丘公園
+      - code: "01370010"
+        name_ja: 帯広市緑ケ丘公園
+      - code: "01370029"
+        name_ja: 二十間道路桜並木
+      - code: "01370057"
+        name_ja: 函館公園
+      - code: "01370053"
+        name_ja: 美唄市東明公園
+      - code: "01370028"
+        name_ja: 有珠善光寺自然公園
+  - id: 2
+    name_ja: 青森県
+    name_en: Aomori
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=02
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=02&sort_code=0
+    api_area_name: 青森県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "02370005"
+        name_ja: いちょう公園
+      - code: "02370009"
+        name_ja: 愛宕公園
+      - code: "02370012"
+        name_ja: 芦野公園
+      - code: "02370001"
+        name_ja: 猿賀公園
+      - code: "02370011"
+        name_ja: 弘前公園のソメイヨシノ
+      - code: "02370017"
+        name_ja: 弘前公園のヤエベニシダレ
+      - code: "02370010"
+        name_ja: 合浦公園
+      - code: "02370007"
+        name_ja: 国史跡三戸城跡　城山公園
+      - code: "02370008"
+        name_ja: 三八城公園
+      - code: "02370013"
+        name_ja: 十和田市官庁街通り(駒街道)
+      - code: "02370020"
+        name_ja: 小川原湖公園
+      - code: "02370015"
+        name_ja: 早掛沼公園
+      - code: "02370016"
+        name_ja: 東公園さくら山
+      - code: "02370002"
+        name_ja: 八戸公園
+      - code: "02370018"
+        name_ja: 富士見湖パーク
+      - code: "02370004"
+        name_ja: 野木和公園
+  - id: 3
+    name_ja: 岩手県
+    name_en: Iwate
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=03
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=03&sort_code=0
+    api_area_name: 岩手県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "03370008"
+        name_ja: お物見公園
+      - code: "03370018"
+        name_ja: 遠野福泉寺
+      - code: "03370011"
+        name_ja: 花巻温泉
+      - code: "03370012"
+        name_ja: 花巻南温泉峡
+      - code: "03370005"
+        name_ja: 舘山公園
+      - code: "03370029"
+        name_ja: 九戸城跡
+      - code: "03370006"
+        name_ja: 厳美渓
+      - code: "03370003"
+        name_ja: 碁石海岸
+      - code: "03370015"
+        name_ja: 高松の池
+      - code: "03370013"
+        name_ja: 紫波城山公園
+      - code: "03370028"
+        name_ja: 雫石川園地
+      - code: "03370001"
+        name_ja: 室根山　蟻塚公園
+      - code: "03370016"
+        name_ja: 小岩井農場
+      - code: "03370009"
+        name_ja: 水沢公園
+      - code: "03370014"
+        name_ja: 盛岡城跡公園(岩手公園)
+      - code: "03370027"
+        name_ja: 西行桜の森
+      - code: "03370020"
+        name_ja: 巽山公園
+      - code: "03370024"
+        name_ja: 中尊寺
+      - code: "03370021"
+        name_ja: 釣山公園
+      - code: "03370019"
+        name_ja: 唐丹町本郷桜並木
+      - code: "03370004"
+        name_ja: 鍋倉公園
+      - code: "03370007"
+        name_ja: 平泉町内　県道300号線の桜並木
+      - code: "03370022"
+        name_ja: 米内浄水場
+      - code: "03370010"
+        name_ja: 北上展勝地
+      - code: "03370025"
+        name_ja: 毛越寺
+  - id: 4
+    name_ja: 宮城県
+    name_en: Miyagi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=04
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=04&sort_code=0
+    api_area_name: 宮城県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "04370001"
+        name_ja: リアスブルーライン
+      - code: "04370016"
+        name_ja: 羽黒山公園(大崎市松山)
+      - code: "04370013"
+        name_ja: 牡鹿半島　金華山
+      - code: "04370018"
+        name_ja: 館山公園(大崎市三本木)
+      - code: "04370027"
+        name_ja: 気仙沼神山川河川敷
+      - code: "04370005"
+        name_ja: 気仙沼大島・亀山
+      - code: "04370030"
+        name_ja: 宮城県　松島離宮
+      - code: "04370015"
+        name_ja: 県立自然公園旭山
+      - code: "04370025"
+        name_ja: 国営みちのく杜の湖畔公園(ソメイヨシノ)
+      - code: "04370026"
+        name_ja: 国営みちのく杜の湖畔公園(ヤマザクラ)
+      - code: "04370009"
+        name_ja: 三神峯公園
+      - code: "04370010"
+        name_ja: 志波彦神社　鹽竈神社
+      - code: "04370029"
+        name_ja: 寺池城址公園
+      - code: "04370028"
+        name_ja: 松山御本丸公園
+      - code: "04370014"
+        name_ja: 城山公園
+      - code: "04370023"
+        name_ja: 西公園
+      - code: "04370011"
+        name_ja: 西行戻しの松公園
+      - code: "04370008"
+        name_ja: 船岡城址公園
+      - code: "04370002"
+        name_ja: 大衡城跡公園
+      - code: "04370003"
+        name_ja: 大衡中央公園
+      - code: "04370012"
+        name_ja: 日和山公園
+      - code: "04370006"
+        name_ja: 白石城本丸広場
+      - code: "04370007"
+        name_ja: 白石川堤一目千本桜
+      - code: "04370021"
+        name_ja: 薬莱山
+      - code: "04370024"
+        name_ja: 榴岡公園
+  - id: 5
+    name_ja: 秋田県
+    name_en: Akita
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=05
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=05&sort_code=0
+    api_area_name: 秋田県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "05370014"
+        name_ja: きみまち阪公園
+      - code: "05370027"
+        name_ja: 阿仁河川の桜
+      - code: "05370002"
+        name_ja: 一丈木公園
+      - code: "05370012"
+        name_ja: 横手公園
+      - code: "05370021"
+        name_ja: 桂城公園
+      - code: "05370007"
+        name_ja: 御所の台ふれあいパーク
+      - code: "05370028"
+        name_ja: 桜・菜の花ロード
+      - code: "05370011"
+        name_ja: 真人公園
+      - code: "05370020"
+        name_ja: 雀舘公園(五城目町)
+      - code: "05370015"
+        name_ja: 勢至公園
+      - code: "05370013"
+        name_ja: 千秋公園
+      - code: "05370010"
+        name_ja: 前森公園
+      - code: "05370003"
+        name_ja: 大館市ベニヤマ自然パーク
+      - code: "05370023"
+        name_ja: 鷹巣中央公園
+      - code: "05370026"
+        name_ja: 能代市役所さくら庭
+      - code: "05370006"
+        name_ja: 八塩いこいの森
+      - code: "05370017"
+        name_ja: 八乙女公園
+      - code: "05370018"
+        name_ja: 桧木内川堤のソメイヨシノ
+      - code: "05370001"
+        name_ja: 仏沢公園
+      - code: "05370016"
+        name_ja: 本荘公園
+  - id: 6
+    name_ja: 山形県
+    name_en: Yamagata
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=06&sort_code=0
+    api_area_name: 山形県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "06370017"
+        name_ja: あつみ温泉　温海川河畔
+      - code: "06370026"
+        name_ja: まほろばの緑道
+      - code: "06370009"
+        name_ja: みゆき公園
+      - code: "06370003"
+        name_ja: 伊佐沢の久保ザクラ
+      - code: "06370007"
+        name_ja: 烏帽子山公園
+      - code: "06370010"
+        name_ja: 霞城公園
+      - code: "06370014"
+        name_ja: 寒河江公園
+      - code: "06370013"
+        name_ja: 最上公園
+      - code: "06370022"
+        name_ja: 最上川堤防千本桜
+      - code: "06370029"
+        name_ja: 楯山公園
+      - code: "06370006"
+        name_ja: 松が岬公園
+      - code: "06370008"
+        name_ja: 上山城・月岡公園
+      - code: "06370030"
+        name_ja: 新橋緑地
+      - code: "06370024"
+        name_ja: 双松公園
+      - code: "06370025"
+        name_ja: 草岡の大明神ザクラ
+      - code: "06370015"
+        name_ja: 大山公園
+      - code: "06370031"
+        name_ja: 中山河川公園
+      - code: "06370016"
+        name_ja: 鶴岡公園
+      - code: "06370011"
+        name_ja: 天童公園(舞鶴山)
+      - code: "06370012"
+        name_ja: 東沢公園
+      - code: "06370002"
+        name_ja: 堂ノ前公園
+      - code: "06370018"
+        name_ja: 日和山公園
+      - code: "06370021"
+        name_ja: 馬見ヶ崎さくらライン
+      - code: "06370001"
+        name_ja: 白水川堤防桜並木
+  - id: 7
+    name_ja: 福島県
+    name_en: Fukushima
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=07
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=07&sort_code=0
+    api_area_name: 福島県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "07370073"
+        name_ja: いわき市フラワーセンター
+      - code: "07370078"
+        name_ja: いわき市石炭・化石館ほるる
+      - code: "07370077"
+        name_ja: 右近清水
+      - code: "07370006"
+        name_ja: 夏井千本桜
+      - code: "07370024"
+        name_ja: 花と歴史の郷　蛇の鼻
+      - code: "07370035"
+        name_ja: 花見山公園
+      - code: "07370025"
+        name_ja: 霞ヶ城公園
+      - code: "07370074"
+        name_ja: 会津武家屋敷
+      - code: "07370022"
+        name_ja: 開成山公園
+      - code: "07370026"
+        name_ja: 岳温泉
+      - code: "07370045"
+        name_ja: 観音寺川
+      - code: "07370003"
+        name_ja: 観月台公園
+      - code: "07370028"
+        name_ja: 亀ヶ城跡
+      - code: "07370002"
+        name_ja: 久慈川河川敷の桜並木
+      - code: "07370055"
+        name_ja: 宮川千本桜
+      - code: "07370079"
+        name_ja: 御幸山公園
+      - code: "07370048"
+        name_ja: 今出川・北須川の桜並木
+      - code: "07370036"
+        name_ja: 笹原川千本桜
+      - code: "07370061"
+        name_ja: 四季の里　緑水苑
+      - code: "07370064"
+        name_ja: 小沢の桜
+      - code: "07370012"
+        name_ja: 昌建寺
+      - code: "07370046"
+        name_ja: 昭和の森
+      - code: "07370031"
+        name_ja: 松ヶ岡公園
+      - code: "07370008"
+        name_ja: 城山公園・おとめ桜
+      - code: "07370059"
+        name_ja: 親水公園
+      - code: "07370033"
+        name_ja: 泉崎村さつき公園
+      - code: "07370076"
+        name_ja: 相馬小高神社
+      - code: "07370069"
+        name_ja: 棚倉城跡(亀ケ城公園)
+      - code: "07370030"
+        name_ja: 中村城跡公園　馬陵公園
+      - code: "07370043"
+        name_ja: 町営牧場
+      - code: "07370041"
+        name_ja: 鳥見山公園
+      - code: "07370029"
+        name_ja: 鶴ヶ城公園
+      - code: "07370004"
+        name_ja: 天神岬スポーツ公園
+      - code: "07370075"
+        name_ja: 湯野上温泉駅の桜
+      - code: "07370051"
+        name_ja: 藤田川ふれあい桜
+      - code: "07370058"
+        name_ja: 白河小峰城
+      - code: "07370040"
+        name_ja: 福満虚空藏菩薩　圓藏寺
+      - code: "07370057"
+        name_ja: 平中央公園
+      - code: "07370032"
+        name_ja: 勿来関跡
+      - code: "07370014"
+        name_ja: 夜の森公園
+      - code: "07370013"
+        name_ja: 矢祭山公園
+      - code: "07370070"
+        name_ja: 涼ヶ岡八幡神社
+  - id: 8
+    name_ja: 茨城県
+    name_en: Ibaraki
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=08
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=08&sort_code=0
+    api_area_name: 茨城県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "08370013"
+        name_ja: かみね公園
+      - code: "08370033"
+        name_ja: さくら宇宙公園
+      - code: "08370016"
+        name_ja: 愛宕山
+      - code: "08370002"
+        name_ja: 磯部桜川公園
+      - code: "08370010"
+        name_ja: 宇留野公園
+      - code: "08370022"
+        name_ja: 羽黒山公園
+      - code: "08370020"
+        name_ja: 雨引観音
+      - code: "08370014"
+        name_ja: 亀城公園(土浦城址)
+      - code: "08370009"
+        name_ja: 吉野公園
+      - code: "08370007"
+        name_ja: 弘経寺
+      - code: "08370025"
+        name_ja: 佐白山麓公園
+      - code: "08370021"
+        name_ja: 桜山公園
+      - code: "08370006"
+        name_ja: 十王パノラマ公園
+      - code: "08370019"
+        name_ja: 城跡歴史公園
+      - code: "08370028"
+        name_ja: 常陸風土記の丘
+      - code: "08370026"
+        name_ja: 神之池緑地公園
+      - code: "08370008"
+        name_ja: 水海道あすなろの里
+      - code: "08370018"
+        name_ja: 西山公園
+      - code: "08370004"
+        name_ja: 西蓮寺
+      - code: "08370017"
+        name_ja: 静峰ふるさと公園
+      - code: "08370024"
+        name_ja: 千波公園
+      - code: "08370012"
+        name_ja: 大宮自然公園
+      - code: "08370011"
+        name_ja: 辰ノ口親水公園
+      - code: "08370027"
+        name_ja: 福岡堰桜並木
+      - code: "08370029"
+        name_ja: 平和通り
+      - code: "08370034"
+        name_ja: 北山公園
+      - code: "08370015"
+        name_ja: 北条大池周辺
+  - id: 9
+    name_ja: 栃木県
+    name_en: Tochigi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=09
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=09&sort_code=0
+    api_area_name: 栃木県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "09370012"
+        name_ja: かしの森公園
+      - code: "09370028"
+        name_ja: ゆうゆうパーク
+      - code: "09370014"
+        name_ja: 烏ケ森公園
+      - code: "09370006"
+        name_ja: 嘉多山公園
+      - code: "09370016"
+        name_ja: 黒磯公園
+      - code: "09370023"
+        name_ja: 三和住宅にしなすのスポーツプラザ
+      - code: "09370025"
+        name_ja: 思川桜堤　思川桜並木
+      - code: "09370003"
+        name_ja: 城山公園
+      - code: "09370008"
+        name_ja: 城山公園
+      - code: "09370002"
+        name_ja: 壬生町総合公園
+      - code: "09370005"
+        name_ja: 千手山公園
+      - code: "09370029"
+        name_ja: 千本松牧場
+      - code: "09370010"
+        name_ja: 太平山
+      - code: "09370027"
+        name_ja: 大金桜づつみウォーキングトレイル
+      - code: "09370019"
+        name_ja: 長峰公園
+      - code: "09370009"
+        name_ja: 東雲公園
+      - code: "09370024"
+        name_ja: 乃木参道
+      - code: "09370011"
+        name_ja: 八幡山公園
+      - code: "09370013"
+        name_ja: 冨士山自然公園
+      - code: "09370015"
+        name_ja: 龍城公園
+      - code: "09370022"
+        name_ja: 龍門の滝
+  - id: 10
+    name_ja: 群馬県
+    name_en: Gunma
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=10
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=10&sort_code=0
+    api_area_name: 群馬県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "10370007"
+        name_ja: さくらの里
+      - code: "10370020"
+        name_ja: 伊香保グリーン牧場のソメイヨシノ
+      - code: "10370017"
+        name_ja: 伊香保グリーン牧場のヤエザクラ
+      - code: "10370016"
+        name_ja: 華蔵寺公園
+      - code: "10370022"
+        name_ja: 休泊川
+      - code: "10370013"
+        name_ja: 高崎観音山
+      - code: "10370006"
+        name_ja: 高崎城址公園
+      - code: "10370001"
+        name_ja: 桜山公園
+      - code: "10370011"
+        name_ja: 沼田公園(沼田城址)
+      - code: "10370010"
+        name_ja: 城之内公園
+      - code: "10370019"
+        name_ja: 水上温泉(諏訪峡付近)
+      - code: "10370015"
+        name_ja: 赤城南面千本桜
+      - code: "10370021"
+        name_ja: 富岡製糸場
+      - code: "10370014"
+        name_ja: 未来へはばたけ　山田製作所桐生が岡動物園
+      - code: "10370003"
+        name_ja: 妙義神社しだれ桜
+      - code: "10370018"
+        name_ja: 老神温泉
+  - id: 11
+    name_ja: 埼玉県
+    name_en: Saitama
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=11
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=11&sort_code=0
+    api_area_name: 埼玉県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "11370024"
+        name_ja: こだま千本桜
+      - code: "11370041"
+        name_ja: さくらの山公園
+      - code: "11370020"
+        name_ja: さくら通り
+      - code: "11370018"
+        name_ja: さくら堤公園
+      - code: "11370055"
+        name_ja: サンアメニティ北本キャンプフィールド
+      - code: "11370046"
+        name_ja: みさと公園
+      - code: "11370040"
+        name_ja: 伊奈町無線山桜並木
+      - code: "11370012"
+        name_ja: 鎌北湖
+      - code: "11370059"
+        name_ja: 丸墓山古墳
+      - code: "11370032"
+        name_ja: 岩槻城址公園
+      - code: "11370019"
+        name_ja: 吉見百穴周辺
+      - code: "11370049"
+        name_ja: 玉淀河原
+      - code: "11370013"
+        name_ja: 熊谷桜堤
+      - code: "11370007"
+        name_ja: 県営狭山稲荷山公園
+      - code: "11370031"
+        name_ja: 元荒川の桜並木
+      - code: "11370060"
+        name_ja: 古代蓮の里
+      - code: "11370010"
+        name_ja: 古利根川堤
+      - code: "11370002"
+        name_ja: 幸手権現堂桜堤(県営権現堂公園)
+      - code: "11370028"
+        name_ja: 高尾さくら公園
+      - code: "11370030"
+        name_ja: 鴻巣公園
+      - code: "11370023"
+        name_ja: 国営武蔵丘陵森林公園
+      - code: "11370042"
+        name_ja: 慈光山歴史公苑
+      - code: "11370037"
+        name_ja: 若泉公園
+      - code: "11370036"
+        name_ja: 所沢航空記念公園
+      - code: "11370038"
+        name_ja: 沼辺公園
+      - code: "11370029"
+        name_ja: 城ヶ谷堤
+      - code: "11370045"
+        name_ja: 城山稲荷神社
+      - code: "11370005"
+        name_ja: 城山公園
+      - code: "11370016"
+        name_ja: 城山公園
+      - code: "11370008"
+        name_ja: 杉戸西近隣公園
+      - code: "11370052"
+        name_ja: 西武園ゆうえんち
+      - code: "11370017"
+        name_ja: 大宮公園
+      - code: "11370014"
+        name_ja: 長瀞
+      - code: "11370050"
+        name_ja: 鶴ヶ島市運動公園
+      - code: "11370047"
+        name_ja: 天覧山・中央公園
+      - code: "11370011"
+        name_ja: 都幾川桜堤
+      - code: "11370001"
+        name_ja: 唐沢川の桜堤
+      - code: "11370053"
+        name_ja: 東武動物公園
+      - code: "11370058"
+        name_ja: 忍城
+      - code: "11370006"
+        name_ja: 飯能市名栗湖
+      - code: "11370043"
+        name_ja: 美の山公園のソメイヨシノ
+      - code: "11370051"
+        name_ja: 美の山公園のヤマザクラ
+      - code: "11370003"
+        name_ja: 北越谷元荒川堤
+      - code: "11370022"
+        name_ja: 与野公園
+      - code: "11370033"
+        name_ja: 羊山公園
+  - id: 12
+    name_ja: 千葉県
+    name_en: Chiba
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=12
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=12&sort_code=0
+    api_area_name: 千葉県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "12370010"
+        name_ja: マザー牧場
+      - code: "12370002"
+        name_ja: 亥鼻公園
+      - code: "12370016"
+        name_ja: 香取神宮
+      - code: "12370005"
+        name_ja: 高家神社
+      - code: "12370004"
+        name_ja: 佐原公園(諏訪公園)
+      - code: "12370012"
+        name_ja: 佐倉城址公園
+      - code: "12370023"
+        name_ja: 市制記念公園
+      - code: "12370008"
+        name_ja: 宗吾霊堂
+      - code: "12370015"
+        name_ja: 小見川城山公園
+      - code: "12370024"
+        name_ja: 小中池公園
+      - code: "12370014"
+        name_ja: 城山公園
+      - code: "12370026"
+        name_ja: 成田ゆめ牧場
+      - code: "12370009"
+        name_ja: 成田山公園
+      - code: "12370020"
+        name_ja: 清水公園
+      - code: "12370025"
+        name_ja: 千葉こどもの国　KidsDom
+      - code: "12370019"
+        name_ja: 千葉公園
+      - code: "12370028"
+        name_ja: 千葉市動物公園
+      - code: "12370021"
+        name_ja: 泉自然公園
+      - code: "12370017"
+        name_ja: 太田山公園
+      - code: "12370029"
+        name_ja: 大房岬自然公園
+      - code: "12370006"
+        name_ja: 南房総市千倉総合運動公園
+      - code: "12370013"
+        name_ja: 八鶴湖畔
+      - code: "12370001"
+        name_ja: 本土寺
+      - code: "12370011"
+        name_ja: 茂原公園
+  - id: 13
+    name_ja: 東京都
+    name_en: Tokyo
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=13
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=13&sort_code=0
+    api_area_name: 東京都
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "13370038"
+        name_ja: アークヒルズ
+      - code: "13370063"
+        name_ja: ホテル椿山荘東京
+      - code: "13370051"
+        name_ja: よみうりランド
+      - code: "13370020"
+        name_ja: 井の頭恩賜公園
+      - code: "13370023"
+        name_ja: 羽村の堰
+      - code: "13370005"
+        name_ja: 塩田耕地堤の桜
+      - code: "13370024"
+        name_ja: 奥多摩湖
+      - code: "13370055"
+        name_ja: 音無親水公園
+      - code: "13370049"
+        name_ja: 外濠公園
+      - code: "13370061"
+        name_ja: 釜の淵公園
+      - code: "13370007"
+        name_ja: 砧公園
+      - code: "13370012"
+        name_ja: 旧岩崎邸庭園
+      - code: "13370016"
+        name_ja: 旧古河庭園
+      - code: "13370010"
+        name_ja: 旧芝離宮恩賜庭園
+      - code: "13370022"
+        name_ja: 狭山公園
+      - code: "13370037"
+        name_ja: 駒沢オリンピック公園
+      - code: "13370017"
+        name_ja: 隅田公園
+      - code: "13370045"
+        name_ja: 戸山公園
+      - code: "13370014"
+        name_ja: 向島百花園
+      - code: "13370001"
+        name_ja: 国営昭和記念公園
+      - code: "13370064"
+        name_ja: 桜づつみ公園
+      - code: "13370006"
+        name_ja: 芝公園
+      - code: "13370021"
+        name_ja: 小金井公園
+      - code: "13370011"
+        name_ja: 小石川後楽園
+      - code: "13370018"
+        name_ja: 上野恩賜公園
+      - code: "13370019"
+        name_ja: 新宿御苑
+      - code: "13370060"
+        name_ja: 神代植物公園
+      - code: "13370050"
+        name_ja: 神田明神
+      - code: "13370036"
+        name_ja: 水元公園
+      - code: "13370015"
+        name_ja: 清澄庭園
+      - code: "13370003"
+        name_ja: 西新井大師
+      - code: "13370056"
+        name_ja: 石神井公園
+      - code: "13370053"
+        name_ja: 仙台堀川公園
+      - code: "13370029"
+        name_ja: 千鳥ヶ淵緑道
+      - code: "13370034"
+        name_ja: 善福寺川緑地
+      - code: "13370033"
+        name_ja: 滝山公園
+      - code: "13370054"
+        name_ja: 辰巳の森緑道公園
+      - code: "13370028"
+        name_ja: 池上本門寺
+      - code: "13370008"
+        name_ja: 都立光が丘公園
+      - code: "13370046"
+        name_ja: 都立舎人公園
+      - code: "13370040"
+        name_ja: 都立代々木公園
+      - code: "13370032"
+        name_ja: 都立武蔵野公園
+      - code: "13370058"
+        name_ja: 東京ミッドタウン　ミッドタウン・ガーデン
+      - code: "13370048"
+        name_ja: 播磨坂
+      - code: "13370043"
+        name_ja: 八重洲さくら通り
+      - code: "13370035"
+        name_ja: 飛鳥山公園
+      - code: "13370004"
+        name_ja: 尾根緑道
+      - code: "13370009"
+        name_ja: 浜離宮恩賜庭園
+      - code: "13370044"
+        name_ja: 浮間公園
+      - code: "13370062"
+        name_ja: 福生市多摩川堤防
+      - code: "13370047"
+        name_ja: 法明寺
+      - code: "13370057"
+        name_ja: 明治神宮外苑
+      - code: "13370042"
+        name_ja: 目黒川
+      - code: "13370031"
+        name_ja: 靖国神社
+      - code: "13370013"
+        name_ja: 六義園
+      - code: "13370052"
+        name_ja: 六本木ヒルズ　毛利庭園・六本木さくら坂
+  - id: 14
+    name_ja: 神奈川県
+    name_en: Kanagawa
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=14&sort_code=0
+    api_area_name: 神奈川県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "14370033"
+        name_ja: BIOTOPIA(ソメイヨシノ)
+      - code: "14370024"
+        name_ja: アネスト岩田ターンパイク箱根　御所の入駐車場付近
+      - code: "14370022"
+        name_ja: さがみ湖MORI　MORI
+      - code: "14370006"
+        name_ja: 綾西緑地
+      - code: "14370010"
+        name_ja: 衣笠山公園
+      - code: "14370029"
+        name_ja: 横浜市立金沢動物園(金沢自然公園)
+      - code: "14370031"
+        name_ja: 恩賜箱根公園
+      - code: "14370020"
+        name_ja: 寒川神社の表参道と境内
+      - code: "14370021"
+        name_ja: 宮城野早川堤
+      - code: "14370016"
+        name_ja: 県立三ツ池公園
+      - code: "14370026"
+        name_ja: 源氏山公園
+      - code: "14370005"
+        name_ja: 光綾公園
+      - code: "14370028"
+        name_ja: 弘法山公園
+      - code: "14370011"
+        name_ja: 三溪園
+      - code: "14370015"
+        name_ja: 山北鉄道公園(御殿場線沿い桜並木の通り)
+      - code: "14370008"
+        name_ja: 小田原城址公園
+      - code: "14370004"
+        name_ja: 城山公園
+      - code: "14370032"
+        name_ja: 生田緑地
+      - code: "14370025"
+        name_ja: 大岡川プロムナード
+      - code: "14370003"
+        name_ja: 津久井湖城山公園周辺の桜
+      - code: "14370009"
+        name_ja: 鶴岡八幡宮
+      - code: "14370018"
+        name_ja: 東原桜並木
+      - code: "14370014"
+        name_ja: 箱根(芦ノ湖・仙石原)
+      - code: "14370012"
+        name_ja: 箱根(湯本)
+      - code: "14370030"
+        name_ja: 箱根強羅公園
+      - code: "14370001"
+        name_ja: 飯山白山森林公園
+      - code: "14370019"
+        name_ja: 野毛山動物園・野毛山公園
+  - id: 15
+    name_ja: 新潟県
+    name_en: Niigata
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=15
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=15&sort_code=0
+    api_area_name: 新潟県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "15370027"
+        name_ja: 加治川堤
+      - code: "15370007"
+        name_ja: 魚野川桜づつみ
+      - code: "15370026"
+        name_ja: 経塚山公園
+      - code: "15370030"
+        name_ja: 五頭山麓いこいの森
+      - code: "15370019"
+        name_ja: 高田城址公園
+      - code: "15370013"
+        name_ja: 秋葉公園
+      - code: "15370008"
+        name_ja: 小出公園
+      - code: "15370011"
+        name_ja: 信濃川やすらぎ堤緑地
+      - code: "15370014"
+        name_ja: 新潟県立鳥屋野潟公園
+      - code: "15370029"
+        name_ja: 新江の桜並木
+      - code: "15370002"
+        name_ja: 新発田城址公園
+      - code: "15370023"
+        name_ja: 新穂ダム
+      - code: "15370024"
+        name_ja: 真野公園
+      - code: "15370020"
+        name_ja: 赤坂山公園
+      - code: "15370012"
+        name_ja: 村松公園
+      - code: "15370015"
+        name_ja: 大河津分水桜並木
+      - code: "15370010"
+        name_ja: 天朝山公園
+      - code: "15370006"
+        name_ja: 湯沢中央公園
+      - code: "15370028"
+        name_ja: 白山公園
+      - code: "15370022"
+        name_ja: 美山公園
+      - code: "15370009"
+        name_ja: 瓢湖水きん公園
+      - code: "15370004"
+        name_ja: 弁天潟風致公園
+      - code: "15370016"
+        name_ja: 弥彦公園(早咲き)
+      - code: "15370017"
+        name_ja: 弥彦公園(遅咲き)
+      - code: "15370021"
+        name_ja: 悠久山公園
+      - code: "15370005"
+        name_ja: 鷲ノ木桜遊歩道公園
+  - id: 16
+    name_ja: 富山県
+    name_en: Toyama
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=16
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=16&sort_code=0
+    api_area_name: 富山県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "16370025"
+        name_ja: あさひ舟川　春の四重奏
+      - code: "16370004"
+        name_ja: 安居寺公園
+      - code: "16370020"
+        name_ja: 下条川千本桜
+      - code: "16370006"
+        name_ja: 岸渡川堤
+      - code: "16370012"
+        name_ja: 宮野運動公園
+      - code: "16370021"
+        name_ja: 県民公園太閤山ランド
+      - code: "16370010"
+        name_ja: 呉羽山公園
+      - code: "16370007"
+        name_ja: 高岡古城公園
+      - code: "16370017"
+        name_ja: 小矢部川公園千本桜
+      - code: "16370023"
+        name_ja: 庄川水記念公園
+      - code: "16370013"
+        name_ja: 松川公園
+      - code: "16370014"
+        name_ja: 城ケ山公園
+      - code: "16370005"
+        name_ja: 城山公園
+      - code: "16370024"
+        name_ja: 城址公園
+      - code: "16370011"
+        name_ja: 常西用水　プロムナード公園
+      - code: "16370008"
+        name_ja: 朝日山公園
+      - code: "16370018"
+        name_ja: 東洋紡(株)　富山事業所　庄川工場
+      - code: "16370001"
+        name_ja: 内川周辺の桜並木
+      - code: "16370002"
+        name_ja: 富山県常願寺川公園
+      - code: "16370015"
+        name_ja: 富山県中央植物園
+      - code: "16370022"
+        name_ja: 富山市民俗民芸村
+      - code: "16370019"
+        name_ja: 薬勝寺池公園
+  - id: 17
+    name_ja: 石川県
+    name_en: Ishikawa
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=17
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=17&sort_code=0
+    api_area_name: 石川県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "17370020"
+        name_ja: コミュニティ&スポーツ公園　桜づつみ
+      - code: "17370006"
+        name_ja: 芦城公園
+      - code: "17370010"
+        name_ja: 一本松公園
+      - code: "17370008"
+        name_ja: 卯辰山公園
+      - code: "17370016"
+        name_ja: 加賀市中央公園
+      - code: "17370018"
+        name_ja: 河北潟の桜並木　母恋街道
+      - code: "17370004"
+        name_ja: 熊坂川河畔
+      - code: "17370017"
+        name_ja: 犀川緑地
+      - code: "17370012"
+        name_ja: 志乎・桜の里　古墳公園
+      - code: "17370015"
+        name_ja: 七尾市希望の丘公園
+      - code: "17370009"
+        name_ja: 小丸山城址公園
+      - code: "17370001"
+        name_ja: 石川県農林総合研究センター　林業試験場　樹木公園
+      - code: "17370005"
+        name_ja: 大堰宮公園
+      - code: "17370007"
+        name_ja: 特別名勝兼六園
+      - code: "17370011"
+        name_ja: 能登さくら駅(能登鹿島駅)
+      - code: "17370013"
+        name_ja: 能登町柳田植物公園
+  - id: 18
+    name_ja: 福井県
+    name_en: Fukui
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=18
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=18&sort_code=0
+    api_area_name: 福井県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "18370001"
+        name_ja: 越前陶芸村
+      - code: "18370006"
+        name_ja: 花筐公園
+      - code: "18370010"
+        name_ja: 丸岡城(霞ヶ城公園)
+      - code: "18370011"
+        name_ja: 亀山公園
+      - code: "18370022"
+        name_ja: 吉野瀬川の桜並木
+      - code: "18370005"
+        name_ja: 金崎宮(金ヶ崎公園)
+      - code: "18370002"
+        name_ja: 九頭竜湖
+      - code: "18370009"
+        name_ja: 勝山弁天桜(九頭竜河畔)
+      - code: "18370004"
+        name_ja: 小浜公園
+      - code: "18370020"
+        name_ja: 松岡公園
+      - code: "18370007"
+        name_ja: 西山公園
+      - code: "18370008"
+        name_ja: 足羽山公園
+      - code: "18370017"
+        name_ja: 足羽川桜並木
+      - code: "18370018"
+        name_ja: 北潟湖畔公園(ソメイヨシノ)
+      - code: "18370015"
+        name_ja: 万葉の里　味真野苑
+  - id: 19
+    name_ja: 山梨県
+    name_en: Yamanashi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=19
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=19&sort_code=0
+    api_area_name: 山梨県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "19370012"
+        name_ja: さくら温泉通り
+      - code: "19370006"
+        name_ja: 河口湖畔(北岸)
+      - code: "19370010"
+        name_ja: 岩殿山丸山公園
+      - code: "19370005"
+        name_ja: 金櫻神社
+      - code: "19370002"
+        name_ja: 山の神千本桜
+      - code: "19370017"
+        name_ja: 山高神代桜
+      - code: "19370021"
+        name_ja: 新倉山浅間公園(忠霊塔付近)
+      - code: "19370009"
+        name_ja: 甚六桜
+      - code: "19370011"
+        name_ja: 清春芸術村
+      - code: "19370001"
+        name_ja: 大善寺
+      - code: "19370016"
+        name_ja: 大法師公園
+      - code: "19370020"
+        name_ja: 八代ふるさと公園
+      - code: "19370013"
+        name_ja: 冨士御室浅間神社
+      - code: "19370014"
+        name_ja: 武田神社
+      - code: "19370004"
+        name_ja: 舞鶴城公園
+      - code: "19370003"
+        name_ja: 妙了寺の桜
+  - id: 20
+    name_ja: 長野県
+    name_en: Nagano
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=20
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=20&sort_code=0
+    api_area_name: 長野県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "20370016"
+        name_ja: 稲荷山公園
+      - code: "20370015"
+        name_ja: 茨城牧場　長野支場
+      - code: "20370039"
+        name_ja: 鵜山の桜並木
+      - code: "20370013"
+        name_ja: 雲上殿
+      - code: "20370023"
+        name_ja: 臥竜公園
+      - code: "20370044"
+        name_ja: 軽井沢プリンスホテル
+      - code: "20370041"
+        name_ja: 戸倉宿キティパーク
+      - code: "20370012"
+        name_ja: 戸倉上山田温泉　城山の桜
+      - code: "20370025"
+        name_ja: 光城山
+      - code: "20370027"
+        name_ja: 弘法山古墳
+      - code: "20370038"
+        name_ja: 荒神山公園
+      - code: "20370022"
+        name_ja: 高島公園
+      - code: "20370018"
+        name_ja: 国宝松本城
+      - code: "20370006"
+        name_ja: 春日公園
+      - code: "20370010"
+        name_ja: 小諸城址懐古園
+      - code: "20370026"
+        name_ja: 松代城跡
+      - code: "20370019"
+        name_ja: 松本市城山公園
+      - code: "20370011"
+        name_ja: 上田城跡公園
+      - code: "20370021"
+        name_ja: 水月公園
+      - code: "20370030"
+        name_ja: 千人塚公園
+      - code: "20370033"
+        name_ja: 泰阜村総合グラウンド
+      - code: "20370007"
+        name_ja: 大西公園
+      - code: "20370020"
+        name_ja: 大町公園
+      - code: "20370014"
+        name_ja: 長野市城山公園
+      - code: "20370004"
+        name_ja: 東山夢の郷公園(夢農場)
+      - code: "20370017"
+        name_ja: 飯山城址
+      - code: "20370037"
+        name_ja: 飯山西大滝ダム
+      - code: "20370031"
+        name_ja: 飯田市大宮通り桜並木
+      - code: "20370003"
+        name_ja: 福王寺
+      - code: "20370045"
+        name_ja: 平尾山公園
+  - id: 21
+    name_ja: 岐阜県
+    name_en: Gifu
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=21
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=21&sort_code=0
+    api_area_name: 岐阜県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "21370009"
+        name_ja: 愛宕公園
+      - code: "21370042"
+        name_ja: 伊吹山ドライブウェイ
+      - code: "21370037"
+        name_ja: 奥矢作湖畔桜並木
+      - code: "21370018"
+        name_ja: 霞間ヶ渓
+      - code: "21370027"
+        name_ja: 椛の湖
+      - code: "21370005"
+        name_ja: 関川の桜
+      - code: "21370007"
+        name_ja: 関善光寺の桜
+      - code: "21370031"
+        name_ja: 岐阜公園長良川堤
+      - code: "21370006"
+        name_ja: 吉田川の桜
+      - code: "21370014"
+        name_ja: 宮川緑地公園
+      - code: "21370024"
+        name_ja: 恵那峡
+      - code: "21370013"
+        name_ja: 江名子川沿い
+      - code: "21370003"
+        name_ja: 寺尾ヶ原千本桜公園
+      - code: "21370010"
+        name_ja: 城山公園
+      - code: "21370039"
+        name_ja: 新境川堤「百十郎桜」
+      - code: "21370030"
+        name_ja: 水道山
+      - code: "21370020"
+        name_ja: 生活環境保全林みたけの森
+      - code: "21370034"
+        name_ja: 相川水辺公園
+      - code: "21370033"
+        name_ja: 谷汲山華厳寺
+      - code: "21370016"
+        name_ja: 中橋周辺
+      - code: "21370012"
+        name_ja: 東照宮(旧松泰寺)境内
+      - code: "21370043"
+        name_ja: 南山公園
+      - code: "21370026"
+        name_ja: 苗木さくら公園
+      - code: "21370004"
+        name_ja: 平田公園と大榑川桜並木
+      - code: "21370001"
+        name_ja: 墨俣一夜城址・犀川堤
+      - code: "21370025"
+        name_ja: 本町公園
+      - code: "21370032"
+        name_ja: 養老公園
+  - id: 22
+    name_ja: 静岡県
+    name_en: Shizuoka
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=22
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=22&sort_code=0
+    api_area_name: 静岡県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "22370003"
+        name_ja: さくらの里
+      - code: "22370029"
+        name_ja: はままつフラワーパーク
+      - code: "22370031"
+        name_ja: はままつフルーツパーク時之栖
+      - code: "22370009"
+        name_ja: 粟ヶ岳
+      - code: "22370013"
+        name_ja: 伊豆高原桜並木
+      - code: "22370025"
+        name_ja: 奥山公園
+      - code: "22370004"
+        name_ja: 黄金崎公園
+      - code: "22370020"
+        name_ja: 家山の桜トンネル
+      - code: "22370033"
+        name_ja: 河原町旧堤防
+      - code: "22370017"
+        name_ja: 御殿山
+      - code: "22370016"
+        name_ja: 香貫山
+      - code: "22370035"
+        name_ja: 高松神社
+      - code: "22370043"
+        name_ja: 桜堤遊歩道
+      - code: "22370015"
+        name_ja: 三嶋大社
+      - code: "22370027"
+        name_ja: 狩野川さくら公園
+      - code: "22370005"
+        name_ja: 秋葉ダム千本桜
+      - code: "22370008"
+        name_ja: 駿河平自然公園
+      - code: "22370002"
+        name_ja: 駿府城公園
+      - code: "22370036"
+        name_ja: 勝間田川沿い
+      - code: "22370006"
+        name_ja: 小國神社
+      - code: "22370018"
+        name_ja: 静岡浅間神社
+      - code: "22370039"
+        name_ja: 千歳川沿い
+      - code: "22370044"
+        name_ja: 船明ダム周辺
+      - code: "22370007"
+        name_ja: 太田川桜堤
+      - code: "22370012"
+        name_ja: 大石寺
+      - code: "22370021"
+        name_ja: 鳥羽山公園
+      - code: "22370019"
+        name_ja: 藤枝金比羅山
+      - code: "22370037"
+        name_ja: 那賀川沿いの桜並木
+      - code: "22370014"
+        name_ja: 日本平
+      - code: "22370023"
+        name_ja: 浜松城公園
+      - code: "22370024"
+        name_ja: 富士仏舎利塔平和公園
+      - code: "22370026"
+        name_ja: 冨士霊園
+      - code: "22370022"
+        name_ja: 法多山
+      - code: "22370010"
+        name_ja: 木屋川堤
+      - code: "22370028"
+        name_ja: 蓮華寺池公園
+  - id: 23
+    name_ja: 愛知県
+    name_en: Aichi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=23
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=23&sort_code=0
+    api_area_name: 愛知県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "23370036"
+        name_ja: 愛・地球博記念公園(モリコロパーク)
+      - code: "23370018"
+        name_ja: 愛知県民の森
+      - code: "23370034"
+        name_ja: 愛知県緑化センター
+      - code: "23370013"
+        name_ja: 岡崎公園
+      - code: "23370023"
+        name_ja: 音羽川堤
+      - code: "23370010"
+        name_ja: 岩屋堂公園
+      - code: "23370039"
+        name_ja: 亀城公園
+      - code: "23370015"
+        name_ja: 犬山市木曽川河畔一帯
+      - code: "23370008"
+        name_ja: 五条川の桜並木(大口町)
+      - code: "23370032"
+        name_ja: 荒子川公園
+      - code: "23370035"
+        name_ja: 佐奈川堤
+      - code: "23370030"
+        name_ja: 桜ネックレス
+      - code: "23370017"
+        name_ja: 桜淵公園
+      - code: "23370028"
+        name_ja: 山崎川　四季の道
+      - code: "23370007"
+        name_ja: 諏訪の桜トンネル
+      - code: "23370020"
+        name_ja: 水源公園
+      - code: "23370011"
+        name_ja: 清洲公園
+      - code: "23370006"
+        name_ja: 大山緑地
+      - code: "23370019"
+        name_ja: 鶴舞公園
+      - code: "23370014"
+        name_ja: 定光寺公園
+      - code: "23370025"
+        name_ja: 東谷山フルーツパーク
+      - code: "23370027"
+        name_ja: 博物館　明治村
+      - code: "23370041"
+        name_ja: 八事山　興正寺
+      - code: "23370003"
+        name_ja: 尾張大國霊神社(国府宮)
+      - code: "23370037"
+        name_ja: 名古屋城
+      - code: "23370038"
+        name_ja: 明石公園(愛知県)
+      - code: "23370016"
+        name_ja: 木曽川堤
+  - id: 24
+    name_ja: 三重県
+    name_en: Mie
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=24
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=24&sort_code=0
+    api_area_name: 三重県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "24370014"
+        name_ja: 亀山公園
+      - code: "24370003"
+        name_ja: 宮リバー度会パーク
+      - code: "24370011"
+        name_ja: 宮川堤
+      - code: "24370001"
+        name_ja: 君ヶ野ダム公園
+      - code: "24370007"
+        name_ja: 松坂城跡(松阪公園)
+      - code: "24370013"
+        name_ja: 上野公園
+      - code: "24370002"
+        name_ja: 大滝峡自然公園
+      - code: "24370017"
+        name_ja: 鳥羽城跡　城山公園
+      - code: "24370009"
+        name_ja: 津偕楽公園
+      - code: "24370010"
+        name_ja: 田丸城跡
+      - code: "24370006"
+        name_ja: 湯の山温泉
+      - code: "24370005"
+        name_ja: 鍋田川堤桜並木
+  - id: 25
+    name_ja: 滋賀県
+    name_en: Shiga
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=25
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=25&sort_code=0
+    api_area_name: 滋賀県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "25370004"
+        name_ja: 「国史跡」釈迦山　百済寺(湖東三山)
+      - code: "25370031"
+        name_ja: じゅらくの里
+      - code: "25370027"
+        name_ja: にごり池自然公園
+      - code: "25370013"
+        name_ja: びわ湖バレイ
+      - code: "25370030"
+        name_ja: 鮎河千本桜(うぐい川)
+      - code: "25370028"
+        name_ja: 雨山文化運動公園
+      - code: "25370022"
+        name_ja: 永源寺ダム(ダム周辺道路)
+      - code: "25370019"
+        name_ja: 延命公園
+      - code: "25370012"
+        name_ja: 海津大崎
+      - code: "25370002"
+        name_ja: 金剛輪寺
+      - code: "25370025"
+        name_ja: 古城山(水口岡山城跡)
+      - code: "25370003"
+        name_ja: 湖東三山　西明寺
+      - code: "25370007"
+        name_ja: 虎御前山
+      - code: "25370009"
+        name_ja: 国宝・彦根城
+      - code: "25370014"
+        name_ja: 三井寺(園城寺)
+      - code: "25370018"
+        name_ja: 滋賀県立近江富士花緑公園
+      - code: "25370033"
+        name_ja: 鹿深夢の森
+      - code: "25370032"
+        name_ja: 水口城跡
+      - code: "25370006"
+        name_ja: 清瀧寺徳源院
+      - code: "25370008"
+        name_ja: 醒井養鱒場
+      - code: "25370011"
+        name_ja: 石山寺
+      - code: "25370016"
+        name_ja: 南郷水産センター
+      - code: "25370034"
+        name_ja: 日野川ダム(ソメイヨシノ)
+      - code: "25370035"
+        name_ja: 日野川ダム(ヤエザクラ)
+      - code: "25370023"
+        name_ja: 風車街道
+      - code: "25370015"
+        name_ja: 豊公園(長浜城)
+      - code: "25370029"
+        name_ja: 野川の桜
+  - id: 26
+    name_ja: 京都府
+    name_en: Kyoto
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=26&sort_code=0
+    api_area_name: 京都府
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "26370043"
+        name_ja: わち山野草の森
+      - code: "26370021"
+        name_ja: 宇治橋上流
+      - code: "26370062"
+        name_ja: 宇治市植物公園
+      - code: "26370026"
+        name_ja: 円山公園
+      - code: "26370052"
+        name_ja: 賀茂別雷神社(上賀茂神社)
+      - code: "26370034"
+        name_ja: 笠置山自然公園(木津川畔)
+      - code: "26370010"
+        name_ja: 勧修寺
+      - code: "26370051"
+        name_ja: 旧嵯峨御所　大本山大覚寺(お堂エリア)
+      - code: "26370065"
+        name_ja: 旧嵯峨御所　大本山大覚寺(大沢池エリア)
+      - code: "26370056"
+        name_ja: 虚空蔵谷川
+      - code: "26370053"
+        name_ja: 京都府・緑化センター
+      - code: "26370049"
+        name_ja: 京都府立関西文化学術研究都市記念公園(けいはんな記念公園)
+      - code: "26370013"
+        name_ja: 京都府立植物園
+      - code: "26370038"
+        name_ja: 共楽公園
+      - code: "26370002"
+        name_ja: 玉川の桜
+      - code: "26370033"
+        name_ja: 元離宮二条城(桜の園)
+      - code: "26370063"
+        name_ja: 元離宮二条城(清流園)
+      - code: "26370040"
+        name_ja: 向日神社
+      - code: "26370055"
+        name_ja: 鴻ノ巣山
+      - code: "26370025"
+        name_ja: 三千院門跡
+      - code: "26370050"
+        name_ja: 三段池公園
+      - code: "26370036"
+        name_ja: 傘松公園
+      - code: "26370031"
+        name_ja: 山科疏水
+      - code: "26370048"
+        name_ja: 山城総合運動公園
+      - code: "26370047"
+        name_ja: 浄土宗　総本山知恩院
+      - code: "26370067"
+        name_ja: 仁和寺(ソメイヨシノ)
+      - code: "26370011"
+        name_ja: 清水寺
+      - code: "26370020"
+        name_ja: 石清水八幡宮
+      - code: "26370005"
+        name_ja: 善峯寺
+      - code: "26370059"
+        name_ja: 大内峠一字観公園
+      - code: "26370008"
+        name_ja: 醍醐寺
+      - code: "26370001"
+        name_ja: 地蔵禅院
+      - code: "26370045"
+        name_ja: 長岡天満宮八条ヶ池の桜
+      - code: "26370023"
+        name_ja: 哲学の道
+      - code: "26370030"
+        name_ja: 天龍寺
+      - code: "26370046"
+        name_ja: 二尊院
+      - code: "26370066"
+        name_ja: 馬坂川桜並木
+      - code: "26370014"
+        name_ja: 八瀬周辺
+      - code: "26370060"
+        name_ja: 板列公園
+      - code: "26370009"
+        name_ja: 毘沙門堂
+      - code: "26370035"
+        name_ja: 福知山城
+      - code: "26370012"
+        name_ja: 平安神宮　神苑
+      - code: "26370064"
+        name_ja: 平等院
+      - code: "26370039"
+        name_ja: 峯空園
+      - code: "26370044"
+        name_ja: 法金剛院
+      - code: "26370061"
+        name_ja: 木屋町通り
+      - code: "26370057"
+        name_ja: 木津川畔
+      - code: "26370006"
+        name_ja: 淀川河川公園背割堤地区
+      - code: "26370017"
+        name_ja: 嵐山
+      - code: "26370028"
+        name_ja: 龍安寺
+      - code: "26370007"
+        name_ja: 和らぎの道(七谷川沿い)
+  - id: 27
+    name_ja: 大阪府
+    name_en: Osaka
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=27
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=27&sort_code=0
+    api_area_name: 大阪府
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "27370003"
+        name_ja: ひらかたパーク
+      - code: "27370014"
+        name_ja: 永楽ダム・永楽ダム周辺
+      - code: "27370017"
+        name_ja: 岸和田城周辺
+      - code: "27370023"
+        name_ja: 狭山池公園
+      - code: "27370015"
+        name_ja: 元茨木川緑地
+      - code: "27370008"
+        name_ja: 五月山公園
+      - code: "27370016"
+        name_ja: 弘川寺
+      - code: "27370012"
+        name_ja: 黒鳥山公園
+      - code: "27370013"
+        name_ja: 山中渓の桜
+      - code: "27370010"
+        name_ja: 慈光苑
+      - code: "27370021"
+        name_ja: 勝運の寺　勝尾寺
+      - code: "27370009"
+        name_ja: 星田妙見宮(妙見河原)
+      - code: "27370002"
+        name_ja: 摂津峡公園
+      - code: "27370019"
+        name_ja: 総本山　四天王寺
+      - code: "27370001"
+        name_ja: 大井関公園
+      - code: "27370025"
+        name_ja: 大阪ダイヤモンド地区
+      - code: "27370007"
+        name_ja: 大阪城公園
+      - code: "27370026"
+        name_ja: 大阪府立花の文化園
+      - code: "27370022"
+        name_ja: 大阪府立近つ飛鳥博物館
+      - code: "27370011"
+        name_ja: 大仙公園
+      - code: "27370024"
+        name_ja: 念法眞教　総本山　金剛寺
+      - code: "27370004"
+        name_ja: 万博記念公園
+      - code: "27370006"
+        name_ja: 毛馬桜之宮公園
+      - code: "27370005"
+        name_ja: 辯天宗冥應寺
+  - id: 28
+    name_ja: 兵庫県
+    name_en: Hyogo
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=28
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=28&sort_code=0
+    api_area_name: 兵庫県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "28370025"
+        name_ja: であい公園
+      - code: "28370036"
+        name_ja: ユニトピアささやま
+      - code: "28370028"
+        name_ja: 伊丹・瑞ケ池
+      - code: "28370018"
+        name_ja: 音水湖(引原ダム)周辺
+      - code: "28370031"
+        name_ja: 高蔵寺
+      - code: "28370033"
+        name_ja: 黒井川の桜堤
+      - code: "28370009"
+        name_ja: 鹿島・扇平自然公園
+      - code: "28370015"
+        name_ja: 篠山城跡・王地山公園
+      - code: "28370023"
+        name_ja: 夙川公園(夙川河川敷緑地)
+      - code: "28370016"
+        name_ja: 出石城跡
+      - code: "28370017"
+        name_ja: 城崎温泉
+      - code: "28370004"
+        name_ja: 神戸市立王子動物園
+      - code: "28370030"
+        name_ja: 神戸総合運動公園
+      - code: "28370021"
+        name_ja: 神武山公園
+      - code: "28370006"
+        name_ja: 須磨浦公園
+      - code: "28370034"
+        name_ja: 須磨寺
+      - code: "28370020"
+        name_ja: 水分れ公園
+      - code: "28370019"
+        name_ja: 清滝小学校
+      - code: "28370012"
+        name_ja: 赤穂東御崎公園
+      - code: "28370024"
+        name_ja: 川代公園
+      - code: "28370032"
+        name_ja: 倉町野
+      - code: "28370002"
+        name_ja: 丹波市立　大杉ダム自然公園
+      - code: "28370008"
+        name_ja: 日岡山公園
+      - code: "28370014"
+        name_ja: 播磨中央公園　桜の園
+      - code: "28370027"
+        name_ja: 白毫寺
+      - code: "28370010"
+        name_ja: 姫路城
+      - code: "28370035"
+        name_ja: 氷上さくら公園
+      - code: "28370007"
+        name_ja: 兵庫県立明石公園
+      - code: "28370001"
+        name_ja: 宝塚(花のみち)
+      - code: "28370003"
+        name_ja: 立雲峡
+      - code: "28370011"
+        name_ja: 龍野公園
+  - id: 29
+    name_ja: 奈良県
+    name_en: Nara
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=29
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=29&sort_code=0
+    api_area_name: 奈良県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "29370021"
+        name_ja: 安倍文殊院
+      - code: "29370032"
+        name_ja: 下北山スポーツ公園
+      - code: "29370001"
+        name_ja: 葛城山麓公園
+      - code: "29370004"
+        name_ja: 金峯山寺蔵王堂
+      - code: "29370013"
+        name_ja: 郡山城跡
+      - code: "29370005"
+        name_ja: 月ヶ瀬湖畔
+      - code: "29370028"
+        name_ja: 高田千本桜
+      - code: "29370015"
+        name_ja: 三室山
+      - code: "29370014"
+        name_ja: 信貴山　朝護孫子寺
+      - code: "29370016"
+        name_ja: 石上神宮外苑公園
+      - code: "29370003"
+        name_ja: 帯解寺
+      - code: "29370029"
+        name_ja: 大神神社
+      - code: "29370026"
+        name_ja: 談山神社
+      - code: "29370020"
+        name_ja: 長谷寺
+      - code: "29370011"
+        name_ja: 奈良公園(ソメイヨシノ)
+      - code: "29370033"
+        name_ja: 奈良公園(ヤエザクラ)
+      - code: "29370022"
+        name_ja: 平城宮跡
+      - code: "29370006"
+        name_ja: 法隆寺境内
+      - code: "29370025"
+        name_ja: 柳生芳徳禅寺周辺
+  - id: 30
+    name_ja: 和歌山県
+    name_en: Wakayama
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=30
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=30&sort_code=0
+    api_area_name: 和歌山県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "30370005"
+        name_ja: 紀三井寺
+      - code: "30370011"
+        name_ja: 亀池公園
+      - code: "30370009"
+        name_ja: 根來寺
+      - code: "30370001"
+        name_ja: 七川ダム湖畔
+      - code: "30370013"
+        name_ja: 丹鶴城公園(新宮城跡)
+      - code: "30370007"
+        name_ja: 動鳴気峡
+      - code: "30370006"
+        name_ja: 道成寺
+      - code: "30370010"
+        name_ja: 粉河寺
+      - code: "30370008"
+        name_ja: 平草原公園
+      - code: "30370004"
+        name_ja: 和歌の浦(高津子山)
+      - code: "30370003"
+        name_ja: 和歌山城
+  - id: 31
+    name_ja: 鳥取県
+    name_en: Tottori
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=31
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=31&sort_code=0
+    api_area_name: 鳥取県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "31370009"
+        name_ja: 境台場公園
+      - code: "31370016"
+        name_ja: 湖山池青島公園
+      - code: "31370003"
+        name_ja: 鹿野城跡公園
+      - code: "31370011"
+        name_ja: 城山公園・法勝寺川土手
+      - code: "31370004"
+        name_ja: 打吹公園
+      - code: "31370001"
+        name_ja: 袋川桜土手
+      - code: "31370012"
+        name_ja: 智頭河畔　桜土手
+      - code: "31370002"
+        name_ja: 鳥取城跡・久松公園
+      - code: "31370017"
+        name_ja: 萩原桜並木
+      - code: "31370010"
+        name_ja: 湊山公園
+      - code: "31370007"
+        name_ja: 名和公園
+      - code: "31370018"
+        name_ja: 木ノ根神社
+  - id: 32
+    name_ja: 島根県
+    name_en: Shimane
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=32
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=32&sort_code=0
+    api_area_name: 島根県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "32370003"
+        name_ja: チェリーロード
+      - code: "32370019"
+        name_ja: 愛宕山公園
+      - code: "32370004"
+        name_ja: 安来公園
+      - code: "32370011"
+        name_ja: 一の谷公園
+      - code: "32370008"
+        name_ja: 玉湯川堤
+      - code: "32370014"
+        name_ja: 金比羅山公園
+      - code: "32370001"
+        name_ja: 江津丸子山公園
+      - code: "32370020"
+        name_ja: 三刀屋川河川敷
+      - code: "32370012"
+        name_ja: 出雲大社神苑
+      - code: "32370007"
+        name_ja: 松江城山公園
+      - code: "32370015"
+        name_ja: 城山公園
+      - code: "32370005"
+        name_ja: 清水公園
+      - code: "32370009"
+        name_ja: 斐伊川堤防桜並木
+      - code: "32370021"
+        name_ja: 野坂の桜ロード
+      - code: "32370017"
+        name_ja: 鷲原公園
+  - id: 33
+    name_ja: 岡山県
+    name_en: Okayama
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=33&sort_code=0
+    api_area_name: 岡山県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "33370014"
+        name_ja: RSKバラ園
+      - code: "33370029"
+        name_ja: がいせん桜
+      - code: "33370001"
+        name_ja: クリエイト菅谷　キャンプ&リゾート
+      - code: "33370017"
+        name_ja: みやま公園
+      - code: "33370006"
+        name_ja: レイクパーク加茂
+      - code: "33370027"
+        name_ja: 井原堤
+      - code: "33370041"
+        name_ja: 岡山いこいの村(中庭)
+      - code: "33370012"
+        name_ja: 岡山後楽園
+      - code: "33370013"
+        name_ja: 岡山市半田山植物園
+      - code: "33370009"
+        name_ja: 丸山公園
+      - code: "33370008"
+        name_ja: 金川桜並木
+      - code: "33370019"
+        name_ja: 古城山公園
+      - code: "33370022"
+        name_ja: 紺屋川美観地区
+      - code: "33370004"
+        name_ja: 三休公園
+      - code: "33370032"
+        name_ja: 種松山公園西園地
+      - code: "33370025"
+        name_ja: 酒津公園
+      - code: "33370021"
+        name_ja: 城山公園
+      - code: "33370018"
+        name_ja: 早島公園
+      - code: "33370028"
+        name_ja: 相原公園
+      - code: "33370038"
+        name_ja: 池田動物園
+      - code: "33370020"
+        name_ja: 津山城(鶴山公園)
+      - code: "33370031"
+        name_ja: 鶴形山公園
+      - code: "33370010"
+        name_ja: 特別史跡旧閑谷学校
+      - code: "33370002"
+        name_ja: 美甘宿場桜
+      - code: "33370024"
+        name_ja: 芳嵐園
+      - code: "33370015"
+        name_ja: 由加山蓮台寺
+      - code: "33370042"
+        name_ja: 羅生門さくら公園
+      - code: "33370036"
+        name_ja: 里見川周辺緑地
+  - id: 34
+    name_ja: 広島県
+    name_en: Hiroshima
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=34
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=34&sort_code=0
+    api_area_name: 広島県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "34370028"
+        name_ja: さぎしま　塔の峰千本桜
+      - code: "34370023"
+        name_ja: ちゅーピーパーク
+      - code: "34370021"
+        name_ja: ピースリーホームバンブー総合公園
+      - code: "34370014"
+        name_ja: 音戸の瀬戸公園
+      - code: "34370001"
+        name_ja: 亀居公園
+      - code: "34370018"
+        name_ja: 宮島
+      - code: "34370004"
+        name_ja: 桂公園
+      - code: "34370027"
+        name_ja: 御調八幡宮
+      - code: "34370026"
+        name_ja: 広島市植物公園
+      - code: "34370019"
+        name_ja: 江波山公園
+      - code: "34370003"
+        name_ja: 住吉堤防敷
+      - code: "34370025"
+        name_ja: 庄原上野公園
+      - code: "34370022"
+        name_ja: 真道山千本桜
+      - code: "34370010"
+        name_ja: 世羅　甲山ふれあいの里
+      - code: "34370013"
+        name_ja: 正福寺山公園
+      - code: "34370008"
+        name_ja: 千光寺公園
+      - code: "34370020"
+        name_ja: 八千代湖周辺
+      - code: "34370016"
+        name_ja: 比治山公園
+      - code: "34370017"
+        name_ja: 尾関山公園
+      - code: "34370012"
+        name_ja: 筆影山山頂展望台
+      - code: "34370006"
+        name_ja: 福山城公園
+      - code: "34370015"
+        name_ja: 平和記念公園
+  - id: 35
+    name_ja: 山口県
+    name_en: Yamaguchi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=35&sort_code=0
+    api_area_name: 山口県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "35370022"
+        name_ja: TOSOHPARK永源山
+      - code: "35370032"
+        name_ja: アデリーホシパーク
+      - code: "35370018"
+        name_ja: ときわ公園
+      - code: "35370005"
+        name_ja: 一の坂川
+      - code: "35370007"
+        name_ja: 王子山公園
+      - code: "35370030"
+        name_ja: 火の山公園
+      - code: "35370035"
+        name_ja: 花岡八幡宮
+      - code: "35370027"
+        name_ja: 笠山
+      - code: "35370031"
+        name_ja: 吉香公園
+      - code: "35370011"
+        name_ja: 錦帯橋周辺
+      - code: "35370004"
+        name_ja: 功山寺
+      - code: "35370008"
+        name_ja: 厚狭川河畔
+      - code: "35370016"
+        name_ja: 香山公園
+      - code: "35370033"
+        name_ja: 今富ダム公園
+      - code: "35370036"
+        name_ja: 若山公園
+      - code: "35370013"
+        name_ja: 周南市徳山動物園
+      - code: "35370010"
+        name_ja: 秋吉台家族旅行村
+      - code: "35370015"
+        name_ja: 切戸川
+      - code: "35370026"
+        name_ja: 川島堤
+      - code: "35370029"
+        name_ja: 戦場ヶ原公園
+      - code: "35370034"
+        name_ja: 大原湖(佐波川ダム)
+      - code: "35370021"
+        name_ja: 大寧寺
+      - code: "35370012"
+        name_ja: 田布施川
+      - code: "35370017"
+        name_ja: 徳佐八幡宮
+      - code: "35370019"
+        name_ja: 日和山公園
+      - code: "35370020"
+        name_ja: 萩城跡指月公園
+      - code: "35370003"
+        name_ja: 防府天満宮
+      - code: "35370014"
+        name_ja: 毛利氏庭園
+      - code: "35370024"
+        name_ja: 竜王山公園
+      - code: "35370028"
+        name_ja: 老の山公園
+  - id: 36
+    name_ja: 徳島県
+    name_en: Tokushima
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=36&sort_code=0
+    api_area_name: 徳島県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "36370002"
+        name_ja: 於安パーク
+      - code: "36370012"
+        name_ja: 丸山公園
+      - code: "36370011"
+        name_ja: 金竜山農村公園
+      - code: "36370006"
+        name_ja: 諏訪公園
+      - code: "36370004"
+        name_ja: 西部公園
+      - code: "36370008"
+        name_ja: 津峯公園
+      - code: "36370003"
+        name_ja: 眉山公園
+      - code: "36370005"
+        name_ja: 妙見山公園
+  - id: 37
+    name_ja: 香川県
+    name_en: Kagawa
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=37
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=37&sort_code=0
+    api_area_name: 香川県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "37370003"
+        name_ja: 丸亀城
+      - code: "37370007"
+        name_ja: 金刀比羅宮
+      - code: "37370001"
+        name_ja: 県立琴弾公園
+      - code: "37370015"
+        name_ja: 県立桃陵公園
+      - code: "37370013"
+        name_ja: 戸川ダム公園
+      - code: "37370010"
+        name_ja: 公渕森林公園
+      - code: "37370008"
+        name_ja: 史跡高松城跡玉藻公園
+      - code: "37370011"
+        name_ja: 紫雲出山
+      - code: "37370014"
+        name_ja: 水辺公園
+      - code: "37370002"
+        name_ja: 朝日山森林公園
+      - code: "37370005"
+        name_ja: 特別名勝　栗林公園
+      - code: "37370009"
+        name_ja: 飯山総合運動公園
+      - code: "37370012"
+        name_ja: 不動の滝カントリーパーク
+  - id: 38
+    name_ja: 愛媛県
+    name_en: Ehime
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=38
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=38&sort_code=0
+    api_area_name: 愛媛県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "38370012"
+        name_ja: すすきヶ原入野公園
+      - code: "38370007"
+        name_ja: 開山公園
+      - code: "38370015"
+        name_ja: 桜三里
+      - code: "38370002"
+        name_ja: 三島公園
+      - code: "38370005"
+        name_ja: 松山城
+      - code: "38370003"
+        name_ja: 翠波高原
+      - code: "38370004"
+        name_ja: 西山興隆寺
+      - code: "38370018"
+        name_ja: 川之江城
+      - code: "38370014"
+        name_ja: 滝の宮公園
+      - code: "38370006"
+        name_ja: 道後公園
+      - code: "38370017"
+        name_ja: 南楽園(外堀)
+      - code: "38370013"
+        name_ja: 冨士山公園
+      - code: "38370016"
+        name_ja: 武丈公園
+  - id: 39
+    name_ja: 高知県
+    name_en: Kochi
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=39
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=39&sort_code=0
+    api_area_name: 高知県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "39370008"
+        name_ja: 鮎乃瀬公園
+      - code: "39370012"
+        name_ja: 為松公園
+      - code: "39370015"
+        name_ja: 家地川公園
+      - code: "39370005"
+        name_ja: 久礼大坂谷川沿い
+      - code: "39370004"
+        name_ja: 鏡野公園
+      - code: "39370010"
+        name_ja: 高知県立五台山公園
+      - code: "39370001"
+        name_ja: 高知公園
+      - code: "39370011"
+        name_ja: 宿毛天満宮
+      - code: "39370003"
+        name_ja: 牧野公園
+  - id: 40
+    name_ja: 福岡県
+    name_en: Fukuoka
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=40
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=40&sort_code=0
+    api_area_name: 福岡県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "40370009"
+        name_ja: ABURAYAMA　FUKUOKA
+      - code: "40370011"
+        name_ja: 安部山公園
+      - code: "40370019"
+        name_ja: 宇美公園
+      - code: "40370003"
+        name_ja: 延命公園
+      - code: "40370015"
+        name_ja: 駕与丁公園
+      - code: "40370031"
+        name_ja: 垣生公園
+      - code: "40370001"
+        name_ja: 甘木公園
+      - code: "40370025"
+        name_ja: 久留米城跡
+      - code: "40370034"
+        name_ja: 御笠川の桜並木
+      - code: "40370027"
+        name_ja: 高塔山公園
+      - code: "40370022"
+        name_ja: 四王寺林道・岩屋城跡
+      - code: "40370005"
+        name_ja: 秋月杉の馬場通り
+      - code: "40370004"
+        name_ja: 勝山公園(小倉城)
+      - code: "40370028"
+        name_ja: 勝盛公園
+      - code: "40370026"
+        name_ja: 昭和池公園
+      - code: "40370032"
+        name_ja: 清水山
+      - code: "40370002"
+        name_ja: 西公園
+      - code: "40370033"
+        name_ja: 草場川の桜並木
+      - code: "40370023"
+        name_ja: 太宰府市民の森
+      - code: "40370021"
+        name_ja: 大宰府政庁跡
+      - code: "40370007"
+        name_ja: 大将陣公園
+      - code: "40370035"
+        name_ja: 呑山観音寺
+      - code: "40370010"
+        name_ja: 日向神ダムの「千本桜」
+      - code: "40370008"
+        name_ja: 白野江植物公園
+      - code: "40370013"
+        name_ja: 発心公園
+      - code: "40370020"
+        name_ja: 福岡城跡・舞鶴公園
+      - code: "40370024"
+        name_ja: 宝満宮　竈門神社
+      - code: "40370006"
+        name_ja: 和布刈公園
+  - id: 41
+    name_ja: 佐賀県
+    name_en: Saga
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=41
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=41&sort_code=0
+    api_area_name: 佐賀県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "41370002"
+        name_ja: 旭ヶ岡公園
+      - code: "41370004"
+        name_ja: 鏡山
+      - code: "41370013"
+        name_ja: 御船山楽園
+      - code: "41370006"
+        name_ja: 桜街道
+      - code: "41370001"
+        name_ja: 小城公園
+      - code: "41370010"
+        name_ja: 西渓公園
+      - code: "41370005"
+        name_ja: 唐津城(舞鶴公園)
+      - code: "41370007"
+        name_ja: 陶山神社
+      - code: "41370012"
+        name_ja: 日の隈公園
+      - code: "41370009"
+        name_ja: 名護屋城跡
+  - id: 42
+    name_ja: 長崎県
+    name_en: Nagasaki
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=42
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=42&sort_code=0
+    api_area_name: 長崎県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "42370011"
+        name_ja: とけん山公園
+      - code: "42370004"
+        name_ja: 亀岡公園
+      - code: "42370007"
+        name_ja: 橘公園
+      - code: "42370006"
+        name_ja: 権現山展望公園
+      - code: "42370010"
+        name_ja: 原城跡
+      - code: "42370002"
+        name_ja: 西海橋公園
+      - code: "42370005"
+        name_ja: 大山公園
+      - code: "42370001"
+        name_ja: 大村公園(二重馬場)
+      - code: "42370003"
+        name_ja: 島原城
+      - code: "42370009"
+        name_ja: 眉山治山祈念公苑
+  - id: 43
+    name_ja: 熊本県
+    name_en: Kumamoto
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=43
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=43&sort_code=0
+    api_area_name: 熊本県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "43370010"
+        name_ja: 岡岳公園
+      - code: "43370007"
+        name_ja: 菊池公園
+      - code: "43370019"
+        name_ja: 熊本城公園二の丸広場
+      - code: "43370015"
+        name_ja: 健軍自衛隊通り
+      - code: "43370017"
+        name_ja: 桜ヶ丘グラウンド
+      - code: "43370001"
+        name_ja: 市房ダム湖周辺
+      - code: "43370006"
+        name_ja: 蛇ヶ谷公園
+      - code: "43370008"
+        name_ja: 人吉城跡
+      - code: "43370013"
+        name_ja: 大津山公園
+      - code: "43370018"
+        name_ja: 田原坂公園
+      - code: "43370002"
+        name_ja: 湯の児チェリーライン
+      - code: "43370005"
+        name_ja: 立岡自然公園
+  - id: 44
+    name_ja: 大分県
+    name_en: Oita
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=44&sort_code=0
+    api_area_name: 大分県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "44370015"
+        name_ja: サンリオキャラクターパーク　ハーモニーランド
+      - code: "44370013"
+        name_ja: 臼杵城址
+      - code: "44370001"
+        name_ja: 岡城跡
+      - code: "44370009"
+        name_ja: 亀山公園
+      - code: "44370007"
+        name_ja: 上野ヶ丘墓地公園
+      - code: "44370002"
+        name_ja: 城下公園
+      - code: "44370012"
+        name_ja: 大分県護国神社のソメイヨシノ
+      - code: "44370004"
+        name_ja: 大分城址公園　外苑
+      - code: "44370011"
+        name_ja: 平和市民公園
+  - id: 45
+    name_ja: 宮崎県
+    name_en: Miyazaki
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=45
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=45&sort_code=0
+    api_area_name: 宮崎県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "45370017"
+        name_ja: 綾馬事公苑
+      - code: "45370014"
+        name_ja: 延岡城跡　城山公園
+      - code: "45370019"
+        name_ja: 遠見山
+      - code: "45370013"
+        name_ja: 花立公園
+      - code: "45370015"
+        name_ja: 観音池公園
+      - code: "45370009"
+        name_ja: 久峰総合公園
+      - code: "45370007"
+        name_ja: 串間市総合運動公園
+      - code: "45370003"
+        name_ja: 垂水公園
+      - code: "45370008"
+        name_ja: 西都原古墳群
+      - code: "45370006"
+        name_ja: 竹香園
+      - code: "45370011"
+        name_ja: 天岩戸の湯
+      - code: "45370018"
+        name_ja: 舞鶴公園(宮崎県)
+      - code: "45370002"
+        name_ja: 母智丘公園
+  - id: 46
+    name_ja: 鹿児島県
+    name_en: Kagoshima
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=46
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=46&sort_code=0
+    api_area_name: 鹿児島県
+    api_update_datetime: 2026-02-26T00:00:00+09:00
+    spots:
+      - code: "46370019"
+        name_ja: かいもん山麓ふれあい公園
+      - code: "46370007"
+        name_ja: 花瀬自然公園
+      - code: "46370017"
+        name_ja: 魚見岳
+      - code: "46370016"
+        name_ja: 寺山いこいの広場
+      - code: "46370012"
+        name_ja: 鹿児島市平川動物公園
+      - code: "46370006"
+        name_ja: 城山公園
+      - code: "46370002"
+        name_ja: 大隅湖　アジア・太平洋農村研修村　民族館
+      - code: "46370004"
+        name_ja: 忠元公園
+      - code: "46370018"
+        name_ja: 霧島市溝辺上床運動公園
+      - code: "46370005"
+        name_ja: 霧島神宮
+      - code: "46370014"
+        name_ja: 霧島神話の里公園
+      - code: "46370001"
+        name_ja: 名勝　仙巌園
+  - id: 47
+    name_ja: 沖縄県
+    name_en: Okinawa
+    page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=47
+    api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=47&sort_code=0
+    error:
+      status: 400
+      body: '{"result_list": {"error": "1001", "message": "common error"}}'
+      message: HTTP 400
+    spots: []
