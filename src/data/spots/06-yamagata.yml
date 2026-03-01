@@ -23,6 +23,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/3501/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370003"
     links:
       weathernews: https://weathernews.jp/sakura/spot/3501/
     collections:
@@ -56,6 +59,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E7%83%8F%E5%B8%BD%E5%AD%90%E5%B1%B1%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370007"
     links:
       weathernews: https://weathernews.jp/sakura/spot/63/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307011/
@@ -86,6 +92,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/62/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370010"
     links:
       weathernews: https://weathernews.jp/sakura/spot/62/
     top:
@@ -115,6 +124,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/35002/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370014"
     links:
       weathernews: https://weathernews.jp/sakura/spot/35002/
     collections:
@@ -140,6 +152,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/59/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370013"
     links:
       weathernews: https://weathernews.jp/sakura/spot/59/
     top:
@@ -166,6 +181,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/3509/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370022"
     links:
       weathernews: https://weathernews.jp/sakura/spot/3509/
     top:
@@ -192,6 +210,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/3519/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370029"
     links:
       weathernews: https://weathernews.jp/sakura/spot/3519/
     collections:
@@ -215,6 +236,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/64/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370006"
     links:
       weathernews: https://weathernews.jp/sakura/spot/64/
     top:
@@ -267,6 +291,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/35001/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370025"
     links:
       weathernews: https://weathernews.jp/sakura/spot/35001/
     collections:
@@ -290,6 +317,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/35003/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370031"
     links:
       weathernews: https://weathernews.jp/sakura/spot/35003/
     collections:
@@ -319,6 +349,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370016"
     links:
       weathernews: https://weathernews.jp/sakura/spot/57/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307113/
@@ -349,6 +382,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/60/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370011"
     links:
       weathernews: https://weathernews.jp/sakura/spot/60/
     top:
@@ -375,6 +411,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/58/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370018"
     links:
       weathernews: https://weathernews.jp/sakura/spot/58/
     top:
@@ -401,6 +440,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/61/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
+        code: "06370021"
     links:
       weathernews: https://weathernews.jp/sakura/spot/61/
     top:

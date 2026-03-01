@@ -22,6 +22,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8103/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370022"
+        name: TOSOHPARK永源山
     links:
       weathernews: https://weathernews.jp/sakura/spot/8103/
     collections:
@@ -45,6 +49,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81009/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370032"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81009/
     collections:
@@ -74,6 +81,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%9B%A4%E5%85%AC%E5%9C%92_(%E5%AE%87%E9%83%A8%E5%B8%82)
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370018"
     links:
       weathernews: https://weathernews.jp/sakura/spot/432/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307003/
@@ -104,6 +114,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8104/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370005"
+        name: 一の坂川
     links:
       weathernews: https://weathernews.jp/sakura/spot/8104/
     top:
@@ -131,6 +145,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81007/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370007"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81007/
     collections:
@@ -156,6 +173,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/431/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370030"
     links:
       weathernews: https://weathernews.jp/sakura/spot/431/
     top:
@@ -183,6 +203,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81003/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370035"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81003/
     collections:
@@ -205,6 +228,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81012/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370027"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81012/
     collections:
@@ -234,6 +260,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%A6%99%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370031"
+        name: 吉香公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/384/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300275/
@@ -292,6 +322,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/8105/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307041/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370004"
     links:
       weathernews: https://weathernews.jp/sakura/spot/8105/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307041/
@@ -317,6 +350,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8118/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370008"
     links:
       weathernews: https://weathernews.jp/sakura/spot/8118/
     top:
@@ -343,6 +379,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/434/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370016"
     links:
       weathernews: https://weathernews.jp/sakura/spot/434/
     collections:
@@ -366,6 +405,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81008/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370033"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81008/
     collections:
@@ -389,6 +431,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81010/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370036"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81010/
     collections:
@@ -414,6 +459,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81006/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370010"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81006/
     collections:
@@ -462,6 +510,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8117/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370015"
+        name: 切戸川
     links:
       weathernews: https://weathernews.jp/sakura/spot/8117/
     collections:
@@ -485,6 +537,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81011/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370026"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81011/
     collections:
@@ -508,6 +563,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8120/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370029"
     links:
       weathernews: https://weathernews.jp/sakura/spot/8120/
     top:
@@ -557,6 +615,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8126/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370034"
+        name: 大原湖(佐波川ダム)
     links:
       weathernews: https://weathernews.jp/sakura/spot/8126/
     collections:
@@ -584,6 +646,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/8119/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307103/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370021"
     links:
       weathernews: https://weathernews.jp/sakura/spot/8119/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307103/
@@ -611,6 +676,10 @@ spots:
         url: https://weathernews.jp/sakura/spot/8125/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307116/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370012"
+        name: 田布施川
     links:
       weathernews: https://weathernews.jp/sakura/spot/8125/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307116/
@@ -637,6 +706,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8101/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370017"
     links:
       weathernews: https://weathernews.jp/sakura/spot/8101/
     top:
@@ -666,6 +738,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/429/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370019"
     links:
       weathernews: https://weathernews.jp/sakura/spot/429/
     collections:
@@ -689,6 +764,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/435/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370020"
     links:
       weathernews: https://weathernews.jp/sakura/spot/435/
     top:
@@ -718,6 +796,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370003"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81004/
     collections:
@@ -745,6 +826,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/81005/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307154/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370014"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81005/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307154/
@@ -770,6 +854,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/430/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370024"
     links:
       weathernews: https://weathernews.jp/sakura/spot/430/
     top:
@@ -821,6 +908,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/81002/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
+        code: "35370028"
     links:
       weathernews: https://weathernews.jp/sakura/spot/81002/
     collections:

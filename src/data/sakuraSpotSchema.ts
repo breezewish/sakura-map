@@ -19,6 +19,8 @@ export const sakuraPhotoSchema = z.object({
 export const sakuraSourceSchema = z.object({
   url: z.string().min(1),
   label: z.string().min(1).optional(),
+  name: z.string().min(1).optional(),
+  code: z.string().min(1).optional(),
 })
 
 export const sakuraSpotInPrefectureFileSchema = z.object({

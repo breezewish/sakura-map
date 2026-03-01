@@ -46,6 +46,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/46004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370024"
+        name: アネスト岩田ターンパイク箱根　御所の入駐車場付近
     links:
       weathernews: https://weathernews.jp/sakura/spot/46004/
     collections:
@@ -61,8 +65,7 @@ spots:
     trees: 17
     species_ja:
       - ソメイヨシノ
-    description_ja:
-      公園の対岸にフランス人技師ヴェルニーが建設に貢献した旧横須賀製鉄所跡地が臨める、フランス庭園様式を取り入れた公園です。園内のテレワークセンター
+    description_ja: 公園の対岸にフランス人技師ヴェルニーが建設に貢献した旧横須賀製鉄所跡地が臨める、フランス庭園様式を取り入れた公園です。園内のテレワークセンター
       コルセールは窓の外の桜を眺めながらお仕事ができる絶景のロケーションです。また、よこすか近代遺産ミュージアム
       ティボディエ邸の入口も桜が咲き誇るスポットです。
     photos:
@@ -243,6 +246,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E8%A1%A3%E7%AC%A0%E5%B1%B1%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370010"
     links:
       weathernews: https://weathernews.jp/sakura/spot/143/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307009/
@@ -317,6 +323,10 @@ spots:
         url: https://weathernews.jp/sakura/spot/4620/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak2200216/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370029"
+        name: 横浜市立金沢動物園(金沢自然公園)
     links:
       weathernews: https://weathernews.jp/sakura/spot/4620/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak2200216/
@@ -342,6 +352,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/152/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370020"
+        name: 寒川神社の表参道と境内
     links:
       weathernews: https://weathernews.jp/sakura/spot/152/
     collections:
@@ -393,6 +407,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/46002/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307038/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370026"
     links:
       weathernews: https://weathernews.jp/sakura/spot/46002/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307038/
@@ -490,6 +507,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/46001/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370028"
     links:
       weathernews: https://weathernews.jp/sakura/spot/46001/
     top:
@@ -518,6 +538,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/46003/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370031"
+        name: 恩賜箱根公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/46003/
     collections:
@@ -643,6 +667,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/144/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300875/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370011"
     links:
       weathernews: https://weathernews.jp/sakura/spot/144/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300875/
@@ -722,6 +749,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370008"
     links:
       weathernews: https://weathernews.jp/sakura/spot/140/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307061/
@@ -774,6 +804,10 @@ spots:
     sources:
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307069/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370004"
+        name: 城山公園
     links:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307069/
     collections:
@@ -805,6 +839,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E4%B8%89%E3%83%84%E6%B1%A0%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370016"
+        name: 県立三ツ池公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/4623/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307036/
@@ -885,6 +923,10 @@ spots:
         url: https://weathernews.jp/sakura/spot/46052/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307076/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370032"
+        name: 生田緑地
     links:
       weathernews: https://weathernews.jp/sakura/spot/46052/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307076/
@@ -953,8 +995,7 @@ spots:
     trees: 30
     species_ja:
       - ソメイヨシノ
-    description_ja:
-      泉の森は、引地川の源である大和水源地を中心に広がる、大和市の自然の核として位置づけられている公園です。
+    description_ja: 泉の森は、引地川の源である大和水源地を中心に広がる、大和市の自然の核として位置づけられている公園です。
       樹林地と水辺空間が特色ある生態系を形づくり、1年間で約900種の植物や約50種の野鳥をはじめ、生き物たちが生息しやすい環境を育んでいます。四季折々、生き物の自然観察に最適な場所です。園内の自然情報が集まる「自然観察センター・しらかしのいえ」、野外炊事が楽しめる「泉の森ふれあいキャンプ場」、江戸時代の古民家2棟を移築・復原した「郷土民家園」の3施設があり、約42haの園地を含め、様々な楽しみ方ができる緑地となっています。
     photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/46028/1770511450_s.webp
@@ -1022,8 +1063,7 @@ spots:
       - 太白
       - 大漁桜
       - 陽光）
-    description_ja:
-      64品種の桜(全ての桜は銘板付き）が、幅約9ｍの緑道1600mの左右に、間近に見られます。
+    description_ja: 64品種の桜(全ての桜は銘板付き）が、幅約9ｍの緑道1600mの左右に、間近に見られます。
       9月下旬の十月桜から1月下旬の寒桜や4月下旬の奈良の八重桜まで、７か月にわたって順次開花が続きます。桜のほかにも様々な花木が植えられ、一年を通じて楽しめる平たんな遊歩道です。地元の有志で設立された「NPO法人
       さくら百華の道」 によって現在、維持管理されています。
     photos:
@@ -1104,6 +1144,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/4619/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370025"
     links:
       weathernews: https://weathernews.jp/sakura/spot/4619/
     top:
@@ -1191,8 +1234,7 @@ spots:
     trees: 600
     species_ja:
       - ソメイヨシノ
-    description_ja:
-      大庭城山は室町時代中頃に本格的な築城がなされ、小田原北条氏の時代に廃城になったと伝えられています。
+    description_ja: 大庭城山は室町時代中頃に本格的な築城がなされ、小田原北条氏の時代に廃城になったと伝えられています。
       大庭城址公園は、城址としての歴史性とともに緑の山として古くから住民に親しまれてきた公園です。現在も周囲を多くの樹木に囲まれ、緑豊かな公園であるとともに公園の中央区域には多くのサクラが植栽され、開花時期には花見客で大変賑わいます。
     photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2024-04-07/82704136.jpg
@@ -1251,6 +1293,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/142/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370009"
     links:
       weathernews: https://weathernews.jp/sakura/spot/142/
     top:
@@ -1275,6 +1320,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/46069/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370018"
     links:
       weathernews: https://weathernews.jp/sakura/spot/46069/
     collections:
@@ -1349,6 +1397,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/141/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300889/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370030"
     links:
       weathernews: https://weathernews.jp/sakura/spot/141/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1300889/
@@ -1376,6 +1427,10 @@ spots:
         url: https://weathernews.jp/sakura/spot/4601/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307131/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370001"
+        name: 飯山白山森林公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/4601/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307131/
@@ -1450,6 +1505,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/150/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
+        code: "14370019"
     links:
       weathernews: https://weathernews.jp/sakura/spot/150/
     collections:

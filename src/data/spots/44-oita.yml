@@ -86,8 +86,7 @@ spots:
       - ヨウコウザクラ
       - シダレザクラ
       - ヒガンザクラ
-    description_ja:
-      ハローキティをはじめ、サンリオキャラクターに会える屋外型テーマパーク。園内各所には、ソメイヨシノやヨウコウザクラ、シダレザクラなど、約500本の桜が彩るお花見スポットがある。またアトラクション「ハーモニートレイン」や「スカイジェット」は桜のトンネルを通り、毎年人気を博しています。（C）2026
+    description_ja: ハローキティをはじめ、サンリオキャラクターに会える屋外型テーマパーク。園内各所には、ソメイヨシノやヨウコウザクラ、シダレザクラなど、約500本の桜が彩るお花見スポットがある。またアトラクション「ハーモニートレイン」や「スカイジェット」は桜のトンネルを通り、毎年人気を博しています。（C）2026
       SANRIO CO., LTD.
     photos:
       - url: https://gvs.weathernews.jp/s/sakura/szyimg/2026/8311/1769077114_s.webp
@@ -96,6 +95,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8311/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370015"
+        name: サンリオキャラクターパーク　ハーモニーランド
     links:
       weathernews: https://weathernews.jp/sakura/spot/8311/
     collections:
@@ -221,6 +224,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%9F%8E_(%E8%B1%8A%E5%BE%8C%E5%9B%BD)
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370001"
     links:
       weathernews: https://weathernews.jp/sakura/spot/455/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307013/
@@ -252,6 +258,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/505/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370009"
     links:
       weathernews: https://weathernews.jp/sakura/spot/505/
     collections:
@@ -351,6 +360,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/83003/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370002"
     links:
       weathernews: https://weathernews.jp/sakura/spot/83003/
     collections:
@@ -445,6 +457,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8301/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370004"
+        name: 大分城址公園　外苑
     links:
       weathernews: https://weathernews.jp/sakura/spot/8301/
     top:
@@ -633,6 +649,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/454/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370011"
     links:
       weathernews: https://weathernews.jp/sakura/spot/454/
     top:

@@ -23,6 +23,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/71004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+        code: "36370002"
     links:
       weathernews: https://weathernews.jp/sakura/spot/71004/
     top:
@@ -132,6 +135,9 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+        code: "36370004"
     links:
       weathernews: https://weathernews.jp/sakura/spot/7106/
       wikipedia: https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E5%85%AC%E5%9C%92
@@ -160,6 +166,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/7118/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+        code: "36370008"
     links:
       weathernews: https://weathernews.jp/sakura/spot/7118/
     top:
@@ -206,8 +215,7 @@ spots:
     species_ja:
       - ソメイヨシノ
       - 八重桜
-    description_ja:
-      城山の山頂、静かな林間にそびえる白亜の天守閣は町のどこからも眺められ、威容を誇っています。
+    description_ja: 城山の山頂、静かな林間にそびえる白亜の天守閣は町のどこからも眺められ、威容を誇っています。
       また、付近には、テニスコートや遊歩道などがあり、家族連れの憩いの場となっています。また、城山は町内の桜の名所でもあり、毎年、3月下旬〜4月上旬の桜の季節には、大勢の花見客らでにぎわいます。※日和佐城は現在閉館中です。
     photos:
       - url: https://smtgvs.cdn.weathernews.jp/smart/report/image/2022-04-02/61687085.jpg
@@ -245,6 +253,9 @@ spots:
         url: https://weathernews.jp/sakura/spot/406/
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307135/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+        code: "36370003"
     links:
       weathernews: https://weathernews.jp/sakura/spot/406/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307135/
@@ -273,6 +284,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/7109/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
+        code: "36370005"
     links:
       weathernews: https://weathernews.jp/sakura/spot/7109/
     top:
