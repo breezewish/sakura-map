@@ -49,29 +49,29 @@ function pickPredictionDates(raw, ctx) {
 }
 
 function normalizePredict(raw, ctx) {
-  if (!isPlainObject(raw)) return null
+  assert(isPlainObject(raw), `Invalid ${ctx} (expected object)`)
 
-  const hasSourceKey = predictSourceKeys.some((k) => k in raw)
-  if (hasSourceKey) {
-    for (const key of Object.keys(raw)) {
-      assert(
-        predictSourceKeys.includes(key),
-        `Unexpected key "${key}" in ${ctx}`,
-      )
-    }
+  const rawKeys = Object.keys(raw)
+  assert(rawKeys.length > 0, `Empty ${ctx}`)
 
-    const sources = {}
-    for (const sourceKey of predictSourceKeys) {
-      if (raw[sourceKey] == null) continue
-      const dates = pickPredictionDates(raw[sourceKey], `${ctx}.${sourceKey}`)
-      if (dates) sources[sourceKey] = dates
-    }
-
-    return Object.keys(sources).length > 0 ? sources : null
+  for (const key of rawKeys) {
+    assert(predictSourceKeys.includes(key), `Unexpected key "${key}" in ${ctx}`)
   }
 
-  const legacyDates = pickPredictionDates(raw, ctx)
-  return legacyDates ? { weathernews: legacyDates } : null
+  const sources = {}
+  for (const sourceKey of predictSourceKeys) {
+    if (!(sourceKey in raw)) continue
+    assert(
+      isPlainObject(raw[sourceKey]),
+      `Invalid ${ctx}.${sourceKey} (expected object)`,
+    )
+
+    const dates = pickPredictionDates(raw[sourceKey], `${ctx}.${sourceKey}`)
+    assert(dates, `Empty ${ctx}.${sourceKey}`)
+    sources[sourceKey] = dates
+  }
+
+  return sources
 }
 
 async function tryReadSortedYmlFiles(dir) {
@@ -132,13 +132,17 @@ async function buildSpotsDatasetJson() {
       )
       predictedSpotIdToFile.set(spot.id, fileName)
 
-      if (!isPlainObject(spot.predict)) continue
+      if (!("predict" in spot)) continue
+      assert(
+        isPlainObject(spot.predict),
+        `Invalid spot.predict in ${fileName} (${spot.id})`,
+      )
 
       const predict = normalizePredict(
         spot.predict,
         `spot.predict in ${fileName} (${spot.id})`,
       )
-      if (predict) predictedBySpotId.set(spot.id, predict)
+      predictedBySpotId.set(spot.id, predict)
     }
   }
 
