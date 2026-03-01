@@ -43,7 +43,9 @@
 
 ### 花期预测信息展示（初开 / 满开 / 樱吹雪）
 
-当景点存在预测数据（`SakuraSpot.predict`）时，Popover 卡片内会展示结构化的「花期预测」面板：
+`SakuraSpot.predict` 按预测来源分组（例如 `predict.weathernews`；未来可能增加 `predict.jmc`）。
+
+当景点存在 Weathernews 预测数据（`SakuraSpot.predict.weathernews`）时，Popover 卡片内会展示结构化的「花期预测」面板：
 
 - 顶部显示预测更新时间（`forecasted_at`）；缺失时显示「更新日期未知」
 - 下方以三列卡片分别展示：初开（`first_bloom_date`）、满开（`full_bloom_date`）、樱吹雪（`fubuki_date`）
