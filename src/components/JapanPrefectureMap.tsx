@@ -106,7 +106,15 @@ export function JapanPrefectureMap({
   initialPinnedSpotId,
   onSelectedSpotChange,
 }: JapanPrefectureMapProps) {
-  const { ref, size } = useElementSize<HTMLDivElement>()
+  const { ref: elementSizeRef, size } = useElementSize<HTMLDivElement>()
+  const containerRef = useRef<HTMLDivElement | null>(null)
+  const setContainerRef = useCallback(
+    (node: HTMLDivElement | null) => {
+      containerRef.current = node
+      elementSizeRef(node)
+    },
+    [elementSizeRef],
+  )
   const [loadState, setLoadState] = useState<LoadState>({ status: "loading" })
   const zoomLayerRef = useRef<SVGGElement | null>(null)
   const markerCanvasRef = useRef<HTMLCanvasElement | null>(null)
@@ -850,7 +858,7 @@ export function JapanPrefectureMap({
   ])
 
   return (
-    <div ref={ref} className="relative h-full w-full bg-[#F4F5F7]">
+    <div ref={setContainerRef} className="relative h-full w-full bg-[#F4F5F7]">
       {loadState.status === "loading" && (
         <div className="absolute inset-0 grid place-items-center text-sm text-muted-foreground">
           正在加载日本地图…
@@ -920,7 +928,15 @@ export function JapanPrefectureMap({
             onPointerDownOutside={(event) => {
               const target = event.detail.originalEvent.target
               if (!(target instanceof Node)) return
-              if (!markerCanvasRef.current?.contains(target)) return
+
+              const canvas = markerCanvasRef.current
+              if (canvas?.contains(target)) {
+                event.preventDefault()
+                return
+              }
+
+              if (pinnedSpotIdRef.current == null) return
+              if (!containerRef.current?.contains(target)) return
               event.preventDefault()
             }}
             onPointerEnter={() => {
@@ -1207,7 +1223,7 @@ export function JapanPrefectureMap({
           onClick={() => {
             if (!zoomLayerRef.current) return
 
-            if (selectedSpotRef.current) {
+            if (selectedSpotRef.current && pinnedSpotIdRef.current == null) {
               onSelectedSpotChangeRef.current?.(null)
               selectedSpotRef.current = null
             }
@@ -1229,7 +1245,7 @@ export function JapanPrefectureMap({
           onClick={() => {
             if (!zoomLayerRef.current) return
 
-            if (selectedSpotRef.current) {
+            if (selectedSpotRef.current && pinnedSpotIdRef.current == null) {
               onSelectedSpotChangeRef.current?.(null)
               selectedSpotRef.current = null
             }
@@ -1249,7 +1265,7 @@ export function JapanPrefectureMap({
           variant="outline"
           aria-label="重置视图"
           onClick={() => {
-            if (selectedSpotRef.current) {
+            if (selectedSpotRef.current && pinnedSpotIdRef.current == null) {
               onSelectedSpotChangeRef.current?.(null)
               selectedSpotRef.current = null
             }
