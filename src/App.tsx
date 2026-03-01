@@ -1,4 +1,4 @@
-import { lazy, Suspense, useCallback, useEffect, useMemo, useState } from "react"
+import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 import type { SakuraSpotsData } from "@/data/loadSakuraSpots"
 import type { SakuraCollection, SakuraSpot } from "@/data/sakuraSpotSchema"
@@ -36,6 +36,7 @@ function App() {
     if (typeof window === "undefined") return null
     return getPinnedSpotIdFromUrl(new URL(window.location.href))
   })
+  const initialPinnedSpotIdRef = useRef<string | null>(pinnedSpotId)
 
   const [selectedSpot, setSelectedSpot] = useState<SakuraSpot | null>(null)
   const [selectedSpotMode, setSelectedSpotMode] = useState<"hover" | "pinned" | null>(
@@ -155,6 +156,7 @@ function App() {
           spots={filteredSpots}
           selectedSpot={selectedSpot}
           pinnedSpotId={selectedSpotMode === "pinned" ? pinnedSpotId : null}
+          initialPinnedSpotId={initialPinnedSpotIdRef.current}
           onSelectedSpotChange={handleSelectedSpotChange}
         />
       </Suspense>

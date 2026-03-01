@@ -1,6 +1,10 @@
 import { describe, expect, it } from "vitest"
 
-import { zoomTransformAtPoint, type PanZoomTransform } from "@/lib/panZoomTransform"
+import {
+  centerTransformAtPoint,
+  zoomTransformAtPoint,
+  type PanZoomTransform,
+} from "@/lib/panZoomTransform"
 
 function toContentSpace(point: { x: number; y: number }, t: PanZoomTransform) {
   return { x: (point.x - t.x) / t.k, y: (point.y - t.y) / t.k }
@@ -35,3 +39,9 @@ describe("zoomTransformAtPoint", () => {
   })
 })
 
+describe("centerTransformAtPoint", () => {
+  it("centers the given point in the viewport", () => {
+    const t = centerTransformAtPoint({ x: 10, y: 20 }, 4, { width: 100, height: 200 })
+    expect(t).toEqual({ x: 10, y: 20, k: 4 })
+  })
+})

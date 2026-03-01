@@ -13,6 +13,22 @@ function clamp(value: number, min: number, max: number) {
   return Math.min(max, Math.max(min, value))
 }
 
+export function centerTransformAtPoint(
+  point: Point,
+  scale: number,
+  viewport: { width: number; height: number },
+): PanZoomTransform {
+  if (!Number.isFinite(scale) || scale <= 0) {
+    throw new Error(`Invalid scale: ${scale}`)
+  }
+
+  const centerX = viewport.width / 2
+  const centerY = viewport.height / 2
+  const x = centerX - point.x * scale
+  const y = centerY - point.y * scale
+  return { x, y, k: scale }
+}
+
 export function zoomTransformAtPoint(
   transform: PanZoomTransform,
   nextScale: number,

@@ -14,7 +14,7 @@ import {
   SAKURA100_MARKER_COLOR,
   WEATHERNEWS_TOP10_MARKER_COLOR,
 } from "@/lib/spotMarker"
-import { zoomTransformAtPoint } from "@/lib/panZoomTransform"
+import { centerTransformAtPoint, zoomTransformAtPoint } from "@/lib/panZoomTransform"
 import { pickSpotAtPoint, type ProjectedSpotMarker } from "@/lib/spotHitTest"
 import {
   Carousel,
@@ -85,7 +85,6 @@ type PrefectureLabel = {
 }
 
 const MARKER_STROKE_COLOR = "rgba(255,255,255,0.9)"
-const SELECTED_RING_COLOR = "rgba(0,0,0,0.4)"
 const HOVER_RING_COLOR = "rgba(0,0,0,0.25)"
 
 type ProjectedSpot = ProjectedSpotMarker & {
@@ -96,6 +95,7 @@ export type JapanPrefectureMapProps = {
   spots?: SakuraSpot[]
   selectedSpot?: SakuraSpot | null
   pinnedSpotId?: string | null
+  initialPinnedSpotId?: string | null
   onSelectedSpotChange?: (spot: SakuraSpot | null, options?: { pin?: boolean }) => void
 }
 
@@ -103,6 +103,7 @@ export function JapanPrefectureMap({
   spots = [],
   selectedSpot,
   pinnedSpotId,
+  initialPinnedSpotId,
   onSelectedSpotChange,
 }: JapanPrefectureMapProps) {
   const { ref, size } = useElementSize<HTMLDivElement>()
@@ -120,6 +121,7 @@ export function JapanPrefectureMap({
   const selectedSpotRef = useRef<SakuraSpot | null>(null)
   const selectedSpotBasePointRef = useRef<{ x: number; y: number } | null>(null)
   const pinnedSpotIdRef = useRef<string | null>(pinnedSpotId ?? null)
+  const didAutoFocusInitialPinnedSpotRef = useRef(false)
   const projectedSpotsRef = useRef<ProjectedSpot[]>([])
   const prefectureLabelsRef = useRef<PrefectureLabel[]>([])
   const hoveredSpotIdRef = useRef<string | null>(null)
@@ -411,9 +413,9 @@ export function JapanPrefectureMap({
     drawGroup("sakura100", SAKURA100_MARKER_COLOR)
 
     ctx.globalAlpha = 1
-    const selected = selectedSpotRef.current
+    const pinnedId = pinnedSpotIdRef.current
     const hoveredId = hoveredSpotIdRef.current
-    if (hoveredId && selected?.id !== hoveredId) {
+    if (hoveredId && hoveredId !== pinnedId) {
       const marker = markers.find((m) => m.spot.id === hoveredId)
       if (marker) {
         const cx = marker.x * t.k + t.x
@@ -427,8 +429,8 @@ export function JapanPrefectureMap({
         ctx.stroke()
       }
     }
-    if (selected) {
-      const marker = markers.find((m) => m.spot.id === selected.id)
+    if (pinnedId) {
+      const marker = markers.find((m) => m.spot.id === pinnedId)
       if (marker) {
         const cx = marker.x * t.k + t.x
         const cy = marker.y * t.k + t.y
@@ -436,7 +438,12 @@ export function JapanPrefectureMap({
 
         ctx.beginPath()
         ctx.arc(cx, cy, r, 0, Math.PI * 2)
-        ctx.strokeStyle = SELECTED_RING_COLOR
+        ctx.strokeStyle =
+          marker.markerKind === "sakura100"
+            ? SAKURA100_MARKER_COLOR
+            : marker.markerKind === "weathernews_top10"
+              ? WEATHERNEWS_TOP10_MARKER_COLOR
+              : OTHER_MARKER_COLOR
         ctx.lineWidth = 2
         ctx.stroke()
       }
@@ -479,6 +486,40 @@ export function JapanPrefectureMap({
     window.cancelAnimationFrame(transformAnimationRafRef.current)
     transformAnimationRafRef.current = null
   }, [])
+
+  useEffect(() => {
+    if (didAutoFocusInitialPinnedSpotRef.current) return
+    if (!initialPinnedSpotId) return
+    if (!pinnedSpotId) return
+    if (pinnedSpotId !== initialPinnedSpotId) return
+    if (!selectedSpotBasePoint) return
+    if (size.width <= 0 || size.height <= 0) return
+
+    const layer = zoomLayerRef.current
+    if (!layer) return
+
+    const next = centerTransformAtPoint(selectedSpotBasePoint, 4, {
+      width: size.width,
+      height: size.height,
+    })
+    if (!Number.isFinite(next.x) || !Number.isFinite(next.y)) return
+
+    stopTransformAnimation()
+    transformRef.current = next
+    layer.setAttribute("transform", `translate(${next.x} ${next.y}) scale(${next.k})`)
+    drawMarkers()
+    updatePopoverAnchorPosition()
+    didAutoFocusInitialPinnedSpotRef.current = true
+  }, [
+    drawMarkers,
+    initialPinnedSpotId,
+    pinnedSpotId,
+    selectedSpotBasePoint,
+    size.height,
+    size.width,
+    stopTransformAnimation,
+    updatePopoverAnchorPosition,
+  ])
 
   const animateTransform = useCallback(
     (nextTransform: { x: number; y: number; k: number }, options?: { durationMs?: number }) => {
@@ -671,7 +712,7 @@ export function JapanPrefectureMap({
         const moved = Math.abs(dx) + Math.abs(dy)
         if (moved < 3) return
         didPanRef.current = true
-        if (selectedSpotRef.current) {
+        if (selectedSpotRef.current && pinnedSpotIdRef.current == null) {
           onSelectedSpotChangeRef.current?.(null)
           selectedSpotRef.current = null
         }
@@ -876,6 +917,12 @@ export function JapanPrefectureMap({
             align="center"
             sideOffset={12}
             className="w-[420px] overflow-hidden rounded-2xl bg-white p-0 shadow-xl"
+            onPointerDownOutside={(event) => {
+              const target = event.detail.originalEvent.target
+              if (!(target instanceof Node)) return
+              if (!markerCanvasRef.current?.contains(target)) return
+              event.preventDefault()
+            }}
             onPointerEnter={() => {
               popoverHoverRef.current = true
               clearClosePopoverTimeout()
