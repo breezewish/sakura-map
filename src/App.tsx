@@ -15,6 +15,7 @@ import {
   SAKURA100_MARKER_COLOR,
   WEATHERNEWS_TOP10_MARKER_COLOR,
 } from "@/lib/spotMarker"
+import { getPinnedSpotIdFromUrl, getUrlWithPinnedSpotId } from "@/lib/pinnedSpotUrl"
 import { Flower2 } from "lucide-react"
 
 const JapanPrefectureMap = lazy(() =>
@@ -26,11 +27,20 @@ const JapanPrefectureMap = lazy(() =>
 function App() {
   const [data, setData] = useState<SakuraSpotsData | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
+  const [pinnedSpotLinkError, setPinnedSpotLinkError] = useState<string | null>(null)
 
   const [prefectureFilter, setPrefectureFilter] = useState<string>("all")
   const [collectionFilter, setCollectionFilter] = useState<string>("all")
 
+  const [pinnedSpotId, setPinnedSpotId] = useState<string | null>(() => {
+    if (typeof window === "undefined") return null
+    return getPinnedSpotIdFromUrl(new URL(window.location.href))
+  })
+
   const [selectedSpot, setSelectedSpot] = useState<SakuraSpot | null>(null)
+  const [selectedSpotMode, setSelectedSpotMode] = useState<"hover" | "pinned" | null>(
+    null,
+  )
 
   useEffect(() => {
     let cancelled = false
@@ -52,6 +62,33 @@ function App() {
     }
   }, [])
 
+  useEffect(() => {
+    if (typeof window === "undefined") return
+
+    const next = getUrlWithPinnedSpotId(new URL(window.location.href), pinnedSpotId)
+    if (next.toString() === window.location.href) return
+
+    window.history.replaceState(null, "", next)
+  }, [pinnedSpotId])
+
+  useEffect(() => {
+    if (!data) return
+    if (!pinnedSpotId) return
+
+    const spot = data.spots.find((item) => item.id === pinnedSpotId) ?? null
+    if (!spot) {
+      setPinnedSpotLinkError(`链接中的景点不存在：${pinnedSpotId}`)
+      setPinnedSpotId(null)
+      setSelectedSpot(null)
+      setSelectedSpotMode(null)
+      return
+    }
+
+    setPinnedSpotLinkError(null)
+    setSelectedSpot(spot)
+    setSelectedSpotMode("pinned")
+  }, [data, pinnedSpotId])
+
   const filteredSpots = useMemo(() => {
     if (!data) return []
 
@@ -66,18 +103,43 @@ function App() {
     return filterSakuraSpots(data.spots, { prefectureId, collection })
   }, [collectionFilter, data, prefectureFilter])
 
-  const handleSelectedSpotChange = useCallback((spot: SakuraSpot | null) => {
-    setSelectedSpot(spot)
-  }, [])
+  const handleSelectedSpotChange = useCallback(
+    (spot: SakuraSpot | null, options?: { pin?: boolean }) => {
+      if (!spot) {
+        setSelectedSpot(null)
+        setSelectedSpotMode(null)
+        setPinnedSpotId(null)
+        return
+      }
+
+      if (options?.pin) {
+        setPinnedSpotLinkError(null)
+        setSelectedSpot(spot)
+        setSelectedSpotMode("pinned")
+        setPinnedSpotId(spot.id)
+        return
+      }
+
+      setSelectedSpot(spot)
+      setSelectedSpotMode("hover")
+    },
+    [],
+  )
 
   const handleCollectionFilterChange = useCallback((value: string) => {
     setCollectionFilter(value)
     setSelectedSpot(null)
+    setSelectedSpotMode(null)
+    setPinnedSpotId(null)
+    setPinnedSpotLinkError(null)
   }, [])
 
   const handlePrefectureFilterChange = useCallback((value: string) => {
     setPrefectureFilter(value)
     setSelectedSpot(null)
+    setSelectedSpotMode(null)
+    setPinnedSpotId(null)
+    setPinnedSpotLinkError(null)
   }, [])
 
   return (
@@ -92,6 +154,7 @@ function App() {
         <JapanPrefectureMap
           spots={filteredSpots}
           selectedSpot={selectedSpot}
+          pinnedSpotId={selectedSpotMode === "pinned" ? pinnedSpotId : null}
           onSelectedSpotChange={handleSelectedSpotChange}
         />
       </Suspense>
@@ -113,6 +176,10 @@ function App() {
 
         {loadError && (
           <div className="mb-2 text-sm text-destructive">加载数据失败：{loadError}</div>
+        )}
+
+        {pinnedSpotLinkError && (
+          <div className="mb-2 text-sm text-destructive">{pinnedSpotLinkError}</div>
         )}
 
         <div className="mt-4 grid gap-4">

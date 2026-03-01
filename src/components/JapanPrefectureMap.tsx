@@ -95,18 +95,21 @@ type ProjectedSpot = ProjectedSpotMarker & {
 export type JapanPrefectureMapProps = {
   spots?: SakuraSpot[]
   selectedSpot?: SakuraSpot | null
-  onSelectedSpotChange?: (spot: SakuraSpot | null) => void
+  pinnedSpotId?: string | null
+  onSelectedSpotChange?: (spot: SakuraSpot | null, options?: { pin?: boolean }) => void
 }
 
 export function JapanPrefectureMap({
   spots = [],
   selectedSpot,
+  pinnedSpotId,
   onSelectedSpotChange,
 }: JapanPrefectureMapProps) {
   const { ref, size } = useElementSize<HTMLDivElement>()
   const [loadState, setLoadState] = useState<LoadState>({ status: "loading" })
   const zoomLayerRef = useRef<SVGGElement | null>(null)
   const markerCanvasRef = useRef<HTMLCanvasElement | null>(null)
+  const popoverAnchorRef = useRef<HTMLDivElement | null>(null)
   const rafRef = useRef<number | null>(null)
   const transformAnimationRafRef = useRef<number | null>(null)
   const transformRef = useRef<{ x: number; y: number; k: number }>({
@@ -115,6 +118,8 @@ export function JapanPrefectureMap({
     k: 1,
   })
   const selectedSpotRef = useRef<SakuraSpot | null>(null)
+  const selectedSpotBasePointRef = useRef<{ x: number; y: number } | null>(null)
+  const pinnedSpotIdRef = useRef<string | null>(pinnedSpotId ?? null)
   const projectedSpotsRef = useRef<ProjectedSpot[]>([])
   const prefectureLabelsRef = useRef<PrefectureLabel[]>([])
   const hoveredSpotIdRef = useRef<string | null>(null)
@@ -125,6 +130,20 @@ export function JapanPrefectureMap({
   const didPanRef = useRef(false)
   const popoverHoverRef = useRef(false)
   const closePopoverTimeoutRef = useRef<number | null>(null)
+
+  const updatePopoverAnchorPosition = useCallback(() => {
+    const anchor = popoverAnchorRef.current
+    const base = selectedSpotBasePointRef.current
+    if (!anchor || !base) return
+
+    const t = transformRef.current
+    const x = base.x * t.k + t.x
+    const y = base.y * t.k + t.y
+    if (!Number.isFinite(x) || !Number.isFinite(y)) return
+
+    anchor.style.left = `${x}px`
+    anchor.style.top = `${y}px`
+  }, [])
 
   const clearClosePopoverTimeout = useCallback(() => {
     if (closePopoverTimeoutRef.current == null) return
@@ -140,9 +159,11 @@ export function JapanPrefectureMap({
 
   const scheduleClosePopover = useCallback(
     (delayMs = 160) => {
+      if (pinnedSpotIdRef.current != null) return
       if (closePopoverTimeoutRef.current != null) return
       closePopoverTimeoutRef.current = window.setTimeout(() => {
         closePopoverTimeoutRef.current = null
+        if (pinnedSpotIdRef.current != null) return
         if (popoverHoverRef.current) return
         if (hoveredSpotIdRef.current != null) return
         closePopover()
@@ -158,6 +179,10 @@ export function JapanPrefectureMap({
       clearClosePopoverTimeout()
     }
   }, [clearClosePopoverTimeout, selectedSpot])
+
+  useEffect(() => {
+    pinnedSpotIdRef.current = pinnedSpotId ?? null
+  }, [pinnedSpotId])
 
   useEffect(() => {
     return () => {
@@ -239,6 +264,11 @@ export function JapanPrefectureMap({
 
     return { x, y }
   }, [selectedSpotBasePoint])
+
+  useEffect(() => {
+    selectedSpotBasePointRef.current = selectedSpotBasePoint
+    updatePopoverAnchorPosition()
+  }, [selectedSpotBasePoint, updatePopoverAnchorPosition])
 
   const selectedSpotPhotos = selectedSpot?.photos ?? []
 
@@ -475,6 +505,7 @@ export function JapanPrefectureMap({
         const current = transformRef.current
         layer.setAttribute("transform", `translate(${current.x} ${current.y}) scale(${current.k})`)
         drawMarkers()
+        updatePopoverAnchorPosition()
 
         if (t >= 1) {
           transformAnimationRafRef.current = null
@@ -486,7 +517,7 @@ export function JapanPrefectureMap({
 
       transformAnimationRafRef.current = window.requestAnimationFrame(tick)
     },
-    [drawMarkers, stopTransformAnimation],
+    [drawMarkers, stopTransformAnimation, updatePopoverAnchorPosition],
   )
 
   useEffect(() => {
@@ -498,6 +529,7 @@ export function JapanPrefectureMap({
       const t = transformRef.current
       layer.setAttribute("transform", `translate(${t.x} ${t.y}) scale(${t.k})`)
       drawMarkers()
+      updatePopoverAnchorPosition()
     }
 
     const scheduleTransform = () => {
@@ -620,6 +652,7 @@ export function JapanPrefectureMap({
 
         if (hovered) {
           clearClosePopoverTimeout()
+          if (pinnedSpotIdRef.current != null) return
           if (selectedSpotRef.current?.id !== hovered.id) {
             onSelectedSpotChangeRef.current?.(hovered)
             selectedSpotRef.current = hovered
@@ -676,7 +709,15 @@ export function JapanPrefectureMap({
           point,
           { hitSlop: 4 },
         )
-        onSelectedSpotChangeRef.current?.(picked)
+        if (picked) {
+          pinnedSpotIdRef.current = picked.id
+          onSelectedSpotChangeRef.current?.(picked, { pin: true })
+          selectedSpotRef.current = picked
+        } else {
+          pinnedSpotIdRef.current = null
+          onSelectedSpotChangeRef.current?.(null)
+          selectedSpotRef.current = null
+        }
       } else if (panSamples.length >= 2) {
         const now = performance.now()
         const last = panSamples[panSamples.length - 1]
@@ -715,7 +756,7 @@ export function JapanPrefectureMap({
     const handleWheel = (event: WheelEvent) => {
       event.preventDefault()
       stopTransformAnimation()
-      if (selectedSpotRef.current) {
+      if (selectedSpotRef.current && pinnedSpotIdRef.current == null) {
         onSelectedSpotChangeRef.current?.(null)
         selectedSpotRef.current = null
       }
@@ -764,6 +805,7 @@ export function JapanPrefectureMap({
     path,
     scheduleClosePopover,
     stopTransformAnimation,
+    updatePopoverAnchorPosition,
   ])
 
   return (
@@ -815,11 +857,15 @@ export function JapanPrefectureMap({
         <Popover
           open
           onOpenChange={(open) => {
-            if (!open) onSelectedSpotChange?.(null)
+            if (!open) {
+              pinnedSpotIdRef.current = null
+              onSelectedSpotChange?.(null)
+            }
           }}
         >
           <PopoverAnchor asChild>
             <div
+              ref={popoverAnchorRef}
               className="absolute h-1 w-1 -translate-x-1/2 -translate-y-1/2"
               style={{ left: selectedSpotAnchor.x, top: selectedSpotAnchor.y }}
             />
