@@ -127,7 +127,7 @@ async function main() {
       ]
     })
 
-    const spotsOutPath = path.join(outSpotsDir, fileName.replace(/\\.yml$/, ".tsv"))
+    const spotsOutPath = path.join(outSpotsDir, fileName.replace(/\.yml$/, ".tsv"))
     await writeFile(
       spotsOutPath,
       buildTsv({ header: spotsHeaderLines, rows: spotRows }),
@@ -160,7 +160,7 @@ async function main() {
       ]
     })
 
-    const jmcOutPath = path.join(outJmcDir, fileName.replace(/\\.yml$/, ".tsv"))
+    const jmcOutPath = path.join(outJmcDir, fileName.replace(/\.yml$/, ".tsv"))
     await writeFile(jmcOutPath, buildTsv({ header: jmcHeaderLines, rows: jmcRows }), "utf8")
 
     const jmcCodes = new Set(jmcSpots.map((s) => s.code))
@@ -214,4 +214,3 @@ try {
   console.error(error instanceof Error ? error.message : String(error))
   process.exitCode = 1
 }
-
