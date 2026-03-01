@@ -921,6 +921,9 @@ export function JapanPrefectureMap({
                       <div className="flex items-center gap-2 text-xs font-medium text-foreground">
                         <CalendarClock className="h-4 w-4 text-muted-foreground" />
                         花期预测
+                        <span className="inline-flex items-center rounded-full bg-sky-400/15 px-2 py-0.5 text-[11px] font-medium text-sky-800">
+                          Weathernews
+                        </span>
                       </div>
                       <div className="text-[11px] text-muted-foreground">
                         {selectedSpotPredict.forecastedAt
