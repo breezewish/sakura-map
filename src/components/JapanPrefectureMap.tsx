@@ -6,6 +6,7 @@ import type { FeatureCollection, Geometry, GeoJsonProperties } from "geojson"
 
 import { useElementSize } from "@/hooks/useElementSize"
 import type { SakuraSpot } from "@/data/sakuraSpotSchema"
+import type { SakuraSpotPrediction } from "@/data/sakuraSpotPredictSchema"
 import {
   getSpotMarkerRadius,
   isSakura100Spot,
@@ -45,6 +46,22 @@ function formatIsoDateToJaMd(isoDate: string): string {
   if (!Number.isInteger(month) || !Number.isInteger(day)) return isoDate
 
   return `${month}月${day}日`
+}
+
+type FormattedSpotPrediction = {
+  forecastedAt: string | null
+  firstBloom: string | null
+  fullBloom: string | null
+  fubuki: string | null
+}
+
+function formatSpotPrediction(p: SakuraSpotPrediction): FormattedSpotPrediction {
+  return {
+    forecastedAt: p.forecasted_at ? formatIsoDateToJaMd(p.forecasted_at) : null,
+    firstBloom: p.first_bloom_date ? formatIsoDateToJaMd(p.first_bloom_date) : null,
+    fullBloom: p.full_bloom_date ? formatIsoDateToJaMd(p.full_bloom_date) : null,
+    fubuki: p.fubuki_date ? formatIsoDateToJaMd(p.fubuki_date) : null,
+  }
 }
 
 type PrefectureProperties = GeoJsonProperties & {
@@ -225,16 +242,16 @@ export function JapanPrefectureMap({
 
   const selectedSpotPhotos = selectedSpot?.photos ?? []
 
-  const selectedSpotPredict = useMemo(() => {
+  const selectedSpotPredictWeathernews = useMemo(() => {
     const p = selectedSpot?.predict?.weathernews
     if (!p) return null
+    return formatSpotPrediction(p)
+  }, [selectedSpot])
 
-    return {
-      forecastedAt: p.forecasted_at ? formatIsoDateToJaMd(p.forecasted_at) : null,
-      firstBloom: p.first_bloom_date ? formatIsoDateToJaMd(p.first_bloom_date) : null,
-      fullBloom: p.full_bloom_date ? formatIsoDateToJaMd(p.full_bloom_date) : null,
-      fubuki: p.fubuki_date ? formatIsoDateToJaMd(p.fubuki_date) : null,
-    }
+  const selectedSpotPredictJmc = useMemo(() => {
+    const p = selectedSpot?.predict?.jmc
+    if (!p) return null
+    return formatSpotPrediction(p)
   }, [selectedSpot])
 
   const prefecturePaths = useMemo(() => {
@@ -915,72 +932,129 @@ export function JapanPrefectureMap({
                   </div>
                 ) : null}
 
-                {selectedSpotPredict ? (
-                  <div className="rounded-xl bg-muted/30 px-3 py-2.5">
-                    <div className="flex items-center justify-between gap-3">
-                      <div className="flex items-center gap-2 text-xs font-medium text-foreground">
-                        <CalendarClock className="h-4 w-4 text-muted-foreground" />
-                        花期预测
-                        <span className="inline-flex items-center rounded-full bg-sky-400/15 px-2 py-0.5 text-[11px] font-medium text-sky-800">
-                          Weathernews
-                        </span>
-                      </div>
-                      <div className="text-[11px] text-muted-foreground">
-                        {selectedSpotPredict.forecastedAt
-                          ? `更新 ${selectedSpotPredict.forecastedAt}`
-                          : "更新日期未知"}
-                      </div>
-                    </div>
-
-                    <div className="mt-2 grid grid-cols-3 gap-2">
-                      <div className="rounded-lg bg-background/60 px-2 py-2">
-                        <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
-                          <Sprout className="h-3.5 w-3.5 text-emerald-700" />
-                          初开
-                        </div>
-                        <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
-                          {selectedSpotPredict.firstBloom ? (
-                            <span className="tabular-nums text-foreground">
-                              {selectedSpotPredict.firstBloom}
+                {selectedSpotPredictWeathernews || selectedSpotPredictJmc ? (
+                  <div className="grid gap-2">
+                    {selectedSpotPredictWeathernews ? (
+                      <div className="rounded-xl bg-muted/30 px-3 py-2.5">
+                        <div className="flex items-center justify-between gap-3">
+                          <div className="flex items-center gap-2 text-xs font-medium text-foreground">
+                            <CalendarClock className="h-4 w-4 text-muted-foreground" />
+                            花期预测
+                            <span className="inline-flex items-center rounded-full bg-sky-400/15 px-2 py-0.5 text-[11px] font-medium text-sky-800">
+                              Weathernews
                             </span>
-                          ) : (
-                            <span className="text-muted-foreground">—</span>
-                          )}
+                          </div>
+                          <div className="text-[11px] text-muted-foreground">
+                            {selectedSpotPredictWeathernews.forecastedAt
+                              ? `更新 ${selectedSpotPredictWeathernews.forecastedAt}`
+                              : "更新日期未知"}
+                          </div>
                         </div>
-                      </div>
 
-                      <div className="rounded-lg bg-background/60 px-2 py-2">
-                        <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
-                          <Flower2 className="h-3.5 w-3.5 text-pink-700" />
-                          满开
-                        </div>
-                        <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
-                          {selectedSpotPredict.fullBloom ? (
-                            <span className="tabular-nums text-foreground">
-                              {selectedSpotPredict.fullBloom}
-                            </span>
-                          ) : (
-                            <span className="text-muted-foreground">—</span>
-                          )}
-                        </div>
-                      </div>
+                        <div className="mt-2 grid grid-cols-3 gap-2">
+                          <div className="rounded-lg bg-background/60 px-2 py-2">
+                            <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
+                              <Sprout className="h-3.5 w-3.5 text-emerald-700" />
+                              初开
+                            </div>
+                            <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
+                              {selectedSpotPredictWeathernews.firstBloom ? (
+                                <span className="tabular-nums text-foreground">
+                                  {selectedSpotPredictWeathernews.firstBloom}
+                                </span>
+                              ) : (
+                                <span className="text-muted-foreground">—</span>
+                              )}
+                            </div>
+                          </div>
 
-                      <div className="rounded-lg bg-background/60 px-2 py-2">
-                        <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
-                          <Wind className="h-3.5 w-3.5 text-sky-700" />
-                          樱吹雪
-                        </div>
-                        <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
-                          {selectedSpotPredict.fubuki ? (
-                            <span className="tabular-nums text-foreground">
-                              {selectedSpotPredict.fubuki}
-                            </span>
-                          ) : (
-                            <span className="text-muted-foreground">—</span>
-                          )}
+                          <div className="rounded-lg bg-background/60 px-2 py-2">
+                            <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
+                              <Flower2 className="h-3.5 w-3.5 text-pink-700" />
+                              满开
+                            </div>
+                            <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
+                              {selectedSpotPredictWeathernews.fullBloom ? (
+                                <span className="tabular-nums text-foreground">
+                                  {selectedSpotPredictWeathernews.fullBloom}
+                                </span>
+                              ) : (
+                                <span className="text-muted-foreground">—</span>
+                              )}
+                            </div>
+                          </div>
+
+                          <div className="rounded-lg bg-background/60 px-2 py-2">
+                            <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
+                              <Wind className="h-3.5 w-3.5 text-sky-700" />
+                              樱吹雪
+                            </div>
+                            <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
+                              {selectedSpotPredictWeathernews.fubuki ? (
+                                <span className="tabular-nums text-foreground">
+                                  {selectedSpotPredictWeathernews.fubuki}
+                                </span>
+                              ) : (
+                                <span className="text-muted-foreground">—</span>
+                              )}
+                            </div>
+                          </div>
                         </div>
                       </div>
-                    </div>
+                    ) : null}
+
+                    {selectedSpotPredictJmc ? (
+                      <div className="rounded-xl bg-muted/30 px-3 py-2.5">
+                        <div className="flex items-center justify-between gap-3">
+                          <div className="flex items-center gap-2 text-xs font-medium text-foreground">
+                            <CalendarClock className="h-4 w-4 text-muted-foreground" />
+                            花期预测
+                            <span className="inline-flex items-center rounded-full bg-violet-400/15 px-2 py-0.5 text-[11px] font-medium text-violet-800">
+                              JMC
+                            </span>
+                          </div>
+                          <div className="text-[11px] text-muted-foreground">
+                            {selectedSpotPredictJmc.forecastedAt
+                              ? `更新 ${selectedSpotPredictJmc.forecastedAt}`
+                              : "更新日期未知"}
+                          </div>
+                        </div>
+
+                        <div className="mt-2 grid grid-cols-2 gap-2">
+                          <div className="rounded-lg bg-background/60 px-2 py-2">
+                            <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
+                              <Sprout className="h-3.5 w-3.5 text-emerald-700" />
+                              初开
+                            </div>
+                            <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
+                              {selectedSpotPredictJmc.firstBloom ? (
+                                <span className="tabular-nums text-foreground">
+                                  {selectedSpotPredictJmc.firstBloom}
+                                </span>
+                              ) : (
+                                <span className="text-muted-foreground">—</span>
+                              )}
+                            </div>
+                          </div>
+
+                          <div className="rounded-lg bg-background/60 px-2 py-2">
+                            <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
+                              <Flower2 className="h-3.5 w-3.5 text-pink-700" />
+                              满开
+                            </div>
+                            <div className="mt-1 text-sm font-semibold leading-none tracking-tight">
+                              {selectedSpotPredictJmc.fullBloom ? (
+                                <span className="tabular-nums text-foreground">
+                                  {selectedSpotPredictJmc.fullBloom}
+                                </span>
+                              ) : (
+                                <span className="text-muted-foreground">—</span>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    ) : null}
                   </div>
                 ) : null}
 
