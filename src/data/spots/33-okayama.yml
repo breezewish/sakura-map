@@ -193,6 +193,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/66012/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
+        code: "33370041"
+        name: 岡山いこいの村(中庭)
     links:
       weathernews: https://weathernews.jp/sakura/spot/66012/
     collections:
@@ -401,6 +405,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/66102/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
+        code: "33370019"
     links:
       weathernews: https://weathernews.jp/sakura/spot/66102/
     collections:
@@ -424,6 +431,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/66016/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
+        code: "33370006"
+        name: レイクパーク加茂
     links:
       weathernews: https://weathernews.jp/sakura/spot/66016/
     collections:
@@ -562,6 +573,9 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/6601/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
+        code: "33370021"
     links:
       weathernews: https://weathernews.jp/sakura/spot/6601/
     collections:

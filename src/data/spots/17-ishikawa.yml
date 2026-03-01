@@ -51,6 +51,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/261/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=17
+        code: "17370010"
+        name: 一本松公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/261/
     collections:

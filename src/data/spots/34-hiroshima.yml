@@ -526,6 +526,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/386/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=34
+        code: "34370020"
+        name: 八千代湖周辺
     links:
       weathernews: https://weathernews.jp/sakura/spot/386/
     top:
@@ -668,6 +672,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/374/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=34
+        code: "34370012"
+        name: 筆影山山頂展望台
     links:
       weathernews: https://weathernews.jp/sakura/spot/374/
     collections:

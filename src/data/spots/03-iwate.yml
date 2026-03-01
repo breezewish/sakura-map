@@ -671,6 +671,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/3318/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=03
+        code: "03370019"
+        name: 唐丹町本郷桜並木
     links:
       weathernews: https://weathernews.jp/sakura/spot/3318/
     collections:
@@ -721,6 +725,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/44/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=03
+        code: "03370007"
+        name: 平泉町内　県道300号線の桜並木
     links:
       weathernews: https://weathernews.jp/sakura/spot/44/
     collections:

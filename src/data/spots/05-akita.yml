@@ -22,6 +22,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/24/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=05
+        code: "05370014"
+        name: きみまち阪公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/24/
     collections:

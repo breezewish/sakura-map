@@ -61,6 +61,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/190/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=22
+        code: "22370010"
+        name: 木屋川堤
     links:
       weathernews: https://weathernews.jp/sakura/spot/190/
     collections:

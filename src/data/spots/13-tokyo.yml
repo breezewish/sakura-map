@@ -1355,6 +1355,10 @@ spots:
     sources:
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=13
+        code: "13370049"
+        name: 外濠公園
     links:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1403609/
     collections:
@@ -1459,6 +1463,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/44008/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=13
+        code: "13370062"
+        name: 福生市多摩川堤防
     links:
       weathernews: https://weathernews.jp/sakura/spot/44008/
     collections:

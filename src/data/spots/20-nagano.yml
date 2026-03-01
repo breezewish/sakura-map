@@ -518,6 +518,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/163/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=20
+        code: "20370019"
+        name: 松本市城山公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/163/
     collections:

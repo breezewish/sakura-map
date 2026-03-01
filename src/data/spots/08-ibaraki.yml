@@ -603,6 +603,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/40012/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=08
+        code: "08370024"
+        name: 千波公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/40012/
     top:
@@ -682,6 +686,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/4011/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=08
+        code: "08370027"
+        name: 福岡堰桜並木
     links:
       weathernews: https://weathernews.jp/sakura/spot/4011/
     top:
@@ -787,6 +795,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/40014/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=08
+        code: "08370021"
+        name: 桜山公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/40014/
     top:

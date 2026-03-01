@@ -111,6 +111,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/60017/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=25
+        code: "25370030"
+        name: 鮎河千本桜(うぐい川)
     links:
       weathernews: https://weathernews.jp/sakura/spot/60017/
     top:

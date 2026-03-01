@@ -1281,6 +1281,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/43036/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=11
+        code: "11370049"
+        name: 玉淀河原
     links:
       weathernews: https://weathernews.jp/sakura/spot/43036/
     collections:
@@ -1483,6 +1487,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/43005/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=11
+        code: "11370006"
+        name: 飯能市名栗湖
     links:
       weathernews: https://weathernews.jp/sakura/spot/43005/
     collections:
@@ -1582,6 +1590,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/96/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=11
+        code: "11370016"
+        name: 城山公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/96/
     collections:

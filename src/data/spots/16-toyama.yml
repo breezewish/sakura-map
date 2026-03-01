@@ -177,6 +177,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/248/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=16
+        code: "16370010"
+        name: 呉羽山公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/248/
     collections:
@@ -292,6 +296,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5504/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=16
+        code: "16370025"
+        name: あさひ舟川　春の四重奏
     links:
       weathernews: https://weathernews.jp/sakura/spot/5504/
     top:

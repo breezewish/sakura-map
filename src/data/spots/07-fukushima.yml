@@ -243,6 +243,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/3605/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=07
+        code: "07370028"
+        name: 亀ヶ城跡
     links:
       weathernews: https://weathernews.jp/sakura/spot/3605/
     collections:
@@ -730,6 +734,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/67/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=07
+        code: "07370030"
+        name: 中村城跡公園　馬陵公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/67/
     collections:
@@ -803,6 +811,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/36001/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=07
+        code: "07370014"
+        name: 夜の森公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/36001/
     top:

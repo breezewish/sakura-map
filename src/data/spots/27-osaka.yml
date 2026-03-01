@@ -166,6 +166,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/323/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=27
+        code: "27370008"
+        name: 五月山公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/323/
     collections:
@@ -470,6 +474,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/62007/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=27
+        code: "27370022"
+        name: 大阪府立近つ飛鳥博物館
     links:
       weathernews: https://weathernews.jp/sakura/spot/62007/
     collections:

@@ -191,6 +191,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/503/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370013"
+        name: 臼杵城址
     links:
       weathernews: https://weathernews.jp/sakura/spot/503/
     top:
@@ -487,6 +491,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/83004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
+        code: "44370012"
+        name: 大分県護国神社のソメイヨシノ
     links:
       weathernews: https://weathernews.jp/sakura/spot/83004/
     collections:

@@ -798,6 +798,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/52008/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=21
+        code: "21370020"
+        name: 生活環境保全林みたけの森
     links:
       weathernews: https://weathernews.jp/sakura/spot/52008/
     collections:
@@ -983,6 +987,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/217/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=21
+        code: "21370031"
+        name: 岐阜公園長良川堤
     links:
       weathernews: https://weathernews.jp/sakura/spot/217/
     collections:
@@ -1156,6 +1164,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5216/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=21
+        code: "21370001"
+        name: 墨俣一夜城址・犀川堤
     links:
       weathernews: https://weathernews.jp/sakura/spot/5216/
     top:

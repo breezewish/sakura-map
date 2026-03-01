@@ -141,6 +141,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E5%9F%8E%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=23
+        code: "23370013"
+        name: 岡崎公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/200/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307012/

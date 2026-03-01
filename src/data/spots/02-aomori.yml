@@ -274,6 +274,10 @@ spots:
     sources:
       - label: NAVITIME
         url: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=02
+        code: "02370016"
+        name: 東公園さくら山
     links:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307117/
     collections:
@@ -461,6 +465,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/18/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=02
+        code: "02370008"
+        name: 三八城公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/18/
     collections:

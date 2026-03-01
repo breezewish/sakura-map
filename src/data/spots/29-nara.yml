@@ -196,6 +196,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B1%B1
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=29
+        code: "29370004"
+        name: 金峯山寺蔵王堂
     links:
       weathernews: https://weathernews.jp/sakura/spot/345/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307164/
@@ -406,6 +410,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/6401/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=29
+        code: "29370028"
+        name: 高田千本桜
     links:
       weathernews: https://weathernews.jp/sakura/spot/6401/
     collections:
@@ -550,6 +558,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=29
+        code: "29370033"
+        name: 奈良公園(ヤエザクラ)
     links:
       weathernews: https://weathernews.jp/sakura/spot/338/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1301228/

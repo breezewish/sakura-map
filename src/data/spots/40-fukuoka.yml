@@ -443,6 +443,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/82004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=40
+        code: "40370032"
+        name: 清水山
     links:
       weathernews: https://weathernews.jp/sakura/spot/82004/
     collections:
@@ -932,6 +936,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/8204/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=40
+        code: "40370009"
+        name: ABURAYAMA　FUKUOKA
     links:
       weathernews: https://weathernews.jp/sakura/spot/8204/
     collections:

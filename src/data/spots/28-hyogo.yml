@@ -150,6 +150,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/63002/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=28
+        code: "28370001"
+        name: 宝塚(花のみち)
     links:
       weathernews: https://weathernews.jp/sakura/spot/63002/
     collections:
@@ -553,6 +557,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/63004/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=28
+        code: "28370028"
+        name: 伊丹・瑞ケ池
     links:
       weathernews: https://weathernews.jp/sakura/spot/63004/
     collections:
@@ -576,6 +584,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/333/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=28
+        code: "28370012"
+        name: 赤穂東御崎公園
     links:
       weathernews: https://weathernews.jp/sakura/spot/333/
     top:

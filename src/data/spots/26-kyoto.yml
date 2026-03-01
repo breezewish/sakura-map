@@ -283,6 +283,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/340/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
+        code: "26370057"
+        name: 木津川畔
     links:
       weathernews: https://weathernews.jp/sakura/spot/340/
     collections:
@@ -413,6 +417,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E7%AC%A0%E7%BD%AE%E5%B1%B1_(%E4%BA%AC%E9%83%BD%E5%BA%9C)
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
+        code: "26370034"
+        name: 笠置山自然公園(木津川畔)
     links:
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1307020/
       wikipedia: https://ja.wikipedia.org/wiki/%E7%AC%A0%E7%BD%AE%E5%B1%B1_(%E4%BA%AC%E9%83%BD%E5%BA%9C)
@@ -748,6 +756,10 @@ spots:
         url: https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%95%E3%81%8F%E3%82%89%E5%90%8D%E6%89%80100%E9%81%B8
       - label: Wikipedia
         url: https://ja.wikipedia.org/wiki/%E4%BB%81%E5%92%8C%E5%AF%BA
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
+        code: "26370067"
+        name: 仁和寺(ソメイヨシノ)
     links:
       weathernews: https://weathernews.jp/sakura/spot/299/
       navitime: https://travel.navitime.com/ja/area/jp/spot/90011-sak1700010/
@@ -1766,6 +1778,10 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/6112/
+      - label: jmc
+        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
+        code: "26370007"
+        name: 和らぎの道(七谷川沿い)
     links:
       weathernews: https://weathernews.jp/sakura/spot/6112/
     collections:
