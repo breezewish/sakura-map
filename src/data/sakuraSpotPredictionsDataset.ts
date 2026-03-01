@@ -4,7 +4,7 @@ import type { SakuraSpot } from "@/data/sakuraSpotSchema"
 import {
   sakuraPrefecturePredictFileSchema,
   type SakuraPrefecturePredictFile,
-  type SakuraSpotPrediction,
+  type SakuraSpotPredict,
 } from "@/data/sakuraSpotPredictSchema"
 
 export function parseSakuraPrefecturePredictFileYaml(
@@ -25,9 +25,9 @@ export function parseSakuraPrefecturePredictFileYaml(
 
 export function buildSakuraSpotPredictionsMap(
   files: Array<{ filePath: string; raw: string }>,
-): Map<string, SakuraSpotPrediction> {
+): Map<string, SakuraSpotPredict> {
   const spotIdToFile = new Map<string, string>()
-  const predictions = new Map<string, SakuraSpotPrediction>()
+  const predictions = new Map<string, SakuraSpotPredict>()
 
   for (const { filePath, raw } of files) {
     const fileData = parseSakuraPrefecturePredictFileYaml(raw, filePath)
@@ -50,7 +50,7 @@ export function buildSakuraSpotPredictionsMap(
 
 export function mergeSakuraSpotPredictions(
   spots: SakuraSpot[],
-  predictions: Map<string, SakuraSpotPrediction>,
+  predictions: Map<string, SakuraSpotPredict>,
 ): SakuraSpot[] {
   if (predictions.size === 0) return spots
 

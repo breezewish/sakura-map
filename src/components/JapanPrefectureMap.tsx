@@ -226,7 +226,7 @@ export function JapanPrefectureMap({
   const selectedSpotPhotos = selectedSpot?.photos ?? []
 
   const selectedSpotPredict = useMemo(() => {
-    const p = selectedSpot?.predict
+    const p = selectedSpot?.predict?.weathernews
     if (!p) return null
 
     return {

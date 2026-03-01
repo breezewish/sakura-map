@@ -16,17 +16,20 @@ prefecture:
 spots:
   - id: ueno-park
     predict:
-      forecasted_at: 2026-02-25
-      first_bloom_date: 2026-03-20
-      full_bloom_date: 2026-03-27
-      fubuki_date: 2026-03-31
+      weathernews:
+        forecasted_at: 2026-02-25
+        first_bloom_date: 2026-03-20
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-03-31
 `
 
     const parsed = parseSakuraPrefecturePredictFileYaml(raw, "tokyo.yml")
     expect(parsed.prefecture.id).toBe(13)
     expect(parsed.spots).toHaveLength(1)
     expect(parsed.spots[0].id).toBe("ueno-park")
-    expect(parsed.spots[0].predict?.first_bloom_date).toBe("2026-03-20")
+    expect(parsed.spots[0].predict?.weathernews?.first_bloom_date).toBe(
+      "2026-03-20",
+    )
   })
 
   it("throws helpful error for invalid schema", () => {
@@ -37,7 +40,8 @@ prefecture:
 spots:
   - id: ueno-park
     predict:
-      first_bloom_date: 03-20
+      weathernews:
+        first_bloom_date: 03-20
 `
 
     expect(() => parseSakuraPrefecturePredictFileYaml(raw, "broken.yml")).toThrow(
@@ -55,7 +59,8 @@ prefecture:
 spots:
   - id: dup
     predict:
-      forecasted_at: 2026-02-25
+      weathernews:
+        forecasted_at: 2026-02-25
 `
 
     const raw2 = `
@@ -65,7 +70,8 @@ prefecture:
 spots:
   - id: dup
     predict:
-      forecasted_at: 2026-02-25
+      weathernews:
+        forecasted_at: 2026-02-25
 `
 
     expect(() =>
@@ -104,16 +110,16 @@ prefecture:
 spots:
   - id: ueno-park
     predict:
-      forecasted_at: 2026-02-25
-      first_bloom_date: 2026-03-20
+      weathernews:
+        forecasted_at: 2026-02-25
+        first_bloom_date: 2026-03-20
 `,
       },
     ])
 
     const merged = mergeSakuraSpotPredictions(spots, predictions)
-    expect(merged[0].predict?.forecasted_at).toBe("2026-02-25")
-    expect(merged[0].predict?.first_bloom_date).toBe("2026-03-20")
+    expect(merged[0].predict?.weathernews?.forecasted_at).toBe("2026-02-25")
+    expect(merged[0].predict?.weathernews?.first_bloom_date).toBe("2026-03-20")
     expect(merged[1].predict).toBeUndefined()
   })
 })
-

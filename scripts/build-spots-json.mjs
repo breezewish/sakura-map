@@ -19,6 +19,61 @@ function isIsoDateString(value) {
   return typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value)
 }
 
+const predictionDateKeys = [
+  "forecasted_at",
+  "first_bloom_date",
+  "full_bloom_date",
+  "fubuki_date",
+]
+
+const predictSourceKeys = ["weathernews", "jmc"]
+
+function pickPredictionDates(raw, ctx) {
+  assert(isPlainObject(raw), `Invalid ${ctx} (expected object)`)
+
+  for (const key of Object.keys(raw)) {
+    assert(
+      predictionDateKeys.includes(key),
+      `Unexpected key "${key}" in ${ctx}`,
+    )
+  }
+
+  const picked = {}
+  for (const key of predictionDateKeys) {
+    if (raw[key] == null) continue
+    assert(isIsoDateString(raw[key]), `Invalid ${ctx}.${key} (expected ISO date)`)
+    picked[key] = raw[key]
+  }
+
+  return Object.keys(picked).length > 0 ? picked : null
+}
+
+function normalizePredict(raw, ctx) {
+  if (!isPlainObject(raw)) return null
+
+  const hasSourceKey = predictSourceKeys.some((k) => k in raw)
+  if (hasSourceKey) {
+    for (const key of Object.keys(raw)) {
+      assert(
+        predictSourceKeys.includes(key),
+        `Unexpected key "${key}" in ${ctx}`,
+      )
+    }
+
+    const sources = {}
+    for (const sourceKey of predictSourceKeys) {
+      if (raw[sourceKey] == null) continue
+      const dates = pickPredictionDates(raw[sourceKey], `${ctx}.${sourceKey}`)
+      if (dates) sources[sourceKey] = dates
+    }
+
+    return Object.keys(sources).length > 0 ? sources : null
+  }
+
+  const legacyDates = pickPredictionDates(raw, ctx)
+  return legacyDates ? { weathernews: legacyDates } : null
+}
+
 async function tryReadSortedYmlFiles(dir) {
   try {
     return (await readdir(dir))
@@ -79,23 +134,11 @@ async function buildSpotsDatasetJson() {
 
       if (!isPlainObject(spot.predict)) continue
 
-      const p = spot.predict
-      const predict = {}
-      for (const key of [
-        "forecasted_at",
-        "first_bloom_date",
-        "full_bloom_date",
-        "fubuki_date",
-      ]) {
-        if (p[key] == null) continue
-        assert(
-          isIsoDateString(p[key]),
-          `Invalid spot.predict.${key} in ${fileName} (${spot.id})`,
-        )
-        predict[key] = p[key]
-      }
-
-      if (Object.keys(predict).length > 0) predictedBySpotId.set(spot.id, predict)
+      const predict = normalizePredict(
+        spot.predict,
+        `spot.predict in ${fileName} (${spot.id})`,
+      )
+      if (predict) predictedBySpotId.set(spot.id, predict)
     }
   }
 

@@ -15,9 +15,43 @@ export const sakuraSpotPredictionSchema = z
     message: "Prediction object is empty",
   })
 
+const sakuraSpotPredictSourcesSchema = z
+  .object({
+    weathernews: sakuraSpotPredictionSchema.optional(),
+    // Japan Meteorological Corporation (JMC): reserved for future use.
+    jmc: sakuraSpotPredictionSchema.optional(),
+  })
+  .strict()
+  .refine((p) => Object.values(p).some((v) => v != null), {
+    message: "Predict object has no sources",
+  })
+
+const legacyPredictionKeys = [
+  "forecasted_at",
+  "first_bloom_date",
+  "full_bloom_date",
+  "fubuki_date",
+] as const
+
+export const sakuraSpotPredictSchema = z.preprocess((value) => {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return value
+  const obj = value as Record<string, unknown>
+
+  // Legacy format (pre-2026-03): predict: { forecasted_at, ... }.
+  // Normalize it to the new format: predict: { weathernews: { ... } }.
+  if (!("weathernews" in obj) && !("jmc" in obj)) {
+    const isLegacy =
+      legacyPredictionKeys.some((k) => k in obj) &&
+      legacyPredictionKeys.every((k) => !(k in obj) || obj[k] != null)
+    if (isLegacy) return { weathernews: obj }
+  }
+
+  return value
+}, sakuraSpotPredictSourcesSchema)
+
 export const sakuraSpotPredictInPrefectureFileSchema = z.object({
   id: z.string().min(1),
-  predict: sakuraSpotPredictionSchema.optional(),
+  predict: sakuraSpotPredictSchema.optional(),
 })
 
 export const sakuraPrefecturePredictFileSchema = z.object({
@@ -30,6 +64,7 @@ export const sakuraPrefecturePredictFileSchema = z.object({
 })
 
 export type SakuraSpotPrediction = z.infer<typeof sakuraSpotPredictionSchema>
+export type SakuraSpotPredict = z.infer<typeof sakuraSpotPredictSchema>
 export type SakuraSpotPredictInPrefectureFile = z.infer<
   typeof sakuraSpotPredictInPrefectureFileSchema
 >
