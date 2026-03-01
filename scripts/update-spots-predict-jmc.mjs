@@ -3,6 +3,11 @@ import path from "node:path"
 import process from "node:process"
 import { parse as parseYaml, stringify as stringifyYaml } from "yaml"
 
+import {
+  findJmcPointForSpot,
+  parseJmcPrefectureForecastJson,
+} from "./jmcPrefectureForecastParser.mjs"
+
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
@@ -18,20 +23,8 @@ function isPlainObject(value) {
   return typeof value === "object" && value != null && !Array.isArray(value)
 }
 
-function isIsoDateString(value) {
-  return typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value)
-}
-
 function pad2(value) {
   return String(value).padStart(2, "0")
-}
-
-function isoDateFromJstDateTime(value, ctx) {
-  assert(isNonEmptyString(value), `Invalid ${ctx} (expected non-empty string)`)
-  // Example: 2026-02-26T00:00:00+09:00
-  const date = value.slice(0, 10)
-  assert(isIsoDateString(date), `Invalid ${ctx} (expected JST datetime)`)
-  return date
 }
 
 async function tryReadFile(filePath) {
@@ -110,54 +103,15 @@ function buildJmcPrefectureApiUrl(prefectureId) {
 async function fetchJmcPrefectureForecast(prefectureId) {
   const apiUrl = buildJmcPrefectureApiUrl(prefectureId)
   const json = await fetchJsonWithRetry(apiUrl)
-
-  assert(isPlainObject(json), `Invalid JSON root for ${apiUrl}`)
-  assert(isPlainObject(json.result_list), `Missing result_list for ${apiUrl}`)
-
-  const result = json.result_list
-  const forecastedAt = isoDateFromJstDateTime(result.update_datetime, `result_list.update_datetime for ${apiUrl}`)
-
-  assert(Array.isArray(result.jr_data), `Missing result_list.jr_data for ${apiUrl}`)
-  const pointsByCode = new Map()
-  const pointsByName = new Map()
-
-  for (const row of result.jr_data) {
-    assert(isPlainObject(row), `Invalid jr_data row for ${apiUrl}`)
-    assert(isNonEmptyString(row.code), `Invalid jr_data.code for ${apiUrl}`)
-    assert(isNonEmptyString(row.name), `Invalid jr_data.name for ${apiUrl}`)
-
-    if (pointsByCode.has(row.code)) {
-      throw new Error(`Duplicate jr_data.code "${row.code}" for ${apiUrl}`)
-    }
-
-    const bloomDate = row.bloom_forecast_datetime
-      ? isoDateFromJstDateTime(row.bloom_forecast_datetime, `bloom_forecast_datetime for ${apiUrl} (${row.code})`)
-      : null
-    const fullDate = row.full_forecast_datetime
-      ? isoDateFromJstDateTime(row.full_forecast_datetime, `full_forecast_datetime for ${apiUrl} (${row.code})`)
-      : null
-
-    const point = {
-      code: row.code,
-      name_ja: row.name,
-      bloomDate,
-      fullDate,
-    }
-    pointsByCode.set(row.code, point)
-
-    const list = pointsByName.get(row.name) ?? []
-    list.push(point)
-    pointsByName.set(row.name, list)
-  }
-
-  return { apiUrl, forecastedAt, pointsByCode, pointsByName }
+  const parsed = parseJmcPrefectureForecastJson(json, apiUrl)
+  return { apiUrl, forecastedAt: parsed.forecasted_at, points: parsed.points }
 }
 
 function buildJmcSpotPrediction({ forecastedAt, point }) {
   const prediction = {
     forecasted_at: forecastedAt,
-    ...(point.bloomDate ? { first_bloom_date: point.bloomDate } : {}),
-    ...(point.fullDate ? { full_bloom_date: point.fullDate } : {}),
+    ...(point.first_bloom_date ? { first_bloom_date: point.first_bloom_date } : {}),
+    ...(point.full_bloom_date ? { full_bloom_date: point.full_bloom_date } : {}),
   }
 
   assert(
@@ -236,23 +190,10 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
   const jmcPredictionBySpotId = new Map()
   if (prefectureForecast) {
     for (const row of spotIdsWithJmcSource) {
-      let point = null
-
-      if (row.jmcCode) {
-        point = prefectureForecast.pointsByCode.get(row.jmcCode) ?? null
-        assert(
-          point,
-          `Missing JMC point code \"${row.jmcCode}\" for ${fileName} (${row.id})`,
-        )
-      } else {
-        assert(row.jmcName, `Missing JMC name for ${fileName} (${row.id})`)
-        const candidates = prefectureForecast.pointsByName.get(row.jmcName) ?? []
-        assert(
-          candidates.length === 1,
-          `Expected 1 JMC point named \"${row.jmcName}\", got ${candidates.length} (${fileName} ${row.id})`,
-        )
-        point = candidates[0]
-      }
+      const point = findJmcPointForSpot(
+        { points: prefectureForecast.points, code: row.jmcCode, name: row.jmcName },
+        `${prefectureForecast.apiUrl} (${fileName} ${row.id})`,
+      )
 
       const prediction = buildJmcSpotPrediction({
         forecastedAt: prefectureForecast.forecastedAt,
