@@ -4,13 +4,16 @@ prefecture:
   name_en: Shiga
 spots:
   - id: nt-90011-sak1307001
+    name: 「国史跡」釈迦山 百済寺(湖東三山)
     predict:
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-04
         full_bloom_date: 2026-04-11
   - id: wn-60019
+    name: MIHO MUSEUM
   - id: wn-60011
+    name: にごり池自然公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -22,6 +25,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-06
   - id: wn-60017
+    name: 鮎河の千本桜
     predict:
       weathernews:
         forecasted_at: 2026-03-11
@@ -33,6 +37,7 @@ spots:
         first_bloom_date: 2026-04-07
         full_bloom_date: 2026-04-12
   - id: wn-60012
+    name: 雨山文化運動公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -44,7 +49,9 @@ spots:
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-07
   - id: wn-60010
+    name: 奥比叡ドライブウェイ
   - id: wn-6006
+    name: 奥琵琶湖パークウェイ
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -52,6 +59,7 @@ spots:
         full_bloom_date: 2026-04-10
         fubuki_date: 2026-04-14
   - id: wn-288
+    name: 海津大崎
     predict:
       weathernews:
         forecasted_at: 2026-03-11
@@ -63,6 +71,7 @@ spots:
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
   - id: wn-6002
+    name: 近江富士花緑公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -74,6 +83,7 @@ spots:
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
   - id: wn-60002
+    name: 湖東三山　金剛輪寺
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -85,6 +95,7 @@ spots:
         first_bloom_date: 2026-03-31
         full_bloom_date: 2026-04-06
   - id: wn-60003
+    name: 湖東三山西明寺
     predict:
       weathernews:
         forecasted_at: 2026-02-14
@@ -96,6 +107,7 @@ spots:
         first_bloom_date: 2026-03-31
         full_bloom_date: 2026-04-05
   - id: wn-60005
+    name: 虎御前山
     predict:
       weathernews:
         forecasted_at: 2026-03-11
@@ -107,6 +119,7 @@ spots:
         first_bloom_date: 2026-03-31
         full_bloom_date: 2026-04-05
   - id: wn-290
+    name: 三井寺
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -118,6 +131,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
   - id: wn-60006
+    name: 滋賀県醒井養鱒場
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -129,6 +143,7 @@ spots:
         first_bloom_date: 2026-04-05
         full_bloom_date: 2026-04-09
   - id: wn-60015
+    name: 鹿深夢の森
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -140,6 +155,7 @@ spots:
         first_bloom_date: 2026-04-04
         full_bloom_date: 2026-04-06
   - id: wn-60016
+    name: 水口城跡
     predict:
       weathernews:
         forecasted_at: 2026-03-11
@@ -151,7 +167,9 @@ spots:
         first_bloom_date: 2026-04-03
         full_bloom_date: 2026-04-07
   - id: wn-60014
+    name: 清水の桜
   - id: wn-287
+    name: 石山寺
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -163,6 +181,7 @@ spots:
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-03
   - id: wn-6001
+    name: 八幡公園・八幡堀
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -170,7 +189,9 @@ spots:
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
   - id: wn-60001
+    name: 比叡山延暦寺
   - id: wn-60004
+    name: 琵琶湖疏水
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -178,6 +199,7 @@ spots:
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-09
   - id: wn-285
+    name: 彦根城
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -189,6 +211,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-05
   - id: wn-284
+    name: 豊公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -200,6 +223,7 @@ spots:
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-04
   - id: wn-60018
+    name: 余呉湖
     predict:
       weathernews:
         forecasted_at: 2026-01-29

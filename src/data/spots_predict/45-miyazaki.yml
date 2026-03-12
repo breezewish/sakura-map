@@ -4,6 +4,7 @@ prefecture:
   name_en: Miyazaki
 spots:
   - id: wn-87011
+    name: まきばの桜
     predict:
       weathernews:
         forecasted_at: 2026-03-04
@@ -11,6 +12,7 @@ spots:
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-06
   - id: wn-489
+    name: 旭化成(株)東海地区工場
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -18,7 +20,9 @@ spots:
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-12
   - id: wn-87008
+    name: 綾の照葉大吊橋
   - id: wn-488
+    name: 延岡城跡・城山公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -30,6 +34,7 @@ spots:
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-04-01
   - id: wn-87003
+    name: 遠見山森林公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -41,6 +46,7 @@ spots:
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
   - id: wn-492
+    name: 花立公園
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -52,6 +58,7 @@ spots:
         first_bloom_date: 2026-03-22
         full_bloom_date: 2026-03-29
   - id: wn-8704
+    name: 観音池公園
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -63,6 +70,7 @@ spots:
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-03-30
   - id: wn-87001
+    name: 久峰総合公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -74,8 +82,11 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
   - id: wn-87005
+    name: 原田家のしだれ桜
   - id: wn-87012
+    name: 焼酎の里 霧島ファクトリーガーデン
   - id: wn-490
+    name: 浄専寺
     predict:
       weathernews:
         forecasted_at: 2026-03-07
@@ -83,6 +94,7 @@ spots:
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
   - id: wn-485
+    name: 垂水公園
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -94,6 +106,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
   - id: wn-487
+    name: 西都原古墳群
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -105,7 +118,9 @@ spots:
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-02
   - id: wn-87014
+    name: 大坪の一本桜
   - id: wn-87010
+    name: 大淀川市民緑地（桜堤）
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -113,6 +128,7 @@ spots:
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-08
   - id: wn-8703
+    name: 竹香園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -124,7 +140,9 @@ spots:
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-04-01
   - id: nt-90011-sak1307114
+    name: 天ケ城運動公園
   - id: wn-483
+    name: 天岩戸の湯
     predict:
       weathernews:
         forecasted_at: 2026-03-05
@@ -136,6 +154,7 @@ spots:
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-03-30
   - id: wn-87009
+    name: 天神山公園(宮崎市)
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -143,6 +162,7 @@ spots:
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-08
   - id: wn-87002
+    name: 舞鶴公園(宮崎県)
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -154,6 +174,7 @@ spots:
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
   - id: wn-486
+    name: 母智丘公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -165,3 +186,4 @@ spots:
         first_bloom_date: 2026-03-22
         full_bloom_date: 2026-03-30
   - id: wn-87007
+    name: 堀切峠

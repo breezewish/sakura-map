@@ -15,6 +15,7 @@ prefecture:
   name_ja: 東京都
 spots:
   - id: ueno-park
+    name: 上野恩賜公園
     predict:
       weathernews:
         forecasted_at: 2026-02-25
@@ -27,6 +28,7 @@ spots:
     expect(parsed.prefecture.id).toBe(13)
     expect(parsed.spots).toHaveLength(1)
     expect(parsed.spots[0].id).toBe("ueno-park")
+    expect(parsed.spots[0].name).toBe("上野恩賜公園")
     expect(parsed.spots[0].predict?.weathernews?.first_bloom_date).toBe(
       "2026-03-20",
     )
@@ -109,6 +111,7 @@ prefecture:
   name_ja: 東京都
 spots:
   - id: ueno-park
+    name: 上野恩賜公園
     predict:
       weathernews:
         forecasted_at: 2026-02-25

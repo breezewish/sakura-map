@@ -151,17 +151,17 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
   const spotRows = parsed.spots.map((spot) => {
     assert(isPlainObject(spot), `Invalid spot entry in ${fileName}`)
     assert(isNonEmptyString(spot.id), `Invalid spot.id in ${fileName}`)
+    assert(isNonEmptyString(spot.name_ja), `Invalid spot.name_ja in ${fileName} (${spot.id})`)
 
     const jmcSource = findSpotJmcSource(spot)
     const jmcCode = jmcSource && isNonEmptyString(jmcSource.code) ? jmcSource.code : null
+    const name = spot.name_ja.trim()
     const jmcName =
       jmcSource && isNonEmptyString(jmcSource.name)
         ? jmcSource.name.trim()
-        : isNonEmptyString(spot.name_ja)
-          ? spot.name_ja.trim()
-          : null
+        : name
 
-    return { id: spot.id, jmcCode, jmcName, hasJmcSource: !!jmcSource }
+    return { id: spot.id, name, jmcCode, jmcName, hasJmcSource: !!jmcSource }
   })
 
   const spotIdsWithJmcSource = spotRows.filter((s) => s.hasJmcSource)
@@ -219,7 +219,9 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
     if (merged.weathernews) predict.weathernews = merged.weathernews
     if (merged.jmc) predict.jmc = merged.jmc
 
-    return Object.keys(predict).length > 0 ? { id: row.id, predict } : { id: row.id }
+    return Object.keys(predict).length > 0
+      ? { id: row.id, name: row.name, predict }
+      : { id: row.id, name: row.name }
   })
 
   return {

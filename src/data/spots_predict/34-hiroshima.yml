@@ -4,6 +4,7 @@ prefecture:
   name_en: Hiroshima
 spots:
   - id: wn-67004
+    name: ピースリーホーム バンブー総合公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -15,6 +16,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-06
   - id: wn-6704
+    name: ひろしま遊学の森　広島県緑化センター
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -22,6 +24,7 @@ spots:
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-06
   - id: wn-377
+    name: 安芸津正福寺山公園
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -33,6 +36,7 @@ spots:
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-01
   - id: wn-373
+    name: 音戸の瀬戸公園
     predict:
       weathernews:
         forecasted_at: 2026-03-05
@@ -44,6 +48,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
   - id: wn-67003
+    name: 亀居公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -55,6 +60,7 @@ spots:
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
   - id: wn-371
+    name: 宮島
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -66,6 +72,7 @@ spots:
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
   - id: wn-67013
+    name: 鏡山公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -73,12 +80,14 @@ spots:
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-07
   - id: wn-67008
+    name: 御調八幡宮
     predict:
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-07
   - id: wn-67001
+    name: 広島市植物公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -90,6 +99,7 @@ spots:
         first_bloom_date: 2026-03-22
         full_bloom_date: 2026-03-31
   - id: wn-376
+    name: 耕三寺博物館(耕三寺)
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -97,6 +107,7 @@ spots:
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
   - id: wn-67002
+    name: 住吉堤防敷
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -108,6 +119,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
   - id: wn-6701
+    name: 縮景園
     predict:
       weathernews:
         forecasted_at: 2026-03-11
@@ -115,6 +127,7 @@ spots:
         full_bloom_date: 2026-03-29
         fubuki_date: 2026-04-05
   - id: wn-6702
+    name: 上野公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -126,6 +139,7 @@ spots:
         first_bloom_date: 2026-03-31
         full_bloom_date: 2026-04-06
   - id: wn-67006
+    name: 真道山千本桜
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -137,7 +151,9 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
   - id: wn-67009
+    name: 神原のシダレザクラ
   - id: wn-365
+    name: 千光寺公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -149,6 +165,7 @@ spots:
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-04
   - id: wn-6703
+    name: 千鳥別尺のヤマザクラ
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -156,7 +173,9 @@ spots:
         full_bloom_date: 2026-04-16
         fubuki_date: 2026-04-20
   - id: wn-67005
+    name: 造幣局広島支局　花のまわりみち
   - id: wn-386
+    name: 土師ダム(のどごえ公園)
     predict:
       weathernews:
         forecasted_at: 2026-03-09
@@ -168,6 +187,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
   - id: wn-67014
+    name: 塔の峰千本桜
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -179,6 +199,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-04
   - id: wn-67011
+    name: 白竜湖
     predict:
       weathernews:
         forecasted_at: 2026-01-29
@@ -186,6 +207,7 @@ spots:
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
   - id: wn-370
+    name: 比治山公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -197,6 +219,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
   - id: wn-380
+    name: 尾関山公園
     predict:
       weathernews:
         forecasted_at: 2026-03-06
@@ -208,6 +231,7 @@ spots:
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-04
   - id: wn-374
+    name: 筆影山・竜王山
     predict:
       weathernews:
         forecasted_at: 2026-03-10
@@ -219,6 +243,7 @@ spots:
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-06
   - id: wn-67010
+    name: 府中公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -226,6 +251,7 @@ spots:
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-10
   - id: wn-381
+    name: 福山城公園
     predict:
       weathernews:
         forecasted_at: 2026-03-05
@@ -237,6 +263,7 @@ spots:
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
   - id: wn-369
+    name: 平和記念公園
     predict:
       weathernews:
         forecasted_at: 2026-03-12
@@ -248,6 +275,7 @@ spots:
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-03-31
   - id: wn-385
+    name: 野呂山
     predict:
       weathernews:
         forecasted_at: 2026-03-09

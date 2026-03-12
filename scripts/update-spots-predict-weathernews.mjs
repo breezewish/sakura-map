@@ -20,10 +20,6 @@ function isPlainObject(value) {
   return typeof value === "object" && value != null && !Array.isArray(value)
 }
 
-function todayIsoUtc() {
-  return new Date().toISOString().slice(0, 10)
-}
-
 const predictSourceKeys = ["weathernews", "jmc"]
 
 function normalizePredictSources(value, ctx) {
@@ -145,26 +141,32 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
   const tasks = spots.map((spot) => {
     assert(isPlainObject(spot), `Invalid spot entry in ${fileName}`)
     assert(isNonEmptyString(spot.id), `Invalid spot.id in ${fileName}`)
+    assert(isNonEmptyString(spot.name_ja), `Invalid spot.name_ja in ${fileName} (${spot.id})`)
 
     const weathernews = spot.links?.weathernews
     const weathernewsUrl = isNonEmptyString(weathernews) ? weathernews.trim() : null
-    return { id: spot.id, weathernewsUrl }
+    return { id: spot.id, name: spot.name_ja.trim(), weathernewsUrl }
   })
 
   const fetched = await mapWithConcurrency(tasks, 8, async (task) => {
     if (!task.weathernewsUrl) {
-      return { id: task.id, weathernewsPredict: null, keepExisting: false }
+      return { id: task.id, name: task.name, weathernewsPredict: null, keepExisting: false }
     }
 
     try {
       const html = await fetchTextWithRetry(task.weathernewsUrl)
       const parsedPredict = parseWeathernewsSpotForecastHtml(html)
-      return { id: task.id, weathernewsPredict: parsedPredict, keepExisting: false }
+      return {
+        id: task.id,
+        name: task.name,
+        weathernewsPredict: parsedPredict,
+        keepExisting: false,
+      }
     } catch (error) {
       console.warn(
         `[warn] ${fileName} ${task.id} failed to fetch/parse: ${task.weathernewsUrl} (${error instanceof Error ? error.message : String(error)})`,
       )
-      return { id: task.id, weathernewsPredict: null, keepExisting: true }
+      return { id: task.id, name: task.name, weathernewsPredict: null, keepExisting: true }
     }
   })
 
@@ -174,8 +176,8 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
     const existing = existingPredictBySpotId.get(result.id) ?? null
 
     if (result.keepExisting) {
-      if (!existing) return { id: result.id }
-      return { id: result.id, predict: existing }
+      if (!existing) return { id: result.id, name: result.name }
+      return { id: result.id, name: result.name, predict: existing }
     }
 
     const merged = existing ? { ...existing } : {}
@@ -189,7 +191,9 @@ async function buildPrefecturePredictFile({ fileName, raw, existingRaw }) {
     if (merged.weathernews) predict.weathernews = merged.weathernews
     if (merged.jmc) predict.jmc = merged.jmc
 
-    return Object.keys(predict).length > 0 ? { id: result.id, predict } : { id: result.id }
+    return Object.keys(predict).length > 0
+      ? { id: result.id, name: result.name, predict }
+      : { id: result.id, name: result.name }
   })
 
   return {
@@ -211,8 +215,6 @@ async function main() {
   const spotsDir = path.join(process.cwd(), "src", "data", "spots")
   const outputDir = path.join(process.cwd(), "src", "data", "spots_predict")
   const existingDir = outputDir
-  const fetchedAt = todayIsoUtc()
-
   const fileNames = (await readdir(spotsDir)).filter((f) => f.endsWith(".yml")).sort()
   assert(fileNames.length === 47, `Expected 47 spots yml files, got ${fileNames.length}`)
 

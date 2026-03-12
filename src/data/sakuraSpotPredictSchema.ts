@@ -31,6 +31,7 @@ export const sakuraSpotPredictSchema = sakuraSpotPredictSourcesSchema
 
 export const sakuraSpotPredictInPrefectureFileSchema = z.object({
   id: z.string().min(1),
+  name: z.string().min(1).optional(),
   predict: sakuraSpotPredictSchema.optional(),
 })
 
