@@ -7,26 +7,26 @@ spots:
     name: イビデン東横山発電所の桜並木
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-31
-        fubuki_date: 2026-04-05
+        forecasted_at: 2026-03-13
+        first_bloom_date: 2026-03-23
+        full_bloom_date: 2026-03-29
+        fubuki_date: 2026-04-04
   - id: wn-5224
     name: ひよもの枝垂れ桜
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-29
-        full_bloom_date: 2026-04-03
-        fubuki_date: 2026-04-09
+        first_bloom_date: 2026-03-26
+        full_bloom_date: 2026-03-31
+        fubuki_date: 2026-04-06
   - id: wn-213
     name: 愛宕公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-31
-        fubuki_date: 2026-04-06
+        first_bloom_date: 2026-03-24
+        full_bloom_date: 2026-03-30
+        fubuki_date: 2026-04-05
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-30
@@ -36,9 +36,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-02-13
-        first_bloom_date: 2026-03-23
-        full_bloom_date: 2026-03-29
-        fubuki_date: 2026-04-05
+        first_bloom_date: 2026-03-22
+        full_bloom_date: 2026-03-28
+        fubuki_date: 2026-04-03
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-02
@@ -47,18 +47,18 @@ spots:
     name: 羽根谷だんだん公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-29
-        fubuki_date: 2026-04-03
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-20
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-04-02
   - id: wn-5235
     name: 奥矢作湖畔桜並木
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-27
-        full_bloom_date: 2026-04-02
-        fubuki_date: 2026-04-08
+        first_bloom_date: 2026-03-25
+        full_bloom_date: 2026-03-31
+        fubuki_date: 2026-04-06
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-01
@@ -68,17 +68,16 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-29
-        full_bloom_date: 2026-04-04
-        fubuki_date: 2026-04-09
+        first_bloom_date: 2026-03-28
+        full_bloom_date: 2026-04-03
+        fubuki_date: 2026-04-08
   - id: wn-211
     name: 霞間ヶ渓公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-18
-        full_bloom_date: 2026-03-27
-        fubuki_date: 2026-04-01
+        forecasted_at: 2026-03-16
+        full_bloom_date: 2026-03-25
+        fubuki_date: 2026-03-30
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-23
@@ -88,33 +87,33 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-06
-        full_bloom_date: 2026-04-11
-        fubuki_date: 2026-04-17
+        first_bloom_date: 2026-04-05
+        full_bloom_date: 2026-04-10
+        fubuki_date: 2026-04-16
   - id: wn-52012
     name: 笠松みなと公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-19
+        first_bloom_date: 2026-03-17
         full_bloom_date: 2026-03-24
         fubuki_date: 2026-03-30
   - id: wn-52019
     name: 笠置峡
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-31
-        fubuki_date: 2026-04-06
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-22
+        full_bloom_date: 2026-03-28
+        fubuki_date: 2026-04-04
   - id: wn-52004
     name: 関川の桜
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-19
         full_bloom_date: 2026-03-25
-        fubuki_date: 2026-04-01
+        fubuki_date: 2026-03-31
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-24
@@ -123,10 +122,10 @@ spots:
     name: 関善光寺の桜
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-19
         full_bloom_date: 2026-03-25
-        fubuki_date: 2026-04-01
+        fubuki_date: 2026-03-31
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-24
@@ -135,10 +134,9 @@ spots:
     name: 吉田川の桜
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-19
-        full_bloom_date: 2026-03-26
-        fubuki_date: 2026-04-01
+        forecasted_at: 2026-03-16
+        full_bloom_date: 2026-03-23
+        fubuki_date: 2026-03-29
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-24
@@ -148,9 +146,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-03
-        full_bloom_date: 2026-04-08
-        fubuki_date: 2026-04-12
+        first_bloom_date: 2026-04-02
+        full_bloom_date: 2026-04-07
+        fubuki_date: 2026-04-11
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-11
@@ -160,9 +158,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-04-01
-        fubuki_date: 2026-04-07
+        first_bloom_date: 2026-03-22
+        full_bloom_date: 2026-03-29
+        fubuki_date: 2026-04-04
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-29
@@ -172,17 +170,17 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-27
-        fubuki_date: 2026-04-03
+        first_bloom_date: 2026-03-18
+        full_bloom_date: 2026-03-24
+        fubuki_date: 2026-03-31
   - id: wn-52001
     name: 江名子川沿い
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-03
-        full_bloom_date: 2026-04-08
-        fubuki_date: 2026-04-12
+        first_bloom_date: 2026-04-02
+        full_bloom_date: 2026-04-07
+        fubuki_date: 2026-04-11
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-10
@@ -192,33 +190,33 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-29
-        full_bloom_date: 2026-04-05
-        fubuki_date: 2026-04-11
+        first_bloom_date: 2026-03-28
+        full_bloom_date: 2026-04-04
+        fubuki_date: 2026-04-10
   - id: wn-214
     name: 根尾谷淡墨ザクラ
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-30
-        fubuki_date: 2026-04-06
+        first_bloom_date: 2026-03-22
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-04-03
   - id: wn-5227
     name: 桜野公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-03
-        full_bloom_date: 2026-04-08
-        fubuki_date: 2026-04-15
+        first_bloom_date: 2026-04-02
+        full_bloom_date: 2026-04-07
+        fubuki_date: 2026-04-14
   - id: wn-5202
     name: 寺尾ヶ原千本桜公園
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-30
-        fubuki_date: 2026-04-05
+        first_bloom_date: 2026-03-22
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-04-02
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-31
@@ -228,17 +226,17 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-03
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-25
+        fubuki_date: 2026-03-31
   - id: wn-5210
     name: 城山公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-05
-        full_bloom_date: 2026-04-10
-        fubuki_date: 2026-04-14
+        first_bloom_date: 2026-04-04
+        full_bloom_date: 2026-04-09
+        fubuki_date: 2026-04-13
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-12
@@ -248,17 +246,17 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-31
-        full_bloom_date: 2026-04-06
-        fubuki_date: 2026-04-10
+        first_bloom_date: 2026-03-30
+        full_bloom_date: 2026-04-05
+        fubuki_date: 2026-04-09
   - id: wn-209
     name: 新境川堤
     predict:
       weathernews:
         forecasted_at: 2026-03-04
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-29
-        fubuki_date: 2026-04-03
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-21
@@ -267,20 +265,20 @@ spots:
     name: 新田の桜
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-28
-        full_bloom_date: 2026-04-02
-        fubuki_date: 2026-04-08
+        forecasted_at: 2026-03-13
+        first_bloom_date: 2026-03-25
+        full_bloom_date: 2026-03-30
+        fubuki_date: 2026-04-05
   - id: wn-52014
     name: 水戸野のシダレザクラ
   - id: wn-52009
     name: 水道山
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-04
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-25
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-23
@@ -290,9 +288,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-03
+        first_bloom_date: 2026-03-20
+        full_bloom_date: 2026-03-26
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-28
@@ -301,10 +299,10 @@ spots:
     name: 相川水辺公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-03
+        forecasted_at: 2026-03-15
+        first_bloom_date: 2026-03-20
+        full_bloom_date: 2026-03-26
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-26
@@ -314,25 +312,25 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-15
-        full_bloom_date: 2026-04-18
-        fubuki_date: 2026-04-23
+        first_bloom_date: 2026-04-14
+        full_bloom_date: 2026-04-17
+        fubuki_date: 2026-04-22
   - id: wn-5205
     name: 大垣船町川湊(奥の細道むすびの地)
     predict:
       weathernews:
         forecasted_at: 2026-03-09
-        first_bloom_date: 2026-03-20
-        full_bloom_date: 2026-03-27
-        fubuki_date: 2026-04-01
+        first_bloom_date: 2026-03-17
+        full_bloom_date: 2026-03-24
+        fubuki_date: 2026-03-29
   - id: wn-52010
     name: 大榑川桜並木
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-03
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-26
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-25
@@ -341,10 +339,10 @@ spots:
     name: 谷汲山華厳寺参道
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-27
-        full_bloom_date: 2026-04-02
-        fubuki_date: 2026-04-06
+        forecasted_at: 2026-03-13
+        first_bloom_date: 2026-03-24
+        full_bloom_date: 2026-03-30
+        fubuki_date: 2026-04-03
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-27
@@ -354,17 +352,17 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-27
-        fubuki_date: 2026-04-01
+        first_bloom_date: 2026-03-18
+        full_bloom_date: 2026-03-24
+        fubuki_date: 2026-03-29
   - id: wn-217
     name: 長良川堤・岐阜公園の桜
     predict:
       weathernews:
         forecasted_at: 2026-03-10
-        first_bloom_date: 2026-03-24
-        full_bloom_date: 2026-03-30
-        fubuki_date: 2026-04-06
+        first_bloom_date: 2026-03-21
+        full_bloom_date: 2026-03-27
+        fubuki_date: 2026-04-03
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-21
@@ -374,25 +372,25 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-03
-        full_bloom_date: 2026-04-09
-        fubuki_date: 2026-04-12
+        first_bloom_date: 2026-04-02
+        full_bloom_date: 2026-04-08
+        fubuki_date: 2026-04-11
   - id: wn-52015
     name: 道の駅 柳津
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-20
-        full_bloom_date: 2026-03-26
-        fubuki_date: 2026-04-01
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-18
+        full_bloom_date: 2026-03-25
+        fubuki_date: 2026-03-31
   - id: wn-5226
     name: 飛騨高山・中橋周辺
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-04
-        full_bloom_date: 2026-04-10
-        fubuki_date: 2026-04-13
+        first_bloom_date: 2026-04-03
+        full_bloom_date: 2026-04-09
+        fubuki_date: 2026-04-12
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-10
@@ -402,17 +400,17 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-30
-        full_bloom_date: 2026-04-04
-        fubuki_date: 2026-04-09
+        first_bloom_date: 2026-03-29
+        full_bloom_date: 2026-04-03
+        fubuki_date: 2026-04-08
   - id: wn-5223
     name: 苗木さくら公園
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-26
-        full_bloom_date: 2026-03-31
-        fubuki_date: 2026-04-06
+        first_bloom_date: 2026-03-23
+        full_bloom_date: 2026-03-28
+        fubuki_date: 2026-04-03
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-29
@@ -421,10 +419,10 @@ spots:
     name: 平田公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-03
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-26
+        fubuki_date: 2026-04-01
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-25
@@ -434,9 +432,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-29
-        fubuki_date: 2026-04-03
+        first_bloom_date: 2026-03-19
+        full_bloom_date: 2026-03-26
+        fubuki_date: 2026-03-31
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-23
@@ -446,9 +444,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-03-30
-        fubuki_date: 2026-04-06
+        first_bloom_date: 2026-03-23
+        full_bloom_date: 2026-03-28
+        fubuki_date: 2026-04-03
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-27
@@ -458,33 +456,33 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-30
-        full_bloom_date: 2026-04-03
-        fubuki_date: 2026-04-08
+        first_bloom_date: 2026-03-29
+        full_bloom_date: 2026-04-02
+        fubuki_date: 2026-04-07
   - id: wn-5234
     name: 薬師堂の枝垂れ桜
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-08
-        full_bloom_date: 2026-04-13
-        fubuki_date: 2026-04-18
+        first_bloom_date: 2026-04-07
+        full_bloom_date: 2026-04-12
+        fubuki_date: 2026-04-17
   - id: wn-5233
     name: 揖斐二度ザクラ
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
-        first_bloom_date: 2026-03-26
-        full_bloom_date: 2026-03-31
-        fubuki_date: 2026-04-05
+        forecasted_at: 2026-03-13
+        first_bloom_date: 2026-03-23
+        full_bloom_date: 2026-03-28
+        fubuki_date: 2026-04-02
   - id: wn-216
     name: 養老公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-11
-        first_bloom_date: 2026-03-21
-        full_bloom_date: 2026-03-28
-        fubuki_date: 2026-04-02
+        forecasted_at: 2026-03-16
+        first_bloom_date: 2026-03-18
+        full_bloom_date: 2026-03-25
+        fubuki_date: 2026-03-30
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-23

@@ -8,9 +8,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-11
-        full_bloom_date: 2026-04-17
-        fubuki_date: 2026-04-21
+        first_bloom_date: 2026-04-10
+        full_bloom_date: 2026-04-16
+        fubuki_date: 2026-04-20
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-16
@@ -20,9 +20,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-11
-        full_bloom_date: 2026-04-18
-        fubuki_date: 2026-04-23
+        first_bloom_date: 2026-04-10
+        full_bloom_date: 2026-04-17
+        fubuki_date: 2026-04-22
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-14
@@ -32,9 +32,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-08
-        full_bloom_date: 2026-04-14
-        fubuki_date: 2026-04-19
+        first_bloom_date: 2026-04-07
+        full_bloom_date: 2026-04-13
+        fubuki_date: 2026-04-18
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-07
@@ -44,9 +44,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-09
-        full_bloom_date: 2026-04-15
-        fubuki_date: 2026-04-21
+        first_bloom_date: 2026-04-08
+        full_bloom_date: 2026-04-14
+        fubuki_date: 2026-04-20
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-12
@@ -56,9 +56,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-16
-        full_bloom_date: 2026-04-21
-        fubuki_date: 2026-04-26
+        first_bloom_date: 2026-04-15
+        full_bloom_date: 2026-04-20
+        fubuki_date: 2026-04-25
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-15
@@ -68,9 +68,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-09
-        full_bloom_date: 2026-04-14
-        fubuki_date: 2026-04-19
+        first_bloom_date: 2026-04-08
+        full_bloom_date: 2026-04-13
+        fubuki_date: 2026-04-18
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-14
@@ -80,9 +80,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-12
-        full_bloom_date: 2026-04-18
-        fubuki_date: 2026-04-22
+        first_bloom_date: 2026-04-11
+        full_bloom_date: 2026-04-17
+        fubuki_date: 2026-04-21
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-14
@@ -92,9 +92,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-11
-        full_bloom_date: 2026-04-16
-        fubuki_date: 2026-04-21
+        first_bloom_date: 2026-04-10
+        full_bloom_date: 2026-04-15
+        fubuki_date: 2026-04-20
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-14
@@ -104,9 +104,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-10
-        full_bloom_date: 2026-04-18
-        fubuki_date: 2026-04-24
+        first_bloom_date: 2026-04-09
+        full_bloom_date: 2026-04-17
+        fubuki_date: 2026-04-23
   - id: wn-35001
     name: 草岡の大明神ザクラ
     predict:
@@ -119,9 +119,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-09
-        full_bloom_date: 2026-04-14
-        fubuki_date: 2026-04-20
+        first_bloom_date: 2026-04-08
+        full_bloom_date: 2026-04-13
+        fubuki_date: 2026-04-19
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-08
@@ -131,9 +131,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-09
-        first_bloom_date: 2026-04-06
-        full_bloom_date: 2026-04-12
-        fubuki_date: 2026-04-18
+        first_bloom_date: 2026-04-05
+        full_bloom_date: 2026-04-11
+        fubuki_date: 2026-04-17
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-08
@@ -143,9 +143,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-11
-        full_bloom_date: 2026-04-17
-        fubuki_date: 2026-04-23
+        first_bloom_date: 2026-04-10
+        full_bloom_date: 2026-04-16
+        fubuki_date: 2026-04-22
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-09
@@ -155,9 +155,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-06
-        full_bloom_date: 2026-04-12
-        fubuki_date: 2026-04-19
+        first_bloom_date: 2026-04-05
+        full_bloom_date: 2026-04-11
+        fubuki_date: 2026-04-18
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-07
@@ -167,9 +167,9 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-10
-        full_bloom_date: 2026-04-15
-        fubuki_date: 2026-04-20
+        first_bloom_date: 2026-04-09
+        full_bloom_date: 2026-04-14
+        fubuki_date: 2026-04-19
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-10
@@ -179,14 +179,14 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-07
-        full_bloom_date: 2026-04-12
-        fubuki_date: 2026-04-18
+        first_bloom_date: 2026-04-06
+        full_bloom_date: 2026-04-11
+        fubuki_date: 2026-04-17
   - id: wn-3520
     name: 薬師ザクラ
     predict:
       weathernews:
         forecasted_at: 2026-01-29
-        first_bloom_date: 2026-04-13
-        full_bloom_date: 2026-04-17
-        fubuki_date: 2026-04-21
+        first_bloom_date: 2026-04-12
+        full_bloom_date: 2026-04-16
+        fubuki_date: 2026-04-20

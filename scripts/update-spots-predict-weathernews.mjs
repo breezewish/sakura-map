@@ -252,7 +252,7 @@ async function main() {
   }
 
   console.log(
-    `Done: ${prefectureCount} prefectures, ${spotCount} spots, ${predictedSpotCount} predictions (fetched_at=${fetchedAt})`,
+    `Done: ${prefectureCount} prefectures, ${spotCount} spots, ${predictedSpotCount} predictions`,
   )
 
   if (failureCount > 0) {
