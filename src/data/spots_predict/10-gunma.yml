@@ -66,7 +66,7 @@ spots:
     name: 御嶽山白龍神社
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
@@ -98,7 +98,7 @@ spots:
     name: 七輿山古墳
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -106,7 +106,7 @@ spots:
     name: 沼田公園(沼田城址)
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-06
         full_bloom_date: 2026-04-11
         fubuki_date: 2026-04-16
@@ -118,7 +118,7 @@ spots:
     name: 城之内公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -130,7 +130,7 @@ spots:
     name: 水上温泉(諏訪峡)
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-13
@@ -142,7 +142,7 @@ spots:
     name: 赤城南面千本桜
     predict:
       weathernews:
-        forecasted_at: 2026-02-13
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-01
         full_bloom_date: 2026-04-07
         fubuki_date: 2026-04-13
@@ -156,7 +156,7 @@ spots:
     name: 八瀬川
     predict:
       weathernews:
-        forecasted_at: 2026-03-03
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
@@ -184,7 +184,7 @@ spots:
     name: 妙義山さくらの里
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-05
         full_bloom_date: 2026-04-11
         fubuki_date: 2026-04-17

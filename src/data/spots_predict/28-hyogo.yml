@@ -17,7 +17,7 @@ spots:
     name: センチュリー大橋
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -49,7 +49,7 @@ spots:
     name: 花のみち（宝塚）
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -112,7 +112,7 @@ spots:
     name: 城崎温泉
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -146,7 +146,7 @@ spots:
     name: 神武山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -177,7 +177,7 @@ spots:
     name: 水分れ公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -227,7 +227,7 @@ spots:
     name: 日岡山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -239,7 +239,7 @@ spots:
     name: 播磨中央公園・桜の園
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
@@ -258,7 +258,7 @@ spots:
     name: 姫路城
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-08
@@ -270,7 +270,7 @@ spots:
     name: 武庫川桜づつみ回廊(郷の音ホール横付近)
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -278,7 +278,7 @@ spots:
     name: 明石公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-31
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-12
@@ -298,7 +298,7 @@ spots:
     name: 立雲峡
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10

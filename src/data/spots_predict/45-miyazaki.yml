@@ -10,12 +10,12 @@ spots:
         forecasted_at: 2026-03-13
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
-        fubuki_date: 2026-04-08
+        fubuki_date: 2026-04-07
   - id: wn-489
     name: 旭化成(株)東海地区工場
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-09
         fubuki_date: 2026-04-13
@@ -73,10 +73,10 @@ spots:
     name: 久峰総合公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
-        fubuki_date: 2026-04-11
+        fubuki_date: 2026-04-10
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-26
@@ -89,7 +89,7 @@ spots:
     name: 浄専寺
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -123,7 +123,7 @@ spots:
     name: 大淀川市民緑地（桜堤）
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-10
@@ -131,7 +131,7 @@ spots:
     name: 竹香園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-06
         fubuki_date: 2026-04-12
@@ -157,7 +157,7 @@ spots:
     name: 天神山公園(宮崎市)
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-10

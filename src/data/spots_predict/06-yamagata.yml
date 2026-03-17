@@ -130,7 +130,7 @@ spots:
     name: 鶴岡公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-09
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-04-05
         full_bloom_date: 2026-04-11
         fubuki_date: 2026-04-17

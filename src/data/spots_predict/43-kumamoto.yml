@@ -51,7 +51,7 @@ spots:
     name: 桜ヶ丘グラウンド
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-04
@@ -63,7 +63,7 @@ spots:
     name: 市房ダム湖
     predict:
       weathernews:
-        forecasted_at: 2026-03-14
+        forecasted_at: 2026-03-16
         full_bloom_date: 2026-03-22
         fubuki_date: 2026-03-28
       jmc:
@@ -74,7 +74,7 @@ spots:
     name: 篠原国幹戦没の地
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -102,10 +102,9 @@ spots:
     name: 人吉城跡
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
-        first_bloom_date: 2026-03-22
-        full_bloom_date: 2026-03-29
-        fubuki_date: 2026-04-04
+        forecasted_at: 2026-03-17
+        full_bloom_date: 2026-03-24
+        fubuki_date: 2026-03-30
       jmc:
         forecasted_at: 2026-03-12
         first_bloom_date: 2026-03-22
@@ -114,7 +113,7 @@ spots:
     name: 水前寺成趣園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-08
   - id: wn-86005
@@ -193,7 +192,7 @@ spots:
     name: 竜北公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-03

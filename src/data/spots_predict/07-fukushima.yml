@@ -46,7 +46,7 @@ spots:
     name: 霞ヶ城公園
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-12
         first_bloom_date: 2026-04-03
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-14
@@ -148,7 +148,7 @@ spots:
     name: 信夫山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-03
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-14
@@ -218,7 +218,7 @@ spots:
     name: 南湖公園
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-04
         full_bloom_date: 2026-04-10
         fubuki_date: 2026-04-16
@@ -279,7 +279,7 @@ spots:
     name: 矢吹大池公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-05
         full_bloom_date: 2026-04-10
         fubuki_date: 2026-04-16

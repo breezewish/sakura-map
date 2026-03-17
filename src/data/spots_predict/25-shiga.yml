@@ -16,7 +16,7 @@ spots:
     name: にごり池自然公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-09
@@ -40,7 +40,7 @@ spots:
     name: 雨山文化運動公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -54,7 +54,7 @@ spots:
     name: 奥琵琶湖パークウェイ
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-12
@@ -98,7 +98,7 @@ spots:
     name: 湖東三山西明寺
     predict:
       weathernews:
-        forecasted_at: 2026-02-14
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-07
@@ -134,7 +134,7 @@ spots:
     name: 滋賀県醒井養鱒場
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-06
@@ -194,7 +194,7 @@ spots:
     name: 琵琶湖疏水
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-09
@@ -226,7 +226,7 @@ spots:
     name: 余呉湖
     predict:
       weathernews:
-        forecasted_at: 2026-01-29
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-08

@@ -21,7 +21,7 @@ spots:
     name: さらんべ公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-24
         full_bloom_date: 2026-04-28
         fubuki_date: 2026-05-04
@@ -118,7 +118,7 @@ spots:
     name: 松前藩戸切地陣屋跡桜並木トンネル
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-23
         full_bloom_date: 2026-04-27
         fubuki_date: 2026-05-03
@@ -174,7 +174,7 @@ spots:
     name: 大野川沿い桜並木
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-23
         full_bloom_date: 2026-04-27
         fubuki_date: 2026-05-03
@@ -278,7 +278,7 @@ spots:
     name: 弥生公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-30
         full_bloom_date: 2026-05-03
         fubuki_date: 2026-05-09

@@ -43,7 +43,7 @@ spots:
     name: 館鼻公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-11
         full_bloom_date: 2026-04-15
         fubuki_date: 2026-04-20
@@ -110,7 +110,7 @@ spots:
     name: 小川原湖公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-15
         full_bloom_date: 2026-04-19
         fubuki_date: 2026-04-24
@@ -130,7 +130,7 @@ spots:
     name: 石川大仏公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-15
         full_bloom_date: 2026-04-20
         fubuki_date: 2026-04-24
@@ -174,7 +174,7 @@ spots:
     name: 富士見湖パーク
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-16
         full_bloom_date: 2026-04-21
         fubuki_date: 2026-04-25

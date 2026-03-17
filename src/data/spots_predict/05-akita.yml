@@ -19,7 +19,7 @@ spots:
     name: 一つ森公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-11
         full_bloom_date: 2026-04-15
         fubuki_date: 2026-04-20
@@ -59,7 +59,7 @@ spots:
     name: 五輪坂アルカディア公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-13
         full_bloom_date: 2026-04-18
         fubuki_date: 2026-04-23
@@ -67,7 +67,7 @@ spots:
     name: 御所の台ふれあいパーク
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-17
         full_bloom_date: 2026-04-21
         fubuki_date: 2026-04-27
@@ -134,7 +134,7 @@ spots:
     name: 大佐沢公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-14
         full_bloom_date: 2026-04-18
         fubuki_date: 2026-04-23

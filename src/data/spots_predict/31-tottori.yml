@@ -15,7 +15,7 @@ spots:
     name: 境台場公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-12
+        forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-12
@@ -47,7 +47,7 @@ spots:
     name: 打吹公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-10
@@ -71,7 +71,7 @@ spots:
     name: 智頭河畔桜土手
     predict:
       weathernews:
-        forecasted_at: 2026-03-10
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -103,7 +103,7 @@ spots:
     name: 萩原桜並木
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-08
         full_bloom_date: 2026-04-14
         fubuki_date: 2026-04-20
@@ -139,7 +139,7 @@ spots:
     name: 名和公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-02
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-14
@@ -151,7 +151,7 @@ spots:
     name: 木ノ根神社
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-17
         first_bloom_date: 2026-04-03
         full_bloom_date: 2026-04-09
         fubuki_date: 2026-04-15
