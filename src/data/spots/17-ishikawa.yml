@@ -107,9 +107,6 @@ spots:
     sources:
       - label: Weathernews
         url: https://weathernews.jp/sakura/spot/5602/
-      - label: jmc
-        url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=17
-        code: "17370016"
     links:
       weathernews: https://weathernews.jp/sakura/spot/5602/
     top:

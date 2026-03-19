@@ -7,7 +7,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=01
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=01&sort_code=0
     api_area_name: 北海道
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "01370030"
         name_ja: えりも町庶野さくら公園
@@ -47,7 +47,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=02
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=02&sort_code=0
     api_area_name: 青森県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "02370005"
         name_ja: いちょう公園
@@ -87,7 +87,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=03
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=03&sort_code=0
     api_area_name: 岩手県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "03370008"
         name_ja: お物見公園
@@ -145,7 +145,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=04
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=04&sort_code=0
     api_area_name: 宮城県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "04370001"
         name_ja: リアスブルーライン
@@ -203,7 +203,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=05
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=05&sort_code=0
     api_area_name: 秋田県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "05370014"
         name_ja: きみまち阪公園
@@ -251,7 +251,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=06
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=06&sort_code=0
     api_area_name: 山形県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "06370017"
         name_ja: あつみ温泉　温海川河畔
@@ -307,7 +307,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=07
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=07&sort_code=0
     api_area_name: 福島県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "07370073"
         name_ja: いわき市フラワーセンター
@@ -399,7 +399,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=08
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=08&sort_code=0
     api_area_name: 茨城県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "08370013"
         name_ja: かみね公園
@@ -461,7 +461,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=09
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=09&sort_code=0
     api_area_name: 栃木県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "09370012"
         name_ja: かしの森公園
@@ -511,7 +511,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=10
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=10&sort_code=0
     api_area_name: 群馬県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "10370007"
         name_ja: さくらの里
@@ -551,7 +551,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=11
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=11&sort_code=0
     api_area_name: 埼玉県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "11370024"
         name_ja: こだま千本桜
@@ -649,7 +649,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=12
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=12&sort_code=0
     api_area_name: 千葉県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "12370010"
         name_ja: マザー牧場
@@ -705,7 +705,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=13
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=13&sort_code=0
     api_area_name: 東京都
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "13370038"
         name_ja: アークヒルズ
@@ -825,7 +825,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=14
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=14&sort_code=0
     api_area_name: 神奈川県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "14370033"
         name_ja: BIOTOPIA(ソメイヨシノ)
@@ -887,7 +887,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=15
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=15&sort_code=0
     api_area_name: 新潟県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "15370027"
         name_ja: 加治川堤
@@ -947,7 +947,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=16
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=16&sort_code=0
     api_area_name: 富山県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "16370025"
         name_ja: あさひ舟川　春の四重奏
@@ -999,7 +999,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=17
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=17&sort_code=0
     api_area_name: 石川県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "17370020"
         name_ja: コミュニティ&スポーツ公園　桜づつみ
@@ -1009,8 +1009,6 @@ prefectures:
         name_ja: 一本松公園
       - code: "17370008"
         name_ja: 卯辰山公園
-      - code: "17370016"
-        name_ja: 加賀市中央公園
       - code: "17370018"
         name_ja: 河北潟の桜並木　母恋街道
       - code: "17370004"
@@ -1039,7 +1037,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=18
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=18&sort_code=0
     api_area_name: 福井県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "18370001"
         name_ja: 越前陶芸村
@@ -1077,7 +1075,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=19
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=19&sort_code=0
     api_area_name: 山梨県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "19370012"
         name_ja: さくら温泉通り
@@ -1117,7 +1115,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=20
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=20&sort_code=0
     api_area_name: 長野県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "20370016"
         name_ja: 稲荷山公園
@@ -1185,7 +1183,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=21
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=21&sort_code=0
     api_area_name: 岐阜県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "21370009"
         name_ja: 愛宕公園
@@ -1247,7 +1245,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=22
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=22&sort_code=0
     api_area_name: 静岡県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "22370003"
         name_ja: さくらの里
@@ -1325,7 +1323,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=23
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=23&sort_code=0
     api_area_name: 愛知県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "23370036"
         name_ja: 愛・地球博記念公園(モリコロパーク)
@@ -1387,7 +1385,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=24
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=24&sort_code=0
     api_area_name: 三重県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "24370014"
         name_ja: 亀山公園
@@ -1419,7 +1417,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=25
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=25&sort_code=0
     api_area_name: 滋賀県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "25370004"
         name_ja: 「国史跡」釈迦山　百済寺(湖東三山)
@@ -1481,7 +1479,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=26
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=26&sort_code=0
     api_area_name: 京都府
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "26370043"
         name_ja: わち山野草の森
@@ -1591,7 +1589,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=27
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=27&sort_code=0
     api_area_name: 大阪府
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "27370003"
         name_ja: ひらかたパーク
@@ -1647,7 +1645,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=28
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=28&sort_code=0
     api_area_name: 兵庫県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "28370025"
         name_ja: であい公園
@@ -1717,7 +1715,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=29
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=29&sort_code=0
     api_area_name: 奈良県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "29370021"
         name_ja: 安倍文殊院
@@ -1763,7 +1761,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=30
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=30&sort_code=0
     api_area_name: 和歌山県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "30370005"
         name_ja: 紀三井寺
@@ -1793,7 +1791,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=31
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=31&sort_code=0
     api_area_name: 鳥取県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "31370009"
         name_ja: 境台場公園
@@ -1825,7 +1823,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=32
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=32&sort_code=0
     api_area_name: 島根県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "32370003"
         name_ja: チェリーロード
@@ -1863,7 +1861,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=33
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=33&sort_code=0
     api_area_name: 岡山県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "33370014"
         name_ja: RSKバラ園
@@ -1927,7 +1925,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=34
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=34&sort_code=0
     api_area_name: 広島県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "34370028"
         name_ja: さぎしま　塔の峰千本桜
@@ -1979,7 +1977,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=35
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=35&sort_code=0
     api_area_name: 山口県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "35370022"
         name_ja: TOSOHPARK永源山
@@ -2047,7 +2045,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=36
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=36&sort_code=0
     api_area_name: 徳島県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "36370002"
         name_ja: 於安パーク
@@ -2071,7 +2069,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=37
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=37&sort_code=0
     api_area_name: 香川県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "37370003"
         name_ja: 丸亀城
@@ -2105,7 +2103,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=38
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=38&sort_code=0
     api_area_name: 愛媛県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "38370012"
         name_ja: すすきヶ原入野公園
@@ -2139,7 +2137,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=39
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=39&sort_code=0
     api_area_name: 高知県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "39370008"
         name_ja: 鮎乃瀬公園
@@ -2165,7 +2163,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=40
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=40&sort_code=0
     api_area_name: 福岡県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "40370009"
         name_ja: ABURAYAMA　FUKUOKA
@@ -2187,8 +2185,6 @@ prefectures:
         name_ja: 御笠川の桜並木
       - code: "40370027"
         name_ja: 高塔山公園
-      - code: "40370022"
-        name_ja: 四王寺林道・岩屋城跡
       - code: "40370005"
         name_ja: 秋月杉の馬場通り
       - code: "40370004"
@@ -2229,7 +2225,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=41
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=41&sort_code=0
     api_area_name: 佐賀県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "41370002"
         name_ja: 旭ヶ岡公園
@@ -2257,7 +2253,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=42
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=42&sort_code=0
     api_area_name: 長崎県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "42370011"
         name_ja: とけん山公園
@@ -2285,7 +2281,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=43
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=43&sort_code=0
     api_area_name: 熊本県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "43370010"
         name_ja: 岡岳公園
@@ -2317,12 +2313,10 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=44
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=44&sort_code=0
     api_area_name: 大分県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "44370015"
         name_ja: サンリオキャラクターパーク　ハーモニーランド
-      - code: "44370013"
-        name_ja: 臼杵城址
       - code: "44370001"
         name_ja: 岡城跡
       - code: "44370009"
@@ -2343,7 +2337,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=45
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=45&sort_code=0
     api_area_name: 宮崎県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "45370017"
         name_ja: 綾馬事公苑
@@ -2377,7 +2371,7 @@ prefectures:
     page_url: https://s.n-kishou.co.jp/w/sp/sakura/sakura_yosou?ba=46
     api_url: https://other-api-prod.n-kishou.co.jp/list-jr-points?type=sakura&filter_mode=forecast&area_mode=pref&area_code=46&sort_code=0
     api_area_name: 鹿児島県
-    api_update_datetime: 2026-02-26T00:00:00+09:00
+    api_update_datetime: 2026-03-19T00:00:00+09:00
     spots:
       - code: "46370019"
         name_ja: かいもん山麓ふれあい公園
