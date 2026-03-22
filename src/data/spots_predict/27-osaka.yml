@@ -19,7 +19,7 @@ spots:
     name: 永楽ダム
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -33,7 +33,7 @@ spots:
       weathernews:
         forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-27
-        full_bloom_date: 2026-04-02
+        full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
   - id: wn-319
     name: 岸和田城
@@ -184,7 +184,7 @@ spots:
     name: 長居公園(長居植物園)
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-10
@@ -200,7 +200,7 @@ spots:
     name: 天保山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -216,7 +216,7 @@ spots:
     name: 服部緑地
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -236,7 +236,7 @@ spots:
     name: 妙見河原
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -250,7 +250,7 @@ spots:
     name: 毛馬桜之宮公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-11
@@ -262,7 +262,7 @@ spots:
     name: 彌榮神社
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09

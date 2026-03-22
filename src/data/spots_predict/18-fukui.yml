@@ -7,7 +7,7 @@ spots:
     name: あらた坂(山室の桜並木)
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -15,7 +15,7 @@ spots:
     name: 芦山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-07
@@ -24,8 +24,8 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-17
-        first_bloom_date: 2026-03-28
-        full_bloom_date: 2026-04-02
+        first_bloom_date: 2026-03-29
+        full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-08
       jmc:
         forecasted_at: 2026-03-19
@@ -83,10 +83,10 @@ spots:
     name: 九頭竜湖
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-30
-        full_bloom_date: 2026-04-04
-        fubuki_date: 2026-04-09
+        forecasted_at: 2026-03-21
+        first_bloom_date: 2026-03-31
+        full_bloom_date: 2026-04-05
+        fubuki_date: 2026-04-10
       jmc:
         forecasted_at: 2026-03-19
         first_bloom_date: 2026-04-15
@@ -121,7 +121,7 @@ spots:
     name: 城山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08

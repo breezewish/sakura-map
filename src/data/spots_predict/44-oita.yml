@@ -17,7 +17,7 @@ spots:
     name: ダイハツ九州スポーツパーク大貞（大貞総合運動公園）
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-09
@@ -25,7 +25,7 @@ spots:
     name: ハーモニーランド
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-11
@@ -69,7 +69,7 @@ spots:
     name: 岡城跡
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -111,7 +111,7 @@ spots:
     name: 城下公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -123,7 +123,7 @@ spots:
     name: 城山公園(杵築城)
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-10
@@ -159,7 +159,7 @@ spots:
     name: 大分縣護國神社
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-07
         fubuki_date: 2026-04-12
@@ -179,7 +179,7 @@ spots:
     name: 長崎鼻リゾートキャンプ場
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-29
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-09
@@ -211,7 +211,7 @@ spots:
     name: 並石ダムグリーンランド
     predict:
       weathernews:
-        forecasted_at: 2026-03-17
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-09
@@ -219,7 +219,7 @@ spots:
     name: 別府公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -227,7 +227,7 @@ spots:
     name: 由布院・大分川沿いの桜並木
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10

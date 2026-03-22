@@ -148,7 +148,7 @@ spots:
     name: 信夫山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-04-03
         full_bloom_date: 2026-04-08
         fubuki_date: 2026-04-14
@@ -279,7 +279,7 @@ spots:
     name: 矢吹大池公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-04-05
         full_bloom_date: 2026-04-10
         fubuki_date: 2026-04-16

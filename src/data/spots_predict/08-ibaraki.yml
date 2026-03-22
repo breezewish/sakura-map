@@ -7,7 +7,7 @@ spots:
     name: かみね公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -19,7 +19,7 @@ spots:
     name: さくら宇宙公園（高萩市衛星通信記念公園）
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-10
@@ -132,12 +132,12 @@ spots:
         forecasted_at: 2026-03-16
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
-        fubuki_date: 2026-04-07
+        fubuki_date: 2026-04-08
   - id: wn-40004
     name: 十王パノラマ公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -162,8 +162,8 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-25
-        full_bloom_date: 2026-04-01
+        first_bloom_date: 2026-03-26
+        full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-07
       jmc:
         forecasted_at: 2026-03-19
@@ -233,7 +233,7 @@ spots:
     name: 千波湖
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
@@ -281,7 +281,7 @@ spots:
     name: 平和通り
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -293,7 +293,7 @@ spots:
     name: 母子島遊水地
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-07
@@ -309,7 +309,7 @@ spots:
     name: 偕楽園桜山
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08

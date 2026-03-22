@@ -33,7 +33,7 @@ spots:
     name: 嘉多山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -55,7 +55,7 @@ spots:
     name: 宮の桜堤
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -83,7 +83,7 @@ spots:
     name: 佐柄見の桜
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-08
@@ -91,7 +91,7 @@ spots:
     name: 氏家ゆうゆうパーク
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -103,7 +103,7 @@ spots:
     name: 小山総合公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-18
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-05
@@ -143,7 +143,7 @@ spots:
     name: 壬生町総合公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-18
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -169,7 +169,7 @@ spots:
     name: 太平山県立自然公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-03-30
         fubuki_date: 2026-04-03
@@ -213,7 +213,7 @@ spots:
     name: 那珂川河畔公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-30
         full_bloom_date: 2026-04-04
         fubuki_date: 2026-04-10
@@ -261,7 +261,7 @@ spots:
     name: 龍門の滝
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-10

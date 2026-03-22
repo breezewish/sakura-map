@@ -19,7 +19,7 @@ spots:
     name: アデリーホシパーク
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-02
         fubuki_date: 2026-04-08
@@ -43,7 +43,7 @@ spots:
     name: 一の坂川周辺
     predict:
       weathernews:
-        forecasted_at: 2026-03-18
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-06
@@ -98,7 +98,7 @@ spots:
     name: 錦帯橋・吉香公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-17
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-23
         full_bloom_date: 2026-03-31
         fubuki_date: 2026-04-05
@@ -119,7 +119,6 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-18
-        first_bloom_date: 2026-03-22
         full_bloom_date: 2026-03-29
         fubuki_date: 2026-04-04
       jmc:
@@ -167,8 +166,8 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-24
-        full_bloom_date: 2026-03-31
+        first_bloom_date: 2026-03-25
+        full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-06
       jmc:
         forecasted_at: 2026-03-19
@@ -198,7 +197,7 @@ spots:
     name: 切戸川周辺
     predict:
       weathernews:
-        forecasted_at: 2026-03-17
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-10
@@ -242,7 +241,7 @@ spots:
     name: 大原湖
     predict:
       weathernews:
-        forecasted_at: 2026-03-14
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-03-29
         fubuki_date: 2026-04-05
@@ -326,7 +325,7 @@ spots:
     name: 毛利氏庭園
     predict:
       weathernews:
-        forecasted_at: 2026-03-18
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07

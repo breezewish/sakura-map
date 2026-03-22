@@ -15,7 +15,7 @@ spots:
     name: お物見公園
     predict:
       weathernews:
-        forecasted_at: 2026-02-16
+        forecasted_at: 2026-03-19
         first_bloom_date: 2026-04-12
         full_bloom_date: 2026-04-18
         fubuki_date: 2026-04-22
@@ -83,7 +83,7 @@ spots:
     name: 碁石海岸
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-04-09
         full_bloom_date: 2026-04-16
         fubuki_date: 2026-04-21

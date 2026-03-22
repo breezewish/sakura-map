@@ -63,8 +63,7 @@ spots:
     name: 市房ダム湖
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
-        full_bloom_date: 2026-03-21
+        forecasted_at: 2026-03-21
         fubuki_date: 2026-03-27
       jmc:
         forecasted_at: 2026-03-19
@@ -74,7 +73,7 @@ spots:
     name: 篠原国幹戦没の地
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-25
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
@@ -82,7 +81,7 @@ spots:
     name: 蛇ヶ谷公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-16
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-08
@@ -94,7 +93,7 @@ spots:
     name: 城山公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-13
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-24
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-06
@@ -113,7 +112,7 @@ spots:
     name: 水前寺成趣園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-08
   - id: wn-86005
@@ -121,8 +120,8 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-24
-        full_bloom_date: 2026-03-31
+        first_bloom_date: 2026-03-25
+        full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-06
   - id: wn-86004
     name: 大津山公園
@@ -148,8 +147,7 @@ spots:
     name: 田原坂公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-25
+        forecasted_at: 2026-03-21
         full_bloom_date: 2026-04-01
         fubuki_date: 2026-04-07
       jmc:

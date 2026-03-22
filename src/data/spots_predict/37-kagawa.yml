@@ -35,7 +35,7 @@ spots:
     name: 琴弾公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-28
         full_bloom_date: 2026-04-05
         fubuki_date: 2026-04-10
@@ -60,8 +60,8 @@ spots:
     predict:
       weathernews:
         forecasted_at: 2026-03-19
-        first_bloom_date: 2026-03-26
-        full_bloom_date: 2026-04-02
+        first_bloom_date: 2026-03-27
+        full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-08
       jmc:
         forecasted_at: 2026-03-19
@@ -83,7 +83,7 @@ spots:
     name: 史跡高松城跡玉藻公園
     predict:
       weathernews:
-        forecasted_at: 2026-03-17
+        forecasted_at: 2026-03-20
         first_bloom_date: 2026-03-26
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
@@ -151,7 +151,7 @@ spots:
     name: 不動の滝カントリーパーク
     predict:
       weathernews:
-        forecasted_at: 2026-03-19
+        forecasted_at: 2026-03-21
         first_bloom_date: 2026-03-27
         full_bloom_date: 2026-04-03
         fubuki_date: 2026-04-09
